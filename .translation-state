@@ -30008,9 +30008,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\archive\\testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf",
+      "ArchiveFileCommit": "6a41133d9363036fadadc7239a87d4d43599c290",
+      "ArchiveFileDateTime": "2016-03-12T13:52:07.6813915Z",
       "ArchiveException": null
     }
   }
