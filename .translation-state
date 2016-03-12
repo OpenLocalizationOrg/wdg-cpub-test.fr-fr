@@ -23211,9 +23211,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\archive\\access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf",
+      "ArchiveFileCommit": "f59d89d25d461120859f12b8bad51e049a6100fa",
+      "ArchiveFileDateTime": "2016-03-12T14:10:05.8482315Z",
       "ArchiveException": null
     },
     "e7180817e9a4a4d18722f746a8d260bf9d459fa5": {

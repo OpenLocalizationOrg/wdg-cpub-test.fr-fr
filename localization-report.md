@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 1749
 [ Handoff Failed Files ](#handoff-failed-list)| 1
-[ Handoff Success Files ](#handoff-success-list)| 896
+[ Handoff Success Files ](#handoff-success-list)| 895
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 2
+[ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 221
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 63
@@ -711,7 +711,6 @@
  [wdg-cpub-test\ndolci2\maps-and-location\overlay-tiled-images.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/maps-and-location/overlay-tiled-images.md) | HandedOffSuccess | [Details](#3de7730bff85afc22135c0ecca95c62cc9b7e8fa1429)
  [wdg-cpub-test\ndolci2\maps-and-location\routes-and-directions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/maps-and-location/routes-and-directions.md) | HandedOffSuccess | [Details](#cdf3d761e0e47b039fe48ad35f3c5da9fa12b5601430)
  [wdg-cpub-test\ndolci2\maps-and-location\set-up-a-geofence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/maps-and-location/set-up-a-geofence.md) | HandedOffSuccess | [Details](#89441ce6f828b659bb17dfc7c6cc98d8e18f0cf21431)
- [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md) | HandedOffSuccess | [Details](#1779c72b90abdc24491febfde59cf75c0affac321432)
  [wdg-cpub-test\ndolci2\monetize\add-ads-to-apps-with-microsoft-advertising.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/ndolci2/monetize/add-ads-to-apps-with-microsoft-advertising.md) | HandedOffSuccess | [Details](#46caa280af512498dea823200678398b15e8cb421433)
  [wdg-cpub-test\ndolci2\monetize\add-and-use-the-ad-mediator-control.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/add-and-use-the-ad-mediator-control.md) | HandedOffSuccess | [Details](#e7180817e9a4a4d18722f746a8d260bf9d459fa51434)
  [wdg-cpub-test\ndolci2\monetize\enable-consumable-in-app-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/ndolci2/monetize/enable-consumable-in-app-product-purchases.md) | HandedOffSuccess | [Details](#3a2875a75f0af3ae843206c5c4fa3982ec8dc0061435)
@@ -924,6 +923,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci1/usability/accessibility/accessibility.md) | ArchivedSuccess | [Details](#abce6619263c08d0e4be6cd185db18add9b1436c695)
+ [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md) | ArchivedSuccess | [Details](#1779c72b90abdc24491febfde59cf75c0affac321432)
  [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | ArchivedSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41677)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
@@ -19185,13 +19185,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1779c72b90abdc24491febfde59cf75c0affac321432'></a> Source: [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/49793cfb580064e4e7fda23b84203ddbddecd73e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
 * Handoff Datetime: 2016-03-09 03:15:51
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f59d89d25d461120859f12b8bad51e049a6100fa/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
+* Archive Datetime: 2016-03-12 14:10:05
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)

@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | ArchivedSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41677)
+ [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md) | ArchivedSuccess | [Details](#1779c72b90abdc24491febfde59cf75c0affac321432)
 
 ## Item Details
-##### <a name='007206c8ebe98d26c62e908fea231470cccbd2b41677'></a> Source: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md)
+##### <a name='1779c72b90abdc24491febfde59cf75c0affac321432'></a> Source: [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md)
 * Status: ArchivedSuccess
 * Target File: 
-* Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/25bfd265eb7cc32292e3bf2ee8fb5316608481be/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf)
-* Handoff Datetime: 2016-03-12 13:49:17
+* Handoff File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/49793cfb580064e4e7fda23b84203ddbddecd73e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
+* Handoff Datetime: 2016-03-09 03:15:51
 * Handoff Reason: Include
-* Archive File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6a41133d9363036fadadc7239a87d4d43599c290/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf)
-* Archive Datetime: 2016-03-12 13:54:23
+* Archive File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f59d89d25d461120859f12b8bad51e049a6100fa/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
+* Archive Datetime: 2016-03-12 14:10:05
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
