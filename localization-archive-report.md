@@ -16,7 +16,7 @@
 * Handoff Datetime: 2016-03-12 13:49:17
 * Handoff Reason: Include
 * Archive File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6a41133d9363036fadadc7239a87d4d43599c290/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf)
-* Archive Datetime: 2016-03-12 13:52:07
+* Archive Datetime: 2016-03-12 13:54:23
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
