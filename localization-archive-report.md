@@ -16,7 +16,7 @@
 * Handoff Datetime: 2016-03-09 03:15:51
 * Handoff Reason: Include
 * Archive File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f59d89d25d461120859f12b8bad51e049a6100fa/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
-* Archive Datetime: 2016-03-12 14:10:05
+* Archive Datetime: 2016-03-12 14:12:39
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
