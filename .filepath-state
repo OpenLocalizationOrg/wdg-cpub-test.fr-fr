@@ -471,12 +471,12 @@
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\camera-profiles.md",
     "wdg-cpub-test\\ndolci2\\audio-video-camera\\camera-profiles.md"
   ],
+  "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
+  ],
   "a74e5e1953eb68cb3f74fac6dd2d93fc64964816": [
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md",
     "wdg-cpub-test\\ndolci2\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
-  ],
-  "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b": [
-    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
   ],
   "e4b7e1cbf07ffa6c5a6b12dd836c264d355081c9": [
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-video-capture.md"
@@ -3194,6 +3194,9 @@
   ],
   "29b6d04af51c8a26332a452e3145c0eee5e98f90": [
     "wdg-cpub-test\\Welcome.md"
+  ],
+  "b7e8d8638d928212045c967a4455299abc12643d": [
+    "wdg-cpub-test\\new_extension.md"
   ],
   "8acffdc78b4eec53a3c966b0efba39ecb8c4759b": [
     "wdg-cpub-test\\new_extension.md"

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ba6e92cff71c81ac75751208f7bfeff710a0cf46",
+  "LastProcessedCommit": "04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc",
   "LastTranslatedCommit": "dca8e8e91a689048dfe4b98ffe4d8b63ab13f279",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -30964,8 +30964,8 @@
         "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf",
-      "HandoffFileCommit": "c25d2acfea5d69f71a3ac05eea67af3ef3b4e147",
-      "HandoffDateTime": "2016-04-05T09:27:19.6863462Z",
+      "HandoffFileCommit": "063a0eaf179fcf744bca9f2da6f528817364625e",
+      "HandoffDateTime": "2016-04-05T09:35:46.39786Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -31024,6 +31024,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf",
       "HandoffFileCommit": "c25d2acfea5d69f71a3ac05eea67af3ef3b4e147",
       "HandoffDateTime": "2016-04-05T09:27:19.6863462Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "b7e8d8638d928212045c967a4455299abc12643d": {
+      "FileHash": "b7e8d8638d928212045c967a4455299abc12643d",
+      "SourceFileCommit": "04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc",
+      "SourceFilePath": "wdg-cpub-test\\new_extension.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "wdg-cpub-test\\new_extension.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf",
+      "HandoffFileCommit": "063a0eaf179fcf744bca9f2da6f528817364625e",
+      "HandoffDateTime": "2016-04-05T09:35:46.39786Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
