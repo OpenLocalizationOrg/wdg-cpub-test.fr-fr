@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d7429939a0767e089d9f74e29fd7937be3b875d2",
+  "LastProcessedCommit": "e4589d08d5f28d2fdfa7907f1a00a2eaeabcf57c",
   "LastTranslatedCommit": "dca8e8e91a689048dfe4b98ffe4d8b63ab13f279",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -15189,7 +15189,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\ndolci2\\accessibility\\accessibility.md"
+        "wdg-cpub-test\\ndolci2\\accessibility\\accessibility.md",
+        "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf",
       "HandoffFileCommit": "49793cfb580064e4e7fda23b84203ddbddecd73e",
@@ -30964,8 +30965,8 @@
         "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf",
-      "HandoffFileCommit": "063a0eaf179fcf744bca9f2da6f528817364625e",
-      "HandoffDateTime": "2016-04-05T09:35:46.39786Z",
+      "HandoffFileCommit": "01df90dc2f0dd5e7a6314ef98d5d16469484b0ce",
+      "HandoffDateTime": "2016-04-10T19:54:34.2208228Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

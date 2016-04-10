@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d7429939a0767e089d9f74e29fd7937be3b875d2/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816808)
+ [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205)
 
 ## Item Details
-##### <a name='a74e5e1953eb68cb3f74fac6dd2d93fc64964816808'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d7429939a0767e089d9f74e29fd7937be3b875d2/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
+##### <a name='f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/19b5d1c813d8a6978de8797bc2cdee36f84931a5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
-* Handoff Datetime: 2016-04-07 03:57:59
+* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/01df90dc2f0dd5e7a6314ef98d5d16469484b0ce/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
+* Handoff Datetime: 2016-04-10 19:54:34
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

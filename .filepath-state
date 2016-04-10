@@ -471,12 +471,12 @@
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\camera-profiles.md",
     "wdg-cpub-test\\ndolci2\\audio-video-camera\\camera-profiles.md"
   ],
+  "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
+  ],
   "a74e5e1953eb68cb3f74fac6dd2d93fc64964816": [
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md",
     "wdg-cpub-test\\ndolci2\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
-  ],
-  "f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b": [
-    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
   ],
   "e4b7e1cbf07ffa6c5a6b12dd836c264d355081c9": [
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-video-capture.md"
@@ -1611,7 +1611,8 @@
     "wdg-cpub-test\\ndolci1\\xaml-platform\\x-uid-directive.md"
   ],
   "94485e3d471da7803e86eb6f3bfd7db1751db17c": [
-    "wdg-cpub-test\\ndolci2\\accessibility\\accessibility.md"
+    "wdg-cpub-test\\ndolci2\\accessibility\\accessibility.md",
+    "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md"
   ],
   "e5a3ba81407e65db2addcb6fb7b6485ee12b97de": [
     "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-checklist.md"
