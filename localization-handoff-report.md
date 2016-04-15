@@ -1,20 +1,21 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 3
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816809)
- [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | HandedOffSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1678)
+ [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9ddbf3db2b60d1ac98636619bf281d38d08390e2/wdg-cpub-test/get-app-acquisitions.md) | HandedOffSuccess | [Details](#b9bbaa91c7e66e8d891bdad069fadc6efa1acfe917)
+ [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205)
+ [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816809)
 
 ## Item Details
-##### <a name='a74e5e1953eb68cb3f74fac6dd2d93fc64964816809'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
+##### <a name='b9bbaa91c7e66e8d891bdad069fadc6efa1acfe917'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9ddbf3db2b60d1ac98636619bf281d38d08390e2/wdg-cpub-test/get-app-acquisitions.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eb53cf5e7ce9f0873af51f41f95eac5e47508e26/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
-* Handoff Datetime: 2016-04-15 06:53:23
+* Handoff File: [get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/52aaf11f2c61619cd21a7c57b43bb73079545e03/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.fr-fr.xlf)
+* Handoff Datetime: 2016-04-15 18:12:53
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22,11 +23,23 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d1678'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
+##### <a name='f38a4a4b6a02ce80b2cc251fb01afe743f17bf1b205'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/9184e189ff98e07b33ac01badcd7e5a0645a6395/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eb53cf5e7ce9f0873af51f41f95eac5e47508e26/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
-* Handoff Datetime: 2016-04-15 06:53:23
+* Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/52aaf11f2c61619cd21a7c57b43bb73079545e03/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
+* Handoff Datetime: 2016-04-15 18:12:53
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='a74e5e1953eb68cb3f74fac6dd2d93fc64964816809'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/52aaf11f2c61619cd21a7c57b43bb73079545e03/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf)
+* Handoff Datetime: 2016-04-15 18:12:53
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
