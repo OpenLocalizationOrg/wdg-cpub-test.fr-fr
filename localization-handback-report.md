@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | InSyncHandedBackSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1678)
 
 ## Item Details
+##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d1678'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/42de6bd79a60bcc73543cff81f031acf32d73617/wdg-cpub-test/test-xliff-2.md)
+* Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eb53cf5e7ce9f0873af51f41f95eac5e47508e26/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
+* Handoff Datetime: 2016-04-15 06:53:23
+* Handoff Reason: Include
+* Archive File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/69e1c40b8863dc3630c36c995c223aa7022bb325/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
+* Archive Datetime: 2016-04-15 07:04:54
+* Handback File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4f93846c91ad5fbb6a035b6c9ff1261413e53e04/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
+* Handback Datetime: 2016-04-15 07:16:52
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

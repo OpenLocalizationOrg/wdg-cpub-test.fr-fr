@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e",
-  "LastTranslatedCommit": "dca8e8e91a689048dfe4b98ffe4d8b63ab13f279",
+  "LastTranslatedCommit": "42de6bd79a60bcc73543cff81f031acf32d73617",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -31086,14 +31086,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "42de6bd79a60bcc73543cff81f031acf32d73617",
+      "TargetFilePath": "wdg-cpub-test\\test-xliff-2.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf",
+      "HandbackFileCommit": "4f93846c91ad5fbb6a035b6c9ff1261413e53e04",
+      "HandbackDateTime": "2016-04-15T07:16:52.0284669Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-04-15T07:16:52.0284669Z",
       "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\archive\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf",
       "ArchiveFileCommit": "69e1c40b8863dc3630c36c995c223aa7022bb325",
       "ArchiveFileDateTime": "2016-04-15T07:04:54.6215375Z",

@@ -7,10 +7,10 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 897
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 4
+[ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 221
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 63
+[ In Sync Handback Files ](#insync-handback-success-list)| 64
 [ Ignored Files ](#ignored-list)| 566
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -924,7 +924,6 @@
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci1/usability/accessibility/accessibility.md) | ArchivedSuccess | [Details](#abce6619263c08d0e4be6cd185db18add9b1436c695)
  [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md) | ArchivedSuccess | [Details](#1779c72b90abdc24491febfde59cf75c0affac321433)
  [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | ArchivedSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41679)
- [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | ArchivedSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1678)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
  Source File | Status | Details 
@@ -1211,6 +1210,7 @@
  [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png) | InSyncHandedBackSuccess | [Details](#6d4b6e3ac9146763af8ef8e02271aafa2047e50c146)
  [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif) | InSyncHandedBackSuccess | [Details](#2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141519)
  [wdg-cpub-test\ndolci2\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/ndolci2/graphics/images/animation-child-rectangles.gif) | InSyncHandedBackSuccess | [Details](#2c93f2a215aa9b5e0a5b880a0cafaa790fb9b1411314)
+ [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | InSyncHandedBackSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1678)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png) | InSyncHandedBackSuccess | [Details](#e0f09dec7a25d3016140c132c7e6f0411589b8f31712)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png) | InSyncHandedBackSuccess | [Details](#21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1713)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png) | InSyncHandedBackSuccess | [Details](#df36e47e5bdc8ec928da08d1e7e8f66d7f4218371714)
@@ -22168,15 +22168,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d1678'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/42de6bd79a60bcc73543cff81f031acf32d73617/wdg-cpub-test/test-xliff-2.md)
 * Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/eb53cf5e7ce9f0873af51f41f95eac5e47508e26/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
 * Handoff Datetime: 2016-04-15 06:53:23
 * Handoff Reason: Include
 * Archive File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/69e1c40b8863dc3630c36c995c223aa7022bb325/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/archive/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
 * Archive Datetime: 2016-04-15 07:04:54
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4f93846c91ad5fbb6a035b6c9ff1261413e53e04/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
+* Handback Datetime: 2016-04-15 07:16:52
 * [Back to Top](#report-top)
 
 ##### <a name='1a4983ce48e441c39272f65d1655d8c7ca2b49701680'></a> Source: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/TOC.md)
