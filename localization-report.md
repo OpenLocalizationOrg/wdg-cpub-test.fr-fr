@@ -1229,7 +1229,7 @@
  [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4ba80a56cbf54dcf086de1292b7af85d01daf0cf/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
  [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/67f98520f21fb1b110344ed7ea4728267f11d867/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
  [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d2cbbd31fe3b881a047ae0faed4d57e95eace8a9/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
- [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/1e364fdf1a57096433aa1eab8d0be697d3c4bfe2/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
+ [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d29d72e53b2d96089189c3ac3f9456fc9c338154/README.md) | Ignored | [Details](#209c7820da663b6234feb369988106ace20cc4786)
  [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d2cbbd31fe3b881a047ae0faed4d57e95eace8a9/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
  [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d2cbbd31fe3b881a047ae0faed4d57e95eace8a9/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
  [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d2cbbd31fe3b881a047ae0faed4d57e95eace8a9/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
@@ -1863,7 +1863,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/1e364fdf1a57096433aa1eab8d0be697d3c4bfe2/README.md)
+##### <a name='209c7820da663b6234feb369988106ace20cc4786'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/d29d72e53b2d96089189c3ac3f9456fc9c338154/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
