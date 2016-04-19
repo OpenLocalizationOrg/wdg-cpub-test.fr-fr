@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7998d743c9410c2870b8dc744347a1fcd4cab919/wdg-cpub-test/Welcome.md) | HandedBackFailed | [Details](#8d1c438b061282117810226a0d79d450b5486a0a1750)
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb06dc5ce0fda7b0be2ee8ab167efed736484e33/wdg-cpub-test/Welcome.md) | HandedBackFailed | [Details](#56ffa4c093064ba55b6291eb0622d077741b3dbb1750)
 
 ## Item Details
-##### <a name='8d1c438b061282117810226a0d79d450b5486a0a1750'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7998d743c9410c2870b8dc744347a1fcd4cab919/wdg-cpub-test/Welcome.md)
+##### <a name='56ffa4c093064ba55b6291eb0622d077741b3dbb1750'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb06dc5ce0fda7b0be2ee8ab167efed736484e33/wdg-cpub-test/Welcome.md)
 * Status: HandedBackFailed
 * Target File: 
-* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/622c90b77c49446a3df3510d4ba90dbe71e08f0c/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf)
-* Handoff Datetime: 2016-04-18 02:39:26
+* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/38348fd3093e247351fbb40e19334f578382bdfa/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf)
+* Handoff Datetime: 2016-04-19 08:58:42
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
