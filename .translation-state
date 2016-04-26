@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "8fc89dec3a6c4454e18ef81f8de78d05390257ac",
+  "LastProcessedCommit": "05923f8d04fa3f95483e6cb4fc3ce7b2a07f56cc",
   "LastTranslatedCommit": "42de6bd79a60bcc73543cff81f031acf32d73617",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -26908,7 +26908,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\ndolci2\\security\\cryptographic-keys.md"
+        "wdg-cpub-test\\ndolci2\\security\\cryptographic-keys.md",
+        "wdg-cpub-test\\ndolci2\\Test\\cryptographic-keys.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.fr-fr.xlf",
       "HandoffFileCommit": "49793cfb580064e4e7fda23b84203ddbddecd73e",
@@ -26937,7 +26938,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\ndolci2\\security\\cryptography.md"
+        "wdg-cpub-test\\ndolci2\\security\\cryptography.md",
+        "wdg-cpub-test\\ndolci2\\Test\\cryptography.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.fr-fr.xlf",
       "HandoffFileCommit": "49793cfb580064e4e7fda23b84203ddbddecd73e",
@@ -31172,6 +31174,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf",
       "HandoffFileCommit": "38348fd3093e247351fbb40e19334f578382bdfa",
       "HandoffDateTime": "2016-04-19T08:58:42.1304433Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4": {
+      "FileHash": "6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4",
+      "SourceFileCommit": "f804e3477283ad63dfe1112ce8ac35c418c99650",
+      "SourceFilePath": "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf",
+      "HandoffFileCommit": "259c163633105db978a123167c43b77dbb5397ad",
+      "HandoffDateTime": "2016-04-26T21:33:29.7582285Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

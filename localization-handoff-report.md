@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci2\accessibility\accessibility-Copy.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f804e3477283ad63dfe1112ce8ac35c418c99650/wdg-cpub-test/ndolci2/accessibility/accessibility-Copy.md) | HandedOffSuccess | [Details](#6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4743)
 
 ## Item Details
+##### <a name='6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4743'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessibility-Copy.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f804e3477283ad63dfe1112ce8ac35c418c99650/wdg-cpub-test/ndolci2/accessibility/accessibility-Copy.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/259c163633105db978a123167c43b77dbb5397ad/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf)
+* Handoff Datetime: 2016-04-26 21:33:29
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

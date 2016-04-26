@@ -1617,6 +1617,9 @@
     "wdg-cpub-test\\ndolci2\\accessibility\\accessibility.md",
     "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md"
   ],
+  "6ef819326b829ba567f6bc3c4b7c7ad8c641e0f4": [
+    "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-Copy.md"
+  ],
   "e5a3ba81407e65db2addcb6fb7b6485ee12b97de": [
     "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-checklist.md"
   ],
@@ -2828,10 +2831,12 @@
     "wdg-cpub-test\\ndolci2\\security\\credential-locker.md"
   ],
   "7927b24c44f0c2941884d94f27576d4d1d90e4a3": [
-    "wdg-cpub-test\\ndolci2\\security\\cryptographic-keys.md"
+    "wdg-cpub-test\\ndolci2\\security\\cryptographic-keys.md",
+    "wdg-cpub-test\\ndolci2\\Test\\cryptographic-keys.md"
   ],
   "5c8490eb382cd3181b922bf817aeeff63d36528f": [
-    "wdg-cpub-test\\ndolci2\\security\\cryptography.md"
+    "wdg-cpub-test\\ndolci2\\security\\cryptography.md",
+    "wdg-cpub-test\\ndolci2\\Test\\cryptography.md"
   ],
   "d221b0f2b40fc5cfb3b5ab84600ab323e0132e6b": [
     "wdg-cpub-test\\ndolci2\\security\\data-protection.md"
