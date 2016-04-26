@@ -118,7 +118,7 @@
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-drive.png"
   ],
   "49d5c6b9b25d3dee65e09aeb7726c3695132bc60": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png"
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.PNG"
   ],
   "ea673383ad3164af72a73e80425c7e4b0982aa42": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-list.png"
@@ -1648,7 +1648,8 @@
     "wdg-cpub-test\\ndolci2\\accessibility\\keyboard-accessibility.md"
   ],
   "6aeeb89ad859269b91648f00749d84206f38946b": [
-    "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoid.md"
+    "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoid.md",
+    "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoidCopy.md"
   ],
   "7ba1605136bdf940bfd481f488fccb35feeebc9c": [
     "wdg-cpub-test\\ndolci2\\app-settings\\app-settings-and-data.md"

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bb06dc5ce0fda7b0be2ee8ab167efed736484e33",
+  "LastProcessedCommit": "8fc89dec3a6c4454e18ef81f8de78d05390257ac",
   "LastTranslatedCommit": "42de6bd79a60bcc73543cff81f031acf32d73617",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -1161,15 +1161,16 @@
     },
     "49d5c6b9b25d3dee65e09aeb7726c3695132bc60": {
       "FileHash": "49d5c6b9b25d3dee65e09aeb7726c3695132bc60",
-      "SourceFileCommit": "5907beedcb3d2b1c6838847f2bba92e8c12a1675",
-      "SourceFilePath": "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png",
+      "SourceFileCommit": "b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084",
+      "SourceFilePath": "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.PNG",
       "HandoffReason": 2,
       "DependencyFrom": [
         "wdg-cpub-test\\ndolci\\debug-test-perf\\test-with-the-emulator.md"
       ],
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png"
+        "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png",
+        "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.PNG"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\49d5c6b9b25d3dee65e09aeb7726c3695132bc60.png",
       "HandoffFileCommit": "49793cfb580064e4e7fda23b84203ddbddecd73e",
@@ -15509,7 +15510,8 @@
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoid.md"
+        "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoid.md",
+        "wdg-cpub-test\\ndolci2\\accessibility\\practices-to-avoidCopy.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.fr-fr.xlf",
       "HandoffFileCommit": "49793cfb580064e4e7fda23b84203ddbddecd73e",
