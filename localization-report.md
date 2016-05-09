@@ -1231,7 +1231,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
- [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.localization-config) | Ignored | [Details](#c70bab3bd299dc0ffa7f048e02db44d98c82629d1)
+ [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.localization-config) | Ignored | [Details](#86c63f94a17d6871ae8399996bb475c63d0708311)
  [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
  [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
  [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
@@ -1810,7 +1810,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c70bab3bd299dc0ffa7f048e02db44d98c82629d1'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.localization-config)
+##### <a name='86c63f94a17d6871ae8399996bb475c63d0708311'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
