@@ -3216,5 +3216,17 @@
   ],
   "8acffdc78b4eec53a3c966b0efba39ecb8c4759b": [
     "wdg-cpub-test\\new_extension.md"
+  ],
+  "c9cf1a2f7f3dd61acbaaa2c579d30ef47523c03a": [
+    "wdg-cpub-test\\excluded\\3.md"
+  ],
+  "ef14dbd33760351b057208e42b5460abe5573e10": [
+    "wdg-cpub-test\\excluded\\4.md"
+  ],
+  "7bae8076a5771865123be7112468b79e9d78a640": [
+    "wdg-cpub-test\\included\\1.md"
+  ],
+  "f0391904a77efece1359efeca01b5a9a89eeb8c8": [
+    "wdg-cpub-test\\included\\2.md"
   ]
 }
