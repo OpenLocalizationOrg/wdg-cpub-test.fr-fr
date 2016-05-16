@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\included\2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/included/2.md) | HandedOffSuccess | [Details](#b80abfe77bd3b598ff714a01d33ffd1fe901387626)
 
 ## Item Details
+##### <a name='b80abfe77bd3b598ff714a01d33ffd1fe901387626'></a> Source: [wdg-cpub-test\included\2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/included/2.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ffd364f409f5d5b6807b4e5ad755057c2d518f24/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.fr-fr.xlf)
+* Handoff Datetime: 2016-05-16 08:32:55
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
