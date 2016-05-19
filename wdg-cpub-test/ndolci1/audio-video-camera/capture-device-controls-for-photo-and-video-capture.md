@@ -6,7 +6,7 @@ title: Capture device controls for photo and video capture
 
 # Capture device controls for photo and video capture
 
-\[ Updated for UWP apps on Windows 10. For Windows 8.x articles, see the [archive](http://go.microsoft.com/fwlink/p/?linkid=619132) \]
+\[ \[ Updated for UWP apps on Windows 10. For Windows 8.x articles, see the [archive](http://go.microsoft.com/fwlink/p/?linkid=619132) \] \]
 
 
 This article shows you how video device controls to enable enhanced photo and video capture scenarios including optical image stabilization and smooth zoom.
@@ -160,170 +160,167 @@ Finally, call [**FocusAsync**](https://msdn.microsoft.com/library/windows/apps/d
 **Important** When implementing tap to focus, the order of operations is important. You should call these APIs in the following order:
 
 **1.**[**FocusControl.Configure**](https://msdn.microsoft.com/library/windows/apps/dn608067)
-**2.**[**RegionsOfInterestControl.SetRegionsAsync**](https://msdn.microsoft.com/library/windows/apps/dn279070)
-**3.**[**FocusControl.FocusAsync**](https://msdn.microsoft.com/library/windows/apps/dn297794)
 
-[!code-cs[TapToFocus](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetTapToFocus)]
+[!code-cs[**2.**[**RegionsOfInterestControl.SetRegionsAsync**](https://msdn.microsoft.com/library/windows/apps/dn279070)](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetTapToFocus)]
 
-In the **TapUnfocus** helper method, obtain the **RegionsOfInterestControl** and call [**ClearRegionsAsync**](https://msdn.microsoft.com/library/windows/apps/dn279068) to clear the region that was registered with the control within the **TapToFocus** helper method. Then, get the **FocusControl** and call [**FocusAsync**](https://msdn.microsoft.com/library/windows/apps/dn297794) to cause the device to refocus without a region of interest.
+**3.**[**FocusControl.FocusAsync**](https://msdn.microsoft.com/library/windows/apps/dn297794) TapToFocus
 
-[!code-cs[TapUnfocus](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetTapUnfocus)]
+[!code-cs[In the **TapUnfocus** helper method, obtain the **RegionsOfInterestControl** and call [**ClearRegionsAsync**](https://msdn.microsoft.com/library/windows/apps/dn279068) to clear the region that was registered with the control within the **TapToFocus** helper method.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetTapUnfocus)]
 
-The **GetPreviewStreamRectInControl** helper method uses the resolution of the preview stream and the orientation of the device to determine the rectangle within the preview element that contains the preview stream, trimming off any letterboxed padding that the control may provide to maintain the stream's aspect ratio. This method uses class member variables defined in the basic media capture example code found in [Capture Photos and Video with MediaCapture](capture-photos-and-video-with-mediacapture.md).
+Then, get the **FocusControl** and call [**FocusAsync**](https://msdn.microsoft.com/library/windows/apps/dn297794) to cause the device to refocus without a region of interest. TapUnfocus
 
-[!code-cs[GetPreviewStreamRectInControl](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetGetPreviewStreamRectInControl)]
+[!code-cs[The **GetPreviewStreamRectInControl** helper method uses the resolution of the preview stream and the orientation of the device to determine the rectangle within the preview element that contains the preview stream, trimming off any letterboxed padding that the control may provide to maintain the stream's aspect ratio.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetGetPreviewStreamRectInControl)]
 
-The **ConvertUiTapToPreviewRect** helper method takes as arguments the location of the tap event, the desired size of the focus region, and the rectangle containing the preview stream obtained from the **GetPreviewStreamRectInControl** helper method. This method uses these values and the device's current orientation to calculate the rectangle within the preview stream that contains the desired region. Once again, this method uses class member variables defined in the basic media capture example code found in [Capture Photos and Video with MediaCapture](capture-photos-and-video-with-mediacapture.md).
+This method uses class member variables defined in the basic media capture example code found in [Capture Photos and Video with MediaCapture](capture-photos-and-video-with-mediacapture.md). GetPreviewStreamRectInControl The **ConvertUiTapToPreviewRect** helper method takes as arguments the location of the tap event, the desired size of the focus region, and the rectangle containing the preview stream obtained from the **GetPreviewStreamRectInControl** helper method.
 
-[!code-cs[ConvertUiTapToPreviewRect](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetConvertUiTapToPreviewRect)]
+[!code-cs[This method uses these values and the device's current orientation to calculate the rectangle within the preview stream that contains the desired region.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetConvertUiTapToPreviewRect)]
 
-### Manual focus
+### Once again, this method uses class member variables defined in the basic media capture example code found in [Capture Photos and Video with MediaCapture](capture-photos-and-video-with-mediacapture.md).
 
-The manual focus technique uses a **Slider** control to set the current focus depth of the capture device. A radio button is used to toggle manual focus on and off.
+ConvertUiTapToPreviewRect Manual focus
 
-[!code-xml[ManualFocusXAML](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetManualFocusXAML)]
+[!code-xml[The manual focus technique uses a **Slider** control to set the current focus depth of the capture device.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetManualFocusXAML)]
+
+A radio button is used to toggle manual focus on and off. ManualFocusXAML
 
 Check to see if the current capture device supports the **FocusControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn297837) property. If the control is supported, then you can show and enable the UI for this feature.
 
-The focus value must be within the range supported by the device and must be an increment of the supported step size. Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn297808), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn297802), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn297833) properties, which are used to set the corresponding properties of the slider control.
+The focus value must be within the range supported by the device and must be an increment of the supported step size.
+
+[!code-cs[Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn297808), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn297802), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn297833) properties, which are used to set the corresponding properties of the slider control.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocus)]
 
 Set the slider control's value to the current value of the **FocusControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set.
 
-[!code-cs[Focus](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocus)]
+[!code-cs[Focus](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetManualFocusChecked)]
 
 In the **Checked** event handler for the manual focus radio button, get the **FocusControl** object and call [**LockAsync**](https://msdn.microsoft.com/library/windows/apps/dn608075) in case your app had previously unlocked the focus with a call to [**UnlockAsync**](https://msdn.microsoft.com/library/windows/apps/dn608081).
 
-[!code-cs[ManualFocusChecked](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetManualFocusChecked)]
+[!code-cs[ManualFocusChecked](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusSlider)]
 
-In the **ValueChanged** event handler of the manual focus slider, get the current value of the control and the set the focus value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn297828).
+### In the **ValueChanged** event handler of the manual focus slider, get the current value of the control and the set the focus value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn297828).
 
-[!code-cs[FocusSlider](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusSlider)]
+FocusSlider Enable the focus light
 
-### Enable the focus light
+[!code-xml[On devices that support it, you can enable a focus assist light to help the device focus.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetFocusLightXAML)]
 
-On devices that support it, you can enable a focus assist light to help the device focus. This example uses a checkbox to enable or disable the focus assist light.
+This example uses a checkbox to enable or disable the focus assist light. FocusLightXAML Check to see if the current capture device supports the **FlashControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn297785) property.
 
-[!code-xml[FocusLightXAML](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetFocusLightXAML)]
+[!code-cs[Also check the [**AssistantLightSupported**](https://msdn.microsoft.com/library/windows/apps/dn608066) to make sure the assist light is also supported.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusLight)]
 
-Check to see if the current capture device supports the **FlashControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn297785) property. Also check the [**AssistantLightSupported**](https://msdn.microsoft.com/library/windows/apps/dn608066) to make sure the assist light is also supported. If these are both supported, then you can show and enable the UI for this feature.
+If these are both supported, then you can show and enable the UI for this feature. FocusLight
 
-[!code-cs[FocusLight](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusLight)]
+[!code-cs[In the **CheckedChanged** event handler, get the capture devices [**FlashControl**](https://msdn.microsoft.com/library/windows/apps/dn297725) object.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusLightCheckBox)]
 
-In the **CheckedChanged** event handler, get the capture devices [**FlashControl**](https://msdn.microsoft.com/library/windows/apps/dn297725) object. Set the [**AssistantLightEnabled**](https://msdn.microsoft.com/library/windows/apps/dn608065) property to enable or disable the focus light.
+## Set the [**AssistantLightEnabled**](https://msdn.microsoft.com/library/windows/apps/dn608065) property to enable or disable the focus light.
 
-[!code-cs[FocusLightCheckBox](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetFocusLightCheckBox)]
+FocusLightCheckBox
 
-## ISO speed
+ISO speed
 
-The [**IsoSpeedControl**](https://msdn.microsoft.com/library/windows/apps/dn297850) allows you to set the ISO speed used during photo or video capture.
+[!code-xml[The [**IsoSpeedControl**](https://msdn.microsoft.com/library/windows/apps/dn297850) allows you to set the ISO speed used during photo or video capture.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetIsoXAML)]
 
-This example uses a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control to adjust the current exposure compensation value and a checkbox to toggle automatic ISO speed adjustment.
+This example uses a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control to adjust the current exposure compensation value and a checkbox to toggle automatic ISO speed adjustment. IsoXAML Check to see if the current capture device supports the **IsoSpeedControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn297869) property.
 
-[!code-xml[IsoXAML](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetIsoXAML)]
+If the control is supported, then you can show and enable the UI for this feature. Set the checked state of the checkbox to indicate if automatic ISO speed adjustment is currently active to the value of the [**Auto**](https://msdn.microsoft.com/library/windows/apps/dn608093) property.
 
-Check to see if the current capture device supports the **IsoSpeedControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn297869) property. If the control is supported, then you can show and enable the UI for this feature. Set the checked state of the checkbox to indicate if automatic ISO speed adjustment is currently active to the value of the [**Auto**](https://msdn.microsoft.com/library/windows/apps/dn608093) property.
+The ISO speed value must be within the range supported by the device and must be an increment of the supported step size.
 
-The ISO speed value must be within the range supported by the device and must be an increment of the supported step size. Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn608095), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn608094), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn608129) properties, which are used to set the corresponding properties of the slider control.
+[!code-cs[Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn608095), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn608094), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn608129) properties, which are used to set the corresponding properties of the slider control.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoControl)]
 
 Set the slider control's value to the current value of the **IsoSpeedControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set.
 
-[!code-cs[IsoControl](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoControl)]
+[!code-cs[IsoControl](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoSlider)]
 
-In the **ValueChanged** event handler, get the current value of the control and the set the ISO speed value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn608128).
+In the **ValueChanged** event handler, get the current value of the control and the set the ISO speed value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn608128). IsoSlider
 
-[!code-cs[IsoSlider](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoSlider)]
+[!code-cs[In the **CheckedChanged** event handler of the auto ISO speed checkbox, turn on automatic ISO speed adjustment by calling [**SetAutoAsync**](https://msdn.microsoft.com/library/windows/apps/dn608127).](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoCheckBox)]
 
-In the **CheckedChanged** event handler of the auto ISO speed checkbox, turn on automatic ISO speed adjustment by calling [**SetAutoAsync**](https://msdn.microsoft.com/library/windows/apps/dn608127). Turn automatic ISO speed adjustment off by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn608128) and passing in the current value of the slider control.
+## Turn automatic ISO speed adjustment off by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn608128) and passing in the current value of the slider control.
 
-[!code-cs[IsoCheckBox](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetIsoCheckBox)]
+IsoCheckBox Optical image stabilization Optical image stabilization (OIS) stabilizes a the captured video stream by mechanically manipulating the hardware capture device, which can provide a superior result than digital stabilization.
 
-## Optical image stabilization
+On devices that don't support OIS, you can use the VideoStabilizationEffect to perform digital stabilization on your captured vide.
 
-Optical image stabilization (OIS) stabilizes a the captured video stream by mechanically manipulating the hardware capture device, which can provide a superior result than digital stabilization. On devices that don't support OIS, you can use the VideoStabilizationEffect to perform digital stabilization on your captured vide. For more information, see [Effects for video capture](effects-for-video-capture.md).
+For more information, see [Effects for video capture](effects-for-video-capture.md). Determine if OIS is supported on the current device by checking the [**OpticalImageStabilizationControl.Supported**](https://msdn.microsoft.com/library/windows/apps/dn926689) property.
 
-Determine if OIS is supported on the current device by checking the [**OpticalImageStabilizationControl.Supported**](https://msdn.microsoft.com/library/windows/apps/dn926689) property.
+The OIS control supports three modes: on, off, and automatic, which means that the device dynamically determines if OIS would improve the media capture and, if so, enables OIS.
 
-The OIS control supports three modes: on, off, and automatic, which means that the device dynamically determines if OIS would improve the media capture and, if so, enables OIS. To determine if a particular mode is supported on a device, check to see if the [**OpticalImageStabilizationControl.SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926690) collection contains the desired mode.
+[!code-cs[To determine if a particular mode is supported on a device, check to see if the [**OpticalImageStabilizationControl.SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926690) collection contains the desired mode.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetSetOpticalImageStabilizationMode)]
 
-Enable or disable OIS by setting the [**OpticalImageStabilizationControl.Mode**](https://msdn.microsoft.com/library/windows/apps/dn926691) to the desired mode.
+## Enable or disable OIS by setting the [**OpticalImageStabilizationControl.Mode**](https://msdn.microsoft.com/library/windows/apps/dn926691) to the desired mode.
 
-[!code-cs[SetOpticalImageStabilizationMode](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetSetOpticalImageStabilizationMode)]
+SetOpticalImageStabilizationMode
 
-## White balance
+White balance
 
-The [**WhiteBalanceControl**](https://msdn.microsoft.com/library/windows/apps/dn279104) allows you to set the white balance used during photo or video capture.
+[!code-xml[The [**WhiteBalanceControl**](https://msdn.microsoft.com/library/windows/apps/dn279104) allows you to set the white balance used during photo or video capture.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetWhiteBalanceXAML)]
 
-This example uses a [**ComboBox**](https://msdn.microsoft.com/library/windows/apps/br209348) control to select from built-in color temperature presets and a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control for manual white balance adjustment.
+This example uses a [**ComboBox**](https://msdn.microsoft.com/library/windows/apps/br209348) control to select from built-in color temperature presets and a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control for manual white balance adjustment. WhiteBalanceXAML Check to see if the current capture device supports the **WhiteBalanceControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn279120) property. If the control is supported, then you can show and enable the UI for this feature.
 
-[!code-xml[WhiteBalanceXAML](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetWhiteBalanceXAML)]
+Set the items of the combo box to the values of the [**ColorTemperaturePreset**](https://msdn.microsoft.com/library/windows/apps/dn278894) enumeration. And set the selected item to the current value of the [**Preset**](https://msdn.microsoft.com/library/windows/apps/dn279110) property. For manual control, the white balance value must be within the range supported by the device and must be an increment of the supported step size. Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn279109), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn279107), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn279119) properties, which are used to set the corresponding properties of the slider control.
 
-Check to see if the current capture device supports the **WhiteBalanceControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn279120) property. If the control is supported, then you can show and enable the UI for this feature. Set the items of the combo box to the values of the [**ColorTemperaturePreset**](https://msdn.microsoft.com/library/windows/apps/dn278894) enumeration. And set the selected item to the current value of the [**Preset**](https://msdn.microsoft.com/library/windows/apps/dn279110) property.
+Before enabling manual control, check to make sure that the range between the minimum and maximum supported values is greater than the step size.
 
-For manual control, the white balance value must be within the range supported by the device and must be an increment of the supported step size. Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn279109), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn279107), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn279119) properties, which are used to set the corresponding properties of the slider control. Before enabling manual control, check to make sure that the range between the minimum and maximum supported values is greater than the step size. If it is not, manual control is not supported on the current device.
+[!code-cs[If it is not, manual control is not supported on the current device.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalance)]
 
-Set the slider control's value to the current value of the **WhiteBalanceControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set.
+Set the slider control's value to the current value of the **WhiteBalanceControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set. WhiteBalance
 
-[!code-cs[WhiteBalance](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalance)]
+[!code-cs[In the [**SelectionChanged**](https://msdn.microsoft.com/library/windows/apps/br209776) event handler of the color temperature preset combo box, get the currently selected preset and set the value of the control by calling [**SetPresetAsync**](https://msdn.microsoft.com/library/windows/apps/dn279113).](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalanceComboBox)]
 
-In the [**SelectionChanged**](https://msdn.microsoft.com/library/windows/apps/br209776) event handler of the color temperature preset combo box, get the currently selected preset and set the value of the control by calling [**SetPresetAsync**](https://msdn.microsoft.com/library/windows/apps/dn279113). If the selected preset value is not **Manual**, then disable the manual white balance slider.
+If the selected preset value is not **Manual**, then disable the manual white balance slider.
 
-[!code-cs[WhiteBalanceComboBox](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalanceComboBox)]
+[!code-cs[WhiteBalanceComboBox](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalanceSlider)]
 
-In the **ValueChanged** event handler, get the current value of the control and the set the white balance value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn278927).
+In the **ValueChanged** event handler, get the current value of the control and the set the white balance value by calling [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn278927). WhiteBalanceSlider
 
-[!code-cs[WhiteBalanceSlider](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetWhiteBalanceSlider)]
+**Important** Adjusting the white balance is only supported while the preview stream is running. Check to make sure that the preview stream is running before setting the white balance value or preset. **Important** The **ColorTemperaturePreset.Auto** preset value instructs the system to automatically adjust the white balance level. For some scenarios, such as capturing a photo sequence where the white balance levels should be the same for each frame, you may want to lock the control to the current automatic value. To do this, call [**SetPresetAsync**](https://msdn.microsoft.com/library/windows/apps/dn279113) and specify the **Manual** preset and do not set a value on the control using [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn279114).
 
-**Important** Adjusting the white balance is only supported while the preview stream is running. Check to make sure that the preview stream is running before setting the white balance value or preset.
+## This will cause the device to lock the current value.
 
-**Important** The **ColorTemperaturePreset.Auto** preset value instructs the system to automatically adjust the white balance level. For some scenarios, such as capturing a photo sequence where the white balance levels should be the same for each frame, you may want to lock the control to the current automatic value. To do this, call [**SetPresetAsync**](https://msdn.microsoft.com/library/windows/apps/dn279113) and specify the **Manual** preset and do not set a value on the control using [**SetValueAsync**](https://msdn.microsoft.com/library/windows/apps/dn279114). This will cause the device to lock the current value. Do not attempt to read the current control value and then pass the returned value into **SetValueAsync** because this value is not guaranteed to be correct.
+Do not attempt to read the current control value and then pass the returned value into **SetValueAsync** because this value is not guaranteed to be correct.
 
-## Zoom
+Zoom The [**ZoomControl**](https://msdn.microsoft.com/library/windows/apps/dn608149) allows you to set the zoom level used during photo or video capture.
 
-The [**ZoomControl**](https://msdn.microsoft.com/library/windows/apps/dn608149) allows you to set the zoom level used during photo or video capture.
+[!code-xml[This example uses a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control to adjust the current zoom level.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetZoomXAML)]
 
-This example uses a [**Slider**](https://msdn.microsoft.com/library/windows/apps/br209614) control to adjust the current zoom level. The following section shows how to adjust zoom based on a pinch gesture on the screen.
-
-[!code-xml[ZoomXAML](./code/BasicMediaCaptureWin10/cs/MainPage.xaml#SnippetZoomXAML)]
+The following section shows how to adjust zoom based on a pinch gesture on the screen. ZoomXAML
 
 Check to see if the current capture device supports the **ZoomControl** by checking the [**Supported**](https://msdn.microsoft.com/library/windows/apps/dn633819) property. If the control is supported, then you can show and enable the UI for this feature.
 
-The zoom level value must be within the range supported by the device and must be an increment of the supported step size. Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn633817), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn608150), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn633818) properties, which are used to set the corresponding properties of the slider control.
+The zoom level value must be within the range supported by the device and must be an increment of the supported step size.
 
-Set the slider control's value to the current value of the **ZoomControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set.
+[!code-cs[Get the supported values for the current device by checking the [**Min**](https://msdn.microsoft.com/library/windows/apps/dn633817), [**Max**](https://msdn.microsoft.com/library/windows/apps/dn608150), and [**Step**](https://msdn.microsoft.com/library/windows/apps/dn633818) properties, which are used to set the corresponding properties of the slider control.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetZoomControl)]
 
-[!code-cs[ZoomControl](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetZoomControl)]
+Set the slider control's value to the current value of the **ZoomControl** after unregistering the [**ValueChanged**](https://msdn.microsoft.com/library/windows/apps/br209737) event handler so that the event is not triggered when the value is set. ZoomControl In the **ValueChanged** event handler, create a new instance of the [**ZoomSettings**](https://msdn.microsoft.com/library/windows/apps/dn926722) class, setting the [**Value**](https://msdn.microsoft.com/library/windows/apps/dn926724) property to the current value of the zoom slider control.
 
-In the **ValueChanged** event handler, create a new instance of the [**ZoomSettings**](https://msdn.microsoft.com/library/windows/apps/dn926722) class, setting the [**Value**](https://msdn.microsoft.com/library/windows/apps/dn926724) property to the current value of the zoom slider control. If the [**SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926721) property of the **ZoomControl** contains [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726), it means the device supports smooth transitions between zoom levels. Since this modes provides a better user experience, you will typically want to use this value for the [**Mode**](https://msdn.microsoft.com/library/windows/apps/dn926723) property of the **ZoomSettings** object.
+If the [**SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926721) property of the **ZoomControl** contains [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726), it means the device supports smooth transitions between zoom levels.
 
-Finally, change the current zoom settings by passing your **ZoomSettings** object into the [**Configure**](https://msdn.microsoft.com/library/windows/apps/dn926719) method of the **ZoomControl** object.
+[!code-cs[Since this modes provides a better user experience, you will typically want to use this value for the [**Mode**](https://msdn.microsoft.com/library/windows/apps/dn926723) property of the **ZoomSettings** object.](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetZoomSlider)]
 
-[!code-cs[ZoomSlider](./code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs#SnippetZoomSlider)]
+### Finally, change the current zoom settings by passing your **ZoomSettings** object into the [**Configure**](https://msdn.microsoft.com/library/windows/apps/dn926719) method of the **ZoomControl** object.
 
-### Smooth zoom using pinch gesture
+ZoomSlider Smooth zoom using pinch gesture
 
 As discussed in the previous section, on devices that support it, smooth zoom mode allows the capture device to smoothly transition between digital zoom levels, allowing the user to dynamically adjust the zoom level during the capture operation without discrete and jarring transitions. This section describes how to adjust the zoom level in response to a pinch gesture.
 
-First, determine if the digital zoom control is supported on the current device by checking the [**ZoomControl.Supported**](https://msdn.microsoft.com/library/windows/apps/dn633819) property. Next, determine if smooth zoom mode is available by checking the [**ZoomControl.SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926721) to see if it contains the value [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726).
+[!code-cs[First, determine if the digital zoom control is supported on the current device by checking the [**ZoomControl.Supported**](https://msdn.microsoft.com/library/windows/apps/dn633819) property.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetIsSmoothZoomSupported)]
 
-[!code-cs[IsSmoothZoomSupported](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetIsSmoothZoomSupported)]
+Next, determine if smooth zoom mode is available by checking the [**ZoomControl.SupportedModes**](https://msdn.microsoft.com/library/windows/apps/dn926721) to see if it contains the value [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726). IsSmoothZoomSupported On a multi-touch enabled device, a typical scenario is to adjust the zoom factor based on a two-finger pinch gesture.
 
-On a multi-touch enabled device, a typical scenario is to adjust the zoom factor based on a two-finger pinch gesture. Set the [**ManipulationMode**](https://msdn.microsoft.com/library/windows/apps/br208948) property of the [**CaptureElement**](https://msdn.microsoft.com/library/windows/apps/br209278) control to [**ManipulationModes.Scale**](https://msdn.microsoft.com/library/windows/apps/br227934) to enable the pinch gesture. Then, register for the [**ManipulationDelta**](https://msdn.microsoft.com/library/windows/apps/br208946) event which is raised when the pinch gesture changes size.
+[!code-cs[Set the [**ManipulationMode**](https://msdn.microsoft.com/library/windows/apps/br208948) property of the [**CaptureElement**](https://msdn.microsoft.com/library/windows/apps/br209278) control to [**ManipulationModes.Scale**](https://msdn.microsoft.com/library/windows/apps/br227934) to enable the pinch gesture.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetRegisterPinchGestureHandler)]
 
-[!code-cs[RegisterPinchGestureHandler](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetRegisterPinchGestureHandler)]
+Then, register for the [**ManipulationDelta**](https://msdn.microsoft.com/library/windows/apps/br208946) event which is raised when the pinch gesture changes size. RegisterPinchGestureHandler In the handler for the **ManipulationDelta** event, update the zoom factor based on the change in the user's pinch gesture.
 
-In the handler for the **ManipulationDelta** event, update the zoom factor based on the change in the user's pinch gesture. The [**ManipulationDelta.Scale**](https://msdn.microsoft.com/library/windows/apps/br242016) value represents the change in scale of the pinch gesture such that a small increase in the size of the pinch is a number slightly larger than 1.0 and a small decrease in the pinch size is a number slightly smaller than 1.0. In this example, the current value of the zoom control is multiplied by the scale delta.
+The [**ManipulationDelta.Scale**](https://msdn.microsoft.com/library/windows/apps/br242016) value represents the change in scale of the pinch gesture such that a small increase in the size of the pinch is a number slightly larger than 1.0 and a small decrease in the pinch size is a number slightly smaller than 1.0. In this example, the current value of the zoom control is multiplied by the scale delta. Before setting the zoom factor, you must make sure that the value is not less than the minimum value supported by the device as indicated by the [**ZoomControl.Min**](https://msdn.microsoft.com/library/windows/apps/dn633817) property. Also, make sure that the value is less than or equal to the [**ZoomControl.Max**](https://msdn.microsoft.com/library/windows/apps/dn608150) value.
 
-Before setting the zoom factor, you must make sure that the value is not less than the minimum value supported by the device as indicated by the [**ZoomControl.Min**](https://msdn.microsoft.com/library/windows/apps/dn633817) property. Also, make sure that the value is less than or equal to the [**ZoomControl.Max**](https://msdn.microsoft.com/library/windows/apps/dn608150) value. Finally, you must make sure that the the zoom factor is a multiple of the zoom step size supported by the device as indicated by the [**Step**](https://msdn.microsoft.com/library/windows/apps/dn633818) property. If your zoom factor does not meet these requirements, an exception will be thrown when you attempt to set the zoom level on the capture device.
+Finally, you must make sure that the the zoom factor is a multiple of the zoom step size supported by the device as indicated by the [**Step**](https://msdn.microsoft.com/library/windows/apps/dn633818) property. If your zoom factor does not meet these requirements, an exception will be thrown when you attempt to set the zoom level on the capture device. Set the zoom level on the capture device by creating a new [**ZoomSettings**](https://msdn.microsoft.com/library/windows/apps/dn926722) object. Set the [**Mode**](https://msdn.microsoft.com/library/windows/apps/dn926723) property to [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726) and then set the [**Value**](https://msdn.microsoft.com/library/windows/apps/dn926724) property to your desired zoom factor.
 
-Set the zoom level on the capture device by creating a new: [**ZoomSettings**](https://msdn.microsoft.com/library/windows/apps/dn926722) object. Set the [**Mode**](https://msdn.microsoft.com/library/windows/apps/dn926723) property to [**ZoomTransitionMode.Smooth**](https://msdn.microsoft.com/library/windows/apps/dn926726) and then set the [**Value**](https://msdn.microsoft.com/library/windows/apps/dn926724) property to your desired zoom factor. Finally, call [**ZoomControl.Configure**](https://msdn.microsoft.com/library/windows/apps/dn926719) to set the new zoom value on the device. The device will smoothly transition to the new zoom value.
+[!code-cs[Finally, call [**ZoomControl.Configure**](https://msdn.microsoft.com/library/windows/apps/dn926719) to set the new zoom value on the device.](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetManipulationDelta)]
 
-[!code-cs[ManipulationDelta](./code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs#SnippetManipulationDelta)]
+## The device will smoothly transition to the new zoom value.
 
-## Related topics
+* [ManipulationDelta](capture-photos-and-video-with-mediacapture.md)
 
-* [Capture photos and video with MediaCapture](capture-photos-and-video-with-mediacapture.md)
-
-
-<!--HONumber=Apr16_HO3-->
+<!--HONumber=May16_HO3-->
 
 

@@ -1,21 +1,21 @@
 ---
-Description: Introduces accessibility concepts that relate to Universal Windows Platform (UWP) apps.
-title: Accessibility
+Description: Description: Introduces accessibility concepts that relate to Universal Windows Platform (UWP) apps.
+title: title: Accessibility
 ms.assetid: C89D79C2-B830-493D-B020-F3FF8EB5FFDD
 label: Intro
 template: detail.hbs
 ---
 
-Accessibility
+ms.assetid: C89D79C2-B830-493D-B020-F3FF8EB5FFDD
 ===============================================================
 
-\[ Updated for UWP apps on Windows 10. For Windows 8.x articles, see the [archive](http://go.microsoft.com/fwlink/p/?linkid=619132) \]
+\[ label: Intro template: detail.hbs \]
 
-Introduces accessibility concepts that relate to Universal Windows Platform (UWP) apps.
+Accessibility
 
-Accessibility is about making your app usable by people who have limitations that prevent or impede the use of conventional user interfaces. For some situations, accessibility requirements are imposed by law. However, it's a good idea to address accessibility issues regardless of legal requirements so that your apps have the largest possible audience. There's also a Windows Store declaration regarding accessibility for your app.
+\[ Updated for UWP apps on Windows 10. For Windows 8.x articles, see the [archive](http://go.microsoft.com/fwlink/p/?linkid=619132) \] Introduces accessibility concepts that relate to Universal Windows Platform (UWP) apps. Accessibility is about making your app usable by people who have limitations that prevent or impede the use of conventional user interfaces.
 
-**Note**  Declaring the app as accessible is only relevant to the Windows Store.
+For some situations, accessibility requirements are imposed by law.
 
 <table>
 <colgroup>
@@ -24,45 +24,45 @@ Accessibility is about making your app usable by people who have limitations tha
 </colgroup>
 <thead>
 <tr class="header">
-<th align="left">Article</th>
-<th align="left">Description</th>
+<th align="left">However, it's a good idea to address accessibility issues regardless of legal requirements so that your apps have the largest possible audience.</th>
+<th align="left">There's also a Windows Store declaration regarding accessibility for your app.</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">[Accessibility overview](accessibility-overview.md)</td>
-<td align="left"><p>This article is an overview of the concepts and technologies related to accessibility scenarios for UWP apps.</p></td>
+<td align="left">[**Note**  Declaring the app as accessible is only relevant to the Windows Store.](accessibility-overview.md)</td>
+<td align="left"><p>Article</p></td>
 </tr>
 <tr class="even">
-<td align="left">[Expose basic accessibility information](basic-accessibility-information.md)</td>
-<td align="left"><p>Basic accessibility info is often categorized into name, role, and value. This topic describes code to help your app expose the basic information that assistive technologies need.</p></td>
+<td align="left">[Description](basic-accessibility-information.md)</td>
+<td align="left"><p>This article is an overview of the concepts and technologies related to accessibility scenarios for UWP apps. Basic accessibility info is often categorized into name, role, and value.</p></td>
 </tr>
 <tr class="odd">
-<td align="left">[Keyboard accessibility](keyboard-accessibility.md)</td>
+<td align="left">[This topic describes code to help your app expose the basic information that assistive technologies need.](keyboard-accessibility.md)</td>
 <td align="left"><p>If your app does not provide good keyboard access, users who are blind or have mobility issues can have difficulty using your app or may not be able to use it at all.</p></td>
 </tr>
 <tr class="even">
-<td align="left">[Accessible text requirements](accessible-text-requirements.md)</td>
-<td align="left"><p>This topic describes best practices for accessibility of text in an app, by assuring that colors and backgrounds satisfy the necessary contrast ratio. This topic also discusses the Microsoft UI Automation roles that text elements in a UWP app can have, and best practices for text in graphics.</p></td>
+<td align="left">[This topic describes best practices for accessibility of text in an app, by assuring that colors and backgrounds satisfy the necessary contrast ratio.](accessible-text-requirements.md)</td>
+<td align="left"><p>This topic also discusses the Microsoft UI Automation roles that text elements in a UWP app can have, and best practices for text in graphics. Describes the steps needed to ensure your UWP app is usable when a high-contrast theme is active.</p></td>
 </tr>
 <tr class="odd">
-<td align="left">[High-contrast themes](high-contrast-themes.md)</td>
-<td align="left"><p>Describes the steps needed to ensure your UWP app is usable when a high-contrast theme is active.</p></td>
-</tr>
-<tr class="even">
-<td align="left">[Accessibility practices to avoid](practices-to-avoid.md)</td>
-<td align="left"><p>Lists the practices to avoid if you want to create an accessible UWP app.</p></td>
-</tr>
-<tr class="odd">
-<td align="left">[Accessibility testing](accessibility-testing.md)</td>
+<td align="left">[Lists the practices to avoid if you want to create an accessible UWP app.](high-contrast-themes.md)</td>
 <td align="left"><p>Testing procedures to follow to ensure that your UWP app is accessible.</p></td>
 </tr>
 <tr class="even">
-<td align="left">[Accessibility in the Store](accessibility-in-the-store.md)</td>
-<td align="left"><p>Describes the requirements for declaring your UWP app as accessible in the Windows Store.</p></td>
+<td align="left">[Describes the requirements for declaring your UWP app as accessible in the Windows Store.](practices-to-avoid.md)</td>
+<td align="left"><p>Provides a checklist to help you ensure that your UWP app is accessible.</p></td>
 </tr>
 <tr class="odd">
-<td align="left">[Accessibility checklist](accessibility-checklist.md)</td>
+<td align="left">[Describes the concept of automation peers for UI Automation, and how you can provide automation support for your own custom UI class.](accessibility-testing.md)</td>
+<td align="left"><p><span id="related_topics"></span>Related articles</p></td>
+</tr>
+<tr class="even">
+<td align="left">[Windows.UI.Xaml.Automation](accessibility-in-the-store.md)</td>
+<td align="left"><p>Design for accessibility</p></td>
+</tr>
+<tr class="odd">
+<td align="left">[XAML accessibility sample](accessibility-checklist.md)</td>
 <td align="left"><p>Provides a checklist to help you ensure that your UWP app is accessible.</p></td>
 </tr>
 <tr class="even">
@@ -88,6 +88,6 @@ Accessibility is about making your app usable by people who have limitations tha
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO3-->
 
 
