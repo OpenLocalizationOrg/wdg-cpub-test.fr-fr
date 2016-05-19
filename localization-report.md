@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 1758
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 7
+[ Handoff Success Files ](#handoff-success-list)| 5
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1185
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1184
+[ In Sync Handback Files ](#insync-handback-success-list)| 3
 [ Ignored Files ](#ignored-list)| 566
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -21,8 +21,6 @@
  [wdg-cpub-test\excluded\3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f6fa27d86656be70fc37a84493c8b01f0e9da757/wdg-cpub-test/excluded/3.md) | HandedOffSuccess | [Details](#c9cf1a2f7f3dd61acbaaa2c579d30ef47523c03a17)
  [wdg-cpub-test\excluded\4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/e95f414da06b202506371c50b8dd54f8a9680420/wdg-cpub-test/excluded/4.md) | HandedOffSuccess | [Details](#ef14dbd33760351b057208e42b5460abe5573e1018)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/usability/accessibility/accessibility.md) | HandedOffSuccess | [Details](#abce6619263c08d0e4be6cd185db18add9b1436c699)
- [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility.md) | HandedOffSuccess | [Details](#94485e3d471da7803e86eb6f3bfd7db1751db17c751)
- [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816814)
  [wdg-cpub-test\ndolci2\monetize\access-analytics-data-using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/monetize/access-analytics-data-using-windows-store-services.md) | HandedOffSuccess | [Details](#1779c72b90abdc24491febfde59cf75c0affac321438)
  [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | HandedOffSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41686)
 
@@ -1114,7 +1112,6 @@
  [wdg-cpub-test\ndolci2\winrt-components\passing-arrays-to-a-windows-runtime-component.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/passing-arrays-to-a-windows-runtime-component.md) | OutofSyncHandedBackSuccess | [Details](#156b6139e592ed62488feb8c2e0bc6d39ae2e7be1646)
  [wdg-cpub-test\ndolci2\winrt-components\raising-events-in-windows-runtime-components.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/raising-events-in-windows-runtime-components.md) | OutofSyncHandedBackSuccess | [Details](#3b57eb3d1d59f1d1aa9f6e1cb8f70789ad752d8e1647)
  [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md) | OutofSyncHandedBackSuccess | [Details](#be6fb5fc439de3213ef0815ea205ac51112bb2021648)
- [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md) | OutofSyncHandedBackSuccess | [Details](#ba83782609107aaa9dea458175d50c158ec5cd051649)
  [wdg-cpub-test\ndolci2\xaml-platform\attached-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/ndolci2/xaml-platform/attached-properties-overview.md) | OutofSyncHandedBackSuccess | [Details](#c20a0d1bcfda3c28c6289b7c745ef2e7f8a612cb1650)
  [wdg-cpub-test\ndolci2\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/xaml-platform/binding-markup-extension.md) | OutofSyncHandedBackSuccess | [Details](#462849c03887dcef8de6d73fe5c6f694469ede841651)
  [wdg-cpub-test\ndolci2\xaml-platform\custom-attached-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/ndolci2/xaml-platform/custom-attached-properties.md) | OutofSyncHandedBackSuccess | [Details](#4433307ce4ea0a0e9f43328bfab0c594e4bbad0d1652)
@@ -1222,6 +1219,11 @@
  [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb06dc5ce0fda7b0be2ee8ab167efed736484e33/wdg-cpub-test/Welcome.md) | OutofSyncHandedBackSuccess | [Details](#56ffa4c093064ba55b6291eb0622d077741b3dbb1757)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility.md) | InSyncHandedBackSuccess | [Details](#94485e3d471da7803e86eb6f3bfd7db1751db17c751)
+ [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | InSyncHandedBackSuccess | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816814)
+ [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md) | InSyncHandedBackSuccess | [Details](#ba83782609107aaa9dea458175d50c158ec5cd051649)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -4377,6 +4379,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/03b7c661da0928ef0e38376790fd14d82fdba996/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
 * Handback Datetime: 2016-05-19 11:26:12
+* Current Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
+* Current Handback File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/edf38c96f542392167b7fa4d7b83b314bff3e6a2/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf)
+* Current Handback Datetime: 2016-05-19 11:40:03
 * [Back to Top](#report-top)
 
 ##### <a name='e4b7e1cbf07ffa6c5a6b12dd836c264d355081c9210'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-video-capture.md)
@@ -10813,15 +10818,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='94485e3d471da7803e86eb6f3bfd7db1751db17c751'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci2/accessibility/accessibility.md)
 * Handoff File: [accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/90748488468cb9af150decfd9f1cec70a23c0e78/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf)
 * Handoff Datetime: 2016-05-19 11:32:44
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/edf38c96f542392167b7fa4d7b83b314bff3e6a2/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf)
+* Handback Datetime: 2016-05-19 11:40:03
 * [Back to Top](#report-top)
 
 ##### <a name='e5a3ba81407e65db2addcb6fb7b6485ee12b97de746'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-checklist.md)
@@ -10846,6 +10851,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/03b7c661da0928ef0e38376790fd14d82fdba996/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf)
 * Handback Datetime: 2016-05-19 11:26:12
+* Current Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci2/accessibility/accessibility.md)
+* Current Handback File: [accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/edf38c96f542392167b7fa4d7b83b314bff3e6a2/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf)
+* Current Handback Datetime: 2016-05-19 11:40:03
 * [Back to Top](#report-top)
 
 ##### <a name='6e80a91434b48569a5b71c3780194933310b408d748'></a> Source: [wdg-cpub-test\ndolci2\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/accessibility/accessibility-in-the-store.md)
@@ -11629,15 +11637,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a74e5e1953eb68cb3f74fac6dd2d93fc64964816814'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Handoff File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/90748488468cb9af150decfd9f1cec70a23c0e78/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf)
 * Handoff Datetime: 2016-05-19 11:32:44
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/edf38c96f542392167b7fa4d7b83b314bff3e6a2/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf)
+* Handback Datetime: 2016-05-19 11:40:03
 * [Back to Top](#report-top)
 
 ##### <a name='f547df0f9fc4531fabdfccbb0584a2a3808db669815'></a> Source: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-video-capture.md)
@@ -21650,7 +21658,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ba83782609107aaa9dea458175d50c158ec5cd051649'></a> Source: [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md)
 * Handoff File: [walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/90748488468cb9af150decfd9f1cec70a23c0e78/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf)
 * Handoff Datetime: 2016-05-19 11:32:44
@@ -21658,7 +21666,8 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/03b7c661da0928ef0e38376790fd14d82fdba996/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf)
-* Handback Datetime: 2016-05-19 11:26:12
+* Handback Datetime: 2016-05-19 11:40:03
+* Handback Error: [handback_validate_file_name_invalide](#ba83782609107aaa9dea458175d50c158ec5cd051649handback_validate_file_name_invalide)
 * [Back to Top](#report-top)
 
 ##### <a name='c20a0d1bcfda3c28c6289b7c745ef2e7f8a612cb1650'></a> Source: [wdg-cpub-test\ndolci2\xaml-platform\attached-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/fce1314f669995dae57bd4ac51171cee32625731/wdg-cpub-test/ndolci2/xaml-platform/attached-properties-overview.md)
@@ -22967,5 +22976,11 @@
 
 
 ## Error Details
+##### <a name='ba83782609107aaa9dea458175d50c158ec5cd051649handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](#ba83782609107aaa9dea458175d50c158ec5cd051649)
+* Error Code: handback_validate_file_name_invalide
+* Error Message: Handback file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr is different with handoff file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr is different with handoff file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr is different with handoff file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 
 Generated by OpenLocalization.
