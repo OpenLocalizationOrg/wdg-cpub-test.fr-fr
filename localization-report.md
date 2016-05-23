@@ -1906,7 +1906,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\dhale\dev_accessibility\readme.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/dhale/dev_accessibility/readme.md)
 * Handoff File: [readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1930,7 +1930,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/Directions_To_Update_Existing_Topic_Using_Browser.md)
 * Handoff File: [Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1942,7 +1942,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\images\Browser_Commit_Changes_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/images/Browser_Commit_Changes_Screen_Shot.png)
 * Handoff File: [044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1955,7 +1955,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\images\Browser_Comparing_Changes_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/images/Browser_Comparing_Changes_Screen_Shot.png)
 * Handoff File: [3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1968,7 +1968,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\images\Browser_Edit_Button_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/images/Browser_Edit_Button_Screen_Shot.png)
 * Handoff File: [36f650b486398eec8dda23bcce6de967a49b8425.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/36f650b486398eec8dda23bcce6de967a49b8425.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1981,7 +1981,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\images\Browser_New_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/images/Browser_New_Pull_Request_Screen_Shot.png)
 * Handoff File: [f43cbe8759da606676de094fd0024cb7c86551ec.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f43cbe8759da606676de094fd0024cb7c86551ec.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1994,7 +1994,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\domars\images\Browser_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/domars/images/Browser_Pull_Request_Screen_Shot.png)
 * Handoff File: [61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2031,7 +2031,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/get-app-acquisitions.md)
 * Handoff File: [get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2055,7 +2055,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\iawilt\iawilt_test\test.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/iawilt/iawilt_test/test.md)
 * Handoff File: [test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2067,7 +2067,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\images\github-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/images/github-logo.png)
 * Handoff File: [90d7dca36f340986a0c7b98525226d3fd282aa6a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90d7dca36f340986a0c7b98525226d3fd282aa6a.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2080,7 +2080,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\images\jasgro\pigeon.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/images/jasgro/pigeon.png)
 * Handoff File: [51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2093,7 +2093,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/images/markdown-logo.png)
 * Handoff File: [ced6981729e25a31e25e8bbac32f2a822851abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ced6981729e25a31e25e8bbac32f2a822851abb0.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2106,7 +2106,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\included\1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/included/1.md)
 * Handoff File: [1.c0f7c69bab68ceb8d93511c887bb9a2591749ef4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1.c0f7c69bab68ceb8d93511c887bb9a2591749ef4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2118,7 +2118,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\included\2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/included/2.md)
 * Handoff File: [2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2.958a9868b1ddb66de02d0c0f0c20db9042013ea5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2130,7 +2130,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\jasgro\JasGro-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/jasgro/JasGro-home.md)
 * Handoff File: [JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2142,7 +2142,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\jasgro\table_creation_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/jasgro/table_creation_tools.md)
 * Handoff File: [table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2154,7 +2154,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\jasgro\test1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/jasgro/test1.md)
 * Handoff File: [test1.7f0f552458431654d6ec10125262b97426875375.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test1.7f0f552458431654d6ec10125262b97426875375.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2166,7 +2166,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/jasgro/test2.md)
 * Handoff File: [test2.07a4be2c106a040b3bdba866b593683135789f3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test2.07a4be2c106a040b3bdba866b593683135789f3f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2178,7 +2178,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/jasgro/tools-for-beginners.md)
 * Handoff File: [tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2190,7 +2190,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2202,7 +2202,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2214,7 +2214,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2226,7 +2226,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2238,7 +2238,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2250,7 +2250,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/available_policies.md)
 * Handoff File: [available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2262,7 +2262,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/emie_to_improve_compatibility.md)
 * Handoff File: [emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2274,7 +2274,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/hardware_and_software_requirements.md)
 * Handoff File: [hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2286,7 +2286,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\images\Edge_EmIE_GroupPolicySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/images/Edge_EmIE_GroupPolicySiteList.png)
 * Handoff File: [3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2299,7 +2299,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\images\Edge_EmIE_RegistrySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/images/Edge_EmIE_RegistrySiteList.png)
 * Handoff File: [c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2312,7 +2312,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\images\EmIEOpeninIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/images/EmIEOpeninIE.png)
 * Handoff File: [c60b61e09592ccc99e5af898dcef91d310e8d794.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c60b61e09592ccc99e5af898dcef91d310e8d794.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2325,7 +2325,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/images/SendintranettoIE.png)
 * Handoff File: [13db3344d2ab0ff7d5350584470566ac2b128e12.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/13db3344d2ab0ff7d5350584470566ac2b128e12.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2338,7 +2338,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
 * Handoff File: [msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2350,7 +2350,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\macapara\macapara.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/macapara/macapara.md)
 * Handoff File: [macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2362,7 +2362,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/best-practices-for-your-app-s-startup-performance.md)
 * Handoff File: [best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2374,7 +2374,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md)
 * Handoff File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2386,7 +2386,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\debugging-and-testing-apps-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/debugging-and-testing-apps-portal.md)
 * Handoff File: [debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2398,7 +2398,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/deploying-and-debugging-uwp-apps.md)
 * Handoff File: [deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2410,7 +2410,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png)
 * Handoff File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/de64362d21f090b76586193191ed6df624521fd0.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2423,7 +2423,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png)
 * Handoff File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2436,7 +2436,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png)
 * Handoff File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2449,7 +2449,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png)
 * Handoff File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2462,7 +2462,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png)
 * Handoff File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2475,7 +2475,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png)
 * Handoff File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2488,7 +2488,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.png)
 * Handoff File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2501,7 +2501,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png)
 * Handoff File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2514,7 +2514,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png)
 * Handoff File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2527,7 +2527,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png)
 * Handoff File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2540,7 +2540,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png)
 * Handoff File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2553,7 +2553,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png)
 * Handoff File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2566,7 +2566,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png)
 * Handoff File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2579,7 +2579,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png)
 * Handoff File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2592,7 +2592,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png)
 * Handoff File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2605,7 +2605,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png)
 * Handoff File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2618,7 +2618,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png)
 * Handoff File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2631,7 +2631,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png)
 * Handoff File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2644,7 +2644,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png)
 * Handoff File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2657,7 +2657,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png)
 * Handoff File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2670,7 +2670,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png)
 * Handoff File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2683,7 +2683,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png)
 * Handoff File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2696,7 +2696,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png)
 * Handoff File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2709,7 +2709,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png)
 * Handoff File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2722,7 +2722,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png)
 * Handoff File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2735,7 +2735,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png)
 * Handoff File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2748,7 +2748,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/improve-garbage-collection-performance.md)
 * Handoff File: [improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2760,7 +2760,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/index.md)
 * Handoff File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2772,7 +2772,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/keep-the-ui-thread-responsive.md)
 * Handoff File: [keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2784,7 +2784,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\listview-and-gridview-data-optimization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/listview-and-gridview-data-optimization.md)
 * Handoff File: [listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2796,7 +2796,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/mvvm-performance-tips.md)
 * Handoff File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2808,7 +2808,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-animations-and-media.md)
 * Handoff File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2820,7 +2820,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-file-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-file-access.md)
 * Handoff File: [optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2832,7 +2832,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-gridview-and-listview.md)
 * Handoff File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2844,7 +2844,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-suspend-resume.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-suspend-resume.md)
 * Handoff File: [optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2856,7 +2856,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-xaml-loading.md)
 * Handoff File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2868,7 +2868,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/optimize-your-xaml-layout.md)
 * Handoff File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2880,7 +2880,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/performance-and-xaml-ui.md)
 * Handoff File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2892,7 +2892,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\planning-and-measuring-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/planning-and-measuring-performance.md)
 * Handoff File: [planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2904,7 +2904,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/test-with-the-emulator.md)
 * Handoff File: [test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2916,7 +2916,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/tools-for-profiling-and-performance.md)
 * Handoff File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2928,7 +2928,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit.md)
 * Handoff File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2940,7 +2940,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit-tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit-tests.md)
 * Handoff File: [windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2952,7 +2952,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\debug-test-perf\windows-runtime-components-and-optimizing-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/debug-test-perf/windows-runtime-components-and-optimizing-interop.md)
 * Handoff File: [windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2964,7 +2964,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/aep-service-class-ids.md)
 * Handoff File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2976,7 +2976,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/bluetooth.md)
 * Handoff File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2988,7 +2988,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/build-a-device-selector.md)
 * Handoff File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3000,7 +3000,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/calibrate-sensors.md)
 * Handoff File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3012,7 +3012,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/customize-the-print-preview-ui.md)
 * Handoff File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3024,7 +3024,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/device-information-properties.md)
 * Handoff File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3036,7 +3036,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/enable-device-capabilities.md)
 * Handoff File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3048,7 +3048,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices.md)
 * Handoff File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3060,7 +3060,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices-over-a-network.md)
 * Handoff File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3072,7 +3072,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/epson-esc-pos-with-formatting.md)
 * Handoff File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3084,7 +3084,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/gatt-scenarios.md)
 * Handoff File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3096,7 +3096,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\get-battery-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/get-battery-info.md)
 * Handoff File: [get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3108,7 +3108,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/host-card-emulation.md)
 * Handoff File: [host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3120,7 +3120,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer1.png)
 * Handoff File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/34ce1ba42c93457b28691e358831a508597b298f.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3133,7 +3133,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png)
 * Handoff File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3146,7 +3146,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png)
 * Handoff File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3159,7 +3159,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png)
 * Handoff File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3172,7 +3172,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png)
 * Handoff File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3185,7 +3185,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png)
 * Handoff File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3198,7 +3198,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png)
 * Handoff File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/0d10b05a511c945d903d6bd82be796202912d483.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3211,7 +3211,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png)
 * Handoff File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3224,7 +3224,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png)
 * Handoff File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3237,7 +3237,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png)
 * Handoff File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3250,7 +3250,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png)
 * Handoff File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3263,7 +3263,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png)
 * Handoff File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3276,7 +3276,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png)
 * Handoff File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3289,7 +3289,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png)
 * Handoff File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3302,7 +3302,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png)
 * Handoff File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3315,7 +3315,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/compass.png)
 * Handoff File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3328,7 +3328,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png)
 * Handoff File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3341,7 +3341,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png)
 * Handoff File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3354,7 +3354,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png)
 * Handoff File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3367,7 +3367,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png)
 * Handoff File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3380,7 +3380,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png)
 * Handoff File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3393,7 +3393,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png)
 * Handoff File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3406,7 +3406,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png)
 * Handoff File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3419,7 +3419,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/index.md)
 * Handoff File: [index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3431,7 +3431,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/pair-devices.md)
 * Handoff File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3443,7 +3443,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\print-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/print-from-your-app.md)
 * Handoff File: [print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3455,7 +3455,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/printing-and-scanning.md)
 * Handoff File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3467,7 +3467,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/scan-from-your-app.md)
 * Handoff File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3479,7 +3479,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\send-or-receive-files-with-rfcomm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/send-or-receive-files-with-rfcomm.md)
 * Handoff File: [send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3491,7 +3491,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/sensor-orientation.md)
 * Handoff File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3503,7 +3503,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/sensors.md)
 * Handoff File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3515,7 +3515,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-accelerometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-accelerometer.md)
 * Handoff File: [use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3527,7 +3527,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-compass.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-compass.md)
 * Handoff File: [use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3539,7 +3539,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-gyrometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-gyrometer.md)
 * Handoff File: [use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3551,7 +3551,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-inclinometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-inclinometer.md)
 * Handoff File: [use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3563,7 +3563,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-light-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-light-sensor.md)
 * Handoff File: [use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3575,7 +3575,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/devices-sensors/use-the-orientation-sensor.md)
 * Handoff File: [use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3587,7 +3587,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\access-the-sd-card.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/access-the-sd-card.md)
 * Handoff File: [access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3599,7 +3599,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/file-access-permissions.md)
 * Handoff File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3611,7 +3611,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\how-to-track-recently-used-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/how-to-track-recently-used-files-and-folders.md)
 * Handoff File: [how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3623,7 +3623,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\images\app-to-app-diagram-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/files/images/app-to-app-diagram-600px.png)
 * Handoff File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3636,7 +3636,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/files/images/phone-media-locations.png)
 * Handoff File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3649,7 +3649,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/files/images/phone-media-queries.png)
 * Handoff File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3662,7 +3662,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png)
 * Handoff File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3675,7 +3675,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/index.md)
 * Handoff File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3687,7 +3687,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-accessing-homegroup-content.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-accessing-homegroup-content.md)
 * Handoff File: [quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3699,7 +3699,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-determining-availability-of-microsoft-onedrive-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-determining-availability-of-microsoft-onedrive-files.md)
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3711,7 +3711,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-getting-file-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-getting-file-properties.md)
 * Handoff File: [quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3723,7 +3723,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-listing-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-listing-files-and-folders.md)
 * Handoff File: [quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3735,7 +3735,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md)
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3747,7 +3747,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-reading-and-writing-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-reading-and-writing-files.md)
 * Handoff File: [quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3759,7 +3759,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-save-a-file-with-a-picker.md)
 * Handoff File: [quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -3771,7 +3771,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci/files/quickstart-using-file-and-folder-pickers.md)
 * Handoff File: [quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4227,7 +4227,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\copy-and-paste.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/copy-and-paste.md)
 * Handoff File: [copy-and-paste.937f2db2b7819787c39520e8bdc6250b9924d624.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/copy-and-paste.937f2db2b7819787c39520e8bdc6250b9924d624.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4239,7 +4239,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md)
 * Handoff File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4251,7 +4251,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/index.md)
 * Handoff File: [index.8516bc6d882b081c2236684930ae6e6096ac48e2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8516bc6d882b081c2236684930ae6e6096ac48e2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4263,7 +4263,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/receive-data.md)
 * Handoff File: [receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4275,7 +4275,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/share-data.md)
 * Handoff File: [share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4287,7 +4287,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming.md)
 * Handoff File: [adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4299,7 +4299,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming-with-playready.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming-with-playready.md)
 * Handoff File: [adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4311,7 +4311,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\audio-graphs.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/audio-graphs.md)
 * Handoff File: [audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4323,7 +4323,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\background-audio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/background-audio.md)
 * Handoff File: [background-audio.f66026485363a7e0569fcc6016caacc0793cab69.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/background-audio.f66026485363a7e0569fcc6016caacc0793cab69.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4335,7 +4335,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\bitmapencoder-options-reference.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/bitmapencoder-options-reference.md)
 * Handoff File: [bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4347,7 +4347,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\camera-independent-flashlight.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/camera-independent-flashlight.md)
 * Handoff File: [camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4359,7 +4359,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\camera-profiles.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/camera-profiles.md)
 * Handoff File: [camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4371,7 +4371,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Handoff File: [capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.2244826f4e2564d6e82c5925f7678abf4570b3ca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4386,7 +4386,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-video-capture.md)
 * Handoff File: [capture-device-controls-for-video-capture.d991fb32dc3a22667ceaba4de45560593402cbc4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-video-capture.d991fb32dc3a22667ceaba4de45560593402cbc4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4398,7 +4398,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-photos-and-video-with-cameracaptureui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-photos-and-video-with-cameracaptureui.md)
 * Handoff File: [capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -4410,7 +4410,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-photos-and-video-with-mediacapture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-photos-and-video-with-mediacapture.md)
 * Handoff File: [capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6714,7 +6714,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\detect-and-track-faces-in-an-image.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/detect-and-track-faces-in-an-image.md)
 * Handoff File: [detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6726,7 +6726,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\effects-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/effects-for-video-capture.md)
 * Handoff File: [effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6738,7 +6738,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\get-a-preview-frame.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/get-a-preview-frame.md)
 * Handoff File: [get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6750,7 +6750,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\hardware-drm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/hardware-drm.md)
 * Handoff File: [hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6762,7 +6762,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\high-dynamic-range-hdr-photo-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/high-dynamic-range-hdr-photo-capture.md)
 * Handoff File: [high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6774,7 +6774,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\image-metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/image-metadata.md)
 * Handoff File: [image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6786,7 +6786,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\imaging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/imaging.md)
 * Handoff File: [imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6798,7 +6798,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/index.md)
 * Handoff File: [index.a9430364886a3b06e3921637072a0aaee016e553.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a9430364886a3b06e3921637072a0aaee016e553.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6810,7 +6810,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-casting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-casting.md)
 * Handoff File: [media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6822,7 +6822,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-compositions-and-editing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-compositions-and-editing.md)
 * Handoff File: [media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6834,7 +6834,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-playback-with-mediasource.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-playback-with-mediasource.md)
 * Handoff File: [media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6846,7 +6846,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\midi.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/midi.md)
 * Handoff File: [midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6858,7 +6858,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\playready-client-sdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/playready-client-sdk.md)
 * Handoff File: [playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6870,7 +6870,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\playready-encrypted-media-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/playready-encrypted-media-extension.md)
 * Handoff File: [playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6882,7 +6882,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\process-media-files-in-the-background.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/process-media-files-in-the-background.md)
 * Handoff File: [process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6894,7 +6894,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\scene-analysis-for-media-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/scene-analysis-for-media-capture.md)
 * Handoff File: [scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6906,7 +6906,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\set-media-encoding-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/set-media-encoding-properties.md)
 * Handoff File: [set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6918,7 +6918,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\simple-camera-preview-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/simple-camera-preview-access.md)
 * Handoff File: [simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6930,7 +6930,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\supported-codecs.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/supported-codecs.md)
 * Handoff File: [supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6942,7 +6942,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\system-media-transport-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/system-media-transport-controls.md)
 * Handoff File: [system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6954,7 +6954,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\transcode-media-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/transcode-media-files.md)
 * Handoff File: [transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6966,7 +6966,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\variable-photo-sequence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/variable-photo-sequence.md)
 * Handoff File: [variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6978,7 +6978,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md)
 * Handoff File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -6990,7 +6990,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\managing-appointments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/managing-appointments.md)
 * Handoff File: [managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7002,7 +7002,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/selecting-contacts.md)
 * Handoff File: [selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7014,7 +7014,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-an-sms-message.md)
 * Handoff File: [sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7026,7 +7026,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-email.md)
 * Handoff File: [sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7038,7 +7038,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-access\entity-framework-7-with-sqlite-for-csharp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-access/entity-framework-7-with-sqlite-for-csharp-apps.md)
 * Handoff File: [entity-framework-7-with-sqlite-for-csharp-apps.2039f0b252c88f1f449bd9b18f27c710ccca40c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/entity-framework-7-with-sqlite-for-csharp-apps.2039f0b252c88f1f449bd9b18f27c710ccca40c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7050,7 +7050,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-access/index.md)
 * Handoff File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7062,7 +7062,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-access\sqlite-databases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-access/sqlite-databases.md)
 * Handoff File: [sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7074,7 +7074,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\data-binding-in-depth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/data-binding-in-depth.md)
 * Handoff File: [data-binding-in-depth.b424360742d9ebee728c69a526b27ea36285144b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/data-binding-in-depth.b424360742d9ebee728c69a526b27ea36285144b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7086,7 +7086,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\data-binding-quickstart.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/data-binding-quickstart.md)
 * Handoff File: [data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7098,7 +7098,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md)
 * Handoff File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7110,7 +7110,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md)
 * Handoff File: [how-to-bind-to-hierarchical-data-and-create-a-master-details-view.02dc7edc047987d824865f8e211eb7ce6225bac0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.02dc7edc047987d824865f8e211eb7ce6225bac0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7122,7 +7122,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/index.md)
 * Handoff File: [index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7134,7 +7134,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/best-practices-for-your-app-s-startup-performance.md)
 * Handoff File: [best-practices-for-your-app-s-startup-performance.cd19e93e737f7ba4b0bd5a86f68412617f6e98f1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-your-app-s-startup-performance.cd19e93e737f7ba4b0bd5a86f68412617f6e98f1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7146,7 +7146,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md)
 * Handoff File: [beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7158,7 +7158,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\debugging-and-testing-apps-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/debugging-and-testing-apps-portal.md)
 * Handoff File: [debugging-and-testing-apps-portal.9fa7cdf8c199dd364b19dde17659cb532f389b2d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging-and-testing-apps-portal.9fa7cdf8c199dd364b19dde17659cb532f389b2d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7170,7 +7170,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\deploying-and-debugging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/deploying-and-debugging-uwp-apps.md)
 * Handoff File: [deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7182,7 +7182,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/improve-garbage-collection-performance.md)
 * Handoff File: [improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7194,7 +7194,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/index.md)
 * Handoff File: [index.5199211968ae324a6f36f8140d3684a944796fa5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.5199211968ae324a6f36f8140d3684a944796fa5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7206,7 +7206,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/keep-the-ui-thread-responsive.md)
 * Handoff File: [keep-the-ui-thread-responsive.5ae27a21cb15ffe8d113848574c2e2a322fdf4fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keep-the-ui-thread-responsive.5ae27a21cb15ffe8d113848574c2e2a322fdf4fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7218,7 +7218,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\listview-and-gridview-data-optimization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/listview-and-gridview-data-optimization.md)
 * Handoff File: [listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7230,7 +7230,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md)
 * Handoff File: [mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7242,7 +7242,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-animations-and-media.md)
 * Handoff File: [optimize-animations-and-media.d236b898fa8e96f8792e9c0f26f292e74f0924b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-animations-and-media.d236b898fa8e96f8792e9c0f26f292e74f0924b7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7254,7 +7254,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-file-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-file-access.md)
 * Handoff File: [optimize-file-access.0df08ecce893f1620468918c3a3a2c8a2f1e01cd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-file-access.0df08ecce893f1620468918c3a3a2c8a2f1e01cd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7266,7 +7266,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-gridview-and-listview.md)
 * Handoff File: [optimize-gridview-and-listview.e43deabb38af4b916cf8446119e7e34856a36970.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-gridview-and-listview.e43deabb38af4b916cf8446119e7e34856a36970.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7278,7 +7278,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-suspend-resume.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-suspend-resume.md)
 * Handoff File: [optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7290,7 +7290,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md)
 * Handoff File: [optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7302,7 +7302,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-your-xaml-layout.md)
 * Handoff File: [optimize-your-xaml-layout.bec17aa94f943f78d0268e64655c6a3181a606af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-your-xaml-layout.bec17aa94f943f78d0268e64655c6a3181a606af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7314,7 +7314,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md)
 * Handoff File: [performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7326,7 +7326,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\planning-and-measuring-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/planning-and-measuring-performance.md)
 * Handoff File: [planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7338,7 +7338,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\test-with-the-emulator.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/test-with-the-emulator.md)
 * Handoff File: [test-with-the-emulator.fe4da7342660d737f0b399da8570fc875600c7fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-with-the-emulator.fe4da7342660d737f0b399da8570fc875600c7fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7350,7 +7350,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md)
 * Handoff File: [tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7362,7 +7362,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md)
 * Handoff File: [windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7374,7 +7374,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit-tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit-tests.md)
 * Handoff File: [windows-app-certification-kit-tests.92997173e40105cd7983b19862ba88d3328ae101.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit-tests.92997173e40105cd7983b19862ba88d3328ae101.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7386,7 +7386,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\windows-runtime-components-and-optimizing-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/windows-runtime-components-and-optimizing-interop.md)
 * Handoff File: [windows-runtime-components-and-optimizing-interop.4bc2c2c19cbca94aad4a3d13421bc3fab5888694.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-runtime-components-and-optimizing-interop.4bc2c2c19cbca94aad4a3d13421bc3fab5888694.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7398,7 +7398,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md)
 * Handoff File: [aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7410,7 +7410,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md)
 * Handoff File: [bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7422,7 +7422,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/build-a-device-selector.md)
 * Handoff File: [build-a-device-selector.6815e5f3a00e0bab6b8a107fd20883a88b65f36e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/build-a-device-selector.6815e5f3a00e0bab6b8a107fd20883a88b65f36e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7434,7 +7434,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md)
 * Handoff File: [calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7446,7 +7446,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md)
 * Handoff File: [customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7458,7 +7458,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md)
 * Handoff File: [device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7470,7 +7470,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md)
 * Handoff File: [enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7482,7 +7482,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md)
 * Handoff File: [enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7494,7 +7494,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md)
 * Handoff File: [enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7506,7 +7506,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md)
 * Handoff File: [epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7518,7 +7518,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/gatt-scenarios.md)
 * Handoff File: [gatt-scenarios.51b530d57b23f4a0b4f4fb8645a308c3a5f639f7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/gatt-scenarios.51b530d57b23f4a0b4f4fb8645a308c3a5f639f7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7530,7 +7530,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\get-battery-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/get-battery-info.md)
 * Handoff File: [get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7542,7 +7542,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\host-card-emulation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/host-card-emulation.md)
 * Handoff File: [host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7554,7 +7554,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/index.md)
 * Handoff File: [index.3e49c104c7e5cbed276589098c5335ddc22b915c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3e49c104c7e5cbed276589098c5335ddc22b915c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7566,7 +7566,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md)
 * Handoff File: [pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7578,7 +7578,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\print-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/print-from-your-app.md)
 * Handoff File: [print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7590,7 +7590,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md)
 * Handoff File: [printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7602,7 +7602,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md)
 * Handoff File: [scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7614,7 +7614,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\send-or-receive-files-with-rfcomm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/send-or-receive-files-with-rfcomm.md)
 * Handoff File: [send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7626,7 +7626,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md)
 * Handoff File: [sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7638,7 +7638,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/sensors.md)
 * Handoff File: [sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7650,7 +7650,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-accelerometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-accelerometer.md)
 * Handoff File: [use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7662,7 +7662,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-compass.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-compass.md)
 * Handoff File: [use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7674,7 +7674,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-gyrometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-gyrometer.md)
 * Handoff File: [use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7686,7 +7686,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-inclinometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-inclinometer.md)
 * Handoff File: [use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7698,7 +7698,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-light-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-light-sensor.md)
 * Handoff File: [use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7710,7 +7710,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-orientation-sensor.md)
 * Handoff File: [use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7734,7 +7734,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\enterprise\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/enterprise/index.md)
 * Handoff File: [index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7746,7 +7746,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\access-the-sd-card.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/access-the-sd-card.md)
 * Handoff File: [access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7758,7 +7758,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/file-access-permissions.md)
 * Handoff File: [file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7770,7 +7770,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\how-to-track-recently-used-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/how-to-track-recently-used-files-and-folders.md)
 * Handoff File: [how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7782,7 +7782,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/index.md)
 * Handoff File: [index.3900c6470fb1b5df5121e4b40a7630862ab7bd98.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3900c6470fb1b5df5121e4b40a7630862ab7bd98.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7794,7 +7794,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-accessing-homegroup-content.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-accessing-homegroup-content.md)
 * Handoff File: [quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7806,7 +7806,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-determining-availability-of-microsoft-onedrive-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-determining-availability-of-microsoft-onedrive-files.md)
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7818,7 +7818,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-getting-file-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-getting-file-properties.md)
 * Handoff File: [quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7830,7 +7830,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-listing-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-listing-files-and-folders.md)
 * Handoff File: [quickstart-listing-files-and-folders.38e95aa83106ca2126714155526d3149bcd31f5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-listing-files-and-folders.38e95aa83106ca2126714155526d3149bcd31f5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7842,7 +7842,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md)
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7854,7 +7854,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-reading-and-writing-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-reading-and-writing-files.md)
 * Handoff File: [quickstart-reading-and-writing-files.3966e007f9b9d0d4516ca711940c498859236626.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-reading-and-writing-files.3966e007f9b9d0d4516ca711940c498859236626.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7866,7 +7866,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-save-a-file-with-a-picker.md)
 * Handoff File: [quickstart-save-a-file-with-a-picker.fde48679ea65d14d7192727cf1ac0e97b03bfbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-save-a-file-with-a-picker.fde48679ea65d14d7192727cf1ac0e97b03bfbe3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7878,7 +7878,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-using-file-and-folder-pickers.md)
 * Handoff File: [quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7890,7 +7890,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7902,7 +7902,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md)
 * Handoff File: [create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7914,7 +7914,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-js-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-js-universal.md)
 * Handoff File: [create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7926,7 +7926,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-xaml-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-xaml-universal.md)
 * Handoff File: [create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7938,7 +7938,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md)
 * Handoff File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7950,7 +7950,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/get-set-up.md)
 * Handoff File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7974,7 +7974,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/learn-more.md)
 * Handoff File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7986,7 +7986,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/managing-your-profile.md)
 * Handoff File: [managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -7998,7 +7998,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/opening-a-developer-account.md)
 * Handoff File: [opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8010,7 +8010,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/sign-up.md)
 * Handoff File: [sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8022,7 +8022,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\whats-a-uwp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/whats-a-uwp.md)
 * Handoff File: [whats-a-uwp.103f4d8c237764b15069ebfaba088e4e44517fe7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/whats-a-uwp.103f4d8c237764b15069ebfaba088e4e44517fe7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8034,7 +8034,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\your-first-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/your-first-app.md)
 * Handoff File: [your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8046,7 +8046,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md)
 * Handoff File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8058,7 +8058,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/animations-overview.md)
 * Handoff File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8070,7 +8070,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-animation.md)
 * Handoff File: [composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8082,7 +8082,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-brushes.md)
 * Handoff File: [composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8094,7 +8094,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-effects.md)
 * Handoff File: [composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8106,7 +8106,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md)
 * Handoff File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8118,7 +8118,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md)
 * Handoff File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8130,7 +8130,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md)
 * Handoff File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8142,7 +8142,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif)
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8155,7 +8155,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/index.md)
 * Handoff File: [index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8167,7 +8167,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/key-frame-and-easing-function-animations.md)
 * Handoff File: [key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8179,7 +8179,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\storyboarded-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/storyboarded-animations.md)
 * Handoff File: [storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8191,7 +8191,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/transforms-overview.md)
 * Handoff File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8203,7 +8203,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/using-brushes.md)
 * Handoff File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8215,7 +8215,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\visual-layer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/visual-layer.md)
 * Handoff File: [visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8227,7 +8227,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/index.md)
 * Handoff File: [index.e2bef827a3922d6092b4a2672eeac61275590024.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.e2bef827a3922d6092b4a2672eeac61275590024.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8239,7 +8239,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\add-ads-to-apps-with-microsoft-advertising.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/add-ads-to-apps-with-microsoft-advertising.md)
 * Handoff File: [add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8251,7 +8251,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\add-and-use-the-ad-mediator-control.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/add-and-use-the-ad-mediator-control.md)
 * Handoff File: [add-and-use-the-ad-mediator-control.0cbbf0a7c4cc717b4992cd07040f95ff6629bf67.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/add-and-use-the-ad-mediator-control.0cbbf0a7c4cc717b4992cd07040f95ff6629bf67.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8263,7 +8263,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\enable-consumable-in-app-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/enable-consumable-in-app-product-purchases.md)
 * Handoff File: [enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8275,7 +8275,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\enable-in-app-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/enable-in-app-product-purchases.md)
 * Handoff File: [enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8287,7 +8287,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\exclude-or-limit-features-in-a-trial-version-of-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/exclude-or-limit-features-in-a-trial-version-of-your-app.md)
 * Handoff File: [exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8299,7 +8299,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\grant-free-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/grant-free-products.md)
 * Handoff File: [grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8311,7 +8311,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/index.md)
 * Handoff File: [index.9a43326244b9332ed24e3588006cb46256f58abb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.9a43326244b9332ed24e3588006cb46256f58abb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8323,7 +8323,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\install-the-microsoft-universal-ad-client-sdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/install-the-microsoft-universal-ad-client-sdk.md)
 * Handoff File: [install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8335,7 +8335,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\manage-a-large-catalog-of-in-app-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/manage-a-large-catalog-of-in-app-products.md)
 * Handoff File: [manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8347,7 +8347,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\query-for-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/query-for-products.md)
 * Handoff File: [query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8359,7 +8359,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\renew-a-windows-store-id-key.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/renew-a-windows-store-id-key.md)
 * Handoff File: [renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8371,7 +8371,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\report-consumable-products-as-fulfilled.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/report-consumable-products-as-fulfilled.md)
 * Handoff File: [report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8383,7 +8383,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\select-and-manage-your-ad-networks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/select-and-manage-your-ad-networks.md)
 * Handoff File: [select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8395,7 +8395,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\submit-your-app-and-configure-ad-mediation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/submit-your-app-and-configure-ad-mediation.md)
 * Handoff File: [submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8407,7 +8407,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\test-your-ad-mediation-implementation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/test-your-ad-mediation-implementation.md)
 * Handoff File: [test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8419,7 +8419,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\troubleshoot-ad-mediation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/troubleshoot-ad-mediation.md)
 * Handoff File: [troubleshoot-ad-mediation.20d41f2d8baca2d0917ca1e9ebe6d291e263a4d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshoot-ad-mediation.20d41f2d8baca2d0917ca1e9ebe6d291e263a4d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8431,7 +8431,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\use-ad-mediation-to-maximize-revenue.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/use-ad-mediation-to-maximize-revenue.md)
 * Handoff File: [use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8443,7 +8443,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\use-receipts-to-verify-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/use-receipts-to-verify-product-purchases.md)
 * Handoff File: [use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8455,7 +8455,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\view-and-grant-products-from-a-service.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/view-and-grant-products-from-a-service.md)
 * Handoff File: [view-and-grant-products-from-a-service.e69a468383a54aeef8d6db622ecc3c59a7fd358c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/view-and-grant-products-from-a-service.e69a468383a54aeef8d6db622ecc3c59a7fd358c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8467,7 +8467,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\background-transfers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/background-transfers.md)
 * Handoff File: [background-transfers.7a606bc8f88b2297a71646f87d8d02f8d1859c66.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/background-transfers.7a606bc8f88b2297a71646f87d8d02f8d1859c66.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8527,7 +8527,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\httpclient.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/httpclient.md)
 * Handoff File: [httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8539,7 +8539,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/index.md)
 * Handoff File: [index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8551,7 +8551,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\network-communications-in-the-background.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/network-communications-in-the-background.md)
 * Handoff File: [network-communications-in-the-background.9f00ce6151956c88170574168d1d7389268ce7dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/network-communications-in-the-background.9f00ce6151956c88170574168d1d7389268ce7dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8563,7 +8563,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/networking-basics.md)
 * Handoff File: [networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8575,7 +8575,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\sockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/sockets.md)
 * Handoff File: [sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8587,7 +8587,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\web-feeds.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/web-feeds.md)
 * Handoff File: [web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8599,7 +8599,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/websockets.md)
 * Handoff File: [websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8611,7 +8611,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/which-networking-technology.md)
 * Handoff File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8623,7 +8623,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\app-capability-declarations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/app-capability-declarations.md)
 * Handoff File: [app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8635,7 +8635,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/index.md)
 * Handoff File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8647,7 +8647,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md)
 * Handoff File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8659,7 +8659,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\packaging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/packaging-uwp-apps.md)
 * Handoff File: [packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8671,7 +8671,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-animation.md)
 * Handoff File: [getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8683,7 +8683,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-choosing-a-programming-language.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-choosing-a-programming-language.md)
 * Handoff File: [getting-started-choosing-a-programming-language.b9a09e9bb3b2dd56e484aa5cab9b78552a429511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-choosing-a-programming-language.b9a09e9bb3b2dd56e484aa5cab9b78552a429511.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8695,7 +8695,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-common-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-common-controls.md)
 * Handoff File: [getting-started-common-controls.60e81aa4772648ce58249527aa48d301673e9bc1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-common-controls.60e81aa4772648ce58249527aa48d301673e9bc1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8707,7 +8707,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-creating-a-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-creating-a-project.md)
 * Handoff File: [getting-started-creating-a-project.6361db18fe04f57c6dea909e6fb7bf918b2e1226.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-creating-a-project.6361db18fe04f57c6dea909e6fb7bf918b2e1226.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8719,7 +8719,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-getting-around-in-visual-studio.md)
 * Handoff File: [getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8731,7 +8731,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-navigation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-navigation.md)
 * Handoff File: [getting-started-navigation.898677f5edd385bfed3e34355b5bc33b2eb704ad.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-navigation.898677f5edd385bfed3e34355b5bc33b2eb704ad.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8743,7 +8743,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-what-next.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-what-next.md)
 * Handoff File: [getting-started-what-next.2a5aeb67865eb25b002726b9970f1f39f7f8ca32.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-what-next.2a5aeb67865eb25b002726b9970f1f39f7f8ca32.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8755,7 +8755,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-with-uwp-for-ios-developers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-with-uwp-for-ios-developers.md)
 * Handoff File: [getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8767,7 +8767,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/index.md)
 * Handoff File: [index.02cfdd80a794895364e6db1352c7ec0bff239801.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.02cfdd80a794895364e6db1352c7ec0bff239801.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8779,7 +8779,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\ios-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/ios-to-uwp-root.md)
 * Handoff File: [ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8791,7 +8791,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\selecting-an-approach-to-ios-and-uwp-app-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/selecting-an-approach-to-ios-and-uwp-app-development.md)
 * Handoff File: [selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8803,7 +8803,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md)
 * Handoff File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8815,7 +8815,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md)
 * Handoff File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8827,7 +8827,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-bookstore1.md)
 * Handoff File: [w8x-to-uwp-case-study-bookstore1.ea2d4062c23a69ea394bc2ed9d2458b77fd9d0ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-bookstore1.ea2d4062c23a69ea394bc2ed9d2458b77fd9d0ca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8839,7 +8839,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-bookstore2.md)
 * Handoff File: [w8x-to-uwp-case-study-bookstore2.ec790a74e7aa088a430e656965b0287a89d5472f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-bookstore2.ec790a74e7aa088a430e656965b0287a89d5472f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8851,7 +8851,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-quizgame.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-quizgame.md)
 * Handoff File: [w8x-to-uwp-case-study-quizgame.d13eee65b1f108802aba45d1e2f80578d648c09b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-quizgame.d13eee65b1f108802aba45d1e2f80578d648c09b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8863,7 +8863,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md)
 * Handoff File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8875,7 +8875,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-to-a-uwp-project.md)
 * Handoff File: [w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8887,7 +8887,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md)
 * Handoff File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8899,7 +8899,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-root.md)
 * Handoff File: [w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8911,7 +8911,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-troubleshooting.md)
 * Handoff File: [w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8923,7 +8923,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-business-and-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-business-and-data.md)
 * Handoff File: [wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8935,7 +8935,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-case-study-bookstore1.md)
 * Handoff File: [wpsl-to-uwp-case-study-bookstore1.38a7dde3d572b66d58c764c4dc56f46e63b176f2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-case-study-bookstore1.38a7dde3d572b66d58c764c4dc56f46e63b176f2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8947,7 +8947,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-case-study-bookstore2.md)
 * Handoff File: [wpsl-to-uwp-case-study-bookstore2.8732f1af3c518457bd5b03e88b238fd53d97e375.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-case-study-bookstore2.8732f1af3c518457bd5b03e88b238fd53d97e375.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8959,7 +8959,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md)
 * Handoff File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8971,7 +8971,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md)
 * Handoff File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8983,7 +8983,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md)
 * Handoff File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -8995,7 +8995,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-to-a-uwp-project.md)
 * Handoff File: [wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9007,7 +9007,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md)
 * Handoff File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9019,7 +9019,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-root.md)
 * Handoff File: [wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9031,7 +9031,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md)
 * Handoff File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9043,7 +9043,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\about-house-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/about-house-ads.md)
 * Handoff File: [about-house-ads.7fab8592496cb1a6c93599465c3bff9782656be0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/about-house-ads.7fab8592496cb1a6c93599465c3bff9782656be0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9055,7 +9055,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/acquisitions-report.md)
 * Handoff File: [acquisitions-report.190a6fd55d65cfce7c475dd17c4353a64ad52587.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/acquisitions-report.190a6fd55d65cfce7c475dd17c4353a64ad52587.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9067,7 +9067,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/ad-mediation-report.md)
 * Handoff File: [ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9079,7 +9079,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\advertising-performance-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/advertising-performance-report.md)
 * Handoff File: [advertising-performance-report.7c69eca7d0e4a2a5b79f21d8397b0784931a677c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/advertising-performance-report.7c69eca7d0e4a2a5b79f21d8397b0784931a677c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9091,7 +9091,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\age-ratings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/age-ratings.md)
 * Handoff File: [age-ratings.e19b1ffd53f0f998b0e39d827175d3117769f8ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/age-ratings.e19b1ffd53f0f998b0e39d827175d3117769f8ed.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9103,7 +9103,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\analytics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/analytics.md)
 * Handoff File: [analytics.455ce9e2f62c707f75af2401970ab7384331bdaa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analytics.455ce9e2f62c707f75af2401970ab7384331bdaa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9115,7 +9115,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-declarations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-declarations.md)
 * Handoff File: [app-declarations.5c1af0dea9a4d28357b1349b01a714e1fdb0b4bc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-declarations.5c1af0dea9a4d28357b1349b01a714e1fdb0b4bc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9127,7 +9127,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-install-ads-reports.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-install-ads-reports.md)
 * Handoff File: [app-install-ads-reports.911e6730d778a0f3bc2c5e055937282c888cd455.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-install-ads-reports.911e6730d778a0f3bc2c5e055937282c888cd455.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9139,7 +9139,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-management-and-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-management-and-services.md)
 * Handoff File: [app-management-and-services.3a7db6bdadfec4a523f7155c2e0533f7ba3bc7e3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-management-and-services.3a7db6bdadfec4a523f7155c2e0533f7ba3bc7e3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9151,7 +9151,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-marketing-guidelines.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-marketing-guidelines.md)
 * Handoff File: [app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9163,7 +9163,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-package-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-package-requirements.md)
 * Handoff File: [app-package-requirements.e8abc8daa488ce664fd2f5b6fbbb00d4bedea184.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-package-requirements.e8abc8daa488ce664fd2f5b6fbbb00d4bedea184.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9175,7 +9175,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-promotion-and-customer-engagement.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-promotion-and-customer-engagement.md)
 * Handoff File: [app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9187,7 +9187,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-screenshots-and-images.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-screenshots-and-images.md)
 * Handoff File: [app-screenshots-and-images.f88dc906664ea6b020594c48baccc1019c76acfe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-screenshots-and-images.f88dc906664ea6b020594c48baccc1019c76acfe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9199,7 +9199,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-submissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-submissions.md)
 * Handoff File: [app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9211,7 +9211,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\avoid-common-certification-failures.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/avoid-common-certification-failures.md)
 * Handoff File: [avoid-common-certification-failures.dddfe460b1f0d0ee6f3a59650c004260052ccbfa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoid-common-certification-failures.dddfe460b1f0d0ee6f3a59650c004260052ccbfa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9223,7 +9223,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\beta-testing-and-targeted-distribution.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/beta-testing-and-targeted-distribution.md)
 * Handoff File: [beta-testing-and-targeted-distribution.40714beb4fea018208df0acf2c1b1cf108c779a5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing-and-targeted-distribution.40714beb4fea018208df0acf2c1b1cf108c779a5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9235,7 +9235,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\category-and-subcategory-table.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/category-and-subcategory-table.md)
 * Handoff File: [category-and-subcategory-table.4dc343c829f7c72d24a11ff563f9faea66e74e57.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/category-and-subcategory-table.4dc343c829f7c72d24a11ff563f9faea66e74e57.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9247,7 +9247,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\channels-and-conversions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/channels-and-conversions-report.md)
 * Handoff File: [channels-and-conversions-report.54c314ab02735e1c67c34a8aefa9ffc04e148668.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/channels-and-conversions-report.54c314ab02735e1c67c34a8aefa9ffc04e148668.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9259,7 +9259,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\common-questions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/common-questions.md)
 * Handoff File: [common-questions.9959466d216073817dc5d6918cad7fc6649b1617.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/common-questions.9959466d216073817dc5d6918cad7fc6649b1617.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9271,7 +9271,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-a-custom-app-promotion-campaign.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-a-custom-app-promotion-campaign.md)
 * Handoff File: [create-a-custom-app-promotion-campaign.10b3d41ff1061cdd6dbaacf41bc04cf7705ed4ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-custom-app-promotion-campaign.10b3d41ff1061cdd6dbaacf41bc04cf7705ed4ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9283,7 +9283,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-an-ad-campaign-for-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-an-ad-campaign-for-your-app.md)
 * Handoff File: [create-an-ad-campaign-for-your-app.d591a19c6572f58706825ac22db632b938ee8dcb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-an-ad-campaign-for-your-app.d591a19c6572f58706825ac22db632b938ee8dcb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9295,7 +9295,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-app-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-app-descriptions.md)
 * Handoff File: [create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9307,7 +9307,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-iap-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-iap-descriptions.md)
 * Handoff File: [create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9319,7 +9319,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-platform-specific-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-platform-specific-descriptions.md)
 * Handoff File: [create-platform-specific-descriptions.52d46858f84709ed13b593d48357884f5e00c15d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-platform-specific-descriptions.52d46858f84709ed13b593d48357884f5e00c15d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9331,7 +9331,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-your-app-by-reserving-a-name.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-your-app-by-reserving-a-name.md)
 * Handoff File: [create-your-app-by-reserving-a-name.fffb9e18159e6ed65206734d6d73a6fb362d369c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-your-app-by-reserving-a-name.fffb9e18159e6ed65206734d6d73a6fb362d369c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9343,7 +9343,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\define-pricing-and-market-selection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/define-pricing-and-market-selection.md)
 * Handoff File: [define-pricing-and-market-selection.1db6a701782e36b0eb5a90069bed9475a8b3edf9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/define-pricing-and-market-selection.1db6a701782e36b0eb5a90069bed9475a8b3edf9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9355,7 +9355,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\distribute-lob-apps-to-enterprises.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/distribute-lob-apps-to-enterprises.md)
 * Handoff File: [distribute-lob-apps-to-enterprises.caf3bbf99f80e7e913dfb48e0413077bff680550.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distribute-lob-apps-to-enterprises.caf3bbf99f80e7e913dfb48e0413077bff680550.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9367,7 +9367,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\download-analytic-reports.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/download-analytic-reports.md)
 * Handoff File: [download-analytic-reports.3d323a332686f489173052e30076ee281d544e08.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/download-analytic-reports.3d323a332686f489173052e30076ee281d544e08.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9379,7 +9379,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\enter-app-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/enter-app-properties.md)
 * Handoff File: [enter-app-properties.5046ffc90629a374f5778dbbce333384bccc08e4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enter-app-properties.5046ffc90629a374f5778dbbce333384bccc08e4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9391,7 +9391,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\enter-iap-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/enter-iap-properties.md)
 * Handoff File: [enter-iap-properties.ffaff1ed561e5005055f8f4152baed6079b5df66.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enter-iap-properties.ffaff1ed561e5005055f8f4152baed6079b5df66.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9403,7 +9403,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\generate-preinstall-packages-for-oems.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/generate-preinstall-packages-for-oems.md)
 * Handoff File: [generate-preinstall-packages-for-oems.968dceefa201152449c8051b603088891d8b332c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/generate-preinstall-packages-for-oems.968dceefa201152449c8051b603088891d8b332c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9415,7 +9415,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\generate-promotional-codes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/generate-promotional-codes.md)
 * Handoff File: [generate-promotional-codes.7a39f65d52b445c3f54d218ed9aa7b3a9d446d2b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/generate-promotional-codes.7a39f65d52b445c3f54d218ed9aa7b3a9d446d2b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9427,7 +9427,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\getting-paid-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/getting-paid-apps.md)
 * Handoff File: [getting-paid-apps.7d80c1fe0d90ab2c827e673f1557658e0e8699b4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-paid-apps.7d80c1fe0d90ab2c827e673f1557658e0e8699b4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9439,7 +9439,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\guidance-for-app-package-management.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/guidance-for-app-package-management.md)
 * Handoff File: [guidance-for-app-package-management.d9360b2a1639af4f0aefe61d72e7fa273754f3c4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidance-for-app-package-management.d9360b2a1639af4f0aefe61d72e7fa273754f3c4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9451,7 +9451,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\health-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/health-report.md)
 * Handoff File: [health-report.58669872d23ac63ad122e4bffe24704c4a4eac4d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/health-report.58669872d23ac63ad122e4bffe24704c4a4eac4d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9463,7 +9463,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\how-your-app-appears-in-the-store-for-windows-10-customers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/how-your-app-appears-in-the-store-for-windows-10-customers.md)
 * Handoff File: [how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9475,7 +9475,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\iap-acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/iap-acquisitions-report.md)
 * Handoff File: [iap-acquisitions-report.2b5908bf06bc12739f6c9c0d5a508ac90ebe8504.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/iap-acquisitions-report.2b5908bf06bc12739f6c9c0d5a508ac90ebe8504.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9487,7 +9487,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\iap-submissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/iap-submissions.md)
 * Handoff File: [iap-submissions.53095fd63bb22535a6588aa508c0d9d0743bcf6c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/iap-submissions.53095fd63bb22535a6588aa508c0d9d0743bcf6c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9499,7 +9499,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\link-to-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/link-to-your-app.md)
 * Handoff File: [link-to-your-app.1ccb15949263e42b125e4d61281f6a56e207e003.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/link-to-your-app.1ccb15949263e42b125e4d61281f6a56e207e003.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9511,7 +9511,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\make-your-app-easier-to-promote.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/make-your-app-easier-to-promote.md)
 * Handoff File: [make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9523,7 +9523,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\manage-account-users.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/manage-account-users.md)
 * Handoff File: [manage-account-users.86a86117e1d656caf4f8a0ef19c11ae408fc72f4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-account-users.86a86117e1d656caf4f8a0ef19c11ae408fc72f4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9535,7 +9535,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\manage-app-names.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/manage-app-names.md)
 * Handoff File: [manage-app-names.a41334c6c7ce2694d502f850268403d030dd07b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-app-names.a41334c6c7ce2694d502f850268403d030dd07b8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9547,7 +9547,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\managing-your-ad-campaign.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/managing-your-ad-campaign.md)
 * Handoff File: [managing-your-ad-campaign.3282f1722fc63273f3c5167ba97cd9ad4d3d6aa8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-ad-campaign.3282f1722fc63273f3c5167ba97cd9ad4d3d6aa8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9559,7 +9559,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\mobile-operator-billing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/mobile-operator-billing.md)
 * Handoff File: [mobile-operator-billing.d29ca18bc3792ed8939616447619d46b211d8a0d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mobile-operator-billing.d29ca18bc3792ed8939616447619d46b211d8a0d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9571,7 +9571,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\monetize-with-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/monetize-with-ads.md)
 * Handoff File: [monetize-with-ads.c960916ecd87e53547e28c3e84bed284e8358605.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/monetize-with-ads.c960916ecd87e53547e28c3e84bed284e8358605.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9583,7 +9583,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\notes-for-certification.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/notes-for-certification.md)
 * Handoff File: [notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9595,7 +9595,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\organizational-licensing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/organizational-licensing.md)
 * Handoff File: [organizational-licensing.0b2aac88ef16d5c4b405f0c32e0a3e5bf2daed58.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/organizational-licensing.0b2aac88ef16d5c4b405f0c32e0a3e5bf2daed58.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9607,7 +9607,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\package-version-numbering.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/package-version-numbering.md)
 * Handoff File: [package-version-numbering.ec0c9240747af7b47f101588a253d9bf5cc02706.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/package-version-numbering.ec0c9240747af7b47f101588a253d9bf5cc02706.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9619,7 +9619,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\payout-summary.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/payout-summary.md)
 * Handoff File: [payout-summary.41fccb4c5178e6b55ec0bdd693d79e01c67035fc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/payout-summary.41fccb4c5178e6b55ec0bdd693d79e01c67035fc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9631,7 +9631,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\pubcenter-dev-center-integration.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/pubcenter-dev-center-integration.md)
 * Handoff File: [pubcenter-dev-center-integration.507e185bbf3bf00a9e18a0417c36f6981a33841c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pubcenter-dev-center-integration.507e185bbf3bf00a9e18a0417c36f6981a33841c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9643,7 +9643,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\pubcenter-devcenter-payout-account-and-tax-profile-consolidation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.md)
 * Handoff File: [pubcenter-devcenter-payout-account-and-tax-profile-consolidation.9bc9a27505eda4968d93ff2ddb6f54aae7ea1ed2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.9bc9a27505eda4968d93ff2ddb6f54aae7ea1ed2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9655,7 +9655,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\put-apps-and-iaps-on-sale.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/put-apps-and-iaps-on-sale.md)
 * Handoff File: [put-apps-and-iaps-on-sale.62f356ecedf6ecdafb7802afc442d9408fbd96fe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/put-apps-and-iaps-on-sale.62f356ecedf6ecdafb7802afc442d9408fbd96fe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9667,7 +9667,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\ratings-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/ratings-report.md)
 * Handoff File: [ratings-report.7ecbaa2537ac2dde7946f9606d8384e8e62b9968.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ratings-report.7ecbaa2537ac2dde7946f9606d8384e8e62b9968.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9679,7 +9679,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\resolve-package-upload-errors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/resolve-package-upload-errors.md)
 * Handoff File: [resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9691,7 +9691,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\resolve-submission-errors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/resolve-submission-errors.md)
 * Handoff File: [resolve-submission-errors.9c0d400d7f814327ef10df38bce332e8a0595732.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resolve-submission-errors.9c0d400d7f814327ef10df38bce332e8a0595732.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9703,7 +9703,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\respond-to-customer-reviews.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/respond-to-customer-reviews.md)
 * Handoff File: [respond-to-customer-reviews.1d72bceba87f265a0bcc587e6bfc62e5ea2eaee0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/respond-to-customer-reviews.1d72bceba87f265a0bcc587e6bfc62e5ea2eaee0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9715,7 +9715,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\reviews-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/reviews-report.md)
 * Handoff File: [reviews-report.beaee5fc0e83c7c34acd6d1d5dfacab2c22f97dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/reviews-report.beaee5fc0e83c7c34acd6d1d5dfacab2c22f97dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9727,7 +9727,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\set-app-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/set-app-pricing-and-availability.md)
 * Handoff File: [set-app-pricing-and-availability.068f2bdf0b0767c0b298aa065874c21058f95b0a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-app-pricing-and-availability.068f2bdf0b0767c0b298aa065874c21058f95b0a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9739,7 +9739,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/set-iap-pricing-and-availability.md)
 * Handoff File: [set-iap-pricing-and-availability.5a4df777e6835eea971f97770207b184b3739f34.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.5a4df777e6835eea971f97770207b184b3739f34.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9751,7 +9751,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\setting-up-your-payout-account-and-tax-forms.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/setting-up-your-payout-account-and-tax-forms.md)
 * Handoff File: [setting-up-your-payout-account-and-tax-forms.303228f67f4e74cd62b4a03c089fb8b3fb09d8ee.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-payout-account-and-tax-forms.303228f67f4e74cd62b4a03c089fb8b3fb09d8ee.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9763,7 +9763,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\set-your-iap-product-id.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/set-your-iap-product-id.md)
 * Handoff File: [set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9775,7 +9775,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\supported-languages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/supported-languages.md)
 * Handoff File: [supported-languages.68d6a708120ab6d079704311e8ef0c0de756b08f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/supported-languages.68d6a708120ab6d079704311e8ef0c0de756b08f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9787,7 +9787,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\tax-details-for-paid-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/tax-details-for-paid-apps.md)
 * Handoff File: [tax-details-for-paid-apps.fe9c018831e9993233edb95c568b6139cf7c212b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tax-details-for-paid-apps.fe9c018831e9993233edb95c568b6139cf7c212b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9799,7 +9799,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\the-app-certification-process.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/the-app-certification-process.md)
 * Handoff File: [the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9811,7 +9811,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\trademark-and-copyright-protection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/trademark-and-copyright-protection.md)
 * Handoff File: [trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9823,7 +9823,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\upload-app-packages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/upload-app-packages.md)
 * Handoff File: [upload-app-packages.edb6fc8b1be2ce6c9be4e56c11969934bb48838c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/upload-app-packages.edb6fc8b1be2ce6c9be4e56c11969934bb48838c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9835,7 +9835,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\usage-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/usage-report.md)
 * Handoff File: [usage-report.bc29ea8b6f1bd00cb6d21213966b46e30751e298.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/usage-report.bc29ea8b6f1bd00cb6d21213966b46e30751e298.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9847,7 +9847,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\use-map-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/use-map-services.md)
 * Handoff File: [use-map-services.0a733665c32cecd2565a6da179e414f8ec7fa466.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-map-services.0a733665c32cecd2565a6da179e414f8ec7fa466.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9859,7 +9859,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\using-the-windows-dev-center-dashboard.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/using-the-windows-dev-center-dashboard.md)
 * Handoff File: [using-the-windows-dev-center-dashboard.cba43f0dc93c1578406aa24b6e130c82e6b2cf71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-the-windows-dev-center-dashboard.cba43f0dc93c1578406aa24b6e130c82e6b2cf71.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9871,7 +9871,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\vat-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/vat-info.md)
 * Handoff File: [vat-info.4cc8d57272bc68cced462be2303b32b1fdfa906d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/vat-info.4cc8d57272bc68cced462be2303b32b1fdfa906d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9883,7 +9883,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\view-app-identity-details.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/view-app-identity-details.md)
 * Handoff File: [view-app-identity-details.e75b7cac7fb9259d8ed562b9cf8c2ff4f36ed380.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/view-app-identity-details.e75b7cac7fb9259d8ed562b9cf8c2ff4f36ed380.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9895,7 +9895,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\write-a-great-app-description.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/write-a-great-app-description.md)
 * Handoff File: [write-a-great-app-description.63f48a9acadf61435bc2ffe4294e3ff4bb87b6a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/write-a-great-app-description.63f48a9acadf61435bc2ffe4294e3ff4bb87b6a1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9907,7 +9907,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\asynchronous-programming-in-cpp-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/asynchronous-programming-in-cpp-universal-windows-platform-apps.md)
 * Handoff File: [asynchronous-programming-in-cpp-universal-windows-platform-apps.179fc848189af173bc08c5ae2751a2b9d07759e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/asynchronous-programming-in-cpp-universal-windows-platform-apps.179fc848189af173bc08c5ae2751a2b9d07759e8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -9919,7 +9919,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\asynchronous-programming-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/asynchronous-programming-universal-windows-platform-apps.md)
 * Handoff File: [asynchronous-programming-universal-windows-platform-apps.5cfa603e419f0c9fa689c8c235e80b2908cb8e07.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/asynchronous-programming-universal-windows-platform-apps.5cfa603e419f0c9fa689c8c235e80b2908cb8e07.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10123,7 +10123,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/best-practices-for-using-the-thread-pool.md)
 * Handoff File: [best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10135,7 +10135,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\call-asynchronous-apis-in-csharp-or-visual-basic.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/call-asynchronous-apis-in-csharp-or-visual-basic.md)
 * Handoff File: [call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10147,7 +10147,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/create-a-periodic-work-item.md)
 * Handoff File: [create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10159,7 +10159,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/index.md)
 * Handoff File: [index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10171,7 +10171,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md)
 * Handoff File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10183,7 +10183,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/use-a-timer-to-submit-a-work-item.md)
 * Handoff File: [use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10195,7 +10195,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/TOC.md)
 * Handoff File: [TOC.591ab1c9076a8a4e18998d3129637b5cc103b5f2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.591ab1c9076a8a4e18998d3129637b5cc103b5f2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10207,7 +10207,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [accessibility.fb0fd014abf207a72c978f5fc5397dd09f3144ad.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility.fb0fd014abf207a72c978f5fc5397dd09f3144ad.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10219,7 +10219,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-checklist.md)
 * Handoff File: [accessibility-checklist.60a63c7f72959b264db7200b3d1e6ef5bbbb0782.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-checklist.60a63c7f72959b264db7200b3d1e6ef5bbbb0782.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10231,7 +10231,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-in-the-store.md)
 * Handoff File: [accessibility-in-the-store.5a6a74fde5ca5b46b9e8e9d49351abf09f0bd6f2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-in-the-store.5a6a74fde5ca5b46b9e8e9d49351abf09f0bd6f2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10243,7 +10243,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-overview.md)
 * Handoff File: [accessibility-overview.2955d189b04dbf0cbfc0f6cb576950bde10db3dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-overview.2955d189b04dbf0cbfc0f6cb576950bde10db3dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10255,7 +10255,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-testing.md)
 * Handoff File: [accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.ca7a36c28ccc34b72a1dc9010c27c75d84760094.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10267,7 +10267,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/accessible-text-requirements.md)
 * Handoff File: [accessible-text-requirements.7bda277a4b874a69a5616d0ea5302ea8022e2775.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessible-text-requirements.7bda277a4b874a69a5616d0ea5302ea8022e2775.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10279,7 +10279,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/basic-accessibility-information.md)
 * Handoff File: [basic-accessibility-information.c77b148c933fc31603229ad72aa8c96bb6a976ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/basic-accessibility-information.c77b148c933fc31603229ad72aa8c96bb6a976ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10291,7 +10291,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/control-patterns-and-interfaces.md)
 * Handoff File: [control-patterns-and-interfaces.325afa787af3941170289a63f22d2e3796060f8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/control-patterns-and-interfaces.325afa787af3941170289a63f22d2e3796060f8e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10303,7 +10303,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\custom-automation-peers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/custom-automation-peers.md)
 * Handoff File: [custom-automation-peers.84bcb048c537e06d14b6ea9af007e529213a8868.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-automation-peers.84bcb048c537e06d14b6ea9af007e529213a8868.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10315,7 +10315,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\high-contrast-themes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/high-contrast-themes.md)
 * Handoff File: [high-contrast-themes.04e1ca28037ca1e47535bf9f53e6c73802edb9ec.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/high-contrast-themes.04e1ca28037ca1e47535bf9f53e6c73802edb9ec.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10327,7 +10327,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\keyboard-accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/keyboard-accessibility.md)
 * Handoff File: [keyboard-accessibility.42255996abb60f4b9643122e1b63fe40e73ff701.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keyboard-accessibility.42255996abb60f4b9643122e1b63fe40e73ff701.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10339,7 +10339,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\accessibility\practices-to-avoid.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/accessibility/practices-to-avoid.md)
 * Handoff File: [practices-to-avoid.f9b62b9139e615dc01de20be1477d23cebad699b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/practices-to-avoid.f9b62b9139e615dc01de20be1477d23cebad699b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10351,7 +10351,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\app-settings\store-and-retrieve-app-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/app-settings/store-and-retrieve-app-data.md)
 * Handoff File: [store-and-retrieve-app-data.d0c9d02a6f0d4327b38fb807e23a4b53915feb76.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/store-and-retrieve-app-data.d0c9d02a6f0d4327b38fb807e23a4b53915feb76.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10363,7 +10363,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\adjust-layout-and-fonts-and-support-rtl.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/adjust-layout-and-fonts-and-support-rtl.md)
 * Handoff File: [adjust-layout-and-fonts-and-support-rtl.b987b6ce99e5cf97225a119f2cc814633b83e4e5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adjust-layout-and-fonts-and-support-rtl.b987b6ce99e5cf97225a119f2cc814633b83e4e5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10375,7 +10375,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\globalizing-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/globalizing-portal.md)
 * Handoff File: [globalizing-portal.7a3452811abf2e3c8a8c9b8d1b7f8a3b57fb2bf9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/globalizing-portal.7a3452811abf2e3c8a8c9b8d1b7f8a3b57fb2bf9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10387,7 +10387,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\guidelines-and-checklist-for-globalizing-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/guidelines-and-checklist-for-globalizing-your-app.md)
 * Handoff File: [guidelines-and-checklist-for-globalizing-your-app.1d122b6f2e7432e34e2492eca1d6349b40cadf52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-and-checklist-for-globalizing-your-app.1d122b6f2e7432e34e2492eca1d6349b40cadf52.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10399,7 +10399,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\manage-language-and-region.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/manage-language-and-region.md)
 * Handoff File: [manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10411,7 +10411,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\prepare-your-app-for-localization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/prepare-your-app-for-localization.md)
 * Handoff File: [prepare-your-app-for-localization.2e4e1e9e8358f6ab792b819a359cab3eb5f72c52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/prepare-your-app-for-localization.2e4e1e9e8358f6ab792b819a359cab3eb5f72c52.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10423,7 +10423,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\put-ui-strings-into-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/put-ui-strings-into-resources.md)
 * Handoff File: [put-ui-strings-into-resources.18b2502ac4690df85779e12f399d0c56547b4ade.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/put-ui-strings-into-resources.18b2502ac4690df85779e12f399d0c56547b4ade.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10435,7 +10435,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\use-global-ready-formats.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/use-global-ready-formats.md)
 * Handoff File: [use-global-ready-formats.2ba6cab869617d9e5706282d4bec247107efe2c2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-global-ready-formats.2ba6cab869617d9e5706282d4bec247107efe2c2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10447,7 +10447,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\use-patterns-to-format-dates-and-times.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/use-patterns-to-format-dates-and-times.md)
 * Handoff File: [use-patterns-to-format-dates-and-times.62050569980a033be4f7cabeedc02569a3963f3b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-patterns-to-format-dates-and-times.62050569980a033be4f7cabeedc02569a3963f3b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10459,7 +10459,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\attached-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/attached-properties-overview.md)
 * Handoff File: [attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10471,7 +10471,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/binding-markup-extension.md)
 * Handoff File: [binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10483,7 +10483,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\custom-attached-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/custom-attached-properties.md)
 * Handoff File: [custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10495,7 +10495,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\custom-dependency-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/custom-dependency-properties.md)
 * Handoff File: [custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10507,7 +10507,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/customresource-markup-extension.md)
 * Handoff File: [customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10519,7 +10519,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\dependency-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/dependency-properties-overview.md)
 * Handoff File: [dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10531,7 +10531,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\events-and-routed-events-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/events-and-routed-events-overview.md)
 * Handoff File: [events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10543,7 +10543,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/index.md)
 * Handoff File: [index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10555,7 +10555,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md)
 * Handoff File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10567,7 +10567,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md)
 * Handoff File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10579,7 +10579,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/relativesource-markup-extension.md)
 * Handoff File: [relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10591,7 +10591,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/staticresource-markup-extension.md)
 * Handoff File: [staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10603,7 +10603,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/templatebinding-markup-extension.md)
 * Handoff File: [templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10615,7 +10615,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md)
 * Handoff File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10627,7 +10627,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/themeresource-markup-extension.md)
 * Handoff File: [themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10639,7 +10639,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md)
 * Handoff File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10651,7 +10651,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md)
 * Handoff File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10663,7 +10663,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md)
 * Handoff File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10675,7 +10675,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-namespaces-and-namespace-mapping.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-namespaces-and-namespace-mapping.md)
 * Handoff File: [xaml-namespaces-and-namespace-mapping.dac51a841cec2e6517e573ea79427b917b833b9c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namespaces-and-namespace-mapping.dac51a841cec2e6517e573ea79427b917b833b9c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10687,7 +10687,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-overview.md)
 * Handoff File: [xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10699,7 +10699,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-syntax-guide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-syntax-guide.md)
 * Handoff File: [xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10711,7 +10711,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-bind-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-bind-markup-extension.md)
 * Handoff File: [x-bind-markup-extension.72b2d09beccbc1fc344c685120aef62f4ba31369.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-bind-markup-extension.72b2d09beccbc1fc344c685120aef62f4ba31369.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10723,7 +10723,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-class-attribute.md)
 * Handoff File: [x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10735,7 +10735,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-deferloadstrategy-attribute.md)
 * Handoff File: [x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10747,7 +10747,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-fieldmodifier-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-fieldmodifier-attribute.md)
 * Handoff File: [x-fieldmodifier-attribute.00fa79b521bc83f6a88971c0f8bb084f29e90e96.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-fieldmodifier-attribute.00fa79b521bc83f6a88971c0f8bb084f29e90e96.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10759,7 +10759,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-key-attribute.md)
 * Handoff File: [x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10771,7 +10771,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-name-attribute.md)
 * Handoff File: [x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10783,7 +10783,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-null-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-null-markup-extension.md)
 * Handoff File: [x-null-markup-extension.58cf7edddeb6659609db5ebc6de8923f9fbecb08.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-null-markup-extension.58cf7edddeb6659609db5ebc6de8923f9fbecb08.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10795,7 +10795,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-phase-attribute.md)
 * Handoff File: [x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10807,7 +10807,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/x-uid-directive.md)
 * Handoff File: [x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10819,7 +10819,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci2/accessibility/accessibility.md)
 * Handoff File: [accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility.7e4ec979c545536e489363bdd8d456d161d138b1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10831,7 +10831,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessibility-checklist.md)
 * Handoff File: [accessibility-checklist.6a487713f6b3a5c62c0837b828e7053ef7bc340d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-checklist.6a487713f6b3a5c62c0837b828e7053ef7bc340d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10843,7 +10843,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-Copy.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessibility-Copy.md)
 * Handoff File: [accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-Copy.c63d4756550b0c7191b0e939735c15130dcdda39.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10858,7 +10858,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessibility-in-the-store.md)
 * Handoff File: [accessibility-in-the-store.ce85a1cd9789c011b6e89cdf4a915c66e97eb620.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-in-the-store.ce85a1cd9789c011b6e89cdf4a915c66e97eb620.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10870,7 +10870,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessibility-overview.md)
 * Handoff File: [accessibility-overview.4d097472c575a23e4fa8b349cc53590f8b1a44fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-overview.4d097472c575a23e4fa8b349cc53590f8b1a44fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10882,7 +10882,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessibility-testing.md)
 * Handoff File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10894,7 +10894,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/accessible-text-requirements.md)
 * Handoff File: [accessible-text-requirements.dced41e502a953a1ddc49463b9d010ccc7904d71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessible-text-requirements.dced41e502a953a1ddc49463b9d010ccc7904d71.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10906,7 +10906,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/basic-accessibility-information.md)
 * Handoff File: [basic-accessibility-information.0d3905f7d8c7b364a4061f09f1d0c0eb9a48b524.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/basic-accessibility-information.0d3905f7d8c7b364a4061f09f1d0c0eb9a48b524.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10918,7 +10918,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/control-patterns-and-interfaces.md)
 * Handoff File: [control-patterns-and-interfaces.a2da6825d04855854ae59257436a39823d0a6439.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/control-patterns-and-interfaces.a2da6825d04855854ae59257436a39823d0a6439.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10930,7 +10930,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\custom-automation-peers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/custom-automation-peers.md)
 * Handoff File: [custom-automation-peers.37b28fe9a18ef60c13b3caa5d9c5b260bb2b3aaa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-automation-peers.37b28fe9a18ef60c13b3caa5d9c5b260bb2b3aaa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10942,7 +10942,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\high-contrast-themes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/high-contrast-themes.md)
 * Handoff File: [high-contrast-themes.9e1283116aee171c26412f79c0e0ff427d296e98.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/high-contrast-themes.9e1283116aee171c26412f79c0e0ff427d296e98.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10954,7 +10954,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\keyboard-accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/keyboard-accessibility.md)
 * Handoff File: [keyboard-accessibility.c07a416c7ae98a9729e05b6ee3f0bec617988f7b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keyboard-accessibility.c07a416c7ae98a9729e05b6ee3f0bec617988f7b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10966,7 +10966,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\practices-to-avoid.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/practices-to-avoid.md)
 * Handoff File: [practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10978,7 +10978,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\accessibility\practices-to-avoid.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/accessibility/practices-to-avoid.md)
 * Handoff File: [practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/practices-to-avoid.5f7f01a695525ad07e3952c75a81ce134ee63eeb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -10990,7 +10990,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-settings\app-settings-and-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-settings/app-settings-and-data.md)
 * Handoff File: [app-settings-and-data.6ac4a16fbc5f38652a1cb36ee13824ae032dfd7c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-settings-and-data.6ac4a16fbc5f38652a1cb36ee13824ae032dfd7c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11002,7 +11002,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-settings\guidelines-for-app-settings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-settings/guidelines-for-app-settings.md)
 * Handoff File: [guidelines-for-app-settings.beb094156919e0fae0aaae5ace9119071f69d178.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-app-settings.beb094156919e0fae0aaae5ace9119071f69d178.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11038,7 +11038,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-settings\store-and-retrieve-app-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-settings/store-and-retrieve-app-data.md)
 * Handoff File: [store-and-retrieve-app-data.bb47a9f373ca0e93450cb87e2160cfede081ccf8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/store-and-retrieve-app-data.bb47a9f373ca0e93450cb87e2160cfede081ccf8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11494,7 +11494,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-to-app\copy-and-paste.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-to-app/copy-and-paste.md)
 * Handoff File: [copy-and-paste.ea064ca33e41f8e9b3188840e42fd748548e9441.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/copy-and-paste.ea064ca33e41f8e9b3188840e42fd748548e9441.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11506,7 +11506,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md)
 * Handoff File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11518,7 +11518,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\app-to-app\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/app-to-app/index.md)
 * Handoff File: [index.8516bc6d882b081c2236684930ae6e6096ac48e2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8516bc6d882b081c2236684930ae6e6096ac48e2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11530,7 +11530,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-to-app/receive-data.md)
 * Handoff File: [receive-data.5efe521840c62d871465cb952382469e25987eca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/receive-data.5efe521840c62d871465cb952382469e25987eca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11542,7 +11542,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/app-to-app/share-data.md)
 * Handoff File: [share-data.e76af90c15066d7c46a4b6b54a095dbd5720a1ee.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/share-data.e76af90c15066d7c46a4b6b54a095dbd5720a1ee.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11554,7 +11554,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming.md)
 * Handoff File: [adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adaptive-streaming.ad27508ebbf8345711f3272f09f44d36b9062305.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11566,7 +11566,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming-with-playready.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming-with-playready.md)
 * Handoff File: [adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adaptive-streaming-with-playready.f931cb35e7c2f336ca247a0143c1d6e70547707a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11578,7 +11578,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\audio-graphs.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/audio-graphs.md)
 * Handoff File: [audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/audio-graphs.dad20592f64514be27f44c47c3209c8a525bbe2f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11590,7 +11590,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\background-audio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/background-audio.md)
 * Handoff File: [background-audio.f66026485363a7e0569fcc6016caacc0793cab69.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/background-audio.f66026485363a7e0569fcc6016caacc0793cab69.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11602,7 +11602,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\bitmapencoder-options-reference.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/bitmapencoder-options-reference.md)
 * Handoff File: [bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bitmapencoder-options-reference.0fa9864d7941df960c66583a5ce09cd6170f568a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11614,7 +11614,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\camera-independent-flashlight.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/camera-independent-flashlight.md)
 * Handoff File: [camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/camera-independent-flashlight.273354eb33565b764165872c73021598b853a058.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11626,7 +11626,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\camera-profiles.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/camera-profiles.md)
 * Handoff File: [camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/camera-profiles.0ec096db9ca2c1d5f4a15ebf4fa053f769908667.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11638,7 +11638,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/f1b7c3c155a6d2f5b7348f1d23a798b5bd49213f/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md)
 * Handoff File: [capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-photo-and-video-capture.760b55fd639a341634ec7136a92ea6577e62761e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11650,7 +11650,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\audio-video-camera\capture-device-controls-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/audio-video-camera/capture-device-controls-for-video-capture.md)
 * Handoff File: [capture-device-controls-for-video-capture.6a0bc1c9de6c7bb37fe58d7bc4a0044e307bb5db.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-device-controls-for-video-capture.6a0bc1c9de6c7bb37fe58d7bc4a0044e307bb5db.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11662,7 +11662,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-photos-and-video-with-cameracaptureui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-photos-and-video-with-cameracaptureui.md)
 * Handoff File: [capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-photos-and-video-with-cameracaptureui.aba17b3db98a084c6dd26fbe726ff10d7c9c275a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -11674,7 +11674,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\capture-photos-and-video-with-mediacapture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/capture-photos-and-video-with-mediacapture.md)
 * Handoff File: [capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/capture-photos-and-video-with-mediacapture.0b841baab063eefd4e59ca1dc226098053a502b4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -13978,7 +13978,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\detect-and-track-faces-in-an-image.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/detect-and-track-faces-in-an-image.md)
 * Handoff File: [detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/detect-and-track-faces-in-an-image.67e5866ac8e294cecf48e84f782b54fcdc402e1d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -13990,7 +13990,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\effects-for-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/effects-for-video-capture.md)
 * Handoff File: [effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/effects-for-video-capture.0909f8caf28c915597d8465efb8f4f21343a29c7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14002,7 +14002,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\get-a-preview-frame.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/get-a-preview-frame.md)
 * Handoff File: [get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-a-preview-frame.6e8790178b6a7006b6f412beafda806bfd85372e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14014,7 +14014,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\hardware-drm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/hardware-drm.md)
 * Handoff File: [hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/hardware-drm.6e3b289924f382fd61a4c7849814e9166a007b10.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14026,7 +14026,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\high-dynamic-range-hdr-photo-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/high-dynamic-range-hdr-photo-capture.md)
 * Handoff File: [high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/high-dynamic-range-hdr-photo-capture.a85be19e45ed348ae57de1321970352ebee18528.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14038,7 +14038,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\image-metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/image-metadata.md)
 * Handoff File: [image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/image-metadata.c9c60a337a8c37bb39cf0a68f98b9858d1a2da9a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14050,7 +14050,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\imaging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/imaging.md)
 * Handoff File: [imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/imaging.175d9df7e94a1fc57030da38199e5cbfe13137aa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14062,7 +14062,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/index.md)
 * Handoff File: [index.a9430364886a3b06e3921637072a0aaee016e553.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a9430364886a3b06e3921637072a0aaee016e553.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14074,7 +14074,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-casting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-casting.md)
 * Handoff File: [media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-casting.ac986e0aa63b2f0eae3698473b40669c5d4af3c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14086,7 +14086,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-compositions-and-editing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-compositions-and-editing.md)
 * Handoff File: [media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-compositions-and-editing.a4f0c7e1818d5678b745f9ea4cbeefb07e765c7b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14098,7 +14098,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\media-playback-with-mediasource.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/media-playback-with-mediasource.md)
 * Handoff File: [media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-playback-with-mediasource.7b4e3d6bbf9945dab97325c385db5e68ca7ef92a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14110,7 +14110,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\midi.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/midi.md)
 * Handoff File: [midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/midi.2ef0afab3f19b7f17af6a04f33db943faf36b627.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14122,7 +14122,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\playready-client-sdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/playready-client-sdk.md)
 * Handoff File: [playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/playready-client-sdk.925b058b149f2c80c3295db3ca8bad4950fbfe63.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14134,7 +14134,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\playready-encrypted-media-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/playready-encrypted-media-extension.md)
 * Handoff File: [playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/playready-encrypted-media-extension.3eb4f2554423e0c8cac177f9d4d37cd87f1fa146.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14146,7 +14146,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\process-media-files-in-the-background.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/process-media-files-in-the-background.md)
 * Handoff File: [process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/process-media-files-in-the-background.56a5cb3b562a1b70f51d9679d72078ebb09b9ecb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14158,7 +14158,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\scene-analysis-for-media-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/scene-analysis-for-media-capture.md)
 * Handoff File: [scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scene-analysis-for-media-capture.d8155ec5104aeec9f5ea5fa51c259f580be47402.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14170,7 +14170,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\set-media-encoding-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/set-media-encoding-properties.md)
 * Handoff File: [set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-media-encoding-properties.448cf88fc28ffd4a46bbe59a452d2398de5f3aba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14182,7 +14182,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\simple-camera-preview-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/simple-camera-preview-access.md)
 * Handoff File: [simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/simple-camera-preview-access.8986c11c2d98b17dc76e7e42324d8dc762a4f93d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14194,7 +14194,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\supported-codecs.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/supported-codecs.md)
 * Handoff File: [supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/supported-codecs.62cd34b114887b447ea8f3740a65ca629bc73812.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14206,7 +14206,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\system-media-transport-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/system-media-transport-controls.md)
 * Handoff File: [system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/system-media-transport-controls.563a94bceca940ec0a52134cb28f6517665ae14a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14218,7 +14218,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\transcode-media-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/transcode-media-files.md)
 * Handoff File: [transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transcode-media-files.5ca3115ca70d979f20301441e8609ad57c695047.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14230,7 +14230,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\audio-video-camera\variable-photo-sequence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/audio-video-camera/variable-photo-sequence.md)
 * Handoff File: [variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/variable-photo-sequence.73f0aab1b682c841a24f2ffaa26033de15e9f320.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14242,7 +14242,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md)
 * Handoff File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14254,7 +14254,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\contacts-and-calendar\managing-appointments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/contacts-and-calendar/managing-appointments.md)
 * Handoff File: [managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-appointments.f1c1e6efe7d259db9a81bffba704e33cdefc867f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14266,7 +14266,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/contacts-and-calendar/selecting-contacts.md)
 * Handoff File: [selecting-contacts.a6709db2fd10cbc1fc48f280f208ab9c32bd18e4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-contacts.a6709db2fd10cbc1fc48f280f208ab9c32bd18e4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14278,7 +14278,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/contacts-and-calendar/sending-an-sms-message.md)
 * Handoff File: [sending-an-sms-message.53c3a8946ee471b20fa8c22d9c2472756d8f3562.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-an-sms-message.53c3a8946ee471b20fa8c22d9c2472756d8f3562.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14290,7 +14290,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/contacts-and-calendar/sending-email.md)
 * Handoff File: [sending-email.31e06c68455bed072bc155aebbcdd29f08716aed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-email.31e06c68455bed072bc155aebbcdd29f08716aed.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14302,7 +14302,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\active-canvas.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/active-canvas.md)
 * Handoff File: [active-canvas.8d50c16185efed0388a9508f73eb9ef30e751b45.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/active-canvas.8d50c16185efed0388a9508f73eb9ef30e751b45.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14314,7 +14314,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\app-bars.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/app-bars.md)
 * Handoff File: [app-bars.3c9f794aa6dd3da29c5f1e03efd2a952ee2274c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-bars.3c9f794aa6dd3da29c5f1e03efd2a952ee2274c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14326,7 +14326,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\auto-suggest-box.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/auto-suggest-box.md)
 * Handoff File: [auto-suggest-box.6f9106f347927a14ae335af1ffe75eab748624f5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/auto-suggest-box.6f9106f347927a14ae335af1ffe75eab748624f5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14338,7 +14338,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\buttons.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/buttons.md)
 * Handoff File: [buttons.936098ddc52733b49291d896c8481e9dc30e9f7b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/buttons.936098ddc52733b49291d896c8481e9dc30e9f7b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14350,7 +14350,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\calendar-date-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/calendar-date-picker.md)
 * Handoff File: [calendar-date-picker.1cfb150f8cea6b81479fb7f3e9d4669915e9316f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calendar-date-picker.1cfb150f8cea6b81479fb7f3e9d4669915e9316f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14362,7 +14362,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\calendar-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/calendar-view.md)
 * Handoff File: [calendar-view.1a90af3a3a95f4246eb3790f712ed38f7cd85570.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calendar-view.1a90af3a3a95f4246eb3790f712ed38f7cd85570.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14374,7 +14374,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\checkbox.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/checkbox.md)
 * Handoff File: [checkbox.0e4a35be0086edeaf22cfc84ab47d4cf32a65579.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/checkbox.0e4a35be0086edeaf22cfc84ab47d4cf32a65579.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14386,7 +14386,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\controls-and-events-intro.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/controls-and-events-intro.md)
 * Handoff File: [controls-and-events-intro.23ffaf58a7039e0ee422c089a512367dc89667d8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/controls-and-events-intro.23ffaf58a7039e0ee422c089a512367dc89667d8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14398,7 +14398,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\controls-by-function.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/controls-by-function.md)
 * Handoff File: [controls-by-function.21164fc963b861b21b00c822bc0fff3876852a23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/controls-by-function.21164fc963b861b21b00c822bc0fff3876852a23.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14410,7 +14410,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\control-templates.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/control-templates.md)
 * Handoff File: [control-templates.244c78243de14637a27a7034f29f7211f21e37fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/control-templates.244c78243de14637a27a7034f29f7211f21e37fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14422,7 +14422,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\custom-transport-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/custom-transport-controls.md)
 * Handoff File: [custom-transport-controls.8344248a9263650dae7acc954c9e66fbd43a51c0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-transport-controls.8344248a9263650dae7acc954c9e66fbd43a51c0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14434,7 +14434,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\date-and-time.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/date-and-time.md)
 * Handoff File: [date-and-time.948e96ee46bd71cf191781de099a417e18ab2b66.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/date-and-time.948e96ee46bd71cf191781de099a417e18ab2b66.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14446,7 +14446,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\date-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/date-picker.md)
 * Handoff File: [date-picker.9d4592dc7ffec2b8167e531195ba721da24b5c94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/date-picker.9d4592dc7ffec2b8167e531195ba721da24b5c94.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14458,7 +14458,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\dialogs-popups-menus.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/dialogs-popups-menus.md)
 * Handoff File: [dialogs-popups-menus.8dc458dd60d38026f2f87956ae3336b3d56a6d6d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dialogs-popups-menus.8dc458dd60d38026f2f87956ae3336b3d56a6d6d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14470,7 +14470,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\flipview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/flipview.md)
 * Handoff File: [flipview.77fada879da68f8e3527cd9806041eab922e2666.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/flipview.77fada879da68f8e3527cd9806041eab922e2666.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14482,7 +14482,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\fonts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/fonts.md)
 * Handoff File: [fonts.f84ec59300d20758744753dc20fccbb9bf76ee6a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fonts.f84ec59300d20758744753dc20fccbb9bf76ee6a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14494,7 +14494,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\hub.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/hub.md)
 * Handoff File: [hub.b96b03d2a4a317017d11b7c0fb31a06c28f86260.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/hub.b96b03d2a4a317017d11b7c0fb31a06c28f86260.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14506,7 +14506,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\hyperlinks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/hyperlinks.md)
 * Handoff File: [hyperlinks.7c8ea283ae0e81627cc57b2d203e0e4a920be9d3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/hyperlinks.7c8ea283ae0e81627cc57b2d203e0e4a920be9d3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14818,7 +14818,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\images-imagebrushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/images-imagebrushes.md)
 * Handoff File: [images-imagebrushes.f7209c73e858e609a88b169ae8e3c5ab1793eba8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/images-imagebrushes.f7209c73e858e609a88b169ae8e3c5ab1793eba8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14830,7 +14830,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\labels.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/labels.md)
 * Handoff File: [labels.3201e31bbb47b16bd727554a2c6233bfc463ea55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/labels.3201e31bbb47b16bd727554a2c6233bfc463ea55.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14842,7 +14842,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\lists.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/lists.md)
 * Handoff File: [lists.7d3e62e68a277c0c30b1a0c7b7a4de1b80ec4db2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/lists.7d3e62e68a277c0c30b1a0c7b7a4de1b80ec4db2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14854,7 +14854,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\master-details.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/master-details.md)
 * Handoff File: [master-details.00d1e78257212252377c293c7bda9f90ef401e56.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/master-details.00d1e78257212252377c293c7bda9f90ef401e56.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14866,7 +14866,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\media-playback.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/media-playback.md)
 * Handoff File: [media-playback.cd85782ee14670f57312ec5c85c28bb579bc3f9a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/media-playback.cd85782ee14670f57312ec5c85c28bb579bc3f9a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14878,7 +14878,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\nav-pane.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/nav-pane.md)
 * Handoff File: [nav-pane.64beba2fb65201c3e5fcbc6e1a067ad61fb628d3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/nav-pane.64beba2fb65201c3e5fcbc6e1a067ad61fb628d3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14890,7 +14890,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\password-box.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/password-box.md)
 * Handoff File: [password-box.6413c076d8c164bdcf6f2bb2868dea84386181d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/password-box.6413c076d8c164bdcf6f2bb2868dea84386181d9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14902,7 +14902,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\progress-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/progress-controls.md)
 * Handoff File: [progress-controls.2462ac4f9246d09c0d252b3c729edd0261e4bf81.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/progress-controls.2462ac4f9246d09c0d252b3c729edd0261e4bf81.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14914,7 +14914,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\radio-button.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/radio-button.md)
 * Handoff File: [radio-button.4010ad1ec0cbe3074a933d70084ccaf61f3007a9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/radio-button.4010ad1ec0cbe3074a933d70084ccaf61f3007a9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14926,7 +14926,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\resourcedictionary-and-xaml-resource-references.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/resourcedictionary-and-xaml-resource-references.md)
 * Handoff File: [resourcedictionary-and-xaml-resource-references.3eb83c695408b10a0e125f3cf2ad8f61d23149d3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resourcedictionary-and-xaml-resource-references.3eb83c695408b10a0e125f3cf2ad8f61d23149d3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14938,7 +14938,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\rich-edit-box.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/rich-edit-box.md)
 * Handoff File: [rich-edit-box.5734751b10d63e401092ced1de047a3e609ec789.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/rich-edit-box.5734751b10d63e401092ced1de047a3e609ec789.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14950,7 +14950,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\rich-text-block.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/rich-text-block.md)
 * Handoff File: [rich-text-block.390bbd377babaa1f8205d5afb72b32526a8dc466.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/rich-text-block.390bbd377babaa1f8205d5afb72b32526a8dc466.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14962,7 +14962,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\scroll-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/scroll-controls.md)
 * Handoff File: [scroll-controls.83842d87535783e58f536437a7b403f13f106ab9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scroll-controls.83842d87535783e58f536437a7b403f13f106ab9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14974,7 +14974,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\search.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/search.md)
 * Handoff File: [search.8d253ffd2d3ca654376aca5409a039bdaf9863fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/search.8d253ffd2d3ca654376aca5409a039bdaf9863fa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14986,7 +14986,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\segoe-ui-symbol-font.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/segoe-ui-symbol-font.md)
 * Handoff File: [segoe-ui-symbol-font.dcb8e47d021970f915659bb7ae6adbba0ab8f19a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/segoe-ui-symbol-font.dcb8e47d021970f915659bb7ae6adbba0ab8f19a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -14998,7 +14998,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\semantic-zoom.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/semantic-zoom.md)
 * Handoff File: [semantic-zoom.39bcaf56ab3592ec85f28bd5f9c62cf89a47a07e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/semantic-zoom.39bcaf56ab3592ec85f28bd5f9c62cf89a47a07e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15010,7 +15010,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\slider.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/slider.md)
 * Handoff File: [slider.213972aaa041206a5814bfd1c491772ac5ff017a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/slider.213972aaa041206a5814bfd1c491772ac5ff017a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15022,7 +15022,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\spell-checking-and-prediction.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/spell-checking-and-prediction.md)
 * Handoff File: [spell-checking-and-prediction.866c05b31c60c9ed9d44a0b07f76ff0e32d14d42.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/spell-checking-and-prediction.866c05b31c60c9ed9d44a0b07f76ff0e32d14d42.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15034,7 +15034,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\split-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/split-view.md)
 * Handoff File: [split-view.9975bd8d6390181ae9fc2dc9806451117421c203.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/split-view.9975bd8d6390181ae9fc2dc9806451117421c203.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15046,7 +15046,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\styling-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/styling-controls.md)
 * Handoff File: [styling-controls.9710421ddf93d74cb7363568aea7d0335f9a9f17.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/styling-controls.9710421ddf93d74cb7363568aea7d0335f9a9f17.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15058,7 +15058,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tabs-pivot.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tabs-pivot.md)
 * Handoff File: [tabs-pivot.8488d66b81be5a3078cf4fa246ee65a3563880b2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tabs-pivot.8488d66b81be5a3078cf4fa246ee65a3563880b2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15070,7 +15070,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\text-block.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/text-block.md)
 * Handoff File: [text-block.0980c7ed16f39b581fffe71042395a13a41cddba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/text-block.0980c7ed16f39b581fffe71042395a13a41cddba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15082,7 +15082,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\text-box.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/text-box.md)
 * Handoff File: [text-box.6e40ec7b1713c8e74e9365fd876cfc2e958df5b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/text-box.6e40ec7b1713c8e74e9365fd876cfc2e958df5b1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15094,7 +15094,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\text-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/text-controls.md)
 * Handoff File: [text-controls.c69bd3d37566b2ac4255d7894ed5ad5efb27e9ee.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/text-controls.c69bd3d37566b2ac4255d7894ed5ad5efb27e9ee.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15106,7 +15106,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-adaptive-interactive-toasts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-adaptive-interactive-toasts.md)
 * Handoff File: [tiles-and-notifications-adaptive-interactive-toasts.f95df51e9ee6d2d5d706c49e64f649e63bd6e291.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-adaptive-interactive-toasts.f95df51e9ee6d2d5d706c49e64f649e63bd6e291.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15118,7 +15118,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-adaptive-tiles-schema.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-adaptive-tiles-schema.md)
 * Handoff File: [tiles-and-notifications-adaptive-tiles-schema.66a0081e3cc36c57332f7bfdb8e34e0ca536fe1e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-adaptive-tiles-schema.66a0081e3cc36c57332f7bfdb8e34e0ca536fe1e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15130,7 +15130,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-app-assets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-app-assets.md)
 * Handoff File: [tiles-and-notifications-app-assets.c407516cf55e0b4253dab86cb091d7ac6cc91dc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-app-assets.c407516cf55e0b4253dab86cb091d7ac6cc91dc5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15142,7 +15142,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-choosing-a-notification-delivery-method.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-choosing-a-notification-delivery-method.md)
 * Handoff File: [tiles-and-notifications-choosing-a-notification-delivery-method.1805d2fc2fcdc5706c75ecc39d1fbb12271f6a43.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-choosing-a-notification-delivery-method.1805d2fc2fcdc5706c75ecc39d1fbb12271f6a43.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15154,7 +15154,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-create-adaptive-tiles.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-create-adaptive-tiles.md)
 * Handoff File: [tiles-and-notifications-create-adaptive-tiles.fcf051366e99f831d4ac72fcd6d92739fc6847ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-create-adaptive-tiles.fcf051366e99f831d4ac72fcd6d92739fc6847ba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15166,7 +15166,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-creating-tiles.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-creating-tiles.md)
 * Handoff File: [tiles-and-notifications-creating-tiles.b045539b9f0d8bbbde8b253f6387227de6d58a17.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-creating-tiles.b045539b9f0d8bbbde8b253f6387227de6d58a17.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15178,7 +15178,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-notifications-visualizer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-notifications-visualizer.md)
 * Handoff File: [tiles-and-notifications-notifications-visualizer.9b4a274a7fbbb589fbe793f4a3812a1fef667a52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-notifications-visualizer.9b4a274a7fbbb589fbe793f4a3812a1fef667a52.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15190,7 +15190,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-periodic-notification-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-periodic-notification-overview.md)
 * Handoff File: [tiles-and-notifications-periodic-notification-overview.0f8e63895c222d228e74622abea0bf207fe6c140.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-periodic-notification-overview.0f8e63895c222d228e74622abea0bf207fe6c140.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15202,7 +15202,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-raw-notification-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-raw-notification-overview.md)
 * Handoff File: [tiles-and-notifications-raw-notification-overview.8a198a9acaf1f08944cc9b5f0c3daa2cd79c7529.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-raw-notification-overview.8a198a9acaf1f08944cc9b5f0c3daa2cd79c7529.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15214,7 +15214,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-sending-a-local-tile-notification.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-sending-a-local-tile-notification.md)
 * Handoff File: [tiles-and-notifications-sending-a-local-tile-notification.ef6d5c5be1115e4e68fe32b8abbe5f600ad3553d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-sending-a-local-tile-notification.ef6d5c5be1115e4e68fe32b8abbe5f600ad3553d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15226,7 +15226,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-special-tile-templates-catalog.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-special-tile-templates-catalog.md)
 * Handoff File: [tiles-and-notifications-special-tile-templates-catalog.62728369661ddebd70313a2ce1cce90d855d50c2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-special-tile-templates-catalog.62728369661ddebd70313a2ce1cce90d855d50c2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15238,7 +15238,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.md)
 * Handoff File: [tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.a145065b565e7cc38c437bdc0a3cf8934121c17f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-the-code-generated-by-the-push-notification-wizard.a145065b565e7cc38c437bdc0a3cf8934121c17f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15250,7 +15250,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-and-notifications-windows-push-notification-services--wns--overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-and-notifications-windows-push-notification-services--wns--overview.md)
 * Handoff File: [tiles-and-notifications-windows-push-notification-services--wns--overview.d4895e86af2aa7a667dcea43f88502ed1a5c6ba9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-and-notifications-windows-push-notification-services--wns--overview.d4895e86af2aa7a667dcea43f88502ed1a5c6ba9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15262,7 +15262,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tiles-badges-notifications.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tiles-badges-notifications.md)
 * Handoff File: [tiles-badges-notifications.96c68ee8026c717a4d3ef5bc724233d77e75ddb4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tiles-badges-notifications.96c68ee8026c717a4d3ef5bc724233d77e75ddb4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15274,7 +15274,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\time-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/time-picker.md)
 * Handoff File: [time-picker.bcd84e26db928fca1efc99b106765d0c77e0914e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/time-picker.bcd84e26db928fca1efc99b106765d0c77e0914e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15286,7 +15286,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\toggles.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/toggles.md)
 * Handoff File: [toggles.8371138b8acc49112979b868ca06f2e861722c36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/toggles.8371138b8acc49112979b868ca06f2e861722c36.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15298,7 +15298,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\tooltips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/tooltips.md)
 * Handoff File: [tooltips.8074be7b858d5bdafe1510a988f12e13a146c318.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tooltips.8074be7b858d5bdafe1510a988f12e13a146c318.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15310,7 +15310,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\web-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/web-view.md)
 * Handoff File: [web-view.fe8fef0eaa0f2d85cc910bf521d563fbba126cb5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/web-view.fe8fef0eaa0f2d85cc910bf521d563fbba126cb5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15322,7 +15322,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\controls-and-patterns\xaml-theme-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/controls-and-patterns/xaml-theme-resources.md)
 * Handoff File: [xaml-theme-resources.820e6baac6e23c88c93e0bff5c8786c5c5f18228.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-theme-resources.820e6baac6e23c88c93e0bff5c8786c5c5f18228.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15334,7 +15334,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\data-access\entity-framework-7-with-sqlite-for-csharp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/data-access/entity-framework-7-with-sqlite-for-csharp-apps.md)
 * Handoff File: [entity-framework-7-with-sqlite-for-csharp-apps.46476ce046b2bc0b26780229fc9df7a42fb9ff0a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/entity-framework-7-with-sqlite-for-csharp-apps.46476ce046b2bc0b26780229fc9df7a42fb9ff0a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15346,7 +15346,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-access/index.md)
 * Handoff File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15358,7 +15358,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-access\sqlite-databases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-access/sqlite-databases.md)
 * Handoff File: [sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sqlite-databases.3ac906003cecff1be34a0c9ec2f8dbbc5834acc7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15370,7 +15370,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\data-binding\data-binding-in-depth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/data-binding/data-binding-in-depth.md)
 * Handoff File: [data-binding-in-depth.f7cf9483e0fdd698c1db44f776d978d18f8bfadd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/data-binding-in-depth.f7cf9483e0fdd698c1db44f776d978d18f8bfadd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15382,7 +15382,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\data-binding-quickstart.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/data-binding-quickstart.md)
 * Handoff File: [data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/data-binding-quickstart.4e8634e6a37555281c59ddd593d0f2c9ea839428.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15394,7 +15394,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md)
 * Handoff File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15406,7 +15406,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\data-binding\how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/data-binding/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md)
 * Handoff File: [how-to-bind-to-hierarchical-data-and-create-a-master-details-view.88f44fcfcdeb4b229085c0dff5553d869b1e51ee.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.88f44fcfcdeb4b229085c0dff5553d869b1e51ee.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15418,7 +15418,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/data-binding/index.md)
 * Handoff File: [index.a65bd4baa9b306288c29b6df7ae1b25e2bcd3a1a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a65bd4baa9b306288c29b6df7ae1b25e2bcd3a1a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15430,7 +15430,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/best-practices-for-your-app-s-startup-performance.md)
 * Handoff File: [best-practices-for-your-app-s-startup-performance.f489400ce8a98d1e61cdfdac420e155f0f51429b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-your-app-s-startup-performance.f489400ce8a98d1e61cdfdac420e155f0f51429b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15442,7 +15442,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md)
 * Handoff File: [beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing.25478422f0c3c3512db3aa5cbe9b1353abc0de7d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15454,7 +15454,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\deploying-and-debugging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/deploying-and-debugging-uwp-apps.md)
 * Handoff File: [deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying-and-debugging-uwp-apps.88f92f7ab1b6df862c0496743e87fdd3cf4e21cb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15466,7 +15466,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/improve-garbage-collection-performance.md)
 * Handoff File: [improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/improve-garbage-collection-performance.22bf1f6dbcec7999a2b05fdac52bdc86e8c76bbb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15478,7 +15478,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/index.md)
 * Handoff File: [index.b733c58fde04b568b84676f20fa41e56e86ca048.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.b733c58fde04b568b84676f20fa41e56e86ca048.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15490,7 +15490,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/keep-the-ui-thread-responsive.md)
 * Handoff File: [keep-the-ui-thread-responsive.5c893711db7c6dd07a20d39c639101f0bb53f2d5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keep-the-ui-thread-responsive.5c893711db7c6dd07a20d39c639101f0bb53f2d5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15502,7 +15502,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\listview-and-gridview-data-optimization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/listview-and-gridview-data-optimization.md)
 * Handoff File: [listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/listview-and-gridview-data-optimization.b85ba77def1e7d3ebcb092789c6fe29d3a7d9e0e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15514,7 +15514,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md)
 * Handoff File: [mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mvvm-performance-tips.f1e1b28ea6f84470c832acc325ed208cc204ce90.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15526,7 +15526,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/optimize-animations-and-media.md)
 * Handoff File: [optimize-animations-and-media.1626f4e5252de8d32b3dbbd42431761b7bf88eb8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-animations-and-media.1626f4e5252de8d32b3dbbd42431761b7bf88eb8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15538,7 +15538,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\optimize-file-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/optimize-file-access.md)
 * Handoff File: [optimize-file-access.590125433620986f8ca3cafa9ae3d991e09c4917.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-file-access.590125433620986f8ca3cafa9ae3d991e09c4917.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15550,7 +15550,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/optimize-gridview-and-listview.md)
 * Handoff File: [optimize-gridview-and-listview.5b7eeb2a2463bc4ed4236148eb958dab683d5113.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-gridview-and-listview.5b7eeb2a2463bc4ed4236148eb958dab683d5113.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15562,7 +15562,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-suspend-resume.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-suspend-resume.md)
 * Handoff File: [optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-suspend-resume.046ac79107510d2b78d17a4d1533c82dbde74ad9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15574,7 +15574,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md)
 * Handoff File: [optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-xaml-loading.81887647640ff3d2d720a1d1168ac35115787be2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15586,7 +15586,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/optimize-your-xaml-layout.md)
 * Handoff File: [optimize-your-xaml-layout.47313c57dda7ba0ca2cb408b198ff566a6fab25a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-your-xaml-layout.47313c57dda7ba0ca2cb408b198ff566a6fab25a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15598,7 +15598,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md)
 * Handoff File: [performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/performance-and-xaml-ui.c7e31f5c05011612d57cc8315e8562cd6fabc9b5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15610,7 +15610,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\planning-and-measuring-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/planning-and-measuring-performance.md)
 * Handoff File: [planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/planning-and-measuring-performance.aedf39f9c2354830d35dee3eee8c595d48b0261d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15622,7 +15622,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\test-with-the-emulator.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/test-with-the-emulator.md)
 * Handoff File: [test-with-the-emulator.ab10dd1aad15e6b681739069537f2519b1b4ceeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-with-the-emulator.ab10dd1aad15e6b681739069537f2519b1b4ceeb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15634,7 +15634,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md)
 * Handoff File: [tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-profiling-and-performance.93c0e74cb655bfac68c6137b0fef1615b4256319.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15646,7 +15646,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md)
 * Handoff File: [windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit.d00586bccd5967df773ccd124f08e040fe5361fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15658,7 +15658,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\windows-app-certification-kit-tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/windows-app-certification-kit-tests.md)
 * Handoff File: [windows-app-certification-kit-tests.1dfd047e1fee599e2b58826e89289d1ae5ddb96f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit-tests.1dfd047e1fee599e2b58826e89289d1ae5ddb96f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15670,7 +15670,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\debug-test-perf\windows-runtime-components-and-optimizing-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/debug-test-perf/windows-runtime-components-and-optimizing-interop.md)
 * Handoff File: [windows-runtime-components-and-optimizing-interop.b24273eafdb58882ddb4383263468db4d34e3873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-runtime-components-and-optimizing-interop.b24273eafdb58882ddb4383263468db4d34e3873.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15682,7 +15682,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\devices-sensors\3d-printing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/devices-sensors/3d-printing.md)
 * Handoff File: [3d-printing.22bba2f06d7ec77beb43c6b69cbe59b9c108365a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3d-printing.22bba2f06d7ec77beb43c6b69cbe59b9c108365a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15694,7 +15694,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md)
 * Handoff File: [aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/aep-service-class-ids.7616ccbccd19245d7c28581acbd641ba9d2494c4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15706,7 +15706,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md)
 * Handoff File: [bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bluetooth.84366f2f19b935d3902fed5f69cfc9325502a8d9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15718,7 +15718,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/devices-sensors/build-a-device-selector.md)
 * Handoff File: [build-a-device-selector.d2a06c51fa9505b58c711970af4b679af1e46b6f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/build-a-device-selector.d2a06c51fa9505b58c711970af4b679af1e46b6f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15730,7 +15730,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md)
 * Handoff File: [calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calibrate-sensors.b1c0e4250685fa882ff2a0853efefd439bfb1a62.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15934,7 +15934,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md)
 * Handoff File: [customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customize-the-print-preview-ui.246cd4b5e913b6392ccf64d5cd9e4102c1d2edb6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15946,7 +15946,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md)
 * Handoff File: [device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-information-properties.858a00336df0be024e6583d9e5573071485ef9e1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15958,7 +15958,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md)
 * Handoff File: [enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-device-capabilities.39b3122e65d99043b9df657a4b1c5acdd11d16e9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15970,7 +15970,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md)
 * Handoff File: [enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices.5ab1a90fd283c9c34838df46e97c12b5614c8320.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15982,7 +15982,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md)
 * Handoff File: [enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices-over-a-network.4fd6ba504203266e98966717f01527e1cac7cd6b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -15994,7 +15994,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md)
 * Handoff File: [epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/epson-esc-pos-with-formatting.07b6a370e497a59231de0b09ae6a75e959750ccf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16006,7 +16006,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/devices-sensors/gatt-scenarios.md)
 * Handoff File: [gatt-scenarios.38071b0951e1a3acb1e718e630c1fd5f665f846b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/gatt-scenarios.38071b0951e1a3acb1e718e630c1fd5f665f846b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16018,7 +16018,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\get-battery-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/get-battery-info.md)
 * Handoff File: [get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-battery-info.5e591b891a55cdbfa7b9c68b2d3a1a6f14a54b45.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16030,7 +16030,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\host-card-emulation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/host-card-emulation.md)
 * Handoff File: [host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/host-card-emulation.c74e9d0ac7f2cd484aea506ee7224f6c9ccade86.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16042,7 +16042,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/devices-sensors/index.md)
 * Handoff File: [index.f840787cbfeafc3e54131a156ee59d1b0926e68d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f840787cbfeafc3e54131a156ee59d1b0926e68d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16054,7 +16054,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md)
 * Handoff File: [pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pair-devices.c2ca83860076474a16fd7ea32a03cffd86b129f5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16066,7 +16066,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\print-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/print-from-your-app.md)
 * Handoff File: [print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/print-from-your-app.202d24b1ff38a6487c4a62110d4f935bf7aaead9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16078,7 +16078,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md)
 * Handoff File: [printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/printing-and-scanning.ab20216236a2d6e9e87d2fe4caed0bd1c36b54d7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16090,7 +16090,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md)
 * Handoff File: [scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scan-from-your-app.dfe7ac1ce1e8019751c7cc45c203897ab0328f28.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16102,7 +16102,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\send-or-receive-files-with-rfcomm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/send-or-receive-files-with-rfcomm.md)
 * Handoff File: [send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/send-or-receive-files-with-rfcomm.e38b5d08f364377e929e987d26306f55252d6416.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16114,7 +16114,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md)
 * Handoff File: [sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensor-orientation.6167c66dbd9ac266b2013af64cd00ed36c383be0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16126,7 +16126,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/sensors.md)
 * Handoff File: [sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensors.93322ef23190d5747de6b99381a48bc26d5ca22a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16138,7 +16138,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-accelerometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-accelerometer.md)
 * Handoff File: [use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-accelerometer.3d329186bf888606211122121016ba3c5c1799a6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16150,7 +16150,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-compass.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-compass.md)
 * Handoff File: [use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-compass.e7c3f66251ba89ffe4df3e922c6f13b98ffb4106.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16162,7 +16162,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-gyrometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-gyrometer.md)
 * Handoff File: [use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-gyrometer.8829b6c09a82aa5d0f92be6b324a1bb28de417e9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16174,7 +16174,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-inclinometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-inclinometer.md)
 * Handoff File: [use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-inclinometer.d0826c490c910bc0d4fcdae60c57fc5d71af632c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16186,7 +16186,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-light-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-light-sensor.md)
 * Handoff File: [use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-light-sensor.615458c8cf49efd35c4ae69e169dce39dc32df1e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16198,7 +16198,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/devices-sensors/use-the-orientation-sensor.md)
 * Handoff File: [use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-orientation-sensor.af0cf80413f8e53f43b62ad230c6b263f640be5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16222,7 +16222,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\enterprise\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/enterprise/index.md)
 * Handoff File: [index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.96a8d42f8815f365b08e4dda0ed55ad6780899bd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16234,7 +16234,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\access-the-sd-card.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/access-the-sd-card.md)
 * Handoff File: [access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-the-sd-card.6157ef204c6941e79098a8f1fce292452eb974b7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16246,7 +16246,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/file-access-permissions.md)
 * Handoff File: [file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/file-access-permissions.df043c3d335cf16e802c8ee6d7752078ed6eaf66.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16258,7 +16258,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\how-to-track-recently-used-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/how-to-track-recently-used-files-and-folders.md)
 * Handoff File: [how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-track-recently-used-files-and-folders.6d958a02164b89daf660ef7d8fceeb042ac381dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16270,7 +16270,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/files/index.md)
 * Handoff File: [index.c5d684a3ff621c874dda476160e53b1865ff1f73.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.c5d684a3ff621c874dda476160e53b1865ff1f73.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16282,7 +16282,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-accessing-homegroup-content.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-accessing-homegroup-content.md)
 * Handoff File: [quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-accessing-homegroup-content.2d3f5e28d4c786508346fd13bb71dd783efd96d0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16294,7 +16294,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-determining-availability-of-microsoft-onedrive-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-determining-availability-of-microsoft-onedrive-files.md)
 * Handoff File: [quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-determining-availability-of-microsoft-onedrive-files.8a476c2ec353846cddbe79767582eca206a6cbb8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16306,7 +16306,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-getting-file-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-getting-file-properties.md)
 * Handoff File: [quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-getting-file-properties.068894fc6b2ee5e632714e0c8cf7b2541dfcb781.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16318,7 +16318,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\files\quickstart-listing-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/files/quickstart-listing-files-and-folders.md)
 * Handoff File: [quickstart-listing-files-and-folders.be42291d767b67f730ffafb7c34e9d7c68c477d8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-listing-files-and-folders.be42291d767b67f730ffafb7c34e9d7c68c477d8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16330,7 +16330,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md)
 * Handoff File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.87a41664065f89ac0b147d28cee1591dfd1d47a9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16342,7 +16342,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\files\quickstart-reading-and-writing-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/files/quickstart-reading-and-writing-files.md)
 * Handoff File: [quickstart-reading-and-writing-files.20c5108c673d0ebb2f576652091136a41d0ed76a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-reading-and-writing-files.20c5108c673d0ebb2f576652091136a41d0ed76a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16354,7 +16354,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/files/quickstart-save-a-file-with-a-picker.md)
 * Handoff File: [quickstart-save-a-file-with-a-picker.60750b9ef89b888b5b75d1e9321914aa15aaf77b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-save-a-file-with-a-picker.60750b9ef89b888b5b75d1e9321914aa15aaf77b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16366,7 +16366,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/files/quickstart-using-file-and-folder-pickers.md)
 * Handoff File: [quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-using-file-and-folder-pickers.6095391c9f5f4865bb9d21a847e89287b2065297.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16378,7 +16378,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\about-the-metro-style-user-interface-and-directx.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/about-the-metro-style-user-interface-and-directx.md)
 * Handoff File: [about-the-metro-style-user-interface-and-directx.47521ca2278824c70abc8438a9d0201354fb192a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/about-the-metro-style-user-interface-and-directx.47521ca2278824c70abc8438a9d0201354fb192a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16390,7 +16390,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\adding-audio-to-the-marble-maze-sample.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/adding-audio-to-the-marble-maze-sample.md)
 * Handoff File: [adding-audio-to-the-marble-maze-sample.d03590b5494a5b7b385b2ac8b74ce2a32f85021d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adding-audio-to-the-marble-maze-sample.d03590b5494a5b7b385b2ac8b74ce2a32f85021d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16402,7 +16402,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\adding-input-and-interactivity-to-the-marble-maze-sample.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/adding-input-and-interactivity-to-the-marble-maze-sample.md)
 * Handoff File: [adding-input-and-interactivity-to-the-marble-maze-sample.f6d049cabce3111d76ad56389a749eabe6aa4a41.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adding-input-and-interactivity-to-the-marble-maze-sample.f6d049cabce3111d76ad56389a749eabe6aa4a41.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16414,7 +16414,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\adding-visual-content-to-the-marble-maze-sample.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/adding-visual-content-to-the-marble-maze-sample.md)
 * Handoff File: [adding-visual-content-to-the-marble-maze-sample.a9dbfd906c3e9931a9f16f86249095aee8487a83.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adding-visual-content-to-the-marble-maze-sample.a9dbfd906c3e9931a9f16f86249095aee8487a83.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16426,7 +16426,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\additional-directx-game-programming-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/additional-directx-game-programming-resources.md)
 * Handoff File: [additional-directx-game-programming-resources.c837749806dce6a8924821a78107fb45c3b0324b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/additional-directx-game-programming-resources.c837749806dce6a8924821a78107fb45c3b0324b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16438,7 +16438,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\an-introduction-to-3d-graphics-with-directx.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/an-introduction-to-3d-graphics-with-directx.md)
 * Handoff File: [an-introduction-to-3d-graphics-with-directx.6d95381d9e28645427b203c828354468cda5401c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/an-introduction-to-3d-graphics-with-directx.6d95381d9e28645427b203c828354468cda5401c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16450,7 +16450,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\applying-textures-to-primitives.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/applying-textures-to-primitives.md)
 * Handoff File: [applying-textures-to-primitives.2e3efb93d53fada36eb14c545d8c8cbe850458dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/applying-textures-to-primitives.2e3efb93d53fada36eb14c545d8c8cbe850458dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16462,7 +16462,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\asynchronous-programming-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/asynchronous-programming-directx-and-cpp.md)
 * Handoff File: [asynchronous-programming-directx-and-cpp.abf79083c8f545b0c5f72964564c70645af61561.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/asynchronous-programming-directx-and-cpp.abf79083c8f545b0c5f72964564c70645af61561.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16474,7 +16474,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\change-your-shader-loading-code.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/change-your-shader-loading-code.md)
 * Handoff File: [change-your-shader-loading-code.e0148255d298b42b354314ea354d07a6a7af14ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/change-your-shader-loading-code.e0148255d298b42b354314ea354d07a6a7af14ba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16486,7 +16486,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\compare-opengl-es-2-0-api-design-to-directx.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/compare-opengl-es-2-0-api-design-to-directx.md)
 * Handoff File: [compare-opengl-es-2-0-api-design-to-directx.e5f1b15cf28f93e13fb1167608626411e9e86617.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/compare-opengl-es-2-0-api-design-to-directx.e5f1b15cf28f93e13fb1167608626411e9e86617.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16498,7 +16498,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\complete-code-for-basicloader.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/complete-code-for-basicloader.md)
 * Handoff File: [complete-code-for-basicloader.8feeceed618b19a46406d45fd6f00229947dd4c0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/complete-code-for-basicloader.8feeceed618b19a46406d45fd6f00229947dd4c0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16510,7 +16510,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\complete-code-for-basicreaderwriter.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/complete-code-for-basicreaderwriter.md)
 * Handoff File: [complete-code-for-basicreaderwriter.8bc0470a2278a4816d6a785d2dc9fd8246b4e37e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/complete-code-for-basicreaderwriter.8bc0470a2278a4816d6a785d2dc9fd8246b4e37e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16522,7 +16522,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\complete-code-for-ddstextureloader.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/complete-code-for-ddstextureloader.md)
 * Handoff File: [complete-code-for-ddstextureloader.a6a8d83ecd94dd7a5c63a8bdf46904642df12a81.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/complete-code-for-ddstextureloader.a6a8d83ecd94dd7a5c63a8bdf46904642df12a81.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16534,7 +16534,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\create-a-basic-mesh.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/create-a-basic-mesh.md)
 * Handoff File: [create-a-basic-mesh.d1b5b1c4ecf3bb023567f9a847a35548b5d55411.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-basic-mesh.d1b5b1c4ecf3bb023567f9a847a35548b5d55411.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16546,7 +16546,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\create-depth-buffer-resource--view--and-sampler-state.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/create-depth-buffer-resource--view--and-sampler-state.md)
 * Handoff File: [create-depth-buffer-resource--view--and-sampler-state.66c58a1f1d93788ad19a53e70a2fa6d60a104fef.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-depth-buffer-resource--view--and-sampler-state.66c58a1f1d93788ad19a53e70a2fa6d60a104fef.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16558,7 +16558,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\creating-shaders-and-drawing-primitives.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/creating-shaders-and-drawing-primitives.md)
 * Handoff File: [creating-shaders-and-drawing-primitives.652525efaffa60a33ba069529764e9f435733639.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating-shaders-and-drawing-primitives.652525efaffa60a33ba069529764e9f435733639.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16570,7 +16570,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\developing-marble-maze-a-windows-store-game-in-cpp-and-directx.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/developing-marble-maze-a-windows-store-game-in-cpp-and-directx.md)
 * Handoff File: [developing-marble-maze-a-windows-store-game-in-cpp-and-directx.65b61cd225053782f0d4f2077fbe8ce2c2108ff0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/developing-marble-maze-a-windows-store-game-in-cpp-and-directx.65b61cd225053782f0d4f2077fbe8ce2c2108ff0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16582,7 +16582,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\directx-and-xaml-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/directx-and-xaml-interop.md)
 * Handoff File: [directx-and-xaml-interop.dae1e6d863e22cff03a89c9469faf11217d583bf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/directx-and-xaml-interop.dae1e6d863e22cff03a89c9469faf11217d583bf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16594,7 +16594,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\directx-porting-faq.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/directx-porting-faq.md)
 * Handoff File: [directx-porting-faq.9c0a3e12889f3306b90ac4a8b832f4cb003b1b44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/directx-porting-faq.9c0a3e12889f3306b90ac4a8b832f4cb003b1b44.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16606,7 +16606,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\draw-to-the-screen.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/draw-to-the-screen.md)
 * Handoff File: [draw-to-the-screen.e448c8fb08984e7b9949b2dac265a90fb1814b8f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/draw-to-the-screen.e448c8fb08984e7b9949b2dac265a90fb1814b8f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16618,7 +16618,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\e2e.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/e2e.md)
 * Handoff File: [e2e.1f2be95266ec48b60cb51bd6f1e73df76ae3c333.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e2e.1f2be95266ec48b60cb51bd6f1e73df76ae3c333.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16630,7 +16630,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\feature-mapping.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/feature-mapping.md)
 * Handoff File: [feature-mapping.405514321c0e3b7d179461d871cefba69911c3fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/feature-mapping.405514321c0e3b7d179461d871cefba69911c3fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16642,7 +16642,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\game-development-platform-guide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/game-development-platform-guide.md)
 * Handoff File: [game-development-platform-guide.a7242aba200ca837d11c808f9ae57cf12ea5b092.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/game-development-platform-guide.a7242aba200ca837d11c808f9ae57cf12ea5b092.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16654,7 +16654,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\glsl-to-hlsl-reference.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/glsl-to-hlsl-reference.md)
 * Handoff File: [glsl-to-hlsl-reference.d6182a2d8406ab5bc22713453f2e14c705125c62.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/glsl-to-hlsl-reference.d6182a2d8406ab5bc22713453f2e14c705125c62.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16666,7 +16666,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\handling-device-lost-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/handling-device-lost-scenarios.md)
 * Handoff File: [handling-device-lost-scenarios.6143b7058b9651d5381c6bc400583fb23c86fe49.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handling-device-lost-scenarios.6143b7058b9651d5381c6bc400583fb23c86fe49.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16678,7 +16678,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\how-to-activate-an-app-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/how-to-activate-an-app-directx-and-cpp.md)
 * Handoff File: [how-to-activate-an-app-directx-and-cpp.d649bd4a07394e230eef3ba69d19a33f2af88dd8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-activate-an-app-directx-and-cpp.d649bd4a07394e230eef3ba69d19a33f2af88dd8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16690,7 +16690,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\how-to-resume-an-app-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/how-to-resume-an-app-directx-and-cpp.md)
 * Handoff File: [how-to-resume-an-app-directx-and-cpp.34b2dd4196bc5b521ea59e5283a579d6f1e42280.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-resume-an-app-directx-and-cpp.34b2dd4196bc5b521ea59e5283a579d6f1e42280.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16702,7 +16702,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\how-to-suspend-an-app-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/how-to-suspend-an-app-directx-and-cpp.md)
 * Handoff File: [how-to-suspend-an-app-directx-and-cpp.66b8ca32375b11fae2959f6fbbe97b66747fc84f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-suspend-an-app-directx-and-cpp.66b8ca32375b11fae2959f6fbbe97b66747fc84f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16714,7 +16714,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\implementing-depth-buffers-for-shadow-mapping.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/implementing-depth-buffers-for-shadow-mapping.md)
 * Handoff File: [implementing-depth-buffers-for-shadow-mapping.57b04c046f3b18117631d0a530ae2fc1e7ecaaed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/implementing-depth-buffers-for-shadow-mapping.57b04c046f3b18117631d0a530ae2fc1e7ecaaed.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16726,7 +16726,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/index.md)
 * Handoff File: [index.cdb6a54d26ced62fe8e54bd4f07f48093ad8061d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.cdb6a54d26ced62fe8e54bd4f07f48093ad8061d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16738,7 +16738,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\launching-and-resuming-apps-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/launching-and-resuming-apps-directx-and-cpp.md)
 * Handoff File: [launching-and-resuming-apps-directx-and-cpp.2b42779790153e66538eb956ed38d86b6a1de2ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launching-and-resuming-apps-directx-and-cpp.2b42779790153e66538eb956ed38d86b6a1de2ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16750,7 +16750,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\load-a-game-asset.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/load-a-game-asset.md)
 * Handoff File: [load-a-game-asset.c7d1a74447c09270010f56cf2b0ac69b363483b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/load-a-game-asset.c7d1a74447c09270010f56cf2b0ac69b363483b8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16762,7 +16762,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\map-concepts-and-infrastructure.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/map-concepts-and-infrastructure.md)
 * Handoff File: [map-concepts-and-infrastructure.83090d6f3b3f3fc0f920271c96b7e027829e1017.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/map-concepts-and-infrastructure.83090d6f3b3f3fc0f920271c96b7e027829e1017.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16774,7 +16774,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\marble-maze-application-structure.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/marble-maze-application-structure.md)
 * Handoff File: [marble-maze-application-structure.b3c694a9396e4f1d5c0aa47f074d17d9a79cf40f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/marble-maze-application-structure.b3c694a9396e4f1d5c0aa47f074d17d9a79cf40f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16786,7 +16786,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\marble-maze-sample-fundamentals.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/marble-maze-sample-fundamentals.md)
 * Handoff File: [marble-maze-sample-fundamentals.e0a6f09ed4836918defebc96d5c1eae5cd253954.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/marble-maze-sample-fundamentals.e0a6f09ed4836918defebc96d5c1eae5cd253954.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16798,7 +16798,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\moving-from-egl-to-dxgi.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/moving-from-egl-to-dxgi.md)
 * Handoff File: [moving-from-egl-to-dxgi.94e567c2bf33383d2632ba20d9bccd22bb037d6c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/moving-from-egl-to-dxgi.94e567c2bf33383d2632ba20d9bccd22bb037d6c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16810,7 +16810,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\multisampling--multi-sample-anti-aliasing--in-windows-store-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/multisampling--multi-sample-anti-aliasing--in-windows-store-apps.md)
 * Handoff File: [multisampling--multi-sample-anti-aliasing--in-windows-store-apps.bbaf94ee292aefe2637a5be8dfd6344faa84a5aa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/multisampling--multi-sample-anti-aliasing--in-windows-store-apps.bbaf94ee292aefe2637a5be8dfd6344faa84a5aa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16822,7 +16822,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\multisampling--scaling--and-overlay-swap-chains.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/multisampling--scaling--and-overlay-swap-chains.md)
 * Handoff File: [multisampling--scaling--and-overlay-swap-chains.e10c8f1eb25723865f90e3c818e170ad810d466e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/multisampling--scaling--and-overlay-swap-chains.e10c8f1eb25723865f90e3c818e170ad810d466e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16834,7 +16834,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\opengl-es-2-0-to-directx-11-1-reference.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/opengl-es-2-0-to-directx-11-1-reference.md)
 * Handoff File: [opengl-es-2-0-to-directx-11-1-reference.fa38c1e439ea4cab624c6c280e8da5115860f307.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/opengl-es-2-0-to-directx-11-1-reference.fa38c1e439ea4cab624c6c280e8da5115860f307.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16846,7 +16846,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.md)
 * Handoff File: [optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.8c1250ac47583f410cfcd4ac9678137b99b6a612.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-performance-for-windows-store-direct3d-11-apps-with-coredispatcher.8c1250ac47583f410cfcd4ac9678137b99b6a612.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16858,7 +16858,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\package-your-windows-store-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/package-your-windows-store-directx-game.md)
 * Handoff File: [package-your-windows-store-directx-game.20089f0b2cfc39a67f6dc867f4e1172f77542d18.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/package-your-windows-store-directx-game.20089f0b2cfc39a67f6dc867f4e1172f77542d18.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16870,7 +16870,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\plan-your-directx-port.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/plan-your-directx-port.md)
 * Handoff File: [plan-your-directx-port.0197276cf57b761975a0dc3a1fe94df715e457b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/plan-your-directx-port.0197276cf57b761975a0dc3a1fe94df715e457b1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16882,7 +16882,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.md)
 * Handoff File: [port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.0898ca7b10688e60afc069509834c0d1ad5fa02e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/port-a-simple-opengl-es-2-0-renderer-to-directx-11-1.0898ca7b10688e60afc069509834c0d1ad5fa02e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16894,7 +16894,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\port-from-opengl-es-2-0-to-directx-11-1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/port-from-opengl-es-2-0-to-directx-11-1.md)
 * Handoff File: [port-from-opengl-es-2-0-to-directx-11-1.be62800a95fab70815d364f58a7426ff8f5056b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/port-from-opengl-es-2-0-to-directx-11-1.be62800a95fab70815d364f58a7426ff8f5056b9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16906,7 +16906,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\porting-considerations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/porting-considerations.md)
 * Handoff File: [porting-considerations.3885dceae6f7efab972810119b3d982e3eff4a09.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/porting-considerations.3885dceae6f7efab972810119b3d982e3eff4a09.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16918,7 +16918,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\porting-guides.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/porting-guides.md)
 * Handoff File: [porting-guides.f2fe15f5089579b46692ec58e02d8fab88749a99.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/porting-guides.f2fe15f5089579b46692ec58e02d8fab88749a99.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16930,7 +16930,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\porting-uniforms-and-attributes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/porting-uniforms-and-attributes.md)
 * Handoff File: [porting-uniforms-and-attributes.ee7e84e1c7c9365deeff0cb66a5adcf559637cc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/porting-uniforms-and-attributes.ee7e84e1c7c9365deeff0cb66a5adcf559637cc5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16942,7 +16942,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\porting-your-directx-9-game-to-windows-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/porting-your-directx-9-game-to-windows-store.md)
 * Handoff File: [porting-your-directx-9-game-to-windows-store.16d50f95c01afe86cf2a2ed475ba437dd67dd98d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/porting-your-directx-9-game-to-windows-store.16d50f95c01afe86cf2a2ed475ba437dd67dd98d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16954,7 +16954,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\port-the-glsl.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/port-the-glsl.md)
 * Handoff File: [port-the-glsl.2dca951421deba6af60b292776fbf58038ec6aa1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/port-the-glsl.2dca951421deba6af60b292776fbf58038ec6aa1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16966,7 +16966,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\port-the-shader-config.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/port-the-shader-config.md)
 * Handoff File: [port-the-shader-config.5e3de2129a52e44e70ab3dd6a47fe68fbede658f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/port-the-shader-config.5e3de2129a52e44e70ab3dd6a47fe68fbede658f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16978,7 +16978,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\port-the-vertex-buffers-and-data-config.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/port-the-vertex-buffers-and-data-config.md)
 * Handoff File: [port-the-vertex-buffers-and-data-config.15f1088cbbc948bec1265f29e980439f52459ad1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/port-the-vertex-buffers-and-data-config.15f1088cbbc948bec1265f29e980439f52459ad1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -16990,7 +16990,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\prepare-your-dev-environment-for-windows-store-directx-game-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/prepare-your-dev-environment-for-windows-store-directx-game-development.md)
 * Handoff File: [prepare-your-dev-environment-for-windows-store-directx-game-development.633c93c8e177f73b050ea05f39ce90d6f1b61f61.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/prepare-your-dev-environment-for-windows-store-directx-game-development.633c93c8e177f73b050ea05f39ce90d6f1b61f61.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17002,7 +17002,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\reduce-latency-with-dxgi-1-3-swap-chains.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/reduce-latency-with-dxgi-1-3-swap-chains.md)
 * Handoff File: [reduce-latency-with-dxgi-1-3-swap-chains.d656a1cab3bc1b856ba04445320a3ad06637ae3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/reduce-latency-with-dxgi-1-3-swap-chains.d656a1cab3bc1b856ba04445320a3ad06637ae3f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17014,7 +17014,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\render-the-scene-with-depth-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/render-the-scene-with-depth-testing.md)
 * Handoff File: [render-the-scene-with-depth-testing.08ddc483bfba9c0dddd72a4af099a4a2562b2eb3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/render-the-scene-with-depth-testing.08ddc483bfba9c0dddd72a4af099a4a2562b2eb3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17026,7 +17026,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\render-the-shadow-map-to-the-depth-buffer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/render-the-shadow-map-to-the-depth-buffer.md)
 * Handoff File: [render-the-shadow-map-to-the-depth-buffer.c8c0be651750748f44370997331867c5c5d4ae5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/render-the-shadow-map-to-the-depth-buffer.c8c0be651750748f44370997331867c5c5d4ae5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17038,7 +17038,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\setting-up-directx-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/setting-up-directx-resources.md)
 * Handoff File: [setting-up-directx-resources.fe8723112512835b86252fda6dec36c5548deda1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-directx-resources.fe8723112512835b86252fda6dec36c5548deda1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17050,7 +17050,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\set-up-visual-studio-for-game-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/set-up-visual-studio-for-game-development.md)
 * Handoff File: [set-up-visual-studio-for-game-development.fac6b6e2478dc53f2cdecff6e548c85260001ecc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-up-visual-studio-for-game-development.fac6b6e2478dc53f2cdecff6e548c85260001ecc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17062,7 +17062,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.md)
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.b6b06d9fe7da211032bd788b6d690a00c4cb3933.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/simple-port-from-direct3d-9-to-11-1-part-1--initializing-direct3d.b6b06d9fe7da211032bd788b6d690a00c4cb3933.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17074,7 +17074,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\simple-port-from-direct3d-9-to-11-1-part-2--rendering.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/simple-port-from-direct3d-9-to-11-1-part-2--rendering.md)
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-2--rendering.c31fbaa3f33f6e93d547548630f9530bad2ce912.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/simple-port-from-direct3d-9-to-11-1-part-2--rendering.c31fbaa3f33f6e93d547548630f9530bad2ce912.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17086,7 +17086,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.md)
 * Handoff File: [simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.50e7c11e0d3fc5e5c425215f113edb1b391f7779.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/simple-port-from-direct3d-9-to-11-1-part-3--viewport-and-game-loop.50e7c11e0d3fc5e5c425215f113edb1b391f7779.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17098,7 +17098,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\supporting-screen-rotation-directx-and-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/supporting-screen-rotation-directx-and-cpp.md)
 * Handoff File: [supporting-screen-rotation-directx-and-cpp.1517b2798559b864c5b99be70df007a7bd5c8c36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/supporting-screen-rotation-directx-and-cpp.1517b2798559b864c5b99be70df007a7bd5c8c36.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17110,7 +17110,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\target-a-range-of-hardware.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/target-a-range-of-hardware.md)
 * Handoff File: [target-a-range-of-hardware.d039b193bd4999618e1b91ddd85c465f623cf7df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/target-a-range-of-hardware.d039b193bd4999618e1b91ddd85c465f623cf7df.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17122,7 +17122,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--adding-a-user-interface.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--adding-a-user-interface.md)
 * Handoff File: [tutorial--adding-a-user-interface.ff32aba37b423b12fc273b29d9b5be25a2ad926d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--adding-a-user-interface.ff32aba37b423b12fc273b29d9b5be25a2ad926d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17134,7 +17134,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--adding-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--adding-controls.md)
 * Handoff File: [tutorial--adding-controls.c9c2bc4b6e0f79add84a5335303d2a759793bc5a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--adding-controls.c9c2bc4b6e0f79add84a5335303d2a759793bc5a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17146,7 +17146,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--adding-move-look-controls-to-your-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--adding-move-look-controls-to-your-directx-game.md)
 * Handoff File: [tutorial--adding-move-look-controls-to-your-directx-game.b14a2ef35eb108158038c4ba8797a4af059018ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--adding-move-look-controls-to-your-directx-game.b14a2ef35eb108158038c4ba8797a4af059018ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17158,7 +17158,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--adding-sound.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--adding-sound.md)
 * Handoff File: [tutorial--adding-sound.5b8aa5d4044d9514df28c9697fa033a80921a4c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--adding-sound.5b8aa5d4044d9514df28c9697fa033a80921a4c5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17170,7 +17170,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--adding-touch-controls-to-your-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--adding-touch-controls-to-your-directx-game.md)
 * Handoff File: [tutorial--adding-touch-controls-to-your-directx-game.10c7e4440dde5ccb06431dac67dc954214e00629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--adding-touch-controls-to-your-directx-game.10c7e4440dde5ccb06431dac67dc954214e00629.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17182,7 +17182,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--assembling-the-rendering-pipeline.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--assembling-the-rendering-pipeline.md)
 * Handoff File: [tutorial--assembling-the-rendering-pipeline.27dea7454635dc39c5639d433d2237d7d924d0d5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--assembling-the-rendering-pipeline.27dea7454635dc39c5639d433d2237d7d924d0d5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17194,7 +17194,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--building-the-games-metro-style-app-framework.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--building-the-games-metro-style-app-framework.md)
 * Handoff File: [tutorial--building-the-games-metro-style-app-framework.835bb62d4091c8c04b73a82ce1e6dcd05b3fd817.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--building-the-games-metro-style-app-framework.835bb62d4091c8c04b73a82ce1e6dcd05b3fd817.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17206,7 +17206,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--create-your-first-metro-style-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--create-your-first-metro-style-directx-game.md)
 * Handoff File: [tutorial--create-your-first-metro-style-directx-game.09988e889ed0e40f4a2631f9f2526eb26d3c8d78.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--create-your-first-metro-style-directx-game.09988e889ed0e40f4a2631f9f2526eb26d3c8d78.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17218,7 +17218,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--defining-the-main-game-loop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--defining-the-main-game-loop.md)
 * Handoff File: [tutorial--defining-the-main-game-loop.612f05ebdd7fad6645210de4014f375f13d01495.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--defining-the-main-game-loop.612f05ebdd7fad6645210de4014f375f13d01495.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17230,7 +17230,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial-resources.md)
 * Handoff File: [tutorial-resources.158a8bf4bd93b1922304088ae5e5587c20a91b68.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial-resources.158a8bf4bd93b1922304088ae5e5587c20a91b68.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17242,7 +17242,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\tutorial--setting-up-the-games-infrastructure.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/tutorial--setting-up-the-games-infrastructure.md)
 * Handoff File: [tutorial--setting-up-the-games-infrastructure.3d88b1884a792c6c71eaf7cc749ee9b6a7206cb6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tutorial--setting-up-the-games-infrastructure.3d88b1884a792c6c71eaf7cc749ee9b6a7206cb6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17254,7 +17254,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\understand-direct3d-11-1-concepts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/understand-direct3d-11-1-concepts.md)
 * Handoff File: [understand-direct3d-11-1-concepts.01f1e8a41c4057589659dd8290bcddcaf3d07b4a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/understand-direct3d-11-1-concepts.01f1e8a41c4057589659dd8290bcddcaf3d07b4a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17266,7 +17266,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\user-interface.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/user-interface.md)
 * Handoff File: [user-interface.e004ef4c187daa7cb2c409b616fc00475cfca450.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/user-interface.e004ef4c187daa7cb2c409b616fc00475cfca450.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17278,7 +17278,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.md)
 * Handoff File: [use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.84a75fdd92a50e3ebb24ca274bcff287a193456e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-directx-runtime-and-visual-studio-graphics-diagnostic-features.84a75fdd92a50e3ebb24ca274bcff287a193456e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17290,7 +17290,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\using-depth-and-effects-on-primitives.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/using-depth-and-effects-on-primitives.md)
 * Handoff File: [using-depth-and-effects-on-primitives.4e8e993e7c77edec96aa6c6bab35e7d17ec5a5e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-depth-and-effects-on-primitives.4e8e993e7c77edec96aa6c6bab35e7d17ec5a5e7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17302,7 +17302,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\walkthrough-sample-ports-from-opengl-es-2-0.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/walkthrough-sample-ports-from-opengl-es-2-0.md)
 * Handoff File: [walkthrough-sample-ports-from-opengl-es-2-0.668341bb0c2ab18ac68e991e4ca7c2abec06778c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-sample-ports-from-opengl-es-2-0.668341bb0c2ab18ac68e991e4ca7c2abec06778c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17314,7 +17314,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\walkthrough--simple-port-from-direct3d-9-to-11-1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/walkthrough--simple-port-from-direct3d-9-to-11-1.md)
 * Handoff File: [walkthrough--simple-port-from-direct3d-9-to-11-1.ecf7d5e2bd83f2af0c961f69b46c129076fe9f1e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough--simple-port-from-direct3d-9-to-11-1.ecf7d5e2bd83f2af0c961f69b46c129076fe9f1e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17326,7 +17326,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\working-with-2d-graphics-in-your-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/working-with-2d-graphics-in-your-directx-game.md)
 * Handoff File: [working-with-2d-graphics-in-your-directx-game.e9764b26608ae9f2184bf70f0448b778e1cd12aa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/working-with-2d-graphics-in-your-directx-game.e9764b26608ae9f2184bf70f0448b778e1cd12aa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17338,7 +17338,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\working-with-audio-in-your-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/working-with-audio-in-your-directx-game.md)
 * Handoff File: [working-with-audio-in-your-directx-game.728137e47048aa4f29fe37f105a58914551704cd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/working-with-audio-in-your-directx-game.728137e47048aa4f29fe37f105a58914551704cd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17350,7 +17350,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\gaming\work-with-networking-in-your-directx-game.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/gaming/work-with-networking-in-your-directx-game.md)
 * Handoff File: [work-with-networking-in-your-directx-game.47e5c7f53eb5427b5aa251784c69e36fea45a5ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/work-with-networking-in-your-directx-game.47e5c7f53eb5427b5aa251784c69e36fea45a5ba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17362,7 +17362,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md)
 * Handoff File: [create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-basic-windows-10-app-in-cpp.961b676f2c934cd2a618de690461895a9504e7c2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17374,7 +17374,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-js-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-js-universal.md)
 * Handoff File: [create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-hello-world-app-js-universal.bd637662f26e3c97eeff15abf8169108b4bbaf5f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17386,7 +17386,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-xaml-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-xaml-universal.md)
 * Handoff File: [create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-hello-world-app-xaml-universal.84598707912b9cb1397fb1e49a041be8b2e3b842.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17398,7 +17398,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md)
 * Handoff File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17410,7 +17410,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/get-set-up.md)
 * Handoff File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17434,7 +17434,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/learn-more.md)
 * Handoff File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17446,7 +17446,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\get-started\plan-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/get-started/plan-your-app.md)
 * Handoff File: [plan-your-app.8b408d67ee6ed3bd5a56dc70d154ba627bee7712.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/plan-your-app.8b408d67ee6ed3bd5a56dc70d154ba627bee7712.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17458,7 +17458,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/get-started/sign-up.md)
 * Handoff File: [sign-up.5b29dfce610cead56be91ec5cb1e72caa3008a3b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sign-up.5b29dfce610cead56be91ec5cb1e72caa3008a3b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17470,7 +17470,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\get-started\universal-application-platform-guide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/get-started/universal-application-platform-guide.md)
 * Handoff File: [universal-application-platform-guide.a6801a66c06d9b82e89f5d85a69f8c8ef4574a93.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/universal-application-platform-guide.a6801a66c06d9b82e89f5d85a69f8c8ef4574a93.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17482,7 +17482,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\get-started\whats-a-uwp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/get-started/whats-a-uwp.md)
 * Handoff File: [whats-a-uwp.f3d941c86b3bf9279f08c4fdde1859afe719c6b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/whats-a-uwp.f3d941c86b3bf9279f08c4fdde1859afe719c6b1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17494,7 +17494,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\get-started\your-first-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/get-started/your-first-app.md)
 * Handoff File: [your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/your-first-app.1e63e7ec8501e4f3b1f8297ea1581282aefa13af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17506,7 +17506,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\adjust-layout-and-fonts--and-support-rtl.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/adjust-layout-and-fonts--and-support-rtl.md)
 * Handoff File: [adjust-layout-and-fonts--and-support-rtl.51a56d9e3eb60a20f4f0ba6d3de707afdc8fb590.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/adjust-layout-and-fonts--and-support-rtl.51a56d9e3eb60a20f4f0ba6d3de707afdc8fb590.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17518,7 +17518,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\globalizing-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/globalizing-portal.md)
 * Handoff File: [globalizing-portal.fcac23427b8d253e1f0ed9c99037637789f6a5ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/globalizing-portal.fcac23427b8d253e1f0ed9c99037637789f6a5ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17530,7 +17530,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\guidelines-and-checklist-for-globalizing-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/guidelines-and-checklist-for-globalizing-your-app.md)
 * Handoff File: [guidelines-and-checklist-for-globalizing-your-app.7dc47e66434d3cbaa18bbb6b6b08709670adbdcb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-and-checklist-for-globalizing-your-app.7dc47e66434d3cbaa18bbb6b6b08709670adbdcb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17542,7 +17542,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\usability\globalizing\manage-language-and-region.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/usability/globalizing/manage-language-and-region.md)
 * Handoff File: [manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-language-and-region.0cef7c80cb80565fdb3b457533ed04b248b5ca33.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17554,7 +17554,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\prepare-your-app-for-localization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/prepare-your-app-for-localization.md)
 * Handoff File: [prepare-your-app-for-localization.e346b520154f973e4d1b6537a0b08b0672ddb15e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/prepare-your-app-for-localization.e346b520154f973e4d1b6537a0b08b0672ddb15e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17566,7 +17566,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\put-ui-strings-into-resources.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/put-ui-strings-into-resources.md)
 * Handoff File: [put-ui-strings-into-resources.051e1c882ffa6e95f3944e47f4a56d3c4e0af9d0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/put-ui-strings-into-resources.051e1c882ffa6e95f3944e47f4a56d3c4e0af9d0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17578,7 +17578,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\use-global-ready-formats.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/use-global-ready-formats.md)
 * Handoff File: [use-global-ready-formats.97ca55d530b4c16c1af18210f00156eecc98dd41.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-global-ready-formats.97ca55d530b4c16c1af18210f00156eecc98dd41.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17590,7 +17590,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\globalizing\use-patterns-to-format-dates-and-times.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/globalizing/use-patterns-to-format-dates-and-times.md)
 * Handoff File: [use-patterns-to-format-dates-and-times.577e93f3544ff01fd53af9561cd459a3b1a5fe0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-patterns-to-format-dates-and-times.577e93f3544ff01fd53af9561cd459a3b1a5fe0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17602,7 +17602,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md)
 * Handoff File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17614,7 +17614,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/animations-overview.md)
 * Handoff File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17626,7 +17626,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-animation.md)
 * Handoff File: [composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-animation.3117dec48670c0d08e8777f2e40018b19bd9ae5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17638,7 +17638,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/graphics/composition-brushes.md)
 * Handoff File: [composition-brushes.2ce506b84e84f9ea4382cb9bd5f7b85108ffd427.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-brushes.2ce506b84e84f9ea4382cb9bd5f7b85108ffd427.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17650,7 +17650,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-effects.md)
 * Handoff File: [composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-effects.5efb444c3e341f994783c9e9a71ad6d6a3e2db9c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17662,7 +17662,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md)
 * Handoff File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17674,7 +17674,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md)
 * Handoff File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17686,7 +17686,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md)
 * Handoff File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17698,7 +17698,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif)
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17711,7 +17711,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/graphics/index.md)
 * Handoff File: [index.3ff837a17e261aa0ae69a79fce38bb93b246f044.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3ff837a17e261aa0ae69a79fce38bb93b246f044.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17723,7 +17723,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/graphics/key-frame-and-easing-function-animations.md)
 * Handoff File: [key-frame-and-easing-function-animations.5107862218ecb4947f22897f46b28cbb4aeabd25.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/key-frame-and-easing-function-animations.5107862218ecb4947f22897f46b28cbb4aeabd25.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17735,7 +17735,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\storyboarded-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/storyboarded-animations.md)
 * Handoff File: [storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/storyboarded-animations.281128eeb4d5c15d77be48b2aed4925f8115bcb4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17747,7 +17747,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/transforms-overview.md)
 * Handoff File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17759,7 +17759,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/using-brushes.md)
 * Handoff File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17771,7 +17771,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\graphics\visual-layer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/graphics/visual-layer.md)
 * Handoff File: [visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual-layer.922af3c848c3c3ca7fb4ee7ed9e239205881eed9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17783,7 +17783,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/home.md)
 * Handoff File: [home.57db1462956f629f892a81e203516c290df03cad.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/home.57db1462956f629f892a81e203516c290df03cad.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17795,7 +17795,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\in-app-help\guidelines-for-app-help.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/in-app-help/guidelines-for-app-help.md)
 * Handoff File: [guidelines-for-app-help.bf12cd322a278f12dc22e414d657daa695a0a62b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-app-help.bf12cd322a278f12dc22e414d657daa695a0a62b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17807,7 +17807,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\in-app-help\in-app-help-and-instructions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/in-app-help/in-app-help-and-instructions.md)
 * Handoff File: [in-app-help-and-instructions.28f03ebe5aa3803b0330cf8b2652c71559dc768b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/in-app-help-and-instructions.28f03ebe5aa3803b0330cf8b2652c71559dc768b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17819,7 +17819,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\in-app-help\instructional-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/in-app-help/instructional-ui.md)
 * Handoff File: [instructional-ui.0599a600b8968af40f1ba735f853d494c8fdb6eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/instructional-ui.0599a600b8968af40f1ba735f853d494c8fdb6eb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17831,7 +17831,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/index.md)
 * Handoff File: [index.21807257c6007c819e6c89064e41fa2f2e35e533.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.21807257c6007c819e6c89064e41fa2f2e35e533.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17843,7 +17843,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\convert-ink-to-text.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/convert-ink-to-text.md)
 * Handoff File: [convert-ink-to-text.aa886e6d6aadd5e5e97c5f05f56e6189ebd8a566.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/convert-ink-to-text.aa886e6d6aadd5e5e97c5f05f56e6189ebd8a566.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17855,7 +17855,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\cortana-design-guidelines.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/cortana-design-guidelines.md)
 * Handoff File: [cortana-design-guidelines.6a117eaf25d99e35b6a6d94a59de297396a686f9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cortana-design-guidelines.6a117eaf25d99e35b6a6d94a59de297396a686f9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17867,7 +17867,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\cortana-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/cortana-interactions.md)
 * Handoff File: [cortana-interactions.ab097bfd9d5663587b9c1c8a491df6d01899e0f4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cortana-interactions.ab097bfd9d5663587b9c1c8a491df6d01899e0f4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17879,7 +17879,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\custom-text-input.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/custom-text-input.md)
 * Handoff File: [custom-text-input.aeb8d27d5639eee7866b02d046cf6791a61f67fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-text-input.aeb8d27d5639eee7866b02d046cf6791a61f67fa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17891,7 +17891,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\deep-link-into-your-app-from-cortana.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/deep-link-into-your-app-from-cortana.md)
 * Handoff File: [deep-link-into-your-app-from-cortana.fe1e83ba70b23f2f95d9b5d25422f3f0591564ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deep-link-into-your-app-from-cortana.fe1e83ba70b23f2f95d9b5d25422f3f0591564ca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17903,7 +17903,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\define-custom-recognition-constraints.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/define-custom-recognition-constraints.md)
 * Handoff File: [define-custom-recognition-constraints.4b68553edeb9d8cd01aeb8fcebb443155d5dee30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/define-custom-recognition-constraints.4b68553edeb9d8cd01aeb8fcebb443155d5dee30.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17915,7 +17915,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\device-primer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/device-primer.md)
 * Handoff File: [device-primer.f0f228f5110fb5594f47532e834b3cbe74eabacc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-primer.f0f228f5110fb5594f47532e834b3cbe74eabacc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17927,7 +17927,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\dynamically-modify-voice-command-definition--vcd--phrase-lists.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/dynamically-modify-voice-command-definition--vcd--phrase-lists.md)
 * Handoff File: [dynamically-modify-voice-command-definition--vcd--phrase-lists.c79db7d7e99e6a3002903d53d4b079c5e63122c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dynamically-modify-voice-command-definition--vcd--phrase-lists.c79db7d7e99e6a3002903d53d4b079c5e63122c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17939,7 +17939,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\enable-continuous-dictation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/enable-continuous-dictation.md)
 * Handoff File: [enable-continuous-dictation.1949d38960210ceb8796a775b5a7023395695f62.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-continuous-dictation.1949d38960210ceb8796a775b5a7023395695f62.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17951,7 +17951,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-cross-slide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-cross-slide.md)
 * Handoff File: [guidelines-for-cross-slide.b947fcd67344710e9f2c3ae4d8172f90a89318ab.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-cross-slide.b947fcd67344710e9f2c3ae4d8172f90a89318ab.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17963,7 +17963,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-optical-zoom.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-optical-zoom.md)
 * Handoff File: [guidelines-for-optical-zoom.bb49588c789100e7efac8485be8b768603c0e8ea.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-optical-zoom.bb49588c789100e7efac8485be8b768603c0e8ea.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17975,7 +17975,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-panning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-panning.md)
 * Handoff File: [guidelines-for-panning.c3144ac1dd36dea2caadea5332198b60e5bd89ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-panning.c3144ac1dd36dea2caadea5332198b60e5bd89ba.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17987,7 +17987,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-rotation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-rotation.md)
 * Handoff File: [guidelines-for-rotation.c33f77ff1a4ed337d83b8df28bde5b8add05628b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-rotation.c33f77ff1a4ed337d83b8df28bde5b8add05628b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -17999,7 +17999,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-targeting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-targeting.md)
 * Handoff File: [guidelines-for-targeting.7f095db0336a262024ff3965356563af94a54604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-targeting.7f095db0336a262024ff3965356563af94a54604.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18011,7 +18011,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-textselection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-textselection.md)
 * Handoff File: [guidelines-for-textselection.ddbd1b1443b1f6d6223e41c3210a27d025427649.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-textselection.ddbd1b1443b1f6d6223e41c3210a27d025427649.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18023,7 +18023,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-user-interaction.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-user-interaction.md)
 * Handoff File: [guidelines-for-user-interaction.700c4b52952d4c1cb7892c32002f82ad4e1ae419.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-user-interaction.700c4b52952d4c1cb7892c32002f82ad4e1ae419.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18035,7 +18035,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\guidelines-for-visualfeedback.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/guidelines-for-visualfeedback.md)
 * Handoff File: [guidelines-for-visualfeedback.de6a70866f7467e2010ffc88d40e85f87aab7dfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-visualfeedback.de6a70866f7467e2010ffc88d40e85f87aab7dfc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18047,7 +18047,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\handle-pointer-input.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/handle-pointer-input.md)
 * Handoff File: [handle-pointer-input.49b75df178ae6f94309dcf087fcf70e670236ffe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handle-pointer-input.49b75df178ae6f94309dcf087fcf70e670236ffe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18059,7 +18059,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\identify-input-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/identify-input-devices.md)
 * Handoff File: [identify-input-devices.9920327437107c42736930e93374eba08e8b2c4a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/identify-input-devices.9920327437107c42736930e93374eba08e8b2c4a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18131,7 +18131,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\input-primer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/input-primer.md)
 * Handoff File: [input-primer.a618d77095df3466cd57dace55f5657e01376b67.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/input-primer.a618d77095df3466cd57dace55f5657e01376b67.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18143,7 +18143,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\interact-with-a-background-app-in-cortana.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/interact-with-a-background-app-in-cortana.md)
 * Handoff File: [interact-with-a-background-app-in-cortana.ca8cbab21ebc6ef37ddebf25fc8659d3f81d3f2d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/interact-with-a-background-app-in-cortana.ca8cbab21ebc6ef37ddebf25fc8659d3f81d3f2d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18155,7 +18155,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\keyboard-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/keyboard-interactions.md)
 * Handoff File: [keyboard-interactions.2bbe44b105148ac26744da56122027523b13c525.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keyboard-interactions.2bbe44b105148ac26744da56122027523b13c525.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18167,7 +18167,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\launch-a-background-app-with-voice-commands-in-cortana.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/launch-a-background-app-with-voice-commands-in-cortana.md)
 * Handoff File: [launch-a-background-app-with-voice-commands-in-cortana.37f53325cd89e856e758cd1b8c730dd0024fec62.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-a-background-app-with-voice-commands-in-cortana.37f53325cd89e856e758cd1b8c730dd0024fec62.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18179,7 +18179,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\launch-a-foreground-app-with-voice-commands-in-cortana.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/launch-a-foreground-app-with-voice-commands-in-cortana.md)
 * Handoff File: [launch-a-foreground-app-with-voice-commands-in-cortana.558842182de822f0a75f7cc12097e06a77878afc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-a-foreground-app-with-voice-commands-in-cortana.558842182de822f0a75f7cc12097e06a77878afc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18191,7 +18191,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\manage-issues-with-audio-input.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/manage-issues-with-audio-input.md)
 * Handoff File: [manage-issues-with-audio-input.c8c52dd3f8c2d1710239e76e304c6c25731082e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-issues-with-audio-input.c8c52dd3f8c2d1710239e76e304c6c25731082e8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18203,7 +18203,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\mouse-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/mouse-interactions.md)
 * Handoff File: [mouse-interactions.9af013a0977300af2cafe11cfc9645886152fdd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mouse-interactions.9af013a0977300af2cafe11cfc9645886152fdd1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18215,7 +18215,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\multiple-input-design-guidelines.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/multiple-input-design-guidelines.md)
 * Handoff File: [multiple-input-design-guidelines.7bad35bf1a5f722309ef5f87b2deed8ee586113f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/multiple-input-design-guidelines.7bad35bf1a5f722309ef5f87b2deed8ee586113f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18227,7 +18227,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\pen-and-stylus-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/pen-and-stylus-interactions.md)
 * Handoff File: [pen-and-stylus-interactions.d565633900ba96b28c491322ce3e1233abad6a6e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pen-and-stylus-interactions.d565633900ba96b28c491322ce3e1233abad6a6e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18239,7 +18239,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\respond-to-the-presence-of-the-touch-keyboard.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/respond-to-the-presence-of-the-touch-keyboard.md)
 * Handoff File: [respond-to-the-presence-of-the-touch-keyboard.0e6d144c6420bd496afccb0fe5f01c685e7ede57.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/respond-to-the-presence-of-the-touch-keyboard.0e6d144c6420bd496afccb0fe5f01c685e7ede57.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18251,7 +18251,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\save-and-load-ink.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/save-and-load-ink.md)
 * Handoff File: [save-and-load-ink.087052b005d397938b2553999acf6cd802a926dc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/save-and-load-ink.087052b005d397938b2553999acf6cd802a926dc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18263,7 +18263,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\set-speech-recognition-timeouts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/set-speech-recognition-timeouts.md)
 * Handoff File: [set-speech-recognition-timeouts.3c14d7f60fba13b830e0de4f7eaffb676ee6a658.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-speech-recognition-timeouts.3c14d7f60fba13b830e0de4f7eaffb676ee6a658.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18275,7 +18275,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\specify-the-speech-recognizer-language.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/specify-the-speech-recognizer-language.md)
 * Handoff File: [specify-the-speech-recognizer-language.f8c7115480e1ad7cc84eef754add9fdb1c8f511c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/specify-the-speech-recognizer-language.f8c7115480e1ad7cc84eef754add9fdb1c8f511c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18287,7 +18287,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\speech-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/speech-interactions.md)
 * Handoff File: [speech-interactions.28dc6157e3b7e732776b8711832c80637c562b48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/speech-interactions.28dc6157e3b7e732776b8711832c80637c562b48.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18299,7 +18299,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\speech-recognition.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/speech-recognition.md)
 * Handoff File: [speech-recognition.4d6cc8841880992c6fd1a8ebf62edc9ab02c8738.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/speech-recognition.4d6cc8841880992c6fd1a8ebf62edc9ab02c8738.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18311,7 +18311,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\support-natural-language-voice-commands-in-cortana.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/support-natural-language-voice-commands-in-cortana.md)
 * Handoff File: [support-natural-language-voice-commands-in-cortana.0e0f36382dd3e02fe48379eefa6b758428effb5e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/support-natural-language-voice-commands-in-cortana.0e0f36382dd3e02fe48379eefa6b758428effb5e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18323,7 +18323,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\surface-hub.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/surface-hub.md)
 * Handoff File: [surface-hub.1ccae8eddddecc613dccb327826179222dfa61ad.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/surface-hub.1ccae8eddddecc613dccb327826179222dfa61ad.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18335,7 +18335,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\touch-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/touch-interactions.md)
 * Handoff File: [touch-interactions.3222786614acb8b9ab11005b1e7ccca32fe16d0a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/touch-interactions.3222786614acb8b9ab11005b1e7ccca32fe16d0a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18347,7 +18347,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\input-and-devices\touchpad-interactions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/input-and-devices/touchpad-interactions.md)
 * Handoff File: [touchpad-interactions.02287e43daa3860edeb7346f6de5d42066fa507c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/touchpad-interactions.02287e43daa3860edeb7346f6de5d42066fa507c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18359,7 +18359,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\access-sensors-and-devices-from-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/access-sensors-and-devices-from-a-background-task.md)
 * Handoff File: [access-sensors-and-devices-from-a-background-task.0773e1a276c2cc3de3fd5dbab6136cbc75f660ac.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-sensors-and-devices-from-a-background-task.0773e1a276c2cc3de3fd5dbab6136cbc75f660ac.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18371,7 +18371,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\activate-an-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/activate-an-app.md)
 * Handoff File: [activate-an-app.a0468a26dc8132ba6f20a0a320b77dcb5a7b52d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/activate-an-app.a0468a26dc8132ba6f20a0a320b77dcb5a7b52d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18383,7 +18383,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\add-a-splash-screen.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/add-a-splash-screen.md)
 * Handoff File: [add-a-splash-screen.2c9523fb7cb78a58f34f175e3bd3f8f8591cef10.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/add-a-splash-screen.2c9523fb7cb78a58f34f175e3bd3f8f8591cef10.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18395,7 +18395,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\app-lifecycle.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/app-lifecycle.md)
 * Handoff File: [app-lifecycle.99bd38fd09c2930422780a6edbc0f920f748a141.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-lifecycle.99bd38fd09c2930422780a6edbc0f920f748a141.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18407,7 +18407,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\auto-launching-with-autoplay.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/auto-launching-with-autoplay.md)
 * Handoff File: [auto-launching-with-autoplay.d2b2034da6c64ff1762def37948a1391cc8c6719.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/auto-launching-with-autoplay.d2b2034da6c64ff1762def37948a1391cc8c6719.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18419,7 +18419,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\create-a-customized-splash-screen.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/create-a-customized-splash-screen.md)
 * Handoff File: [create-a-customized-splash-screen.8bc3f53ace797674df614bad340e2665e0f07733.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-customized-splash-screen.8bc3f53ace797674df614bad340e2665e0f07733.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18431,7 +18431,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\create-and-register-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/create-and-register-a-background-task.md)
 * Handoff File: [create-and-register-a-background-task.d47704a8337bcff4bc36eeda79cff0209d4d2252.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-and-register-a-background-task.d47704a8337bcff4bc36eeda79cff0209d4d2252.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18443,7 +18443,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\debug-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/debug-a-background-task.md)
 * Handoff File: [debug-a-background-task.bb5f6781a243ba6c8aa9c128375677d718eadde8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debug-a-background-task.bb5f6781a243ba6c8aa9c128375677d718eadde8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18455,7 +18455,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\declare-background-tasks-in-the-application-manifest.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/declare-background-tasks-in-the-application-manifest.md)
 * Handoff File: [declare-background-tasks-in-the-application-manifest.f2b51725f5472b78d47982447bf3593f79484b41.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/declare-background-tasks-in-the-application-manifest.f2b51725f5472b78d47982447bf3593f79484b41.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18467,7 +18467,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\guidelines-for-background-tasks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/guidelines-for-background-tasks.md)
 * Handoff File: [guidelines-for-background-tasks.1d9606b76cb736cbda2aafa1c04b53813430aea3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-background-tasks.1d9606b76cb736cbda2aafa1c04b53813430aea3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18479,7 +18479,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\handle-a-cancelled-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/handle-a-cancelled-background-task.md)
 * Handoff File: [handle-a-cancelled-background-task.38291793fb88e118ae9db5463e70c6639b87c273.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handle-a-cancelled-background-task.38291793fb88e118ae9db5463e70c6639b87c273.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18491,7 +18491,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\handle-app-prelaunch.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/handle-app-prelaunch.md)
 * Handoff File: [handle-app-prelaunch.80a33f2e97213b9f19c5187807ff1ac54fbfa430.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handle-app-prelaunch.80a33f2e97213b9f19c5187807ff1ac54fbfa430.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18503,7 +18503,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\handle-file-activation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/handle-file-activation.md)
 * Handoff File: [handle-file-activation.ee5bddd0a7f20c2fc97874822666228f2993ecfb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handle-file-activation.ee5bddd0a7f20c2fc97874822666228f2993ecfb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18515,7 +18515,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\handle-uri-activation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/handle-uri-activation.md)
 * Handoff File: [handle-uri-activation.21484d038e95afdb09212fbc2466f54732a14f8b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/handle-uri-activation.21484d038e95afdb09212fbc2466f54732a14f8b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18527,7 +18527,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\how-to-create-and-consume-an-app-service.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/how-to-create-and-consume-an-app-service.md)
 * Handoff File: [how-to-create-and-consume-an-app-service.61251c84febd8991e0f8b1d842f82c7139ba5be9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-create-and-consume-an-app-service.61251c84febd8991e0f8b1d842f82c7139ba5be9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18539,7 +18539,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\how-to-launch-an-app-for-results.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/how-to-launch-an-app-for-results.md)
 * Handoff File: [how-to-launch-an-app-for-results.7c7bc8c8ce79addd0d85c45268686a23f88eb76c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-launch-an-app-for-results.7c7bc8c8ce79addd0d85c45268686a23f88eb76c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18551,7 +18551,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/index.md)
 * Handoff File: [index.ed061a70185c42e331c50669212651a4b4bcc21c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.ed061a70185c42e331c50669212651a4b4bcc21c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18563,7 +18563,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-default-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-default-app.md)
 * Handoff File: [launch-default-app.8ee630a4bb54c257154483bc15a857aae1cb8380.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-default-app.8ee630a4bb54c257154483bc15a857aae1cb8380.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18575,7 +18575,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-maps-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-maps-app.md)
 * Handoff File: [launch-maps-app.03f542ca8d1902ecc08a848c09378647cca4af03.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-maps-app.03f542ca8d1902ecc08a848c09378647cca4af03.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18587,7 +18587,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-people-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-people-apps.md)
 * Handoff File: [launch-people-apps.92574c7aebc803a84f3d9f2ba13e1f26fdb6c61d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-people-apps.92574c7aebc803a84f3d9f2ba13e1f26fdb6c61d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18599,7 +18599,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-settings-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-settings-app.md)
 * Handoff File: [launch-settings-app.53b53c64eada70dd470685bda5da548fb04d0416.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-settings-app.53b53c64eada70dd470685bda5da548fb04d0416.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18611,7 +18611,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-store-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-store-app.md)
 * Handoff File: [launch-store-app.731ae76de35f4f5cfee10cfbb6d60001fe05e61d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-store-app.731ae76de35f4f5cfee10cfbb6d60001fe05e61d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18623,7 +18623,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\launch-the-default-app-for-a-file.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/launch-the-default-app-for-a-file.md)
 * Handoff File: [launch-the-default-app-for-a-file.eadb2ee2a52fbcdfe0734033da7397e99085c778.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/launch-the-default-app-for-a-file.eadb2ee2a52fbcdfe0734033da7397e99085c778.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18635,7 +18635,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\monitor-background-task-progress-and-completion.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/monitor-background-task-progress-and-completion.md)
 * Handoff File: [monitor-background-task-progress-and-completion.401365295df5bb551a0771bfee4c54979704d4ef.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/monitor-background-task-progress-and-completion.401365295df5bb551a0771bfee4c54979704d4ef.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18647,7 +18647,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\register-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/register-a-background-task.md)
 * Handoff File: [register-a-background-task.0d9486ad264a67421b8881a56b80cc65215ec914.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/register-a-background-task.0d9486ad264a67421b8881a56b80cc65215ec914.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18659,7 +18659,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\reserved-uri-scheme-names.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/reserved-uri-scheme-names.md)
 * Handoff File: [reserved-uri-scheme-names.1f4d9eb423afe263765ae89e3300e1eded7eb4fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/reserved-uri-scheme-names.1f4d9eb423afe263765ae89e3300e1eded7eb4fb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18671,7 +18671,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\respond-to-system-events-with-background-tasks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/respond-to-system-events-with-background-tasks.md)
 * Handoff File: [respond-to-system-events-with-background-tasks.199cc707b70429a28eaedc5c71d5dac75308b7b2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/respond-to-system-events-with-background-tasks.199cc707b70429a28eaedc5c71d5dac75308b7b2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18683,7 +18683,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\resume-an-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/resume-an-app.md)
 * Handoff File: [resume-an-app.c7b4d20275c17a2c67560060831c807fa9f0f1c3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resume-an-app.c7b4d20275c17a2c67560060831c807fa9f0f1c3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18695,7 +18695,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\run-a-background-task-on-a-timer-.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/run-a-background-task-on-a-timer-.md)
 * Handoff File: [run-a-background-task-on-a-timer-.2dbc667a7f3a2127c1c17c74b638960efe7cd2fc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run-a-background-task-on-a-timer-.2dbc667a7f3a2127c1c17c74b638960efe7cd2fc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18707,7 +18707,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\set-conditions-for-running-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/set-conditions-for-running-a-background-task.md)
 * Handoff File: [set-conditions-for-running-a-background-task.ef3a11c90cf51b139e58dbde605ce3e0d8ec0c7d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-conditions-for-running-a-background-task.ef3a11c90cf51b139e58dbde605ce3e0d8ec0c7d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18719,7 +18719,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\support-your-app-with-background-tasks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/support-your-app-with-background-tasks.md)
 * Handoff File: [support-your-app-with-background-tasks.5f283d9af19e408b9d3e38122ab7730bfec5cd43.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/support-your-app-with-background-tasks.5f283d9af19e408b9d3e38122ab7730bfec5cd43.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18731,7 +18731,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\suspend-an-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/suspend-an-app.md)
 * Handoff File: [suspend-an-app.1f40d7a26326bd7203524cff27f8ed2efdcf9f34.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/suspend-an-app.1f40d7a26326bd7203524cff27f8ed2efdcf9f34.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18743,7 +18743,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\update-a-live-tile-from-a-background-task.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/update-a-live-tile-from-a-background-task.md)
 * Handoff File: [update-a-live-tile-from-a-background-task.fbcd0cb89ee6e8448a13834e09d5a0cb172aae6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-a-live-tile-from-a-background-task.fbcd0cb89ee6e8448a13834e09d5a0cb172aae6b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18755,7 +18755,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\launch-resume\use-a-maintenance-trigger.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/launch-resume/use-a-maintenance-trigger.md)
 * Handoff File: [use-a-maintenance-trigger.99c58238e002c64f3f19af0c24fe0abd9872254c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-a-maintenance-trigger.99c58238e002c64f3f19af0c24fe0abd9872254c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18767,7 +18767,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\alignment-margin-padding.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/alignment-margin-padding.md)
 * Handoff File: [alignment-margin-padding.84530b1541e1c10540fcb81dd1a9e13566d1e8c6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/alignment-margin-padding.84530b1541e1c10540fcb81dd1a9e13566d1e8c6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18779,7 +18779,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\boxpanel-example-custom-panel.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/boxpanel-example-custom-panel.md)
 * Handoff File: [boxpanel-example-custom-panel.5b79e87e44336934d44236e42f8b29873647257a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/boxpanel-example-custom-panel.5b79e87e44336934d44236e42f8b29873647257a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18791,7 +18791,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\commanding-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/commanding-basics.md)
 * Handoff File: [commanding-basics.3d95893d34b2662d067f8c8dd8bf120af5dd5641.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/commanding-basics.3d95893d34b2662d067f8c8dd8bf120af5dd5641.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18803,7 +18803,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\content-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/content-basics.md)
 * Handoff File: [content-basics.392a8827dd7e0121f49d2feb635dde1e7721045e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/content-basics.392a8827dd7e0121f49d2feb635dde1e7721045e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18815,7 +18815,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\custom-panels-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/custom-panels-overview.md)
 * Handoff File: [custom-panels-overview.7e2b8f107c25df91babc257dccde33b97d25ebb8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-panels-overview.7e2b8f107c25df91babc257dccde33b97d25ebb8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18827,7 +18827,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\design-and-ui-intro.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/design-and-ui-intro.md)
 * Handoff File: [design-and-ui-intro.cb6d39569b1515fc822a5b5ca8c61c1a2e009618.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/design-and-ui-intro.cb6d39569b1515fc822a5b5ca8c61c1a2e009618.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18899,7 +18899,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\layout-panels.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/layout-panels.md)
 * Handoff File: [layout-panels.6df10f5fb8009096def1938ddb199442f5fb4e77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/layout-panels.6df10f5fb8009096def1938ddb199442f5fb4e77.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18911,7 +18911,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\layouts-with-xaml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/layouts-with-xaml.md)
 * Handoff File: [layouts-with-xaml.1a447bdd54bf079b087a108b9d9a678a7d7c73e5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/layouts-with-xaml.1a447bdd54bf079b087a108b9d9a678a7d7c73e5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18923,7 +18923,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\navigation-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/navigation-basics.md)
 * Handoff File: [navigation-basics.1ef5495df1eca061160a8be1689a46fdf3729ca7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/navigation-basics.1ef5495df1eca061160a8be1689a46fdf3729ca7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18935,7 +18935,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\navigation-history-and-backwards-navigation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/navigation-history-and-backwards-navigation.md)
 * Handoff File: [navigation-history-and-backwards-navigation.89e8de2b8e0013857fc9fe4f61870d44b6aa83a7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/navigation-history-and-backwards-navigation.89e8de2b8e0013857fc9fe4f61870d44b6aa83a7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18947,7 +18947,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\peer-to-peer-navigation-between-two-pages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/peer-to-peer-navigation-between-two-pages.md)
 * Handoff File: [peer-to-peer-navigation-between-two-pages.1c7d8c5a6aa5d78c8211b18016e4ebd0ab20f66a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/peer-to-peer-navigation-between-two-pages.1c7d8c5a6aa5d78c8211b18016e4ebd0ab20f66a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18959,7 +18959,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\screen-sizes-and-breakpoints-for-responsive-design.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/screen-sizes-and-breakpoints-for-responsive-design.md)
 * Handoff File: [screen-sizes-and-breakpoints-for-responsive-design.a31ae54d73f982a7287a89648601f9234d4688fe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/screen-sizes-and-breakpoints-for-responsive-design.a31ae54d73f982a7287a89648601f9234d4688fe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18971,7 +18971,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\layout\show-multiple-views.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/layout/show-multiple-views.md)
 * Handoff File: [show-multiple-views.87bc0a44eb30988c58e536a0c49f76bddfb53e0d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/show-multiple-views.87bc0a44eb30988c58e536a0c49f76bddfb53e0d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18983,7 +18983,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\authentication-key.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/authentication-key.md)
 * Handoff File: [authentication-key.3905a66d98d34204bebe389296779577bd11a1e5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/authentication-key.3905a66d98d34204bebe389296779577bd11a1e5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -18995,7 +18995,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\controls-map.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/controls-map.md)
 * Handoff File: [controls-map.971acb633f5e91a089483d076be7e992abb81e5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/controls-map.971acb633f5e91a089483d076be7e992abb81e5b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19007,7 +19007,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\display-maps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/display-maps.md)
 * Handoff File: [display-maps.e3d87d08f19f271e41b0317cc89db6800ead4e8d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/display-maps.e3d87d08f19f271e41b0317cc89db6800ead4e8d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19019,7 +19019,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\display-poi.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/display-poi.md)
 * Handoff File: [display-poi.b49ea694b6e62d8d79d9ed9b4812837fafbcb586.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/display-poi.b49ea694b6e62d8d79d9ed9b4812837fafbcb586.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19031,7 +19031,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\geocoding.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/geocoding.md)
 * Handoff File: [geocoding.78c28016975720f7d3a2bf54f03a68463dd846c2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/geocoding.78c28016975720f7d3a2bf54f03a68463dd846c2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19043,7 +19043,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\get-location.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/get-location.md)
 * Handoff File: [get-location.d38697f383d9385b9884f3044da42852def95ff3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-location.d38697f383d9385b9884f3044da42852def95ff3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19055,7 +19055,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\guidelines-and-checklist-for-detecting-location.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/guidelines-and-checklist-for-detecting-location.md)
 * Handoff File: [guidelines-and-checklist-for-detecting-location.8af5f93ab6b9cf45ba0534dcc5ea59accb9c817d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-and-checklist-for-detecting-location.8af5f93ab6b9cf45ba0534dcc5ea59accb9c817d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19067,7 +19067,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\guidelines-for-geofencing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/guidelines-for-geofencing.md)
 * Handoff File: [guidelines-for-geofencing.5e6773acfb8759013819b4a13e5e1ad82c28a290.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidelines-for-geofencing.5e6773acfb8759013819b4a13e5e1ad82c28a290.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19079,7 +19079,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/index.md)
 * Handoff File: [index.d4c93a11dfc280864c8f1ed28de36dea41c14c88.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.d4c93a11dfc280864c8f1ed28de36dea41c14c88.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19091,7 +19091,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\overlay-tiled-images.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/overlay-tiled-images.md)
 * Handoff File: [overlay-tiled-images.e04d9ad13abc362b5d187a9d588e3edd6416bb78.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/overlay-tiled-images.e04d9ad13abc362b5d187a9d588e3edd6416bb78.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19103,7 +19103,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\routes-and-directions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/routes-and-directions.md)
 * Handoff File: [routes-and-directions.1b218436d574a77691052e901bc34ec1455cbfcb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/routes-and-directions.1b218436d574a77691052e901bc34ec1455cbfcb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19115,7 +19115,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\maps-and-location\set-up-a-geofence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/maps-and-location/set-up-a-geofence.md)
 * Handoff File: [set-up-a-geofence.f6410e03b35736376f67928d3a8bfc88ed78a4ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-up-a-geofence.f6410e03b35736376f67928d3a8bfc88ed78a4ff.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19127,7 +19127,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-analytics-data-using-windows-store-services.40ee39dcf89d4ff9bedfa86853bf7464d98defaf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19139,7 +19139,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\add-ads-to-apps-with-microsoft-advertising.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/add-ads-to-apps-with-microsoft-advertising.md)
 * Handoff File: [add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/add-ads-to-apps-with-microsoft-advertising.6f906fb49f7a90d9637c9b82583a74322030aaa0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19151,7 +19151,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\add-and-use-the-ad-mediator-control.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/add-and-use-the-ad-mediator-control.md)
 * Handoff File: [add-and-use-the-ad-mediator-control.ddfc95675cb0f59b1378454b91c5886dd0543ddd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/add-and-use-the-ad-mediator-control.ddfc95675cb0f59b1378454b91c5886dd0543ddd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19163,7 +19163,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\enable-consumable-in-app-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/enable-consumable-in-app-product-purchases.md)
 * Handoff File: [enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-consumable-in-app-product-purchases.226c7e60c1e8a5f63c7dcc6b4befd33e991b87bc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19175,7 +19175,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\enable-in-app-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/enable-in-app-product-purchases.md)
 * Handoff File: [enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-in-app-product-purchases.eb9c4b61326f84aae9140582a71a0bc8b23883c3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19187,7 +19187,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\exclude-or-limit-features-in-a-trial-version-of-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/exclude-or-limit-features-in-a-trial-version-of-your-app.md)
 * Handoff File: [exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/exclude-or-limit-features-in-a-trial-version-of-your-app.2d0d892fc260965ec292f63013bd911029b01162.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19199,7 +19199,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-app-acquisitions.md)
 * Handoff File: [get-app-acquisitions.411f2a1e2d6e8d91c565fda226b528dc4b8150c7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-acquisitions.411f2a1e2d6e8d91c565fda226b528dc4b8150c7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19211,7 +19211,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-app-failures.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-app-failures.md)
 * Handoff File: [get-app-failures.30a70ff11340c4f852cdd3d8a4882fdf188277a5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-failures.30a70ff11340c4f852cdd3d8a4882fdf188277a5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19223,7 +19223,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-app-ratings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-app-ratings.md)
 * Handoff File: [get-app-ratings.0647085f6fd8c1aea37d30c9019bfa341257f8af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-ratings.0647085f6fd8c1aea37d30c9019bfa341257f8af.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19235,7 +19235,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-app-reviews.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-app-reviews.md)
 * Handoff File: [get-app-reviews.c8c97d2c36804512f97eb7c4b24631c543496ea3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-app-reviews.c8c97d2c36804512f97eb7c4b24631c543496ea3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19247,7 +19247,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-error-reporting-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-error-reporting-data.md)
 * Handoff File: [get-error-reporting-data.68e96eadf8682fc5cee2670351fa5d0a38a8d572.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-error-reporting-data.68e96eadf8682fc5cee2670351fa5d0a38a8d572.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19259,7 +19259,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\get-in-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/get-in-app-acquisitions.md)
 * Handoff File: [get-in-app-acquisitions.54eba988c61a25a2b31ea547e4b1978b14f801c7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-in-app-acquisitions.54eba988c61a25a2b31ea547e4b1978b14f801c7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19271,7 +19271,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\grant-free-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/grant-free-products.md)
 * Handoff File: [grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/grant-free-products.df4beaeb26d5661670d94e55f72d2f6952467528.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19283,7 +19283,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/index.md)
 * Handoff File: [index.60bb2aa912764fa32f417298252b8d55496bcf6d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.60bb2aa912764fa32f417298252b8d55496bcf6d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19295,7 +19295,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\install-the-microsoft-universal-ad-client-sdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/install-the-microsoft-universal-ad-client-sdk.md)
 * Handoff File: [install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-the-microsoft-universal-ad-client-sdk.319afe78c78c640aca0231a9d7f3fd0d0d6b6d86.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19307,7 +19307,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\manage-a-large-catalog-of-in-app-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/manage-a-large-catalog-of-in-app-products.md)
 * Handoff File: [manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-a-large-catalog-of-in-app-products.58497889327f9ce9d9d6e75c3f7597d7baca2dcb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19319,7 +19319,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\query-for-products.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/query-for-products.md)
 * Handoff File: [query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/query-for-products.f3d5364ca940c8b7d97de4877062ed5084ec9480.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19331,7 +19331,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\renew-a-windows-store-id-key.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/renew-a-windows-store-id-key.md)
 * Handoff File: [renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/renew-a-windows-store-id-key.ecf15f951899193447be845edc958145505395d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19343,7 +19343,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\report-consumable-products-as-fulfilled.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/report-consumable-products-as-fulfilled.md)
 * Handoff File: [report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/report-consumable-products-as-fulfilled.70c85797516f3bba14ca05d1fac02bffe5c5ec00.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19355,7 +19355,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\select-and-manage-your-ad-networks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/select-and-manage-your-ad-networks.md)
 * Handoff File: [select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/select-and-manage-your-ad-networks.f3765c96cb3d09d26ef34f94f4d6c45719a1362c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19367,7 +19367,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\submit-your-app-and-configure-ad-mediation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/submit-your-app-and-configure-ad-mediation.md)
 * Handoff File: [submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-your-app-and-configure-ad-mediation.f8a03e13b9233f799ee43dccbc0881d44b5f3c02.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19379,7 +19379,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\test-your-ad-mediation-implementation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/test-your-ad-mediation-implementation.md)
 * Handoff File: [test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-your-ad-mediation-implementation.152db2d94530d4fe92c393f4ca0557ca765b74b5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19391,7 +19391,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\troubleshoot-ad-mediation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/troubleshoot-ad-mediation.md)
 * Handoff File: [troubleshoot-ad-mediation.794c7fe4e3487c9470756f7569249f0a7d24cdaf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshoot-ad-mediation.794c7fe4e3487c9470756f7569249f0a7d24cdaf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19403,7 +19403,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\use-ad-mediation-to-maximize-revenue.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/use-ad-mediation-to-maximize-revenue.md)
 * Handoff File: [use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-ad-mediation-to-maximize-revenue.8751cb700a90a5c9e88e595150a787c87e7a643a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19415,7 +19415,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\monetize\use-receipts-to-verify-product-purchases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/monetize/use-receipts-to-verify-product-purchases.md)
 * Handoff File: [use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-receipts-to-verify-product-purchases.3f65480a5a0b5b25cb9846cbae4b0711762afdc0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19427,7 +19427,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\using-windows-store-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/using-windows-store-services.md)
 * Handoff File: [using-windows-store-services.d1637717b969a35106dc43378610fb68c8827288.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-windows-store-services.d1637717b969a35106dc43378610fb68c8827288.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19439,7 +19439,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\monetize\view-and-grant-products-from-a-service.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/monetize/view-and-grant-products-from-a-service.md)
 * Handoff File: [view-and-grant-products-from-a-service.365e43b3d65ec603972c7996a2ee36084079749a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/view-and-grant-products-from-a-service.365e43b3d65ec603972c7996a2ee36084079749a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19451,7 +19451,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\networking\background-transfers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/networking/background-transfers.md)
 * Handoff File: [background-transfers.aec36926dacd115cf797d4ad5a2eb423d3b6dd74.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/background-transfers.aec36926dacd115cf797d4ad5a2eb423d3b6dd74.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19511,7 +19511,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\httpclient.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/httpclient.md)
 * Handoff File: [httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/httpclient.7a1c617dae410d92435ef2ab4e7f97d3f8db362a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19523,7 +19523,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/networking/index.md)
 * Handoff File: [index.cd380449f7821ea5d15ad007fb046b2701449cbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.cd380449f7821ea5d15ad007fb046b2701449cbf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19535,7 +19535,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\networking\network-communications-in-the-background.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/networking/network-communications-in-the-background.md)
 * Handoff File: [network-communications-in-the-background.2cc3adcfab018cafba6637853afd7652c2cf81de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/network-communications-in-the-background.2cc3adcfab018cafba6637853afd7652c2cf81de.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19547,7 +19547,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/networking/networking-basics.md)
 * Handoff File: [networking-basics.49d9fb06de1f877a272832661fb7466031b1a2b1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/networking-basics.49d9fb06de1f877a272832661fb7466031b1a2b1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19559,7 +19559,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\sockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/sockets.md)
 * Handoff File: [sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sockets.6796d16e83b4026f60d158c8bc3dbd8a5d7367b3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19571,7 +19571,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\web-feeds.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/web-feeds.md)
 * Handoff File: [web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/web-feeds.83f92f165fe11405132be3d2c1a055efa0a561ae.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19583,7 +19583,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/networking/websockets.md)
 * Handoff File: [websockets.58d052162e359353c9537247fe9cf6709bc81f5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/websockets.58d052162e359353c9537247fe9cf6709bc81f5b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19595,7 +19595,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/networking/which-networking-technology.md)
 * Handoff File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19607,7 +19607,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\app-capability-declarations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/app-capability-declarations.md)
 * Handoff File: [app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-capability-declarations.593ff2975fa4721c68f51f89de936a6a77be6a1f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19619,7 +19619,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/index.md)
 * Handoff File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19631,7 +19631,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md)
 * Handoff File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19643,7 +19643,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\packaging\packaging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/packaging/packaging-uwp-apps.md)
 * Handoff File: [packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/packaging-uwp-apps.d386af56286c0b715e8a0a84cd76c22167721d24.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19655,7 +19655,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\android-ios-uwp-map.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/android-ios-uwp-map.md)
 * Handoff File: [android-ios-uwp-map.14b3f990b51dd81aefab285a8932c429e43851c3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/android-ios-uwp-map.14b3f990b51dd81aefab285a8932c429e43851c3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19667,7 +19667,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-animation.md)
 * Handoff File: [getting-started-animation.bed2e44c40cffb39c66076a82dc9963d432d5096.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-animation.bed2e44c40cffb39c66076a82dc9963d432d5096.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19679,7 +19679,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-choosing-a-programming-language.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-choosing-a-programming-language.md)
 * Handoff File: [getting-started-choosing-a-programming-language.dfbbfe499d1e28105822a7a91f3214a07ac14bc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-choosing-a-programming-language.dfbbfe499d1e28105822a7a91f3214a07ac14bc5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19691,7 +19691,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-common-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-common-controls.md)
 * Handoff File: [getting-started-common-controls.b6014b2b3dbf59860abed39c1b7b0bdd8112be79.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-common-controls.b6014b2b3dbf59860abed39c1b7b0bdd8112be79.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19703,7 +19703,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-creating-a-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-creating-a-project.md)
 * Handoff File: [getting-started-creating-a-project.7ad826a4f26ed926d41ff59107f2b088b01977ca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-creating-a-project.7ad826a4f26ed926d41ff59107f2b088b01977ca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19715,7 +19715,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-getting-around-in-visual-studio.md)
 * Handoff File: [getting-started-getting-around-in-visual-studio.d3ea94879ee03299795f135f3eb228733235d295.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-getting-around-in-visual-studio.d3ea94879ee03299795f135f3eb228733235d295.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19727,7 +19727,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-navigation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-navigation.md)
 * Handoff File: [getting-started-navigation.440b63b7785bb47e6ffb81a80ccad9aee356c33e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-navigation.440b63b7785bb47e6ffb81a80ccad9aee356c33e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19739,7 +19739,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\getting-started-what-next.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/getting-started-what-next.md)
 * Handoff File: [getting-started-what-next.b5ddcfabd07e9a37fb8704d1aea61de5266e6fac.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-what-next.b5ddcfabd07e9a37fb8704d1aea61de5266e6fac.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19751,7 +19751,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\getting-started-with-uwp-for-ios-developers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/getting-started-with-uwp-for-ios-developers.md)
 * Handoff File: [getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-with-uwp-for-ios-developers.9799534dae9d5ac7eaee9d0f97f185e52f95ff12.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19763,7 +19763,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/index.md)
 * Handoff File: [index.963ad92c0eb8306dfda432ff537ec7ba426f87c1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.963ad92c0eb8306dfda432ff537ec7ba426f87c1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19775,7 +19775,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\ios-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/ios-to-uwp-root.md)
 * Handoff File: [ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ios-to-uwp-root.b5fab31ce36fc34be420c277e699bcf9d3e23b29.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19787,7 +19787,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\selecting-an-approach-to-ios-and-uwp-app-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/selecting-an-approach-to-ios-and-uwp-app-development.md)
 * Handoff File: [selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-an-approach-to-ios-and-uwp-app-development.47d68ff930c336bd39c413a46ec1e1d721ed39d6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19799,7 +19799,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md)
 * Handoff File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19811,7 +19811,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md)
 * Handoff File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19823,7 +19823,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\w8x-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/w8x-to-uwp-case-study-bookstore1.md)
 * Handoff File: [w8x-to-uwp-case-study-bookstore1.5b274e37b373de227cfc710e5493447fbf914ae7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-bookstore1.5b274e37b373de227cfc710e5493447fbf914ae7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19835,7 +19835,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\w8x-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/w8x-to-uwp-case-study-bookstore2.md)
 * Handoff File: [w8x-to-uwp-case-study-bookstore2.ad76d963e04ca3fbfbb6a2e752e085587a962b31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-bookstore2.ad76d963e04ca3fbfbb6a2e752e085587a962b31.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19847,7 +19847,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\w8x-to-uwp-case-study-quizgame.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/w8x-to-uwp-case-study-quizgame.md)
 * Handoff File: [w8x-to-uwp-case-study-quizgame.bbb20237c790189cfc18dfc75f8764c4f7a89523.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-case-study-quizgame.bbb20237c790189cfc18dfc75f8764c4f7a89523.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19859,7 +19859,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md)
 * Handoff File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19871,7 +19871,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-to-a-uwp-project.md)
 * Handoff File: [w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-to-a-uwp-project.58b8fafdc5ed8dbe5b73c9783b9812f3e35edccf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19883,7 +19883,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md)
 * Handoff File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19895,7 +19895,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-root.md)
 * Handoff File: [w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-root.28963c21e75cb8137c69e6b72fb7c29a3312c014.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19907,7 +19907,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-troubleshooting.md)
 * Handoff File: [w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-troubleshooting.60bc58c68adc46954879730a2f760da67cb7860c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19919,7 +19919,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-business-and-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-business-and-data.md)
 * Handoff File: [wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-business-and-data.2ac194cdc595bf4bdae6bda24250669077cd4df8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19931,7 +19931,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\wpsl-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/wpsl-to-uwp-case-study-bookstore1.md)
 * Handoff File: [wpsl-to-uwp-case-study-bookstore1.339aaa57e2219925b372ee5e725df2eda848da92.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-case-study-bookstore1.339aaa57e2219925b372ee5e725df2eda848da92.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19943,7 +19943,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\porting\wpsl-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/porting/wpsl-to-uwp-case-study-bookstore2.md)
 * Handoff File: [wpsl-to-uwp-case-study-bookstore2.586052c062ab2d4e02abe22d7830ac9c4cadcb9e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-case-study-bookstore2.586052c062ab2d4e02abe22d7830ac9c4cadcb9e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19955,7 +19955,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md)
 * Handoff File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19967,7 +19967,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md)
 * Handoff File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19979,7 +19979,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md)
 * Handoff File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -19991,7 +19991,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-to-a-uwp-project.md)
 * Handoff File: [wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-to-a-uwp-project.2f8f00bf46a8a34cba51d65ba5800516f2953667.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20003,7 +20003,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md)
 * Handoff File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20015,7 +20015,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-root.md)
 * Handoff File: [wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-root.91f1dfb08f766e169984c863df309b99a0d10e3a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20027,7 +20027,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md)
 * Handoff File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20039,7 +20039,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\about-house-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/about-house-ads.md)
 * Handoff File: [about-house-ads.61ac440a9fb36c2248961bdfa8da0bbd52ad0aac.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/about-house-ads.61ac440a9fb36c2248961bdfa8da0bbd52ad0aac.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20051,7 +20051,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/account-types-locations-and-fees.md)
 * Handoff File: [account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/account-types-locations-and-fees.c48f734f3c862dd595412f2f3ae09a9cc34a142a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20063,7 +20063,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/acquisitions-report.md)
 * Handoff File: [acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/acquisitions-report.36511153b832c45e8a44d7b8333cbcf532ffae5c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20075,7 +20075,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/ad-mediation-report.md)
 * Handoff File: [ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ad-mediation-report.660398cc23164fc0b92650dd2318fd33ca1f2a18.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20087,7 +20087,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\advertising-performance-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/advertising-performance-report.md)
 * Handoff File: [advertising-performance-report.6cf6bf79d0a0611d310843e6b8ecf4a65bd32b3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/advertising-performance-report.6cf6bf79d0a0611d310843e6b8ecf4a65bd32b3f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20099,7 +20099,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\age-ratings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/age-ratings.md)
 * Handoff File: [age-ratings.d783f083c35b56ed883ad9796779a4cab656982f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/age-ratings.d783f083c35b56ed883ad9796779a4cab656982f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20111,7 +20111,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\analytics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/analytics.md)
 * Handoff File: [analytics.62e86a609ab148e02bedd933226d05c3efa1764e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analytics.62e86a609ab148e02bedd933226d05c3efa1764e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20123,7 +20123,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\app-declarations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/app-declarations.md)
 * Handoff File: [app-declarations.3a90c631e0e8d78d63787f96882eecbc1c02b1c8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-declarations.3a90c631e0e8d78d63787f96882eecbc1c02b1c8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20135,7 +20135,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\app-install-ads-reports.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/app-install-ads-reports.md)
 * Handoff File: [app-install-ads-reports.d096a8374eb2fbd4cbbb9e42a55d4f2a83b2e55a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-install-ads-reports.d096a8374eb2fbd4cbbb9e42a55d4f2a83b2e55a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20147,7 +20147,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\app-management-and-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/app-management-and-services.md)
 * Handoff File: [app-management-and-services.780a314dd104d3d83ec3906fdc50a1b1de7fd0b6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-management-and-services.780a314dd104d3d83ec3906fdc50a1b1de7fd0b6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20159,7 +20159,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-marketing-guidelines.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-marketing-guidelines.md)
 * Handoff File: [app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-marketing-guidelines.6922266366712bf4ca48e87369411bd5a5bd52a0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20171,7 +20171,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\app-package-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/app-package-requirements.md)
 * Handoff File: [app-package-requirements.fcfd0ab8e9f0a882d3af91096401b96efd7a0dfa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-package-requirements.fcfd0ab8e9f0a882d3af91096401b96efd7a0dfa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20183,7 +20183,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-promotion-and-customer-engagement.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-promotion-and-customer-engagement.md)
 * Handoff File: [app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-promotion-and-customer-engagement.2cc29cc45864f9d6d8ab15da08778e490088470a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20195,7 +20195,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\app-screenshots-and-images.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/app-screenshots-and-images.md)
 * Handoff File: [app-screenshots-and-images.d51c2dd529ee22d65c966f439ac287e13be42e2c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-screenshots-and-images.d51c2dd529ee22d65c966f439ac287e13be42e2c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20207,7 +20207,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\app-submissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/app-submissions.md)
 * Handoff File: [app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/app-submissions.05678bf82b761ff1a73b616cd74391922d29440e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20219,7 +20219,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\avoid-common-certification-failures.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/avoid-common-certification-failures.md)
 * Handoff File: [avoid-common-certification-failures.50c49d8d488e27f0ad93aebef01bf4cac6f6465d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoid-common-certification-failures.50c49d8d488e27f0ad93aebef01bf4cac6f6465d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20231,7 +20231,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\beta-testing-and-targeted-distribution.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/beta-testing-and-targeted-distribution.md)
 * Handoff File: [beta-testing-and-targeted-distribution.48048ebcc07108c9792b93458cd6868d425a9fd9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing-and-targeted-distribution.48048ebcc07108c9792b93458cd6868d425a9fd9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20243,7 +20243,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\category-and-subcategory-table.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/category-and-subcategory-table.md)
 * Handoff File: [category-and-subcategory-table.89c1c7a37b94e9d345452d3cbb428e0d92b4d652.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/category-and-subcategory-table.89c1c7a37b94e9d345452d3cbb428e0d92b4d652.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20255,7 +20255,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\channels-and-conversions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/channels-and-conversions-report.md)
 * Handoff File: [channels-and-conversions-report.ad2e072c1e6360068d3cf710ebab54edbb97c52a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/channels-and-conversions-report.ad2e072c1e6360068d3cf710ebab54edbb97c52a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20267,7 +20267,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\common-questions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/common-questions.md)
 * Handoff File: [common-questions.8fe2d7f0bb638c1cd98b10fa032a29b006b6cdbd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/common-questions.8fe2d7f0bb638c1cd98b10fa032a29b006b6cdbd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20279,7 +20279,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\create-a-custom-app-promotion-campaign.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/create-a-custom-app-promotion-campaign.md)
 * Handoff File: [create-a-custom-app-promotion-campaign.4bb4cdd41e687eff693a9d5bf92a7461f1ba3a00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-custom-app-promotion-campaign.4bb4cdd41e687eff693a9d5bf92a7461f1ba3a00.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20291,7 +20291,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\create-an-ad-campaign-for-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/create-an-ad-campaign-for-your-app.md)
 * Handoff File: [create-an-ad-campaign-for-your-app.d92f29c04d33f9c1e2543855b9825dc112efa144.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-an-ad-campaign-for-your-app.d92f29c04d33f9c1e2543855b9825dc112efa144.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20303,7 +20303,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-app-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-app-descriptions.md)
 * Handoff File: [create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-app-descriptions.b6ca885fc6f46afc953a0e54893893d42613e934.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20315,7 +20315,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\create-iap-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/create-iap-descriptions.md)
 * Handoff File: [create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-iap-descriptions.7e023b199feaa9bc40e6b810bcc71a20f387c6da.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20327,7 +20327,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\create-platform-specific-descriptions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/create-platform-specific-descriptions.md)
 * Handoff File: [create-platform-specific-descriptions.e075180ef003a7f74f915c76e82841c444e522b2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-platform-specific-descriptions.e075180ef003a7f74f915c76e82841c444e522b2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20339,7 +20339,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\create-your-app-by-reserving-a-name.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/create-your-app-by-reserving-a-name.md)
 * Handoff File: [create-your-app-by-reserving-a-name.2b2d9466c4c9108addaf732123578710ca794a81.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-your-app-by-reserving-a-name.2b2d9466c4c9108addaf732123578710ca794a81.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20351,7 +20351,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\define-pricing-and-market-selection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/define-pricing-and-market-selection.md)
 * Handoff File: [define-pricing-and-market-selection.1e7a0aefe0261368fd8ee51a1af04a1d960957f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/define-pricing-and-market-selection.1e7a0aefe0261368fd8ee51a1af04a1d960957f8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20363,7 +20363,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\distribute-lob-apps-to-enterprises.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/distribute-lob-apps-to-enterprises.md)
 * Handoff File: [distribute-lob-apps-to-enterprises.c4440ba0fb8dbfe16d53ec52a58b3e038e5ae0b7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distribute-lob-apps-to-enterprises.c4440ba0fb8dbfe16d53ec52a58b3e038e5ae0b7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20375,7 +20375,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\download-analytic-reports.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/download-analytic-reports.md)
 * Handoff File: [download-analytic-reports.593986e031c0123ad0cf6839a341dfe070a1cffa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/download-analytic-reports.593986e031c0123ad0cf6839a341dfe070a1cffa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20387,7 +20387,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\enter-app-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/enter-app-properties.md)
 * Handoff File: [enter-app-properties.2d7b21887b976a3ea7bb43f7b6f5502042f21083.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enter-app-properties.2d7b21887b976a3ea7bb43f7b6f5502042f21083.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20399,7 +20399,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\enter-iap-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/enter-iap-properties.md)
 * Handoff File: [enter-iap-properties.cef32ab8d828f2c472e6ceec71f6d8f2eed606f7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enter-iap-properties.cef32ab8d828f2c472e6ceec71f6d8f2eed606f7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20411,7 +20411,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\generate-preinstall-packages-for-oems.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/generate-preinstall-packages-for-oems.md)
 * Handoff File: [generate-preinstall-packages-for-oems.83f4d065a0ce4f7b64ed29e5b67221d69634bce8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/generate-preinstall-packages-for-oems.83f4d065a0ce4f7b64ed29e5b67221d69634bce8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20423,7 +20423,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\generate-promotional-codes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/generate-promotional-codes.md)
 * Handoff File: [generate-promotional-codes.f0b366645450c2a1fe764099bd0396e78061ddc1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/generate-promotional-codes.f0b366645450c2a1fe764099bd0396e78061ddc1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20435,7 +20435,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\getting-paid-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/getting-paid-apps.md)
 * Handoff File: [getting-paid-apps.c3a425c2bbdaba02e3e022ad9d504dc4bd0b6882.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-paid-apps.c3a425c2bbdaba02e3e022ad9d504dc4bd0b6882.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20447,7 +20447,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\guidance-for-app-package-management.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/guidance-for-app-package-management.md)
 * Handoff File: [guidance-for-app-package-management.9ecce9a5e03ed4938b02ce0d1e079f7d6642c125.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/guidance-for-app-package-management.9ecce9a5e03ed4938b02ce0d1e079f7d6642c125.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20459,7 +20459,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\health-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/health-report.md)
 * Handoff File: [health-report.8a737c7e285866e6d424adb86f21690b9ee8d670.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/health-report.8a737c7e285866e6d424adb86f21690b9ee8d670.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20471,7 +20471,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\how-your-app-appears-in-the-store-for-windows-10-customers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/how-your-app-appears-in-the-store-for-windows-10-customers.md)
 * Handoff File: [how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-your-app-appears-in-the-store-for-windows-10-customers.b39cf4b13d2151423c6ed5d9ee7f1b4f6b1ca562.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20483,7 +20483,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\iap-acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/iap-acquisitions-report.md)
 * Handoff File: [iap-acquisitions-report.bbcdf8757e8c2b68230ea24a4d46875440a86469.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/iap-acquisitions-report.bbcdf8757e8c2b68230ea24a4d46875440a86469.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20495,7 +20495,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\iap-submissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/iap-submissions.md)
 * Handoff File: [iap-submissions.bcdfe468cc62a9ceecf64cc25bcf2c7c0cd7d3c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/iap-submissions.bcdfe468cc62a9ceecf64cc25bcf2c7c0cd7d3c5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20507,7 +20507,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\link-to-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/link-to-your-app.md)
 * Handoff File: [link-to-your-app.3fde1ec4235370cdb65fa89b1609bda589f47059.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/link-to-your-app.3fde1ec4235370cdb65fa89b1609bda589f47059.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20519,7 +20519,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\make-your-app-easier-to-promote.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/make-your-app-easier-to-promote.md)
 * Handoff File: [make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/make-your-app-easier-to-promote.a6eca7bffeffb0ccb77f3f737ae8c244e153e636.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20531,7 +20531,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\manage-account-users.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/manage-account-users.md)
 * Handoff File: [manage-account-users.3ebefd766a435c92a74f62313ceb9a209abb7ab1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-account-users.3ebefd766a435c92a74f62313ceb9a209abb7ab1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20543,7 +20543,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\manage-app-names.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/manage-app-names.md)
 * Handoff File: [manage-app-names.cdc68696a838a059f15952f04ae10a78076cc248.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/manage-app-names.cdc68696a838a059f15952f04ae10a78076cc248.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20555,7 +20555,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\managing-your-ad-campaign.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/managing-your-ad-campaign.md)
 * Handoff File: [managing-your-ad-campaign.bc67587672e218d9026752f566eaceddf10fccad.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-ad-campaign.bc67587672e218d9026752f566eaceddf10fccad.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20567,7 +20567,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/managing-your-profile.md)
 * Handoff File: [managing-your-profile.3a66788eb60859f54ce842e545556aafe3f1b104.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-profile.3a66788eb60859f54ce842e545556aafe3f1b104.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20579,7 +20579,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\mobile-operator-billing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/mobile-operator-billing.md)
 * Handoff File: [mobile-operator-billing.7ae7149a890a7a0d409f0418300ca372b80eed20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mobile-operator-billing.7ae7149a890a7a0d409f0418300ca372b80eed20.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20591,7 +20591,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\monetize-with-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/monetize-with-ads.md)
 * Handoff File: [monetize-with-ads.b704d6444401a444fc6799e78b56992b177c1fc6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/monetize-with-ads.b704d6444401a444fc6799e78b56992b177c1fc6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20603,7 +20603,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\notes-for-certification.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/notes-for-certification.md)
 * Handoff File: [notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/notes-for-certification.a78bf11942b44fac1de5385bd64f2c5ed8c82ff6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20615,7 +20615,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/opening-a-developer-account.md)
 * Handoff File: [opening-a-developer-account.0832729e0a0c3cc0a023e2e090f51c7bd4e6e1d0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/opening-a-developer-account.0832729e0a0c3cc0a023e2e090f51c7bd4e6e1d0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20627,7 +20627,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\organizational-licensing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/organizational-licensing.md)
 * Handoff File: [organizational-licensing.e888f1067fb29dadbd347cd823e07826698407b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/organizational-licensing.e888f1067fb29dadbd347cd823e07826698407b0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20639,7 +20639,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\package-version-numbering.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/package-version-numbering.md)
 * Handoff File: [package-version-numbering.88aafb64c2c769d7f041ba61f16e6a7d9b1f59f2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/package-version-numbering.88aafb64c2c769d7f041ba61f16e6a7d9b1f59f2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20651,7 +20651,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\payout-summary.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/payout-summary.md)
 * Handoff File: [payout-summary.f968344a20d2982623082204155949d07899dbca.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/payout-summary.f968344a20d2982623082204155949d07899dbca.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20663,7 +20663,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\pubcenter-dev-center-integration.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/pubcenter-dev-center-integration.md)
 * Handoff File: [pubcenter-dev-center-integration.58fce099e4c421266dba4cd482fcb7dbfe0cad32.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pubcenter-dev-center-integration.58fce099e4c421266dba4cd482fcb7dbfe0cad32.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20675,7 +20675,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\pubcenter-devcenter-payout-account-and-tax-profile-consolidation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.md)
 * Handoff File: [pubcenter-devcenter-payout-account-and-tax-profile-consolidation.e9748c7adc6a19e33db6505356fb8be795276f97.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pubcenter-devcenter-payout-account-and-tax-profile-consolidation.e9748c7adc6a19e33db6505356fb8be795276f97.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20687,7 +20687,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\put-apps-and-iaps-on-sale.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/put-apps-and-iaps-on-sale.md)
 * Handoff File: [put-apps-and-iaps-on-sale.4453f37c82d102086b0bc37687ed1f6d34f58819.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/put-apps-and-iaps-on-sale.4453f37c82d102086b0bc37687ed1f6d34f58819.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20699,7 +20699,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\ratings-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/ratings-report.md)
 * Handoff File: [ratings-report.12ff272d94eaf520002acc155a8b375a3ac31d1c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ratings-report.12ff272d94eaf520002acc155a8b375a3ac31d1c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20711,7 +20711,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\resolve-package-upload-errors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/resolve-package-upload-errors.md)
 * Handoff File: [resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resolve-package-upload-errors.ebef2f501af2c8aa662dcc919b117d65601fb2a7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20723,7 +20723,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\resolve-submission-errors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/resolve-submission-errors.md)
 * Handoff File: [resolve-submission-errors.83c557b6bdfba5947fce779be0bd59e84115b364.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/resolve-submission-errors.83c557b6bdfba5947fce779be0bd59e84115b364.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20735,7 +20735,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\respond-to-customer-reviews.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/respond-to-customer-reviews.md)
 * Handoff File: [respond-to-customer-reviews.49d11f649d5dec24a337a58d137c945165f623a8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/respond-to-customer-reviews.49d11f649d5dec24a337a58d137c945165f623a8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20747,7 +20747,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\reviews-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/reviews-report.md)
 * Handoff File: [reviews-report.3b9a798c0425ad49ffff6837e25d72f2ea039508.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/reviews-report.3b9a798c0425ad49ffff6837e25d72f2ea039508.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20759,7 +20759,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\set-app-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/set-app-pricing-and-availability.md)
 * Handoff File: [set-app-pricing-and-availability.c31d87f21106464d15974329455ee2cb62de19d6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-app-pricing-and-availability.c31d87f21106464d15974329455ee2cb62de19d6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20771,7 +20771,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/26b98c346ced19d88cf192930070a65304105038/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
 * Handoff File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20783,7 +20783,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\setting-up-your-payout-account-and-tax-forms.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/setting-up-your-payout-account-and-tax-forms.md)
 * Handoff File: [setting-up-your-payout-account-and-tax-forms.dda46024cf9d22462f0dd6bb8dd2289c6ca3a065.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-payout-account-and-tax-forms.dda46024cf9d22462f0dd6bb8dd2289c6ca3a065.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20795,7 +20795,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\set-your-iap-product-id.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/set-your-iap-product-id.md)
 * Handoff File: [set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-your-iap-product-id.b3f9606ba1cd4f892537c787d40206026b64544f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20807,7 +20807,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\supported-languages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/supported-languages.md)
 * Handoff File: [supported-languages.1befde4ca6f6fdc30ecaae686c527aa28aeb51e3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/supported-languages.1befde4ca6f6fdc30ecaae686c527aa28aeb51e3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20819,7 +20819,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\tax-details-for-paid-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/tax-details-for-paid-apps.md)
 * Handoff File: [tax-details-for-paid-apps.97ec4e37d271098f64fefa2ae7483c9abb8a29ac.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tax-details-for-paid-apps.97ec4e37d271098f64fefa2ae7483c9abb8a29ac.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20831,7 +20831,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\the-app-certification-process.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/the-app-certification-process.md)
 * Handoff File: [the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/the-app-certification-process.e5e64b922e18b625ea51cac58187b45867443af5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20843,7 +20843,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\publish\trademark-and-copyright-protection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/publish/trademark-and-copyright-protection.md)
 * Handoff File: [trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/trademark-and-copyright-protection.d881b16d922ba00655d71fefa57e5c93b8f3ad9f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20855,7 +20855,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\upload-app-packages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/upload-app-packages.md)
 * Handoff File: [upload-app-packages.5051a4d7b3bc18a74c12dbc966f61d6047d5afe1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/upload-app-packages.5051a4d7b3bc18a74c12dbc966f61d6047d5afe1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20867,7 +20867,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\usage-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/usage-report.md)
 * Handoff File: [usage-report.07314873bc2d878b5426852997d8c69b7a910b1d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/usage-report.07314873bc2d878b5426852997d8c69b7a910b1d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20879,7 +20879,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\use-map-services.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/use-map-services.md)
 * Handoff File: [use-map-services.526a63c71e5f07c4d71146c32315a0f1be8e3841.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-map-services.526a63c71e5f07c4d71146c32315a0f1be8e3841.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20891,7 +20891,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\using-the-windows-dev-center-dashboard.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/using-the-windows-dev-center-dashboard.md)
 * Handoff File: [using-the-windows-dev-center-dashboard.371a82de084d25302acfd01a3fcffa5719515b99.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-the-windows-dev-center-dashboard.371a82de084d25302acfd01a3fcffa5719515b99.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20903,7 +20903,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\vat-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/vat-info.md)
 * Handoff File: [vat-info.0ea16877b91ece243c86f897de001b6971ed4a2b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/vat-info.0ea16877b91ece243c86f897de001b6971ed4a2b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20915,7 +20915,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\view-app-identity-details.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/view-app-identity-details.md)
 * Handoff File: [view-app-identity-details.a818ed94ee41bfb2158722f876acc23c876b3ae4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/view-app-identity-details.a818ed94ee41bfb2158722f876acc23c876b3ae4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20927,7 +20927,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\publish\write-a-great-app-description.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/write-a-great-app-description.md)
 * Handoff File: [write-a-great-app-description.1482bba1cb1cea80a4ac7bb35c20a6015f279382.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/write-a-great-app-description.1482bba1cb1cea80a4ac7bb35c20a6015f279382.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20939,7 +20939,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\authentication-and-user-identity.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/authentication-and-user-identity.md)
 * Handoff File: [authentication-and-user-identity.8b8ec304bde7f6f2e51903477b77e5aa49326205.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/authentication-and-user-identity.8b8ec304bde7f6f2e51903477b77e5aa49326205.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20951,7 +20951,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\certificates.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/certificates.md)
 * Handoff File: [certificates.0e865a41824f70336896107f48b6b2608a0e8245.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/certificates.0e865a41824f70336896107f48b6b2608a0e8245.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20963,7 +20963,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\common-cryptography-tasks.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/common-cryptography-tasks.md)
 * Handoff File: [common-cryptography-tasks.c7d8d75c6a405cd378c442d9d610190af5140316.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/common-cryptography-tasks.c7d8d75c6a405cd378c442d9d610190af5140316.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20975,7 +20975,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\compare-buffers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/compare-buffers.md)
 * Handoff File: [compare-buffers.3b3792e5d8b4319737208cdbc7070456a38a764d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/compare-buffers.3b3792e5d8b4319737208cdbc7070456a38a764d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20987,7 +20987,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\convert-between-strings-and-binary-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/convert-between-strings-and-binary-data.md)
 * Handoff File: [convert-between-strings-and-binary-data.9ae8c01686fbe7333bbb4bc2af2bf586632812f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/convert-between-strings-and-binary-data.9ae8c01686fbe7333bbb4bc2af2bf586632812f8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -20999,7 +20999,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\copy-to-and-from-byte-arrays.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/copy-to-and-from-byte-arrays.md)
 * Handoff File: [copy-to-and-from-byte-arrays.bfa38f0fe4b1f2c721a7383a040f70abf31f41b6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/copy-to-and-from-byte-arrays.bfa38f0fe4b1f2c721a7383a040f70abf31f41b6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21011,7 +21011,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\create-random-numbers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/create-random-numbers.md)
 * Handoff File: [create-random-numbers.d17c35ad3279aa1a6c2d10c3b0149fbfc2f5e372.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-random-numbers.d17c35ad3279aa1a6c2d10c3b0149fbfc2f5e372.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21023,7 +21023,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\credential-locker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/credential-locker.md)
 * Handoff File: [credential-locker.e4ef8f3e398b509d9986142a73beb432ec26356f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/credential-locker.e4ef8f3e398b509d9986142a73beb432ec26356f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21035,7 +21035,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\cryptographic-keys.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/cryptographic-keys.md)
 * Handoff File: [cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21047,7 +21047,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\cryptography.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/cryptography.md)
 * Handoff File: [cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21059,7 +21059,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\data-protection.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/data-protection.md)
 * Handoff File: [data-protection.4d568f83741a22b523269f948e96fb047be2059a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/data-protection.4d568f83741a22b523269f948e96fb047be2059a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21071,7 +21071,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\encode-and-decode-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/encode-and-decode-data.md)
 * Handoff File: [encode-and-decode-data.b29f2f3dcbb8b29be23236fd0899b863aad93e4c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/encode-and-decode-data.b29f2f3dcbb8b29be23236fd0899b863aad93e4c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21083,7 +21083,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\export-restrictions-on-cryptography.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/export-restrictions-on-cryptography.md)
 * Handoff File: [export-restrictions-on-cryptography.a746f4d8a8e9334d142997c20334735e549a89dd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/export-restrictions-on-cryptography.a746f4d8a8e9334d142997c20334735e549a89dd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21095,7 +21095,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\fingerprint-biometrics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/fingerprint-biometrics.md)
 * Handoff File: [fingerprint-biometrics.3269cad083bfdcc7f393a7b5613bddfe40e32009.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fingerprint-biometrics.3269cad083bfdcc7f393a7b5613bddfe40e32009.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21107,7 +21107,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/index.md)
 * Handoff File: [index.749b9356d7054ea78dd13cef30537087f70ca674.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.749b9356d7054ea78dd13cef30537087f70ca674.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21119,7 +21119,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\intro-to-secure-windows-app-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/intro-to-secure-windows-app-development.md)
 * Handoff File: [intro-to-secure-windows-app-development.527929476464d504dc5b0568c0d7c5c085ad7a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/intro-to-secure-windows-app-development.527929476464d504dc5b0568c0d7c5c085ad7a80.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21131,7 +21131,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\macs-hashes-and-signatures.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/macs-hashes-and-signatures.md)
 * Handoff File: [macs-hashes-and-signatures.d7f2608c62342b1c0728a96be70acc4e735b7cd8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/macs-hashes-and-signatures.d7f2608c62342b1c0728a96be70acc4e735b7cd8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21143,7 +21143,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\microsoft-passport.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/microsoft-passport.md)
 * Handoff File: [microsoft-passport.c4c2bf22e2360527c73618a9440fc2a892d6a855.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/microsoft-passport.c4c2bf22e2360527c73618a9440fc2a892d6a855.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21155,7 +21155,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\microsoft-passport-login.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/microsoft-passport-login.md)
 * Handoff File: [microsoft-passport-login.007b4d8b94b3deb4f225348e9fa3d1eb2c80c617.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/microsoft-passport-login.007b4d8b94b3deb4f225348e9fa3d1eb2c80c617.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21167,7 +21167,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\microsoft-passport-login-auth-service.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/microsoft-passport-login-auth-service.md)
 * Handoff File: [microsoft-passport-login-auth-service.5598ee82542914d5a55c9c0f8fb8afa31bc9f314.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/microsoft-passport-login-auth-service.5598ee82542914d5a55c9c0f8fb8afa31bc9f314.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21179,7 +21179,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\share-certificates.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/share-certificates.md)
 * Handoff File: [share-certificates.163cf50f77ee6733c50d84de2e75561dc4f13373.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/share-certificates.163cf50f77ee6733c50d84de2e75561dc4f13373.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21191,7 +21191,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\smart-cards.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/smart-cards.md)
 * Handoff File: [smart-cards.fb8389c5d55a171dee9ddb4f81ec6cca260169d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/smart-cards.fb8389c5d55a171dee9ddb4f81ec6cca260169d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21203,7 +21203,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\web-authentication-broker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/web-authentication-broker.md)
 * Handoff File: [web-authentication-broker.1315aa46a56798bdc74058c0cb2da9eb1c5a3be1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/web-authentication-broker.1315aa46a56798bdc74058c0cb2da9eb1c5a3be1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21215,7 +21215,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\cryptographic-keys.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/cryptographic-keys.md)
 * Handoff File: [cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cryptographic-keys.7c0d4cc05b590222d4920c8cfc3fa107c040ebcc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21227,7 +21227,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\security\cryptography.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/security/cryptography.md)
 * Handoff File: [cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/cryptography.dfe9a5f6f3028159f21229057a9d79bbfab5eafd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21239,7 +21239,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\asynchronous-programming-in-cpp-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/asynchronous-programming-in-cpp-universal-windows-platform-apps.md)
 * Handoff File: [asynchronous-programming-in-cpp-universal-windows-platform-apps.12ea7a0b8c55f8da19161057f896212736947931.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/asynchronous-programming-in-cpp-universal-windows-platform-apps.12ea7a0b8c55f8da19161057f896212736947931.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21251,7 +21251,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\asynchronous-programming-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/asynchronous-programming-universal-windows-platform-apps.md)
 * Handoff File: [asynchronous-programming-universal-windows-platform-apps.f93d614264caf87618dc214c852f03d00b1b6aa5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/asynchronous-programming-universal-windows-platform-apps.f93d614264caf87618dc214c852f03d00b1b6aa5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21455,7 +21455,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/best-practices-for-using-the-thread-pool.md)
 * Handoff File: [best-practices-for-using-the-thread-pool.c5be04db5551989354597da2ece308d471f23f9f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-using-the-thread-pool.c5be04db5551989354597da2ece308d471f23f9f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21467,7 +21467,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\call-asynchronous-apis-in-csharp-or-visual-basic.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/call-asynchronous-apis-in-csharp-or-visual-basic.md)
 * Handoff File: [call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/call-asynchronous-apis-in-csharp-or-visual-basic.9010e3d643cf0b5447808861c0717575e44e2140.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21479,7 +21479,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/create-a-periodic-work-item.md)
 * Handoff File: [create-a-periodic-work-item.0a7fc981c1d3f6f43d538125fe01963733033e41.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-periodic-work-item.0a7fc981c1d3f6f43d538125fe01963733033e41.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21491,7 +21491,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/index.md)
 * Handoff File: [index.a814deaa0bb704c226707e6ffef90402ebbf928f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a814deaa0bb704c226707e6ffef90402ebbf928f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21503,7 +21503,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md)
 * Handoff File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21515,7 +21515,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/threading-async/use-a-timer-to-submit-a-work-item.md)
 * Handoff File: [use-a-timer-to-submit-a-work-item.5dd57fa42e5a3d672791c066202344978f018755.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-a-timer-to-submit-a-work-item.5dd57fa42e5a3d672791c066202344978f018755.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21527,7 +21527,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/TOC.md)
 * Handoff File: [TOC.10b51421a0ee7685bbf67fbd24364b931fd2c801.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.10b51421a0ee7685bbf67fbd24364b931fd2c801.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21539,7 +21539,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\creating-windows-runtime-components-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/creating-windows-runtime-components-in-cpp.md)
 * Handoff File: [creating-windows-runtime-components-in-cpp.52d9d41b46d5f2880f3167b7066d3cf63513df56.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating-windows-runtime-components-in-cpp.52d9d41b46d5f2880f3167b7066d3cf63513df56.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21551,7 +21551,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\creating-windows-runtime-components-in-csharp-and-visual-basic.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/creating-windows-runtime-components-in-csharp-and-visual-basic.md)
 * Handoff File: [creating-windows-runtime-components-in-csharp-and-visual-basic.a9cbb10df35e87cd98ba03d80a4229c1c991752c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating-windows-runtime-components-in-csharp-and-visual-basic.a9cbb10df35e87cd98ba03d80a4229c1c991752c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21563,7 +21563,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\custom-events-and-event-accessors-in-windows-runtime-components.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/custom-events-and-event-accessors-in-windows-runtime-components.md)
 * Handoff File: [custom-events-and-event-accessors-in-windows-runtime-components.8323b61e80752270d057ba0b00dcd2db4d8bb477.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-events-and-event-accessors-in-windows-runtime-components.8323b61e80752270d057ba0b00dcd2db4d8bb477.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21575,7 +21575,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\diagnosing-windows-runtime-component-error-conditions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/diagnosing-windows-runtime-component-error-conditions.md)
 * Handoff File: [diagnosing-windows-runtime-component-error-conditions.73199be6bc841527b0b6c52c1fc35c0aa6b141a2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/diagnosing-windows-runtime-component-error-conditions.73199be6bc841527b0b6c52c1fc35c0aa6b141a2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21587,7 +21587,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\distributing-a-managed-windows-runtime-component.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/distributing-a-managed-windows-runtime-component.md)
 * Handoff File: [distributing-a-managed-windows-runtime-component.889d2ab9bbf1401ce86dd4fa0e54019363776bf7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing-a-managed-windows-runtime-component.889d2ab9bbf1401ce86dd4fa0e54019363776bf7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21599,7 +21599,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/index.md)
 * Handoff File: [index.c7ea3fadc43f863a42cac3de7d00496a1fd89b6d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.c7ea3fadc43f863a42cac3de7d00496a1fd89b6d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21611,7 +21611,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\net-framework-mappings-of-windows-runtime-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/net-framework-mappings-of-windows-runtime-types.md)
 * Handoff File: [net-framework-mappings-of-windows-runtime-types.1b8c108bb9a4091ddf7634e7ad00a6255c73760e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/net-framework-mappings-of-windows-runtime-types.1b8c108bb9a4091ddf7634e7ad00a6255c73760e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21623,7 +21623,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\passing-arrays-to-a-windows-runtime-component.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/passing-arrays-to-a-windows-runtime-component.md)
 * Handoff File: [passing-arrays-to-a-windows-runtime-component.9223a53aaeba29f6c7ca67188abc5bf5c299afe8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/passing-arrays-to-a-windows-runtime-component.9223a53aaeba29f6c7ca67188abc5bf5c299afe8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21635,7 +21635,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\raising-events-in-windows-runtime-components.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/raising-events-in-windows-runtime-components.md)
 * Handoff File: [raising-events-in-windows-runtime-components.81e806dd29d140d61f3ffa3b1596630eda38f534.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/raising-events-in-windows-runtime-components.81e806dd29d140d61f3ffa3b1596630eda38f534.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21647,7 +21647,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it-from-javascript-or-csharp.md)
 * Handoff File: [walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it.25801d344e1befb77d50bd9032c14c731cf8c500.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-creating-a-basic-windows-runtime-component-in-cpp-and-calling-it.25801d344e1befb77d50bd9032c14c731cf8c500.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21659,7 +21659,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\winrt-components\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md)
 * Handoff File: [walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21672,7 +21672,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\attached-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/attached-properties-overview.md)
 * Handoff File: [attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attached-properties-overview.832585939c4991a517d5beed7613220b863b2665.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21684,7 +21684,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/binding-markup-extension.md)
 * Handoff File: [binding-markup-extension.aa2bc4bafa7362e03a95b23726fcd0e0bc8c81cd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/binding-markup-extension.aa2bc4bafa7362e03a95b23726fcd0e0bc8c81cd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21696,7 +21696,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\custom-attached-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/custom-attached-properties.md)
 * Handoff File: [custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-attached-properties.f52f2ed20ad81a06ff9e146e722ab86a2e80020a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21708,7 +21708,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\custom-dependency-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/custom-dependency-properties.md)
 * Handoff File: [custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/custom-dependency-properties.6471a73d820363b0d164a7c7c6662cc25d7fd20e.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21720,7 +21720,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/customresource-markup-extension.md)
 * Handoff File: [customresource-markup-extension.754ab2c0caf469c50bb6df1a38a5899e19a60462.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customresource-markup-extension.754ab2c0caf469c50bb6df1a38a5899e19a60462.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21732,7 +21732,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\dependency-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/dependency-properties-overview.md)
 * Handoff File: [dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dependency-properties-overview.f9622e1b92d651e80b614e7485de9a79be34e6ab.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21744,7 +21744,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\events-and-routed-events-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/events-and-routed-events-overview.md)
 * Handoff File: [events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/events-and-routed-events-overview.1430d9bc15a85143d4ba3fcd0f57801491da68cd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21756,7 +21756,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/index.md)
 * Handoff File: [index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.bf6b0b67debaa6f8765e0ca10815db90d59f8d08.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21768,7 +21768,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md)
 * Handoff File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21780,7 +21780,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md)
 * Handoff File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21792,7 +21792,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/relativesource-markup-extension.md)
 * Handoff File: [relativesource-markup-extension.79458f5261ae3e890dfb7e742f48cf1772143cc7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/relativesource-markup-extension.79458f5261ae3e890dfb7e742f48cf1772143cc7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21804,7 +21804,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/staticresource-markup-extension.md)
 * Handoff File: [staticresource-markup-extension.65b19cf5e82b4a9ae2001c710fb64e4e261cd713.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/staticresource-markup-extension.65b19cf5e82b4a9ae2001c710fb64e4e261cd713.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21816,7 +21816,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/templatebinding-markup-extension.md)
 * Handoff File: [templatebinding-markup-extension.9f8fff3f1b5c07145bcbdc4805f1564f753aea28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/templatebinding-markup-extension.9f8fff3f1b5c07145bcbdc4805f1564f753aea28.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21828,7 +21828,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md)
 * Handoff File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21840,7 +21840,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/themeresource-markup-extension.md)
 * Handoff File: [themeresource-markup-extension.719a46b756a29fd42c47530c61526417c6a1c587.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/themeresource-markup-extension.719a46b756a29fd42c47530c61526417c6a1c587.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21852,7 +21852,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md)
 * Handoff File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21864,7 +21864,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md)
 * Handoff File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21876,7 +21876,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md)
 * Handoff File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21888,7 +21888,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\xaml-namespaces-and-namespace-mapping.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/xaml-namespaces-and-namespace-mapping.md)
 * Handoff File: [xaml-namespaces-and-namespace-mapping.4388610c56aa7432e2e02c2767afeb72e3a6dfb2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namespaces-and-namespace-mapping.4388610c56aa7432e2e02c2767afeb72e3a6dfb2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21900,7 +21900,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-overview.md)
 * Handoff File: [xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-overview.3dd6c7fdeb3fc340d4effc4239de927c7306972a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21912,7 +21912,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci1\xaml-platform\xaml-syntax-guide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci1/xaml-platform/xaml-syntax-guide.md)
 * Handoff File: [xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-syntax-guide.5cf9f62655dacd41ff650c44a04ce57c5d771cc6.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21924,7 +21924,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-bind-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-bind-markup-extension.md)
 * Handoff File: [x-bind-markup-extension.e203bdc1de4ee76d2de665cc254c56568a96cc59.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-bind-markup-extension.e203bdc1de4ee76d2de665cc254c56568a96cc59.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21936,7 +21936,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-class-attribute.md)
 * Handoff File: [x-class-attribute.045edfa08b45a8f32dd5a37bf46000f1f713c535.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-class-attribute.045edfa08b45a8f32dd5a37bf46000f1f713c535.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21948,7 +21948,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-deferloadstrategy-attribute.md)
 * Handoff File: [x-deferloadstrategy-attribute.7a6c777971c8488d5e3877e4fb1d146fb6d31cdd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-deferloadstrategy-attribute.7a6c777971c8488d5e3877e4fb1d146fb6d31cdd.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21960,7 +21960,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-fieldmodifier-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-fieldmodifier-attribute.md)
 * Handoff File: [x-fieldmodifier-attribute.5dfee67072e78e242c65a2be77480b8254f97c35.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-fieldmodifier-attribute.5dfee67072e78e242c65a2be77480b8254f97c35.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21972,7 +21972,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-key-attribute.md)
 * Handoff File: [x-key-attribute.b2c42bd2da3e45e9807c2ebb1b6ede7565d44702.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-key-attribute.b2c42bd2da3e45e9807c2ebb1b6ede7565d44702.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21984,7 +21984,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-name-attribute.md)
 * Handoff File: [x-name-attribute.ac53964f65ede3b25a62aea68495936f98db3906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-name-attribute.ac53964f65ede3b25a62aea68495936f98db3906.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -21996,7 +21996,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-null-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-null-markup-extension.md)
 * Handoff File: [x-null-markup-extension.481290531768b68af858a06799199582a6257b63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-null-markup-extension.481290531768b68af858a06799199582a6257b63.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22008,7 +22008,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-phase-attribute.md)
 * Handoff File: [x-phase-attribute.035b555d5b71f87888312e8199ca658d0a4b7c55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-phase-attribute.035b555d5b71f87888312e8199ca658d0a4b7c55.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22020,7 +22020,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\ndolci2\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/xaml-platform/x-uid-directive.md)
 * Handoff File: [x-uid-directive.54a77d759b0558f3709674c70775cbdb364736fc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-uid-directive.54a77d759b0558f3709674c70775cbdb364736fc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22032,7 +22032,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/new_extension.md)
 * Handoff File: [new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22044,7 +22044,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/tedhudek/markdown-tips.md)
 * Handoff File: [markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22056,7 +22056,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/tedhudek/tedhudek-home.md)
 * Handoff File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22068,7 +22068,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
 * Handoff File: [wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22080,7 +22080,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/tedhudek/workflow.md)
 * Handoff File: [workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22092,7 +22092,7 @@
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22104,7 +22104,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/42de6bd79a60bcc73543cff81f031acf32d73617/wdg-cpub-test/test-xliff-2.md)
 * Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22116,7 +22116,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/TOC.md)
 * Handoff File: [TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22128,7 +22128,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md)
 * Handoff File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22140,7 +22140,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
 * Handoff File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22152,7 +22152,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md)
 * Handoff File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22164,7 +22164,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md)
 * Handoff File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22176,7 +22176,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md)
 * Handoff File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22200,7 +22200,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md)
 * Handoff File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22212,7 +22212,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md)
 * Handoff File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22224,7 +22224,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md)
 * Handoff File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22236,7 +22236,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md)
 * Handoff File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22248,7 +22248,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md)
 * Handoff File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22260,7 +22260,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md)
 * Handoff File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22272,7 +22272,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md)
 * Handoff File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22284,7 +22284,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md)
 * Handoff File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22296,7 +22296,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md)
 * Handoff File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22308,7 +22308,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md)
 * Handoff File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22320,7 +22320,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md)
 * Handoff File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22332,7 +22332,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md)
 * Handoff File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22344,7 +22344,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md)
 * Handoff File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22356,7 +22356,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md)
 * Handoff File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22368,7 +22368,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md)
 * Handoff File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22380,7 +22380,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md)
 * Handoff File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22404,7 +22404,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md)
 * Handoff File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22416,7 +22416,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md)
 * Handoff File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22428,7 +22428,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md)
 * Handoff File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22440,7 +22440,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md)
 * Handoff File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22452,7 +22452,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md)
 * Handoff File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22464,7 +22464,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md)
 * Handoff File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22476,7 +22476,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md)
 * Handoff File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22488,7 +22488,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md)
 * Handoff File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22500,7 +22500,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png)
 * Handoff File: [e0f09dec7a25d3016140c132c7e6f0411589b8f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e0f09dec7a25d3016140c132c7e6f0411589b8f3.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22513,7 +22513,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png)
 * Handoff File: [21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22526,7 +22526,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png)
 * Handoff File: [df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22539,7 +22539,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png)
 * Handoff File: [b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22552,7 +22552,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png)
 * Handoff File: [95f73079b57688206bf3238e1a509f0b81ba8da2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/95f73079b57688206bf3238e1a509f0b81ba8da2.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22565,7 +22565,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png)
 * Handoff File: [3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22578,7 +22578,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png)
 * Handoff File: [65302587cbc9b4aa1c3633df61751962844f9e2c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/65302587cbc9b4aa1c3633df61751962844f9e2c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22591,7 +22591,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/4b5e81c2dda233c515fb179b5215a43587fac6c5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png)
 * Handoff File: [bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22604,7 +22604,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md)
 * Handoff File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22616,7 +22616,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md)
 * Handoff File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22628,7 +22628,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md)
 * Handoff File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22640,7 +22640,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md)
 * Handoff File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22652,7 +22652,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md)
 * Handoff File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22664,7 +22664,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md)
 * Handoff File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22676,7 +22676,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md)
 * Handoff File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22688,7 +22688,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md)
 * Handoff File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22700,7 +22700,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md)
 * Handoff File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22712,7 +22712,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md)
 * Handoff File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22724,7 +22724,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md)
 * Handoff File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22736,7 +22736,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md)
 * Handoff File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22748,7 +22748,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md)
 * Handoff File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22760,7 +22760,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md)
 * Handoff File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22772,7 +22772,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md)
 * Handoff File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22784,7 +22784,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md)
 * Handoff File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22796,7 +22796,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md)
 * Handoff File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22808,7 +22808,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md)
 * Handoff File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22820,7 +22820,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md)
 * Handoff File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22832,7 +22832,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md)
 * Handoff File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22844,7 +22844,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md)
 * Handoff File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22856,7 +22856,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22868,7 +22868,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22880,7 +22880,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md)
 * Handoff File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22892,7 +22892,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md)
 * Handoff File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22904,7 +22904,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md)
 * Handoff File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22916,7 +22916,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md)
 * Handoff File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22928,7 +22928,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md)
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22940,7 +22940,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md)
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22952,7 +22952,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md)
 * Handoff File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22964,7 +22964,7 @@
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/Welcome.md)
 * Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf)
-* Handoff Datetime: 2016-05-23 02:40:51
+* Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
