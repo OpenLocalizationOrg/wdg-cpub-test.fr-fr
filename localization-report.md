@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1187
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1186
+[ In Sync Handback Files ](#insync-handback-success-list)| 1
 [ Ignored Files ](#ignored-list)| 566
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -1056,7 +1056,6 @@
  [wdg-cpub-test\ndolci2\publish\respond-to-customer-reviews.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/respond-to-customer-reviews.md) | OutofSyncHandedBackSuccess | [Details](#b549de15ffc84fd381f6f2a35f049208a31a55081572)
  [wdg-cpub-test\ndolci2\publish\reviews-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/reviews-report.md) | OutofSyncHandedBackSuccess | [Details](#23207beed6e3af11e7c33ff39a837a2a82d15aa81573)
  [wdg-cpub-test\ndolci2\publish\set-app-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-app-pricing-and-availability.md) | OutofSyncHandedBackSuccess | [Details](#dd8480d5ce3621ee19d1c5e86ce7d024b3e9b0461574)
- [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md) | OutofSyncHandedBackSuccess | [Details](#0095b3ba34a87672e8a05f2660f6c34929ccff4e1575)
  [wdg-cpub-test\ndolci2\publish\setting-up-your-payout-account-and-tax-forms.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/setting-up-your-payout-account-and-tax-forms.md) | OutofSyncHandedBackSuccess | [Details](#327c87ad446a94773448889dcc58f1062c2d21aa1577)
  [wdg-cpub-test\ndolci2\publish\set-your-iap-product-id.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/24ed85af45878690ed823968184c6e95a0ce3846/wdg-cpub-test/ndolci2/publish/set-your-iap-product-id.md) | OutofSyncHandedBackSuccess | [Details](#1e51baa879f96f02bb777e794973decf5cc7b9871576)
  [wdg-cpub-test\ndolci2\publish\supported-languages.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/supported-languages.md) | OutofSyncHandedBackSuccess | [Details](#52e0e67b588cc283c0dfe2e0a9b25d4dcfb201801578)
@@ -1222,6 +1221,9 @@
  [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/bb06dc5ce0fda7b0be2ee8ab167efed736484e33/wdg-cpub-test/Welcome.md) | OutofSyncHandedBackSuccess | [Details](#56ffa4c093064ba55b6291eb0622d077741b3dbb1757)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md) | InSyncHandedBackSuccess | [Details](#0095b3ba34a87672e8a05f2660f6c34929ccff4e1575)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -20765,15 +20767,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='0095b3ba34a87672e8a05f2660f6c34929ccff4e1575'></a> Source: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/9616a03076716e204f7242b6c3f16a114ff9544c/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/26b98c346ced19d88cf192930070a65304105038/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
 * Handoff File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/41f8d686b24e69188194f0c4029829c0e54391c2/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
 * Handoff Datetime: 2016-05-20 08:29:30
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/03b7c661da0928ef0e38376790fd14d82fdba996/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
-* Handback Datetime: 2016-05-19 11:26:12
+* Handback File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbdcdca86f3875cb5ed8f835ad5ed910accfc219/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
+* Handback Datetime: 2016-05-23 02:12:37
 * [Back to Top](#report-top)
 
 ##### <a name='327c87ad446a94773448889dcc58f1062c2d21aa1577'></a> Source: [wdg-cpub-test\ndolci2\publish\setting-up-your-payout-account-and-tax-forms.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/setting-up-your-payout-account-and-tax-forms.md)

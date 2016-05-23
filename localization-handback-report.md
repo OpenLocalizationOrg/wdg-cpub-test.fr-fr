@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md) | InSyncHandedBackSuccess | [Details](#0095b3ba34a87672e8a05f2660f6c34929ccff4e1575)
 
 ## Item Details
+##### <a name='0095b3ba34a87672e8a05f2660f6c34929ccff4e1575'></a> Source: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\ndolci2\publish\set-iap-pricing-and-availability.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/26b98c346ced19d88cf192930070a65304105038/wdg-cpub-test/ndolci2/publish/set-iap-pricing-and-availability.md)
+* Handoff File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/41f8d686b24e69188194f0c4029829c0e54391c2/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
+* Handoff Datetime: 2016-05-20 08:29:30
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/bbdcdca86f3875cb5ed8f835ad5ed910accfc219/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf)
+* Handback Datetime: 2016-05-23 02:12:37
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

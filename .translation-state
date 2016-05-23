@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "24ed85af45878690ed823968184c6e95a0ce3846",
-  "LastTranslatedCommit": "a08ed34244fb1de1f24c80c00bc85879d062b7b1",
+  "LastTranslatedCommit": "26b98c346ced19d88cf192930070a65304105038",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -26204,14 +26204,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "9616a03076716e204f7242b6c3f16a114ff9544c",
+      "TargetFileCommit": "26b98c346ced19d88cf192930070a65304105038",
       "TargetFilePath": "wdg-cpub-test\\ndolci2\\publish\\set-iap-pricing-and-availability.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\set-iap-pricing-and-availability.367f94c2621e9ec09cb63da641d4973b739856fd.fr-fr.xlf",
-      "HandbackFileCommit": "03b7c661da0928ef0e38376790fd14d82fdba996",
-      "HandbackDateTime": "2016-05-19T11:26:12.1522379Z",
+      "HandbackFileCommit": "bbdcdca86f3875cb5ed8f835ad5ed910accfc219",
+      "HandbackDateTime": "2016-05-23T02:12:37.1109218Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-05-19T11:26:12.1522379Z",
+      "UpdatedDateTime": "2016-05-23T02:12:37.1109218Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
