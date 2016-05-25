@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\excluded\3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f6fa27d86656be70fc37a84493c8b01f0e9da757/wdg-cpub-test/excluded/3.md) | InSyncHandedBackSuccess | [Details](#c9cf1a2f7f3dd61acbaaa2c579d30ef47523c03a17)
 
 ## Item Details
+##### <a name='c9cf1a2f7f3dd61acbaaa2c579d30ef47523c03a17'></a> Source: [wdg-cpub-test\excluded\3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f6fa27d86656be70fc37a84493c8b01f0e9da757/wdg-cpub-test/excluded/3.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\excluded\3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/5625a763bd26e71f699f6ce6c6bfb8e1638d6f02/wdg-cpub-test/excluded/3.md)
+* Handoff File: [3.b1ccd340c3a779a0a4717dc758735609a7dd6003.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4a4a3bd20378722fee6538c5681b3964c51bb73e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3.b1ccd340c3a779a0a4717dc758735609a7dd6003.fr-fr.xlf)
+* Handoff Datetime: 2016-05-25 03:07:10
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: [3.b1ccd340c3a779a0a4717dc758735609a7dd6003.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a36bfbe104efdc9bd0ffe15e40063e41be3c9ab3/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3.b1ccd340c3a779a0a4717dc758735609a7dd6003.fr-fr.xlf)
+* Handback Datetime: 2016-05-25 03:15:08
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
