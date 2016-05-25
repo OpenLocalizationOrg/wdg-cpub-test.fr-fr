@@ -18,7 +18,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf)
-* Handback Datetime: 2016-05-25 01:45:32
+* Handback Datetime: 2016-05-25 01:55:17
 * Handback Error: [handback_validate_file_name_invalide](#ba83782609107aaa9dea458175d50c158ec5cd051649handback_validate_file_name_invalide)
 * [Back to Top](#report-top)
 

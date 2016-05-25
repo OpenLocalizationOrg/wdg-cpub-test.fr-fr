@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "f859f84f3e52de7bf75a88baa6e72a64421cd894",
-  "LastTranslatedCommit": "1d18723732e6b1a67411084fd7a99779262f1fdc",
+  "LastTranslatedCommit": "06a71e2794f4db2bd29b3e34f2535634e18526e1",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -27740,7 +27740,7 @@
       "TargetFilePath": "wdg-cpub-test\\ndolci2\\winrt-components\\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.xlf",
       "HandbackFileCommit": "13a8a1fa2d8932c5deab61ad0ec37fc032196623",
-      "HandbackDateTime": "2016-05-25T01:45:32.1525855Z",
+      "HandbackDateTime": "2016-05-25T01:55:17.4350261Z",
       "HandbackException": {
         "internal_error_code": "handback_validate_file_name_invalide",
         "internal_error_message": "Handback file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr is different with handoff file name: walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-.372542a45742fb93d68b1e180a36fa247b5cd7bf.fr-fr.",
@@ -27750,7 +27750,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-05-25T01:42:01.8329572Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
