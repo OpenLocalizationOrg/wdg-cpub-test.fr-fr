@@ -1,7 +1,6 @@
 ---
 description: Provides a value for any XAML attribute by evaluating a reference to a resource that comes from a custom resource-lookup implementation. Resource lookup is performed by a CustomXamlResourceLoader class implementation.
-title: {CustomResource} markup extension'
-ms.assetid: 3A59A8DE-E805-4F04-B9D9-A91E053F3642
+title: {CustomResource} markup extension' ms.assetid: 3A59A8DE-E805-4F04-B9D9-A91E053F3642
 ---
 
 # {CustomResource} markup extension
@@ -46,6 +45,6 @@ A `{CustomResource}` usage doesn't work by default (the base implementation of [
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

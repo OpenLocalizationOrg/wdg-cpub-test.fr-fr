@@ -97,8 +97,7 @@ Often apps offer an embedded view where video is played within a page. Now you o
 
 Don’t draw XAML elements on top of video when it’s in embedded mode. If you do, the framework is forced to do a little extra work to compose the scene. Placing transport controls below an embedded media element instead of on top of the video is a good example of optimizing for this situation. In this image, the red bar indicates a set of transport controls (play, pause, stop, etc.).
 
-![MediaElement with overlaying elements](images/videowithoverlay.png)
-Don’t place these controls on top of media that is not full screen. Instead place the transport controls somewhere outside of the area where the media is being rendered. In the next image, the controls are placed below the media.
+![MediaElement with overlaying elements](images/videowithoverlay.png) Don’t place these controls on top of media that is not full screen. Instead place the transport controls somewhere outside of the area where the media is being rendered. In the next image, the controls are placed below the media.
 
 ![MediaElement with neighboring elements](images/videowithneighbors.png)
 
@@ -299,6 +298,6 @@ To prevent images from being decoded more than once, assign the [**Image.Source*
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

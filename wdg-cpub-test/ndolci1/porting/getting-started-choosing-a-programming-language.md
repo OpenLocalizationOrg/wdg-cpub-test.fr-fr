@@ -1,7 +1,5 @@
 ---
-ms.assetid: 6CA46432-BF03-4B20-9187-565B3503B497
-description: Getting started: Choosing a programming language
-title: Getting started: Choosing a programming language
+ms.assetid: 6CA46432-BF03-4B20-9187-565B3503B497 description: Getting started: Choosing a programming language title: Getting started: Choosing a programming language
 ---
 
 # Getting started: Choosing a programming language
@@ -139,6 +137,6 @@ C# is an easy language to pick up, and comes with the many support classes and f
 [Getting started: Getting around in Visual Studio](getting-started-getting-around-in-visual-studio.md)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

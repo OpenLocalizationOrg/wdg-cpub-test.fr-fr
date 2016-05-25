@@ -151,6 +151,6 @@ The default color of the hyperlink is the accent color of the system. You can se
 - [**Windows.UI.Xaml.Controls.HyperlinkButton class**](https://msdn.microsoft.com/library/windows/apps/br242739)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

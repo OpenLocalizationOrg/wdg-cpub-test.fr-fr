@@ -38,12 +38,7 @@ You will find throughout these guidelines that touch input requires a different 
 
 The following table shows some of the differences between input devices that you should consider when you design touch-optimized Windows Store apps.
 
-Factor
-Touch interactions
-Mouse, keyboard, pen/stylus interactions
-Touchpad
-Precision
-The contact area of a fingertip is greater than a single x-y coordinate, which increases the chances of unintended command activations.
+Factor Touch interactions Mouse, keyboard, pen/stylus interactions Touchpad Precision The contact area of a fingertip is greater than a single x-y coordinate, which increases the chances of unintended command activations.
 The mouse and pen/stylus supply a precise x-y coordinate.
 Same as mouse.
 The shape of the contact area changes throughout the movement.
@@ -52,8 +47,7 @@ Same as mouse.
 There is no mouse cursor to assist with targeting.
 The mouse cursor, pen/stylus cursor, and keyboard focus all assist with targeting.
 Same as mouse.
-Human anatomy
-Fingertip movements are imprecise, because a straight-line motion with one or more fingers is difficult. This is due to the curvature of hand joints and the number of joints involved in the motion.
+Human anatomy Fingertip movements are imprecise, because a straight-line motion with one or more fingers is difficult. This is due to the curvature of hand joints and the number of joints involved in the motion.
 It's easier to perform a straight-line motion with the mouse or pen/stylus because the hand that controls them travels a shorter physical distance than the cursor on the screen.
 Same as mouse.
 Some areas on the touch surface of a display device can be difficult to reach due to finger posture and the user's grip on the device.
@@ -62,15 +56,13 @@ Finger posture and grip can be an issue.
 Objects might be obscured by one or more fingertips or the user's hand. This is known as occlusion.
 Indirect input devices do not cause occlusion.
 Same as mouse.
-Object state
-Touch uses a two-state model: the touch surface of a display device is either touched (on) or not (off). There is no hover state that can trigger additional visual feedback.
+Object state Touch uses a two-state model: the touch surface of a display device is either touched (on) or not (off). There is no hover state that can trigger additional visual feedback.
 A mouse, pen/stylus, and keyboard all expose a three-state model: up (off), down (on), and hover (focus).
 
 Hover lets users explore and learn through tooltips associated with UI elements. Hover and focus effects can relay which objects are interactive and also help with targeting.
 
 Same as mouse.
-Rich interaction
-Supports multi-touch: multiple input points (fingertips) on a touch surface.
+Rich interaction Supports multi-touch: multiple input points (fingertips) on a touch surface.
 Supports a single input point.
 Same as touch.
 Supports direct manipulation of objects through gestures such as tapping, dragging, sliding, pinching, and rotating.
@@ -179,6 +171,6 @@ In addition, the following are strongly recommended:
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

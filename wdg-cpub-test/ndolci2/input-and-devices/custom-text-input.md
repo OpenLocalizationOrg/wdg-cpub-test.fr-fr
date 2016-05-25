@@ -71,8 +71,7 @@ Some edit controls support noncontiguous selections. For example, Microsoft Offi
 
 For example, consider this text stream:
 
-![example text stream diagram](images/coretext/stream-2.png)
-There are two selections: \[0, 1\] and \[6, 11\]. The edit control must report only one of them; either \[0, 1\] or \[6, 11\].
+![example text stream diagram](images/coretext/stream-2.png) There are two selections: \[0, 1\] and \[6, 11\]. The edit control must report only one of them; either \[0, 1\] or \[6, 11\].
 
 ## <span id="Working_with_text"></span><span id="working_with_text"></span><span id="WORKING_WITH_TEXT"></span>Working with text
 
@@ -95,8 +94,7 @@ Your edit control should typically accept text update requests because they repr
 
 For example, this is the state of an edit control before the user types "d". The insertion point is at \[10, 10\].
 
-![example text stream diagram](images/coretext/stream-3.png)
-When the user types "d", a [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event is raised with the following [**CoreTextTextUpdatingEventArgs**](https://msdn.microsoft.com/library/windows/apps/dn958229) data:
+![example text stream diagram](images/coretext/stream-3.png) When the user types "d", a [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event is raised with the following [**CoreTextTextUpdatingEventArgs**](https://msdn.microsoft.com/library/windows/apps/dn958229) data:
 
 -   [**Range**](https://msdn.microsoft.com/library/windows/apps/dn958234) = \[10, 10\]
 -   [**Text**](https://msdn.microsoft.com/library/windows/apps/dn958236) = "d"
@@ -117,11 +115,9 @@ Sometimes, your edit control makes changes to text such as when text is pasted o
 
 For example, this is the state of an edit control before the user pastes "World". The insertion point is at \[6, 6\].
 
-![example text stream diagram](images/coretext/stream-5.png)
-The user performs the paste action and the edit control ends up with the following text:
+![example text stream diagram](images/coretext/stream-5.png) The user performs the paste action and the edit control ends up with the following text:
 
-![example text stream diagram](images/coretext/stream-4.png)
-When this happens, you should call [**NotifyTextChanged**](https://msdn.microsoft.com/library/windows/apps/dn958172) with these arguments:
+![example text stream diagram](images/coretext/stream-4.png) When this happens, you should call [**NotifyTextChanged**](https://msdn.microsoft.com/library/windows/apps/dn958172) with these arguments:
 
 -   *modifiedRange* = \[6, 6\]
 -   *newLength* = 5
@@ -135,14 +131,11 @@ In your edit control, you might want to override a text update to provide auto-c
 
 For example, consider an edit control that provides a correction feature that formalizes contractions. This is the state of the edit control before the user types the space key to trigger the correction. The insertion point is at \[3, 3\].
 
-![example text stream diagram](images/coretext/stream-6.png)
-The user presses the space key and a corresponding [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event is raised. The edit control accepts the text update. This is the state of the edit control for a brief moment before the correction is completed. The insertion point is at \[4, 4\].
+![example text stream diagram](images/coretext/stream-6.png) The user presses the space key and a corresponding [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event is raised. The edit control accepts the text update. This is the state of the edit control for a brief moment before the correction is completed. The insertion point is at \[4, 4\].
 
-![example text stream diagram](images/coretext/stream-7.png)
-Outside of the [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event handler, the edit control makes the following correction. This is the state of the edit control after the correction is complete. The insertion point is at \[5, 5\].
+![example text stream diagram](images/coretext/stream-7.png) Outside of the [**TextUpdating**](https://msdn.microsoft.com/library/windows/apps/dn958176) event handler, the edit control makes the following correction. This is the state of the edit control after the correction is complete. The insertion point is at \[5, 5\].
 
-![example text stream diagram](images/coretext/stream-8.png)
-When this happens, you should call [**NotifyTextChanged**](https://msdn.microsoft.com/library/windows/apps/dn958172) with these arguments:
+![example text stream diagram](images/coretext/stream-8.png) When this happens, you should call [**NotifyTextChanged**](https://msdn.microsoft.com/library/windows/apps/dn958172) with these arguments:
 
 -   *modifiedRange* = \[1, 2\]
 -   *newLength* = 2
@@ -170,6 +163,6 @@ There will be times the [**Range**](https://msdn.microsoft.com/library/windows/a
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

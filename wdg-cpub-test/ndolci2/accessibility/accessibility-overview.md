@@ -110,8 +110,7 @@ If necessary, you can provide alternative, accessible user interface elements th
 <td align="left"><pre><code>&lt;StackPanel x:Name=&quot;LayoutRoot&quot; Background=&quot;White&quot;&gt;
 
   &lt;CheckBox x:Name=&quot;ShowAccessibleUICheckBox&quot; Click=&quot;ShowAccessibleUICheckBox_Click&quot;&gt;
-    Show Accessible UI
-  &lt;/CheckBox&gt;
+    Show Accessible UI &lt;/CheckBox&gt;
 
   &lt;UserControl x:Name=&quot;ContentBlock&quot;&gt;
     &lt;local:ContentPage/&gt;
@@ -206,6 +205,6 @@ Related topics
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

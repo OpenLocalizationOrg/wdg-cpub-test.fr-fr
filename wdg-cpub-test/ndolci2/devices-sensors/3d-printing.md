@@ -113,8 +113,7 @@ After registering your **TaskRequested** event handler, you can invoke the metho
 
 [!code-cs[ShowDialog](./code/3dprinthowto/cs/MainPage.xaml.cs#SnippetShowDialog)]
 
-Finally, it is a good practice to de-register your event handlers once your app resumes control:
-[!code-cs[DeregisterMyTaskRequested](./code/3dprinthowto/cs/MainPage.xaml.cs#SnippetDeregisterMyTaskRequested)]
+Finally, it is a good practice to de-register your event handlers once your app resumes control: [!code-cs[DeregisterMyTaskRequested](./code/3dprinthowto/cs/MainPage.xaml.cs#SnippetDeregisterMyTaskRequested)]
 
 
  
@@ -126,6 +125,6 @@ Finally, it is a good practice to de-register your event handlers once your app 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

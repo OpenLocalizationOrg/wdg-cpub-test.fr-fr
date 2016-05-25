@@ -38,7 +38,7 @@ Product ID <p>(Recommended)</p>
 </tr>
 <tr>
 <td>Package Family Name (PFN)</td>
-<td>ms-windows-store://pdp/?PFN= Microsoft.Office.OneNote_8wekyb3d8bbwe 
+<td>ms-windows-store://pdp/?PFN= Microsoft.Office.OneNote_8wekyb3d8bbwe
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ Product ID <p>(Recommended)</p>
 </tr>
 <tr>
 <td>Product ID (Windows 8.x)</td>
-<td>ms-windows-store://pdp/?AppId=f022389f-f3a6-417e-ad23-704fbdf57117 
+<td>ms-windows-store://pdp/?AppId=f022389f-f3a6-417e-ad23-704fbdf57117
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Product ID <p>(Recommended)</p>
 </tr>
 <tr>
 <td>Package Family Name (PFN)</td>
-<td>ms-windows-store://review/?PFN= Microsoft.Office.OneNote_8wekyb3d8bbwe 
+<td>ms-windows-store://review/?PFN= Microsoft.Office.OneNote_8wekyb3d8bbwe
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ Product ID <p>(Recommended)</p>
 <tr>
 <td>Launches a search for products associated with a file extension. </td>
 <td />
-<td>ms-windows-store://assoc/?FileExt=pdf 
+<td>ms-windows-store://assoc/?FileExt=pdf
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ Launches a search for the specified query. Spaces in the query are allowed.
 <td>Launches a search for products from the specified publisher. Spaces in the name are allowed. 
 </td>
 <td />
-<td>ms-windows-store://publisher/?name=Microsoft Corporation 
+<td>ms-windows-store://publisher/?name=Microsoft Corporation
 </td>
 </tr>
 <tr><td>Launches the downloads and updates page.</td>
@@ -129,6 +129,6 @@ Launches a search for the specified query. Spaces in the query are allowed.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

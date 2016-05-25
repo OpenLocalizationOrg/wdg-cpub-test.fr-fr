@@ -1,7 +1,6 @@
 ---
 description: Apps use background tasks and two main mechanisms to maintain communications when they are not in the foreground: The socket broker, and control channel triggers.
-title: Network communications in the background
-ms.assetid: 537F8E16-9972-435D-85A5-56D5764D3AC2
+title: Network communications in the background ms.assetid: 537F8E16-9972-435D-85A5-56D5764D3AC2
 ---
 
 # Network communications in the background
@@ -592,6 +591,6 @@ For more information on using [**IXMLHTTPRequest2**](https://msdn.microsoft.com/
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

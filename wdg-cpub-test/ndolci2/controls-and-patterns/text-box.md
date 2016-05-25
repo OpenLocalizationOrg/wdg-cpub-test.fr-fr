@@ -78,8 +78,7 @@ You can make a text box read-only by setting the [IsReadOnly](https://msdn.micro
 
 You can make a TextBox read-only by setting the IsReadOnly property to true. For example, you might have a TextBox for a user to enter comments that is enabled only under certain conditions. You can make the TextBox read-only until the conditions are met. If you need only to display text, consider using a TextBlock or RichTextBlock instead.
 
-A read-only text box looks the same as a read/write text box, so it might be confusing to a user. 
-A user can select and copy text.
+A read-only text box looks the same as a read/write text box, so it might be confusing to a user. A user can select and copy text.
 IsEnabled
 
 
@@ -276,6 +275,6 @@ For more info and examples, see [Use input scope to change the touch keyboard]()
 - [String.Length property](https://msdn.microsoft.com/library/system.string.length(v=vs.110).aspx)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

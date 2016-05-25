@@ -94,6 +94,6 @@ In this example, the `NextMove-Click` handler returns at the **await** in order 
 * [Custom user interactions](https://msdn.microsoft.com/library/windows/apps/Mt185599)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

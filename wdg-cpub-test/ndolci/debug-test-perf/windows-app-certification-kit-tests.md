@@ -356,9 +356,7 @@ Inspects the resources defined in the app manifest to make sure they are present
 
 Use the following table as guidance.
 
-Error message
-Comments
-The image {image name} defines both Scale and TargetSize qualifiers; you can define only one qualifier at a time.
+Error message Comments The image {image name} defines both Scale and TargetSize qualifiers; you can define only one qualifier at a time.
 
 You can customize images for different resolutions.
 
@@ -657,6 +655,6 @@ This article is for Windows 10 developers writing UWP apps. If you’re developi
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

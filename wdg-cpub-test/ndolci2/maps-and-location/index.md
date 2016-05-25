@@ -79,6 +79,6 @@ Your app can launch the Windows Maps app as shown here to display specific maps 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

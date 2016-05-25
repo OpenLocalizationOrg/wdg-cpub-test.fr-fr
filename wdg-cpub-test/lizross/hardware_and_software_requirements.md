@@ -154,6 +154,6 @@ Microsoft Edge supports all of the same languages as Windows 10, including:
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

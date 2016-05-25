@@ -1,7 +1,6 @@
 ---
 description: Links the value of a property in a control template to the value of some other exposed property on the templated control. TemplateBinding can only be used within a ControlTemplate definition in XAML.
-title: {TemplateBinding} markup extension'
-ms.assetid: FDE71086-9D42-4287-89ED-8FBFCDF169DC
+title: {TemplateBinding} markup extension' ms.assetid: FDE71086-9D42-4287-89ED-8FBFCDF169DC
 ---
 
 # {TemplateBinding} markup extension
@@ -58,6 +57,6 @@ A **TemplateBinding** is always a one-way binding. Both properties involved must
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -1,12 +1,6 @@
 ---
 Description: Once you've created your app by reserving a name, you can start working on getting it published. The first step is to create a submission.
-title: App submissions
-ms.assetid: 363BB9E4-4437-4238-A80F-ABDFC70D96E4
-keywords: submit an app
-keywords: required info
-keywords: required fields
-keywords: required data
-keywords: checklist
+title: App submissions ms.assetid: 363BB9E4-4437-4238-A80F-ABDFC70D96E4 keywords: submit an app keywords: required info keywords: required fields keywords: required data keywords: checklist
 ---
 
 # App submissions
@@ -98,6 +92,6 @@ You'll need all the required info for at least one of the languages that your ap
 **Note**  For info about publishing line-of-business (LOB) apps directly to enterprises, see [Distribute LOB apps to enterprises](distribute-lob-apps-to-enterprises.md).
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

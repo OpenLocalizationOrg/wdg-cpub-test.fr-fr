@@ -32,8 +32,7 @@ The Direct3D 11 graphics pipeline is managed by instances of the [**ID3D11Device
 -   [Pixel-Shader Stage](https://msdn.microsoft.com/library/windows/desktop/bb205146#Pixel_Shader_Stage) - The pixel-shader stage receives interpolated data for a primitive and generates per-pixel data such as color. [**ID3D11DeviceContext1**](https://msdn.microsoft.com/library/windows/desktop/hh404598) methods that support this stage are prefixed with "PS".
 -   [Output-Merger Stage](https://msdn.microsoft.com/library/windows/desktop/bb205120) - The output-merger stage combines various types of output data (pixel shader values, depth and stencil information) with the contents of the render target and depth/stencil buffers to generate the final pipeline result. [**ID3D11DeviceContext1**](https://msdn.microsoft.com/library/windows/desktop/hh404598) methods that support this stage are prefixed with "OM".
 
-(There are also stages for geometry shaders, hull shaders, tesselators, and domain shaders, but since they have no analogues in OpenGL ES 2.0, we won't discuss them here.)
-For a complete list of the methods for these stages, refer to the [**ID3D11DeviceContext**](https://msdn.microsoft.com/library/windows/desktop/ff476385) and [**ID3D11DeviceContext1**](https://msdn.microsoft.com/library/windows/desktop/hh404598) reference pages. **ID3D11DeviceContext1** extends **ID3D11DeviceContext** for Direct3D 11.
+(There are also stages for geometry shaders, hull shaders, tesselators, and domain shaders, but since they have no analogues in OpenGL ES 2.0, we won't discuss them here.) For a complete list of the methods for these stages, refer to the [**ID3D11DeviceContext**](https://msdn.microsoft.com/library/windows/desktop/ff476385) and [**ID3D11DeviceContext1**](https://msdn.microsoft.com/library/windows/desktop/hh404598) reference pages. **ID3D11DeviceContext1** extends **ID3D11DeviceContext** for Direct3D 11.
 
 ## Creating a shader
 
@@ -245,6 +244,6 @@ For more details on the use of semantics with Direct3D, read [HLSL Semantics](ht
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

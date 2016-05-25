@@ -46,6 +46,6 @@ Your relationship with your customers is your own. Microsoft doesn’t get invol
 Listening and responding to your customers is only the beginning. Acting on their feedback is also critical. If you make significant improvements, showcase them in the Store with confidence by [creating a new submission](app-submissions.md) to update your app.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

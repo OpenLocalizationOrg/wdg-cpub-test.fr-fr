@@ -1,6 +1,5 @@
 ---
-ms.assetid: 831123A7-1F40-4B74-AE9F-69AC9883B4AD
-description: This article shows you how video device controls to enable enhanced video capture scenarios including: HDR video and exposure priority.
+ms.assetid: 831123A7-1F40-4B74-AE9F-69AC9883B4AD description: This article shows you how video device controls to enable enhanced video capture scenarios including: HDR video and exposure priority.
 title: Capture device controls for video capture
 ---
 
@@ -52,6 +51,6 @@ Enable or disable the exposure priority control by setting the [**ExposurePriori
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

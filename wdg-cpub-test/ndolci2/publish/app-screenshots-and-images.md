@@ -84,8 +84,7 @@ When designing your image, keep in mind that if we use it for the Spotlight, we'
 
 The image below shows the key proportions to keep in mind. The "safe zone" in the center will be prominent even if we crop the image. The "dynamic text area" is where text and a gradient may appear.
 
-![guidelines for spotlight image](images/spotlight1.jpg)
-The example below shows a well-designed Spotlight image which keeps these guidelines in mind. (The lines on the image are to illustrate how the artwork fits into the designated areas, and would not be included in the final image.)
+![guidelines for spotlight image](images/spotlight1.jpg) The example below shows a well-designed Spotlight image which keeps these guidelines in mind. (The lines on the image are to illustrate how the artwork fits into the designated areas, and would not be included in the final image.)
 
 ![well-designed spotlight image](images/spotlight2.jpg)
 ### For Windows Phone 8.1 and earlier: 1000 x 800, 358 x 358
@@ -100,6 +99,6 @@ In the Store on Windows Phone 8.1 and earlier, two image sizes can be used in pr
 In the Store on Windows 8.1 and earlier, promotional layouts may use an image in the 414 x 180 pixel size. If your app runs on Windows 8.1 or earlier, we recommend providing an image in this size for promotional consideration.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -148,12 +148,10 @@ The color for the pixel at the position is written to the render target. Now, le
 ## Previous step
 
 
-[Port the vertex buffers and data](port-the-vertex-buffers-and-data-config.md)
-Next step
+[Port the vertex buffers and data](port-the-vertex-buffers-and-data-config.md) Next step
 ---------
 
-[Draw to the screen](draw-to-the-screen.md)
-Remarks
+[Draw to the screen](draw-to-the-screen.md) Remarks
 -------
 
 Understanding HLSL semantics and the packing of constant buffers can save you a bit of a debugging headache, as well as provide optimization opportunities. If you get a chance, read through [Variable Syntax (HLSL)](https://msdn.microsoft.com/library/windows/desktop/bb509706), [Introduction to Buffers in Direct3D 11](https://msdn.microsoft.com/library/windows/desktop/ff476898), and [How to: Create a Constant Buffer](https://msdn.microsoft.com/library/windows/desktop/ff476896). If not, though, here's a few starting tips to keep in mind about semantics and constant buffers:
@@ -185,6 +183,6 @@ Understanding HLSL semantics and the packing of constant buffers can save you a 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

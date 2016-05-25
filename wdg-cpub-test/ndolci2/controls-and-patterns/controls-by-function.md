@@ -843,6 +843,6 @@ Reference: [ToggleSwitch](https://msdn.microsoft.com/library/windows/apps/xaml/w
 Design and how-to: [Toggle control guide](toggles.md) 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

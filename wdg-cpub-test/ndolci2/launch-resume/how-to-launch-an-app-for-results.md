@@ -201,6 +201,6 @@ Then pass it to the launched app via **LaunchUriForResultsAsync**.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -62,6 +62,6 @@ Next, we create a Direct3D device, swap chain, and render-target view, and prese
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

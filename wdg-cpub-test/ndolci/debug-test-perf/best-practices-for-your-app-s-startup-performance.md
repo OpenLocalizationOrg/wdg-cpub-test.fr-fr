@@ -353,6 +353,6 @@ Page caching can help performance by avoiding instantiations, and therefore impr
 Therefore it’s recommend to use page caching as appropriate for your application. For example, say you have an app that shows a list of items in a Frame, and when you tap on an item, it navigates the frame to a detail page for that item. The list page should probably be set to cache. If the detail page is the same for all items, it should probably be cached as well. But if the detail page is more heterogeneous, it might be better to leave caching off.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

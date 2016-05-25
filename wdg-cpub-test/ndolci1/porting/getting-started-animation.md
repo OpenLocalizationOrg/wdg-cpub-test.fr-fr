@@ -1,7 +1,5 @@
 ---
-ms.assetid: C1C3F5EA-B775-4700-9C45-695E78C16205
-description: Getting started: Animation
-title: Getting started: Animation
+ms.assetid: C1C3F5EA-B775-4700-9C45-695E78C16205 description: Getting started: Animation title: Getting started: Animation
 ---
 
 # Getting started: Animation
@@ -125,6 +123,6 @@ You can edit this XAML manually, or return to Blend to continue working on it th
 [Getting started: What next?](getting-started-what-next.md)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

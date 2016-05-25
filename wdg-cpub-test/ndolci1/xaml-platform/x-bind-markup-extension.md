@@ -1,7 +1,6 @@
 ---
 description: The {x:Bind} markup extension&\#8212;new for Windows 10&\#8212;is an alternative to {Binding}. {x:Bind} lacks some of the features of {Binding}, but it runs in less time and less memory than {Binding} and supports better debugging.
-title: {x:Bind} markup extension'
-ms.assetid: 529FBEB5-E589-486F-A204-B310ACDC5C06
+title: {x:Bind} markup extension' ms.assetid: 529FBEB5-E589-486F-A204-B310ACDC5C06
 ---
 
 # {x:Bind} markup extension
@@ -130,6 +129,6 @@ This example XAML uses **{x:Bind}** with a **ListView.ItemTemplate** property. N
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

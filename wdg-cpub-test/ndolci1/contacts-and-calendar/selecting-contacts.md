@@ -1,14 +1,6 @@
 ---
 description: Through the Windows.ApplicationModel.Contacts namespace, you have several options for selecting contacts.
-title: Select contacts
-ms.assetid: 35FEDEE6-2B0E-4391-84BA-5E9191D4E442
-keywords: 'contacts, selecting'
-keywords: 'select single contact'
-keywords: 'select multiple contacts'
-keywords: 'contacts, select multiple'
-keywords: 'select specific contact data'
-keywords: 'contact, selecting specific data'
-keywords: 'contact, selecting specific fields
+title: Select contacts ms.assetid: 35FEDEE6-2B0E-4391-84BA-5E9191D4E442 keywords: 'contacts, selecting' keywords: 'select single contact' keywords: 'select multiple contacts' keywords: 'contacts, select multiple' keywords: 'select specific contact data' keywords: 'contact, selecting specific data' keywords: 'contact, selecting specific fields
 ---
 
 # Select contacts
@@ -233,6 +225,6 @@ Now you have a basic understanding of how to use the contact picker to retrieve 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

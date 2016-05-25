@@ -28,6 +28,6 @@ This porting guide explains the differences between your current app's technolog
 * [Move from the web to WinRT](https://msdn.microsoft.com/library/windows/apps/hh465151)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

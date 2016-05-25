@@ -28,9 +28,7 @@ Provides a means to specify the source of a binding in terms of a relative relat
 
 ## XAML values
 
-| Term | Description |
-| {RelativeSource Self} | Produces a [<strong>Mode</strong>](https://msdn.microsoft.com/library/windows/apps/br209915) value is <strong>Self</strong>. The target element should be used as the source for this binding. This is useful for binding one property of an element to another property on the same element. |
-| {RelativeSource TemplatedParent} | Produces a [<strong>ControlTemplate</strong>](https://msdn.microsoft.com/library/windows/apps/br209391) is applied is the source for this binding. This is useful for applying runtime information to bindings at the template level. | 
+| Term | Description | | {RelativeSource Self} | Produces a [<strong>Mode</strong>](https://msdn.microsoft.com/library/windows/apps/br209915) value is <strong>Self</strong>. The target element should be used as the source for this binding. This is useful for binding one property of an element to another property on the same element. | | {RelativeSource TemplatedParent} | Produces a [<strong>ControlTemplate</strong>](https://msdn.microsoft.com/library/windows/apps/br209391) is applied is the source for this binding. This is useful for applying runtime information to bindings at the template level. | 
 
 ## Remarks
 
@@ -63,6 +61,6 @@ Another technique that can be useful is to use `RelativeSource={RelativeSource S
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

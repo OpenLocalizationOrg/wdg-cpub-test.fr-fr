@@ -91,6 +91,6 @@ These are additional Windows 10-specific MDM policy settings that work with Micr
 | AllowCortana                           | Both                | <ul><li>**URI full path.** ./Vendor/MSFT/Policy/Config/Experience/AllowCortana</li><li>**Data type.** Integer</li><li>**Allowed values:**<ul><li>**0.** Employees can’t use Cortana on their devices.</li><li>**1 (default).** Employees can use Cortana on their devices.</li></ul></li></ul> |
 | AllowSyncMySettings                    | Desktop             | <ul><li>**URI full path.** ./Vendor/MSFT/Policy/Config/Experience/AllowSyncMySettings</li><li>**Data type.** Integer</li><li>**Allowed values:**<ul><li>**0.** Employees can’t sync settings between PCs.</li><li>**1 (default).** Employees can sync between PCs.</li></ul></li></ul> |
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -50,6 +50,6 @@ You can determine whether your IAP should be offered for purchase to customers. 
 
 
 
-<!--HONumber=May16_HO3-->
+<!--HONumber=May16_HO4-->
 
 

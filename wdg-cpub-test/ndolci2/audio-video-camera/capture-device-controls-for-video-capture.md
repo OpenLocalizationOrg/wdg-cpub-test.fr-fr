@@ -52,6 +52,6 @@ Enable or disable the exposure priority control by setting the [**ExposurePriori
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

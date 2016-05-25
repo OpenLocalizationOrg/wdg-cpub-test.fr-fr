@@ -16,8 +16,7 @@ When you drag the **AdMediatorControl** control to the designer for the first ti
 
 If you still can't successfully add the control to the designer, make sure your project targets the applicable processor architecture for your app (for example, **x86**) rather than **Any CPU**. The control cannot be added to the designer if the project targets **Any CPU** for the build platform.
 
-**The AdMediatorControl shows the error “&lt;*width*&gt; x &lt;*height*&gt; Not supported” at run time when serving ads from Microsoft Advertising**  
-Microsoft Advertising only supports [certain ad sizes recommended by the Interactive Advertising Bureau (IAB)](add-and-use-the-ad-mediator-control.md#supported-ad-sizes-for-microsoft-advertising). In some cases, even if you set the height and width of the ad mediator control in the designer or in your XAML to one of these supported ad sizes, scaling and rounding issues might cause prevent the ad mediation framework from serving an ad. To avoid this issue, assign the **Width** and **Height** optional parameters for Microsoft Advertising in your code to one of the supported ad sizes.
+**The AdMediatorControl shows the error “&lt;*width*&gt; x &lt;*height*&gt; Not supported” at run time when serving ads from Microsoft Advertising** Microsoft Advertising only supports [certain ad sizes recommended by the Interactive Advertising Bureau (IAB)](add-and-use-the-ad-mediator-control.md#supported-ad-sizes-for-microsoft-advertising). In some cases, even if you set the height and width of the ad mediator control in the designer or in your XAML to one of these supported ad sizes, scaling and rounding issues might cause prevent the ad mediation framework from serving an ad. To avoid this issue, assign the **Width** and **Height** optional parameters for Microsoft Advertising in your code to one of the supported ad sizes.
 
 The following code example demonstrates how to assign the **Width** and **Height** optional parameters for Microsoft Advertising to 728 x 90.
 
@@ -67,6 +66,6 @@ You have referenced the Microsoft Advertising assemblies elsewhere in your app. 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

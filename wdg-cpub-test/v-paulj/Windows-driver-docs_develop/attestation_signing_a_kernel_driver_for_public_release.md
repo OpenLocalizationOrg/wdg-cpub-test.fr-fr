@@ -24,8 +24,7 @@ To attestation sign a kernel mode driver complete the following steps:
 5. Sign the CAB file submission with your EV Cert
 6. Submit the EV signed Cab file using the Hardware Dev Center Dashboard
 7. Validate that the driver was properly signed
-8. Test your driver on Windows 10 for Desktop
-<span id="Acquire_an__EV_Code_Signing_Certificate"></span><span id="acquire_an__ev_code_signing_certificate"></span><span id="ACQUIRE_AN__EV_CODE_SIGNING_CERTIFICATE"></span>Acquire an EV Code Signing Certificate
+8. Test your driver on Windows 10 for Desktop <span id="Acquire_an__EV_Code_Signing_Certificate"></span><span id="acquire_an__ev_code_signing_certificate"></span><span id="ACQUIRE_AN__EV_CODE_SIGNING_CERTIFICATE"></span>Acquire an EV Code Signing Certificate
 
 
 Before you can submit binaries files using the dashboard to be signed, you need to acquire an extended validation (EV) code signing certificate to secure your digital information. This certificate is the accepted standard for establishing your company’s ownership of the code you submit. It allows you to digitally sign PE binaries, such as .exe, .cab, .dll, .ocx, .msi, .xpi and .xap files.
@@ -77,18 +76,14 @@ To create a CAB files submission for the dashboard complete the following steps.
   <td align="left"><pre><code>C:\Echo&gt; MakeCab /?
   Cabinet Maker - Lossless Data Compression Tool
 
-  MAKECAB [/V[n]] [/D var=value ...] [/L dir] source [destination]
-  MAKECAB [/V[n]] [/D var=value ...] /F directive_file [...]
+  MAKECAB [/V[n]] [/D var=value ...] [/L dir] source [destination] MAKECAB [/V[n]] [/D var=value ...] /F directive_file [...]
 
     source         File to compress.
-    destination    File name to give compressed file.  If omitted, the
-                   last character of the source file name is replaced
-                   with an underscore (_) and used as the destination.
-    /F directives  A file with MakeCAB directives (may be repeated). Refer to
-                   Microsoft Cabinet SDK for information on directive_file.
-    /D var=value   Defines variable with specified value.
-    /L dir         Location to place destination (default is current directory).
-    /V[n]          Verbosity level (1..3).</code></pre></td>
+   destination    File name to give compressed file.  If omitted, the last character of the source file name is replaced with an underscore (_) and used as the destination.
+   /F directives  A file with MakeCAB directives (may be repeated). Refer to Microsoft Cabinet SDK for information on directive_file.
+   /D var=value   Defines variable with specified value.
+   /L dir         Location to place destination (default is current directory).
+   /V[n]          Verbosity level (1..3).</code></pre></td>
   </tr>
   </tbody>
   </table>
@@ -151,13 +146,7 @@ To create a CAB files submission for the dashboard complete the following steps.
   <td align="left"><pre><code>C:\Echo&gt; MakeCab /f Echo.ddf
   Cabinet Maker - Lossless Data Compression Tool
 
-  17,682 bytes in 2 files
-  Total files:              2
-  Bytes before:        17,682
-  Bytes after:          7,374
-  After/Before:            41.70% compression
-  Time:                     0.20 seconds ( 0 hr  0 min  0.20 sec)
-  Throughput:              86.77 Kb/second</code></pre></td>
+  17,682 bytes in 2 files Total files:              2 Bytes before:        17,682 Bytes after:          7,374 After/Before:            41.70% compression Time:                     0.20 seconds ( 0 hr  0 min  0.20 sec) Throughput:              86.77 Kb/second</code></pre></td>
   </tr>
   </tbody>
   </table>
@@ -340,6 +329,6 @@ Follow the steps previously described to sign, submit and test the driver files.
 [Send comments about this topic to Microsoft](mailto:wsddocfb@microsoft.com?subject=Documentation%20feedback%20[VsDriver\vsdriver]:%20Attestation%20Signing%20a%20Kernel%20Driver%20for%20Public%20Release%20%20RELEASE:%20%2810/28/2015%29&body=%0A%0APRIVACY%20STATEMENT%0A%0AWe%20use%20your%20feedback%20to%20improve%20the%20documentation.%20We%20don't%20use%20your%20email%20address%20for%20any%20other%20purpose,%20and%20we'll%20remove%20your%20email%20address%20from%20our%20system%20after%20the%20issue%20that%20you're%20reporting%20is%20fixed.%20While%20we're%20working%20to%20fix%20this%20issue,%20we%20might%20send%20you%20an%20email%20message%20to%20ask%20for%20more%20info.%20Later,%20we%20might%20also%20send%20you%20an%20email%20message%20to%20let%20you%20know%20that%20we've%20addressed%20your%20feedback.%0A%0AFor%20more%20info%20about%20Microsoft's%20privacy%20policy,%20see%20http://privacy.microsoft.com/en-us/default.aspx. "Send comments about this topic to Microsoft")
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

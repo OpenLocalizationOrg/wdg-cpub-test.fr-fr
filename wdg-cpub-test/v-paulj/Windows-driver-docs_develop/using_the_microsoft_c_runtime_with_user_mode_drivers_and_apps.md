@@ -72,13 +72,9 @@ The following is an example of how to include the CRT binaries in the **\[COPY\_
 Msvcr120.dll
 ; other files
 
-* [SourceDisksFiles]
-Msvcr120.dll = 2 
-; other files
+* [SourceDisksFiles] Msvcr120.dll = 2 ; other files
 
-* [SourceDisksNames.amd64]
-1 = %Location%,,,
-2 = %Location%,,,&quot;amd64&quot;</code></pre></td>
+* [SourceDisksNames.amd64] 1 = %Location%,,, 2 = %Location%,,,&quot;amd64&quot;</code></pre></td>
 </tr>
 </tbody>
 </table>
@@ -155,6 +151,6 @@ For UMDF drivers, use static linking of the CRT with your driver code.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

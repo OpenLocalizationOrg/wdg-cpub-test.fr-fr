@@ -95,6 +95,6 @@ Use the following guidelines for apps that support either resizing or optical zo
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -119,6 +119,6 @@ Here's an example of a two-button dialog that presents the user with an A/B choi
 - [**Flyout class**](https://msdn.microsoft.com/library/windows/apps/dn279496)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

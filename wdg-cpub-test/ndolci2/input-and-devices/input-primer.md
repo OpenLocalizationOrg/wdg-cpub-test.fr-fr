@@ -36,13 +36,11 @@ Device support
 
 ![cortana](images/input-interactions/icons-cortana01.png)
 
-Typical usage
-A voice command is a single utterance, defined in a Voice Command Definition (VCD) file, directed at an installed app through **Cortana**. The app can be launched in the foreground or background, depending on the level and complexity of the interaction. For instance, voice commands that require additional context or user input are best handled in the foreground, while basic commands can be handled in the background.
+Typical usage A voice command is a single utterance, defined in a Voice Command Definition (VCD) file, directed at an installed app through **Cortana**. The app can be launched in the foreground or background, depending on the level and complexity of the interaction. For instance, voice commands that require additional context or user input are best handled in the foreground, while basic commands can be handled in the background.
 
 Integrating the basic functionality of your app, and providing a central entry point for the user to accomplish most of the tasks without opening your app directly, lets **Cortana** become a liaison between your app and the user. In many cases, this can save the user significant time and effort. For more info, see [Cortana design guidelines](https://msdn.microsoft.com/library/windows/apps/dn974233).
 
-More info
-[Cortana design guidelines](https://msdn.microsoft.com/library/windows/apps/dn974233)
+More info [Cortana design guidelines](https://msdn.microsoft.com/library/windows/apps/dn974233)
  
 
 ## <span id="Speech"></span><span id="speech"></span><span id="SPEECH"></span>Speech
@@ -86,8 +84,7 @@ The most basic speech input method. Each utterance is converted to text.
 
 Dictation is typically used when an app doesn’t need to understand meaning or intent.
 
-More info
-[Speech design guidelines](https://msdn.microsoft.com/library/windows/apps/dn596121)
+More info [Speech design guidelines](https://msdn.microsoft.com/library/windows/apps/dn596121)
  
 
 ## <span id="Pen"></span><span id="pen"></span><span id="PEN"></span>Pen
@@ -112,15 +109,13 @@ Device support
 
 ![pen](images/input-interactions/icons-pen01.png)
 
-Typical usage
-The Windows ink platform, together with a pen, provides a natural way to create handwritten notes, drawings, and annotations. The platform supports capturing ink data from digitizer input, generating ink data, rendering that data as ink strokes on the output device, managing the ink data, and performing handwriting recognition. In addition to capturing the spatial movements of the pen as the user writes or draws, your app can also collect info such as pressure, shape, color, and opacity, to offer user experiences that closely resemble drawing on paper with a pen, pencil, or brush.
+Typical usage The Windows ink platform, together with a pen, provides a natural way to create handwritten notes, drawings, and annotations. The platform supports capturing ink data from digitizer input, generating ink data, rendering that data as ink strokes on the output device, managing the ink data, and performing handwriting recognition. In addition to capturing the spatial movements of the pen as the user writes or draws, your app can also collect info such as pressure, shape, color, and opacity, to offer user experiences that closely resemble drawing on paper with a pen, pencil, or brush.
 
 Where pen and touch input diverge is the ability for touch to emulate direct manipulation of UI elements on the screen through physical gestures performed on those objects (such as swiping, sliding, dragging, rotating, and so on).
 
 You should provide pen-specific UI commands, or affordances, to support these interactions. For example, use previous and next (or + and -) buttons to let users flip through pages of content, or rotate, resize, and zoom objects.
 
-More info
-[Pen design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456352)
+More info [Pen design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456352)
  
 
 ## <span id="Touch"></span><span id="touch"></span><span id="TOUCH"></span>Touch
@@ -137,8 +132,7 @@ Device support
 
 ![touch](images/input-interactions/icons-touch01.png)
 
-Typical usage
-Support for touch input can vary significantly, depending on the device.
+Typical usage Support for touch input can vary significantly, depending on the device.
 
 Some devices don't support touch at all, some devices support a single touch contact, while others support multi-touch (two or more contacts).
 
@@ -152,8 +146,7 @@ In general, touch is:
 -   Not constrained to device orientation.
 -   Used for all interactions, including text input (touch keyboard) and inking (app-configured).
 
-More info
-[Touch design guidelines](https://msdn.microsoft.com/library/windows/apps/hh465370)
+More info [Touch design guidelines](https://msdn.microsoft.com/library/windows/apps/hh465370)
  
 
 ## <span id="Touchpad"></span><span id="touchpad"></span><span id="TOUCHPAD"></span>Touchpad
@@ -167,15 +160,13 @@ Device support
 
 ![touchpad](images/input-interactions/icons-touchpad01.png)
 
-Typical usage
-Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
+Typical usage Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
 
 Because of this convergence of interaction experiences supported by touchpads, we recommend also providing mouse-style UI commands or affordances rather than relying solely on support for touch input. Provide touchpad-specific UI commands, or affordances, to support these interactions.
 
 You should provide mouse-specific UI commands, or affordances, to support these interactions. For example, use previous and next (or + and -) buttons to let users flip through pages of content, or rotate, resize, and zoom objects.
 
-More info
-[Touchpad design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456353)
+More info [Touchpad design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456353)
  
 
 ## <span id="Keyboard"></span><span id="keyboard"></span><span id="KEYBOARD"></span>Keyboard
@@ -196,8 +187,7 @@ Device support
 
 ![keyboard](images/input-interactions/icons-keyboard01.png)
 
-Typical usage
-Users can interact with Universal Windows apps through a hardware keyboard and two software keyboards: the On-Screen Keyboard (OSK) and the touch keyboard.
+Typical usage Users can interact with Universal Windows apps through a hardware keyboard and two software keyboards: the On-Screen Keyboard (OSK) and the touch keyboard.
 
 The OSK is a visual, software keyboard that you can use instead of the physical keyboard to type and enter data using touch, mouse, pen/stylus or other pointing device (a touch screen is not required). The OSK is provided for systems that don't have a physical keyboard, or for users whose mobility impairments prevent them from using traditional physical input devices. The OSK emulates most, if not all, the functionality of a hardware keyboard.
 
@@ -214,8 +204,7 @@ In general, a keyboard is:
 -   Used for text input, navigation, gameplay, and accessibility.
 -   Always available, either proactively or reactively.
 
-More info
-[Keyboard design guidelines](https://msdn.microsoft.com/library/windows/apps/hh972345)
+More info [Keyboard design guidelines](https://msdn.microsoft.com/library/windows/apps/hh972345)
  
 
 ## <span id="Mouse"></span><span id="mouse"></span><span id="MOUSE"></span>Mouse
@@ -232,15 +221,13 @@ Device support
 
 ![mouse](images/input-interactions/icons-mouse01.png)
 
-Typical usage
-Mouse input can be modified with the addition of various keyboard keys (Ctrl, Shift, Alt, and so on). These keys can be combined with the left mouse button, the right mouse button, the wheel button, and the X buttons for an expanded mouse-optimized command set. (Some Microsoft mouse devices have two additional buttons, referred to as X buttons, typically used to navigate back and forward in Web browsers).
+Typical usage Mouse input can be modified with the addition of various keyboard keys (Ctrl, Shift, Alt, and so on). These keys can be combined with the left mouse button, the right mouse button, the wheel button, and the X buttons for an expanded mouse-optimized command set. (Some Microsoft mouse devices have two additional buttons, referred to as X buttons, typically used to navigate back and forward in Web browsers).
 
 Similar to pen, where mouse and touch input diverge is the ability for touch to emulate direct manipulation of UI elements on the screen through physical gestures performed on those objects (such as swiping, sliding, dragging, rotating, and so on).
 
 You should provide mouse-specific UI commands, or affordances, to support these interactions. For example, use previous and next (or + and -) buttons to let users flip through pages of content, or rotate, resize, and zoom objects.
 
-More info
-[Mouse design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456351)
+More info [Mouse design guidelines](https://msdn.microsoft.com/library/windows/apps/dn456351)
  
 
 ## <span id="Gesture"></span><span id="gesture"></span><span id="GESTURE"></span>Gesture
@@ -256,8 +243,7 @@ Device support
 
 ![gesture](images/input-interactions/icons-gesture01.png)
 
-Typical usage
-Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
+Typical usage Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
 
 Because of this convergence of interaction experiences supported by touchpads, we recommend also providing mouse-style UI commands or affordances rather than relying solely on support for touch input. Provide touchpad-specific UI commands, or affordances, to support these interactions.
 
@@ -277,8 +263,7 @@ Device support
 
 ![controller](images/input-interactions/icons-controller01.png)
 
-Typical usage
-Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
+Typical usage Touchpads typically support a set of touch gestures that provide support similar to touch for direct manipulation of objects and UI.
 
 Because of this convergence of interaction experiences supported by touchpads, we recommend also providing mouse-style UI commands or affordances rather than relying solely on support for touch input. Provide touchpad-specific UI commands, or affordances, to support these interactions.
 
@@ -302,8 +287,7 @@ Device support
 
 ![multiple inputs](images/input-interactions/icons-inputdevices03-vertical.png)
 
-Typical usage
-Just as people use a combination of voice and gesture when communicating with each other, multiple types and modes of input can also be useful when interacting with an app. However, these combined interactions need to be as intuitive and natural as possible as they can also create a very confusing experience.
+Typical usage Just as people use a combination of voice and gesture when communicating with each other, multiple types and modes of input can also be useful when interacting with an app. However, these combined interactions need to be as intuitive and natural as possible as they can also create a very confusing experience.
 
 
 
@@ -318,6 +302,6 @@ Just as people use a combination of voice and gesture when communicating with ea
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

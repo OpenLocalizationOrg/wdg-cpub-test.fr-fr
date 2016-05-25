@@ -38,6 +38,6 @@ You use the APIs in the [Windows.Storage](https://msdn.microsoft.com/library/win
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

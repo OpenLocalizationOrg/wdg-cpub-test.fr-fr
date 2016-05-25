@@ -347,6 +347,6 @@ If you set any private fields when canceling the recognition session, always con
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -167,6 +167,6 @@ When you’re designing a custom slider, consider ways to present all the necess
 - [**Slider class**](https://msdn.microsoft.com/library/windows/apps/br209614)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

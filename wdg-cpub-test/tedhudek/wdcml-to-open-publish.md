@@ -13,8 +13,7 @@ This topic describes how to convert WDCML to Markdown that validates and renders
 2. Use `cbx msdn markdown` to build your project into .md files.
 
  * After the regular cbx build, you will see two passes with progress bars.  The first is a fast pass to change .md formatting to match OP requirements.  The second is the A keyword conversion to URLs, which takes significantly longer.  The whole conversion can take up to an hour for a project containing 1500 topics.
- * If the database pass fails, you will see:
-        Error connecting to db server.  Ensure that you have perms on the MSDN Reporting SG.
+ * If the database pass fails, you will see: Error connecting to db server.  Ensure that you have perms on the MSDN Reporting SG.
  * Sometimes database access can be problematic.  If you can't connect, try again a couple hours later.
  * PROTIP: On rare occasions (ask Jason), you may need to update the local version of `convert-keywords.ps1` with the fully qualified name of the reporting server: reporting.mtps.glbdns2.microsoft.com.
 
@@ -42,8 +41,7 @@ The following steps are what the first pass above does.  They are listed here fo
 
 8. If existing, delete second occurrence of local target string: `[Manually installing WDTF on a test computer](dtf.runtime_library#manual_install_wdtf#manual_install_wdtf)`
 
-9. Update embedded video links from: `![]()`
-to look like this:
+9. Update embedded video links from: `![]()` to look like this:
 
     ```
     <iframe src="https://hubs-video.ssl.catalog.video.msn.com/embed/57464a96-8900-4194-b806-813eb1dd6ac6/IA?csid=ux-en-us&MsnPlayerLeadsWith=html&PlaybackMode=Inline&MsnPlayerDisplayShareBar=false&MsnPlayerDisplayInfoButton=false&iframe=true&QualityOverride=HD" width="720" height="405" allowFullScreen="true" frameBorder="0" scrolling="no"></iframe>
@@ -67,6 +65,6 @@ to look like this:
 1. Create TOC.md in parent directory.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

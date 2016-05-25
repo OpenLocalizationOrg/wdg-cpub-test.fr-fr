@@ -81,6 +81,6 @@ This design of an app that tracks the stock market uses a master/details pattern
 - [**ListView class (XAML)**](https://msdn.microsoft.com/library/windows/apps/br242878)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

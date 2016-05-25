@@ -1,7 +1,5 @@
 ---
-description: Getting started: Getting around in Visual Studio
-title: Getting started: Getting around in Visual Studio'
-ms.assetid: 7FBB50A2-6D22-4082-B333-5153DADDDE9A
+description: Getting started: Getting around in Visual Studio title: Getting started: Getting around in Visual Studio' ms.assetid: 7FBB50A2-6D22-4082-B333-5153DADDDE9A
 ---
 
 # Getting started: Getting around in Visual Studio
@@ -120,6 +118,6 @@ To quit the app, return to Visual Studio, tap the **Debug** menu, and then tap *
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -101,8 +101,7 @@ You can use toast notifications for alarms, reminders, and incoming calls. These
 
 -   A reminder toast notification will stay on screen until the user dismisses it or takes action. On Windows Mobile, the reminder toast notifications will also show up pre-expanded.
 -   In addition to sharing the above behaviors with reminder notifications, alarm notifications also automatically play looping audio.
--   Incoming call notifications are displayed full screen on Windows Mobile devices. This is done by specifying the scenario attribute inside the root element of a toast notification – &lt;toast&gt;:
-    &lt;toast scenario=" { default | alarm | reminder | incomingCall } " &gt;
+-   Incoming call notifications are displayed full screen on Windows Mobile devices. This is done by specifying the scenario attribute inside the root element of a toast notification – &lt;toast&gt;: &lt;toast scenario=" { default | alarm | reminder | incomingCall } " &gt;
 
 ## <span id="xml_examples"></span><span id="XML_EXAMPLES"></span>XML examples
 
@@ -642,6 +641,6 @@ To construct individual snooze and dismiss actions, do the following:
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

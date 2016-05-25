@@ -132,6 +132,6 @@ The [**Windows.Devices.Sms**](https://msdn.microsoft.com/library/windows/apps/br
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -184,6 +184,6 @@ When you use [**SwitchAsync**](https://msdn.microsoft.com/library/windows/apps/d
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

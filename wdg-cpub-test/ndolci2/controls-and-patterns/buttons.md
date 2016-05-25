@@ -154,15 +154,12 @@ The scope of the navigation history (whether in-app or global) depends on the de
 
 The UI for the system back button is optimized for each device and input type, but the navigation experience is global and consistent across devices and Universal Windows Platform (UWP) apps. These different experiences include:
 
-Devices
-Phone
-![system back on a phone](images/nav-back-phone.png)
+Devices Phone ![system back on a phone](images/nav-back-phone.png)
 -   Always present.
 -   A software or hardware button at the bottom of the device.
 -   Global back navigation within the app and between apps.
 
-<span id="Tablet"></span><span id="tablet"></span><span id="TABLET"></span>Tablet
-![system back on a tablet (in tablet mode)](images/nav-back-tablet.png)
+<span id="Tablet"></span><span id="tablet"></span><span id="TABLET"></span>Tablet ![system back on a tablet (in tablet mode)](images/nav-back-tablet.png)
 -   Always present in Tablet mode.
 
     Not available in Desktop mode. Title bar back button can be enabled, instead. See [PC, Laptop, Tablet](#PC).
@@ -172,8 +169,7 @@ Phone
 -   A software button in the navigation bar at the bottom of the device.
 -   Global back navigation within the app and between apps.
 
-<span id="PC"></span><span id="pc"></span>PC, Laptop, Tablet
-![system back on a pc or laptop](images/nav-back-pc.png)
+<span id="PC"></span><span id="pc"></span>PC, Laptop, Tablet ![system back on a pc or laptop](images/nav-back-pc.png)
 -   Optional in Desktop mode.
 
     Not available in Tablet mode. See [Tablet](#Tablet).
@@ -185,8 +181,7 @@ Phone
 -   A software button in the title bar of the app.
 -   Back navigation within the app only. Does not support app-to-app navigation.
 
-Surface Hub
-![system back on a surface hub](images/nav-back-surfacehub.png)
+Surface Hub ![system back on a surface hub](images/nav-back-surfacehub.png)
 -   Always present.
 -   A software button at the bottom of the device.
 -   Back navigation within the app and between apps.
@@ -228,6 +223,6 @@ Surface Hub
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -174,6 +174,6 @@ Set the [**AutoRepeatEnabled**](https://msdn.microsoft.com/library/windows/apps/
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

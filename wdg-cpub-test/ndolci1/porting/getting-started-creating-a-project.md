@@ -1,6 +1,5 @@
 ---
-ms.assetid: 08C8F359-E8B6-4A45-8F4B-8A1962F0CE38
-description: Microsoft Visual Studio is to Windows as Xcode is to iOS and Mac OS. In this walkthrough, we help you get comfortable using Visual Studio.
+ms.assetid: 08C8F359-E8B6-4A45-8F4B-8A1962F0CE38 description: Microsoft Visual Studio is to Windows as Xcode is to iOS and Mac OS. In this walkthrough, we help you get comfortable using Visual Studio.
 title: Getting started: Creating a project
 ---
 
@@ -41,14 +40,13 @@ For comparison, when you create a new project in Xcode, you see a list of projec
 
 In Visual Studio, there are also several project templates to choose from, as shown in the following figure.
 
-![visual studio new project dialog box](images/ios-to-uwp/ios-to-uwp-vs-choose-template.png)
-For this walkthrough, tap **Visual C#**, and then tap **Windows**, **Windows Universal** and **Blank App (Windows Universal)**. In the **Name** box, type "MyApp", and then tap **OK**. Visual Studio creates and then displays your first project. Now, you can begin to design your app and add code to it.
+![visual studio new project dialog box](images/ios-to-uwp/ios-to-uwp-vs-choose-template.png) For this walkthrough, tap **Visual C#**, and then tap **Windows**, **Windows Universal** and **Blank App (Windows Universal)**. In the **Name** box, type "MyApp", and then tap **OK**. Visual Studio creates and then displays your first project. Now, you can begin to design your app and add code to it.
 
 ## Next step
 
 [Getting started: Choosing a programming language](getting-started-choosing-a-programming-language.md)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

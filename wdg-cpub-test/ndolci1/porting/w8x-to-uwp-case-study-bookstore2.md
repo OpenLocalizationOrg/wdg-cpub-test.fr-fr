@@ -1,6 +1,5 @@
 ---
-ms.assetid: 333f67f5-f012-4981-917f-c6fd271267c6
-description: This case study&\#8212;which builds on the info given in Bookstore1&\#8212;begins with a Universal 8.1 app that displays grouped data in a SemanticZoom control.
+ms.assetid: 333f67f5-f012-4981-917f-c6fd271267c6 description: This case study&\#8212;which builds on the info given in Bookstore1&\#8212;begins with a Universal 8.1 app that displays grouped data in a SemanticZoom control.
 title: Windows Runtime 8.x to UWP case study: Bookstore2
 ---
 
@@ -168,6 +167,6 @@ This case study involved a more ambitious user interface than the previous one. 
 The next case study is [QuizGame](w8x-to-uwp-case-study-quizgame.md), in which we look at accessing and displaying grouped data.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

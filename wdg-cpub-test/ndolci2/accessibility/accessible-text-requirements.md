@@ -97,11 +97,7 @@ You can also use the [**TextScaleFactorChanged**](https://msdn.microsoft.com/lib
     ...
 }
 
-private async void UISettings_TextScaleFactorChanged(Windows.UI.ViewManagement.UISettings sender, object args)
-{
-    var messageDialog = new Windows.UI.Popups.MessageDialog(string.Format(&quot;It&#39;s now {0}&quot;, sender.TextScaleFactor), &quot;The text scale factor has changed&quot;);
-    await messageDialog.ShowAsync();
-}</code></pre></td>
+private async void UISettings_TextScaleFactorChanged(Windows.UI.ViewManagement.UISettings sender, object args) { var messageDialog = new Windows.UI.Popups.MessageDialog(string.Format(&quot;It&#39;s now {0}&quot;, sender.TextScaleFactor), &quot;The text scale factor has changed&quot;); await messageDialog.ShowAsync(); }</code></pre></td>
 </tr>
 </tbody>
 </table>
@@ -133,6 +129,6 @@ Related topics
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

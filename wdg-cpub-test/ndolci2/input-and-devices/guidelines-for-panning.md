@@ -100,8 +100,7 @@ Windows 8 supports three types of panning:
 
 The interaction experience for panning is unique to the input device while still providing similar functionality.
 
-**Pannable regions**
-Pannable region behaviors are exposed to Windows Store app using JavaScript developers at design time through Cascading Style Sheets (CSS).
+**Pannable regions** Pannable region behaviors are exposed to Windows Store app using JavaScript developers at design time through Cascading Style Sheets (CSS).
 
 There are two panning display modes based on the input device detected:
 
@@ -112,16 +111,14 @@ There are two panning display modes based on the input device detected:
 
  
 
-**Panning indicators**
-Panning indicators are similar to the scroll box in a scroll bar. They indicate the proportion of displayed content to total pannable area and the relative position of the displayed content in the pannable area.
+**Panning indicators** Panning indicators are similar to the scroll box in a scroll bar. They indicate the proportion of displayed content to total pannable area and the relative position of the displayed content in the pannable area.
 
 The following diagram shows two pannable areas of different lengths and their panning indicators.
 
 ![image showing two pannable areas of different lengths and their panning indicators.](images/scrolling-indicators.png)
 
 **Panning behaviors**
-**Snap points**
-Panning with the swipe gesture introduces inertia behavior into the interaction when the touch contact is lifted. With inertia, the content continues to pan until some distance threshold is reached without direct input from the user. Use snap points to modify this inertia behavior.
+**Snap points** Panning with the swipe gesture introduces inertia behavior into the interaction when the touch contact is lifted. With inertia, the content continues to pan until some distance threshold is reached without direct input from the user. Use snap points to modify this inertia behavior.
 
 Snap points specify logical stops in your app content. Cognitively, snap points act as a paging mechanism for the user and minimize fatigue from excessive sliding or swiping in large pannable regions. With them, you can handle imprecise user input and ensure a specific subset of content or key information is displayed in the viewport.
 
@@ -141,8 +138,7 @@ The following diagrams show how panning to a certain point and releasing causes 
 
  
 
-**Rails**
-Content can be wider and taller than the dimensions and resolution of a display device. For this reason, two-dimensional panning (horizontal and vertical) is often necessary. Rails improve the user experience in these cases by emphasizing panning along the axis of motion (vertical or horizontal).
+**Rails** Content can be wider and taller than the dimensions and resolution of a display device. For this reason, two-dimensional panning (horizontal and vertical) is often necessary. Rails improve the user experience in these cases by emphasizing panning along the axis of motion (vertical or horizontal).
 
 The following diagram demonstrates the concept of rails.
 
@@ -193,6 +189,6 @@ This guidance is also useful for apps such as photo albums or mapping apps that 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

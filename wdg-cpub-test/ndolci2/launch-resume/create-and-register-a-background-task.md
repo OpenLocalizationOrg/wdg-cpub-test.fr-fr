@@ -226,8 +226,7 @@ The following steps are completed in one of your app classes (for example, MainP
 
     The following code registers the background task and stores the result:
 
-> [!div class="tabbedCodeSnippets"]
->     ```cs
+> [!div class="tabbedCodeSnippets"]     ```cs
 >     BackgroundTaskRegistration task = builder.Register();
 >     ```
 >     ```cpp
@@ -247,8 +246,7 @@ You should register a method with the [**BackgroundTaskCompletedEventHandler**](
 
     The following sample code recognizes background task completion and calls an example UI update method that takes a message string.
 
-> [!div class="tabbedCodeSnippets"]
->     ```cs
+> [!div class="tabbedCodeSnippets"]     ```cs
 >     private void OnCompleted(IBackgroundTaskRegistration task, BackgroundTaskCompletedEventArgs args)
 >     {
 >         var settings = Windows.Storage.ApplicationData.Current.LocalSettings;
@@ -275,8 +273,7 @@ You should register a method with the [**BackgroundTaskCompletedEventHandler**](
 
     The following sample code adds a [**BackgroundTaskCompletedEventHandler**](https://msdn.microsoft.com/library/windows/apps/br224781) to the [**BackgroundTaskRegistration**](https://msdn.microsoft.com/library/windows/apps/br224786):
 
-> [!div class="tabbedCodeSnippets"]
->     ```cs
+> [!div class="tabbedCodeSnippets"]     ```cs
 >     task.Completed += new BackgroundTaskCompletedEventHandler(OnCompleted);
 >     ```
 >     ```cpp
@@ -353,6 +350,6 @@ See the following related topics for API reference, background task conceptual g
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

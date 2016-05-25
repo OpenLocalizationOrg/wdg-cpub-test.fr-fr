@@ -176,6 +176,6 @@ async void printDetailedOptions_OptionChanged(PrintTaskOptionDetails sender, Pri
 * [UWP print sample](http://go.microsoft.com/fwlink/p/?LinkId=619984)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

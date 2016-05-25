@@ -88,6 +88,6 @@ For cases where a ScrollViewer is explicit in your XAML, as is shown in the exam
 * [**ScrollViewer class**](https://msdn.microsoft.com/library/windows/apps/br209527)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

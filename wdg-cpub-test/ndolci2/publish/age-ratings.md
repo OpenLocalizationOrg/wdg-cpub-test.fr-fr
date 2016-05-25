@@ -44,6 +44,6 @@ Previously, developers specified the age rating for their app rather than answer
 | 18+ (Suitable for adults)            | Games with this age rating may contain intense, gross or specific violence, blood or gore which is only suitable for an adult audience. All content must meet the [content policies](https://msdn.microsoft.com/library/windows/apps/dn764944) criteria.                                                                                                                                                            |
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

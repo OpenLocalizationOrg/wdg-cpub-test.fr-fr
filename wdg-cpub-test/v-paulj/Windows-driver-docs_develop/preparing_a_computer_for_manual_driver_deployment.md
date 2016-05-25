@@ -22,6 +22,6 @@ When you build one of the WDK gallery samples, the build process creates a test-
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

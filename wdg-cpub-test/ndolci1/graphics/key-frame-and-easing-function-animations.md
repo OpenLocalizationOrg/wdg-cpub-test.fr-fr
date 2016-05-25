@@ -1,7 +1,5 @@
 ---
-ms.assetid: D8AF24CD-F4C2-4562-AFD7-25010955D677
-title: Key-frame animations and easing function animations
-description: Linear key-frame animations, key-frame animations with a KeySpline value, or easing functions are three different techniques for approximately the same scenario: creating a storyboarded animation that's a bit more complex, and that uses a nonlinear animation behavior from a starting state to an end state.
+ms.assetid: D8AF24CD-F4C2-4562-AFD7-25010955D677 title: Key-frame animations and easing function animations description: Linear key-frame animations, key-frame animations with a KeySpline value, or easing functions are three different techniques for approximately the same scenario: creating a storyboarded animation that's a bit more complex, and that uses a nonlinear animation behavior from a starting state to an end state.
 ---
 # Key-frame animations and easing function animations
 
@@ -277,6 +275,6 @@ You can use more than one [**DiscreteObjectKeyFrame**](https://msdn.microsoft.co
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -138,6 +138,6 @@ When you enumerate output MIDI devices using the technique described above, your
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

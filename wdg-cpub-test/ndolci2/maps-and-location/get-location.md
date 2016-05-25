@@ -1,6 +1,5 @@
 ---
-title: 'Get the user's location'
-description: Find the user's location and respond to changes in location. Access to the user's location is managed by privacy settings in the Settings app. This topic also shows how to check if your app has permission to access the user's location.
+title: 'Get the user's location' description: Find the user's location and respond to changes in location. Access to the user's location is managed by privacy settings in the Settings app. This topic also shows how to check if your app has permission to access the user's location.
 ms.assetid: 24DC9A41-8CC1-48B0-BC6D-24BF571AFCC8
 ---
 
@@ -262,6 +261,6 @@ Before your app can access the user's location, **Location** must be enabled on 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

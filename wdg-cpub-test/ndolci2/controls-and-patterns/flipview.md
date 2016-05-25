@@ -206,6 +206,6 @@ For larger collections (10-25 items), consider using an indicator that provides 
 - [**CarouselPanel class (XAML)**](https://msdn.microsoft.com/library/windows/apps/hh967950)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

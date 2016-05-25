@@ -228,8 +228,7 @@ new TileVisual()
 Branding can be applied for specific tile sizes one of two ways:
 
 1. By applying the attribute on the [&lt;binding&gt;](tiles-and-notifications-adaptive-tiles-schema.md) element
-2. By applying the attribute on the [&lt;visual&gt;](tiles-and-notifications-adaptive-tiles-schema.md) element, which affects the entire notification payload
-If you don't specify branding for a binding, it will use the branding that's provided on the visual element.
+2. By applying the attribute on the [&lt;visual&gt;](tiles-and-notifications-adaptive-tiles-schema.md) element, which affects the entire notification payload If you don't specify branding for a binding, it will use the branding that's provided on the visual element.
 
 ```XML
 <tile>
@@ -1488,6 +1487,6 @@ TileWide = new TileBinding()
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

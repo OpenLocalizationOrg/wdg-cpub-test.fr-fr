@@ -206,6 +206,6 @@ This topic describes the **ms-people:** URI scheme. Your app can use this URI sc
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

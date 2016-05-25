@@ -115,6 +115,6 @@ If you remove a C++ Windows Runtime Component project from a solution, you must 
 
 
 
-<!--HONumber=Apr16_HO1-->
+<!--HONumber=May16_HO4-->
 
 

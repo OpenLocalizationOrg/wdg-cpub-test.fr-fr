@@ -147,11 +147,9 @@ private void ReadingChanged(object sender, GyrometerReadingChangedEventArgs e)
 
 The [**OrientationSensor**](https://msdn.microsoft.com/library/windows/apps/BR206371) data must be changed in a different way. Think of these different orientations as rotations counterclockwise to the Z axis, so we need to reverse the rotation to get back the user’s orientation. For quaternion data, we can use Euler’s formula to define a rotation with a reference quaternion, and we can also use a reference rotation matrix.
 
-![Euler's formula](images/eulers-formula.png)
-To get the relative orientation you want, multiply the reference object against the absolute object. Note that this math is not commutative.
+![Euler's formula](images/eulers-formula.png) To get the relative orientation you want, multiply the reference object against the absolute object. Note that this math is not commutative.
 
-![Multiply the reference object against the absolute object](images/orientation-formula.png)
-In the preceding expression, the absolute object is returned by the sensor data.
+![Multiply the reference object against the absolute object](images/orientation-formula.png) In the preceding expression, the absolute object is returned by the sensor data.
 
 | Display orientation  | Counterclockwise rotation around Z | Reference quaternion (reverse rotation) | Reference rotation matrix (reverse rotation) | 
 |----------------------|------------------------------------|-----------------------------------------|----------------------------------------------|
@@ -161,6 +159,6 @@ In the preceding expression, the absolute object is returned by the sensor data.
 | **PortraitFlipped**  | 270                                | cos(-135⁰) + (i + j + k)*sin(-135⁰)     | \[0 -1 0<br/> 1  0 0<br/> 0  0 1]             |
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

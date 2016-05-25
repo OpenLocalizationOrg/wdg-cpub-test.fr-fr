@@ -20,6 +20,6 @@ In order to provide a rich experience for your users, you may find it necessary 
 | [Get battery information](get-battery-info.md) | Learn how to get detailed battery information using APIs in the [<strong>Windows.Devices.Power</strong>](https://msdn.microsoft.com/library/windows/apps/Dn895017) namespace. |
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

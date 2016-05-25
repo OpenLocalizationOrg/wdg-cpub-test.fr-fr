@@ -1,6 +1,5 @@
 ---
-ms.assetid: e4582717-afb5-4cde-86bb-31fb1c5fc8f3
-description: This topic presents a case study of porting a very simple Universal 8.1 app to a Windows 10&\#160;Universal Windows Platform (UWP) app.
+ms.assetid: e4582717-afb5-4cde-86bb-31fb1c5fc8f3 description: This topic presents a case study of porting a very simple Universal 8.1 app to a Windows 10&\#160;Universal Windows Platform (UWP) app.
 title: Windows Runtime 8.x to UWP case study: Bookstore1
 ---
 
@@ -123,6 +122,6 @@ We also saw evidence that porting view models is generally a smooth process. Use
 The next case study is [Bookstore2](w8x-to-uwp-case-study-bookstore2.md), in which we look at accessing and displaying grouped data.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -1,7 +1,5 @@
 ---
-ms.assetid: F4DF5C5F-C886-4483-BBDA-498C4E2C1BAF
-description: Getting started: Navigation
-title: Getting started: Navigation
+ms.assetid: F4DF5C5F-C886-4483-BBDA-498C4E2C1BAF description: Getting started: Navigation title: Getting started: Navigation
 ---
 
 # Getting started: Navigation
@@ -81,6 +79,6 @@ For more info about navigation, see [Navigation](https://msdn.microsoft.com/libr
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

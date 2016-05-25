@@ -167,6 +167,6 @@ These new values are written to the TextBlocks found in the project's XAML.
 * [Gyrometer Sample](http://go.microsoft.com/fwlink/p/?linkid=241379)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

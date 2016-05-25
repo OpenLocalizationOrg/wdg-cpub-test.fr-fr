@@ -1,7 +1,6 @@
 ---
 description: Provides a value for any XAML attribute by evaluating a reference to an already defined resource. Resources are defined in a ResourceDictionary, and a StaticResource usage references the key of that resource in the ResourceDictionary.
-title: {StaticResource} markup extension'
-ms.assetid: D50349B5-4588-4EBD-9458-75F629CCC395
+title: {StaticResource} markup extension' ms.assetid: D50349B5-4588-4EBD-9458-75F629CCC395
 ---
 
 # {StaticResource} markup extension
@@ -81,6 +80,6 @@ Once a resource key exists as part of any **{StaticResource}** usage, the **Go T
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

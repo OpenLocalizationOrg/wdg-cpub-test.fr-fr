@@ -28,6 +28,6 @@ The Windows Store exposes several services that you can call via REST APIs to pr
  
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

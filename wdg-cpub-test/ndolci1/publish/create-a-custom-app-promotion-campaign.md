@@ -60,8 +60,7 @@ To create a Windows Store page URL for your app with a custom campaign ID:
 
 1.  Create an ID string for your custom campaign. This string can contain up to 100 characters, although we recommend that you define short campaign IDs that are easily identifiable.
 2.  Get the Windows Store page URL for your app in HTML or protocol format. The HTML format URL is available on the [**App Identity** page in the Dev Center dashboard](link-to-your-app.md).
-    -   Use the HTTP format if you want customers to navigate to your app's Windows Store page in a browser (this URL will also launch the Windows Store app to your app's listing, if the Windows Store app is installed). This URL has the format **https://www.microsoft.com/store/apps/*your app name*/*your app ID***. For example, the HTTP URL for Skype is https://www.microsoft.com/store/apps/skype/9wzdncrfj364.
-        **Note**  HTTP format URLs can be used to navigate to the Windows Store in a browser on computers and tablets running Windows 7 and later, and phones running Windows Phone 8 and later.
+    -   Use the HTTP format if you want customers to navigate to your app's Windows Store page in a browser (this URL will also launch the Windows Store app to your app's listing, if the Windows Store app is installed). This URL has the format **https://www.microsoft.com/store/apps/*your app name*/*your app ID***. For example, the HTTP URL for Skype is https://www.microsoft.com/store/apps/skype/9wzdncrfj364. **Note**  HTTP format URLs can be used to navigate to the Windows Store in a browser on computers and tablets running Windows 7 and later, and phones running Windows Phone 8 and later.
     -   Use the protocol format if you are promoting your app from other Windows apps that are running on a device or computer with the Windows Store app installed, and you want customers to open to your app's page in the Windows Store app. This URL has the format **ms-windows-store://pdp/?PRODUCTID=*your app id***. For example, the protocol URL for Skype is ms-windows-store://pdp/?PRODUCTID=9wzdncrfj364.
 3.  Append the following string to the end of the URL for your app:
     -   For an HTTP format URL, append **?cid=*my custom campaign ID***. For example, if Skype introduces a campaign ID with the value **custom\_campaign**, the new HTTP URL including the campaign ID would be: https://www.microsoft.com/store/apps/skype/9wzdncrfj364?cid=custom\_campaign.
@@ -129,6 +128,6 @@ Before you promote a custom campaign URL, we recommend that you test your custom
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

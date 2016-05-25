@@ -1,11 +1,6 @@
 ---
 Description: If you enable customers to use your app for free during a trial period, you can entice your customers to upgrade to the full version of your app by excluding or limiting some features during the trial period.
-title: Exclude or limit features in a trial version
-ms.assetid: 1B62318F-9EF5-432A-8593-F3E095CA7056
-keywords: free trial
-keywords: free trial period
-keywords: free trial code example
-keywords: free trial code sample
+title: Exclude or limit features in a trial version ms.assetid: 1B62318F-9EF5-432A-8593-F3E095CA7056 keywords: free trial keywords: free trial period keywords: free trial code example keywords: free trial code sample
 ---
 
 # Exclude or limit features in a trial version
@@ -233,6 +228,6 @@ For more info about describing your app, see [Create app descriptions](https://m
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

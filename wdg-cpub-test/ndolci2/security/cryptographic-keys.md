@@ -78,6 +78,6 @@ It is often necessary to derive additional keys from a shared secret. You can us
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

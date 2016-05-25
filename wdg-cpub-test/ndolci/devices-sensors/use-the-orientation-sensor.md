@@ -340,6 +340,6 @@ These new values are written to a TextBlock found in the project's XAML.
 * [SimpleOrientation Sensor Sample](http://go.microsoft.com/fwlink/p/?linkid=241383)
  
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

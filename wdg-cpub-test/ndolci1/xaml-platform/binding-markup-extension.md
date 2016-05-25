@@ -1,7 +1,6 @@
 ---
 description: The {Binding} markup extension is converted at XAML load time into an instance of the Binding class.
-title: {Binding} markup extension'
-ms.assetid: 3BAFE7B5-AF33-487F-9AD5-BEAFD65D04C3
+title: {Binding} markup extension' ms.assetid: 3BAFE7B5-AF33-487F-9AD5-BEAFD65D04C3
 ---
 
 # {Binding} markup extension
@@ -123,6 +122,6 @@ Microsoft IntelliSense in Microsoft Visual Studio displays the properties of the
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

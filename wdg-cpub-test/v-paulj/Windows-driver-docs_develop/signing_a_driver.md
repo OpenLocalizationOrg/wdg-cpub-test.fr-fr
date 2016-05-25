@@ -23,6 +23,6 @@ This section describes how to use Visual Studio to sign a driver package.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

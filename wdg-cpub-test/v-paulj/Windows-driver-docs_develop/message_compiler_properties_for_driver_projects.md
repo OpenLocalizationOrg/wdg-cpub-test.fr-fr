@@ -165,8 +165,7 @@ This property page is available if you add a message text file (.mc) or a manife
 -----------------------------------------------
 
 * [Message Compiler (MC.exe)](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Hh454227)
-* [WDK and Visual Studio build environment](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Hh454286)
-Message compiler task
+* [WDK and Visual Studio build environment](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Hh454286) Message compiler task
 * [Event Tracing for Windows (ETW)](https://msdn.microsoft.com/en-us/Library/Windows/Hardware/Ff545699)
  
 
@@ -177,6 +176,6 @@ Message compiler task
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

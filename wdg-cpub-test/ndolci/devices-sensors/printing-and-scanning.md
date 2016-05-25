@@ -18,6 +18,6 @@ This section describes how to print and scan from your Universal Windows app.
 * [UWP print sample](http://go.microsoft.com/fwlink/p/?LinkId=619984)
  
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

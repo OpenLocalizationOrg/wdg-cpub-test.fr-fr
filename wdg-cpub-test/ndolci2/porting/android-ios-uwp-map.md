@@ -141,6 +141,6 @@ Also see the porting content in [Move from iOS to UWP](ios-to-uwp-root.md).
 |  **Software design patterns.** Recommended or well-used patterns for the platform. | No formal pattern has been recommended or provided for Android development, although the beta Data Binding Framework may enable more widespread use of the **Model-View-ViewModel (MVVM)** pattern. A number of third party articles and frameworks recommend the **Model-View-Presenter (MVP)** and **MVVM** approaches. | **Model-View-Controller (MVC)** is a common pattern used with iOS and is integrated into the platform. | You are not limited towards a specific pattern when building for UWP.<br/><br/>You can use the built-in [data binding](https://msdn.microsoft.com/library/windows/apps/mt210947.aspx) pattern to ensure clean separation of data concerns and UI concerns, and avoid having to code up UI event handlers which then update property values.<br/><br/>You can extend data binding to follow the **Model-View-ViewModel (MVVM)** pattern, either by making use of third-party MVVM libraries such as [MVVM Light Toolkit](https://mvvmlight.codeplex.com/), or rolling your own and keeping logic out of code-behind.<br/><br/>[The MVVM Pattern](https://msdn.microsoft.com/library/hh848246.aspx)<br/><br/>[Template 10 Visual Studio project templates](https://github.com/Windows-XAML/Template10/wiki) |
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

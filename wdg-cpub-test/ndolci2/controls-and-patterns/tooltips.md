@@ -80,6 +80,6 @@ Tooltips should be used sparingly, and only when they are adding distinct value 
 * [**ToolTip class**](https://msdn.microsoft.com/library/windows/apps/br227608)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

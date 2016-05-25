@@ -337,8 +337,7 @@ Use the [**Stretch**](https://msdn.microsoft.com/library/windows/apps/br227422) 
 -   [**UniformToFill**](https://msdn.microsoft.com/library/windows/apps/br242968) fills up the entire space while preserving the aspect ratio. This can result in some of the image being cropped. This is similar to full-screen modes.
 -   [**Fill**](https://msdn.microsoft.com/library/windows/apps/br242968) fills up the entire space, but does not preserve the aspect ratio. None of image is cropped, but stretching may occur. This is similar to stretch modes.
 
-![Stretch enumeration values](images/Image_Stretch.jpg)
-Here, an [**AppBarButton**](https://msdn.microsoft.com/library/windows/apps/dn279244) is used to cycle through the [**Stretch**](https://msdn.microsoft.com/library/windows/apps/br242968) options. A **switch** statement checks the current state of the [**Stretch**](https://msdn.microsoft.com/library/windows/apps/br227422) property and sets it to the next value in the **Stretch** enumeration. This lets the user cycle through the different stretch states.
+![Stretch enumeration values](images/Image_Stretch.jpg) Here, an [**AppBarButton**](https://msdn.microsoft.com/library/windows/apps/dn279244) is used to cycle through the [**Stretch**](https://msdn.microsoft.com/library/windows/apps/br242968) options. A **switch** statement checks the current state of the [**Stretch**](https://msdn.microsoft.com/library/windows/apps/br227422) property and sets it to the next value in the **Stretch** enumeration. This lets the user cycle through the different stretch states.
 
 ```xaml
 <AppBarButton Icon="Switch" 
@@ -407,6 +406,6 @@ Add whatever custom options you need to the media player to provide the best exp
 - [Content design basics for UWP apps](https://msdn.microsoft.com/library/windows/apps/dn958434)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

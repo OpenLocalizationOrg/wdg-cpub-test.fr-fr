@@ -1,7 +1,5 @@
 ---
-ms.assetid: C2415466-EC59-416E-B6AE-7DA5ED82DCE6
-title: Account types, locations, and fees
-description: We offer two types of developer accounts: individual accounts, and company accounts. Developer accounts are offered in many countries and regions.
+ms.assetid: C2415466-EC59-416E-B6AE-7DA5ED82DCE6 title: Account types, locations, and fees description: We offer two types of developer accounts: individual accounts, and company accounts. Developer accounts are offered in many countries and regions.
 ---
 
 # Account types, locations, and fees
@@ -251,6 +249,6 @@ The **PayPal** column indicates whether PayPal is a supported payment method tha
 * [Getting paid](https://msdn.microsoft.com/library/windows/apps/Mt148536)
  
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

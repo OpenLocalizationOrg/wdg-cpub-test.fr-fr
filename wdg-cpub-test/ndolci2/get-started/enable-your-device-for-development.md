@@ -1,11 +1,6 @@
 ---
-ms.assetid: 54973C62-9669-4988-934E-9273FB0425FD
-title: Enable your device for development
-description: There is a different approach for development for Windows 10 devices.
-keywords: Get started
-keywords: Developer license
-keywords: Visual Studio, developer license
-keywords: enable device
+ms.assetid: 54973C62-9669-4988-934E-9273FB0425FD title: Enable your device for development description: There is a different approach for development for Windows 10 devices.
+keywords: Get started keywords: Developer license keywords: Visual Studio, developer license keywords: enable device
 ---
 # Enable your device for development
 
@@ -19,8 +14,7 @@ If you are still using a Windows 8.1 device to develop or test your apps with Mi
 
 If you use Microsoft Visual Studio on a Windows 10 device and you open a solution for a Windows 8.1 or Windows 10 app, you are prompted to enable your device with this dialog. You need your device to be enabled to use the designers and debug your app.
 
-![Enable developer mode dialog that is displayed in Visual Studio](images/latestenabledialog.png)
-When you see this dialog, click **settings for developers** to go directly to the **Update & security** page as shown below. Or click **OK** and then follow the steps below to enable your Windows 10 device for development.
+![Enable developer mode dialog that is displayed in Visual Studio](images/latestenabledialog.png) When you see this dialog, click **settings for developers** to go directly to the **Update & security** page as shown below. Or click **OK** and then follow the steps below to enable your Windows 10 device for development.
 
 ### Enable your Windows 10 devices
 
@@ -223,6 +217,6 @@ Error : DEP0700 : Registration of the app failed.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

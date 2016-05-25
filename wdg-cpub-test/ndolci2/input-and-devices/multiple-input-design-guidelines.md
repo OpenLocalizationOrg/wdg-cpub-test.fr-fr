@@ -43,6 +43,6 @@ The user selects a photo using press and hold, and then says “Send photo.”
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

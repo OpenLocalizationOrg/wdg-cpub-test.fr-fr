@@ -1,13 +1,6 @@
 ---
 Description: Whether your app is free or not, you can sell content, other apps, or new app functionality (such as unlocking the next level of a game) from right within the app. Here we show you how to enable these products in your app.
-title: Enable in-app product purchases
-ms.assetid: D158E9EB-1907-4173-9889-66507957BD6B
-keywords: in-app offer
-keywords: in-app purchase
-keywords: in-app product
-keywords: how to support in-app
-keywords: in-app purchase code sample
-keywords: in-app offer code sample
+title: Enable in-app product purchases ms.assetid: D158E9EB-1907-4173-9889-66507957BD6B keywords: in-app offer keywords: in-app purchase keywords: in-app product keywords: how to support in-app keywords: in-app purchase code sample keywords: in-app offer code sample
 ---
 
 # Enable in-app product purchases
@@ -136,6 +129,6 @@ If you need to use receipts to verify that user made an in-app purchase, be sure
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

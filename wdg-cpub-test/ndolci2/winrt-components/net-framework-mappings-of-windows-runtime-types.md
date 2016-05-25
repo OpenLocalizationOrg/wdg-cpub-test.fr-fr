@@ -83,6 +83,6 @@ Table 2: UWP types that map to .NET Framework types with the same name and names
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -19,8 +19,7 @@ The Enterprise WDK contains the necessary elements to build drivers and basic Wi
 ## Installation Instructions
 1.  Download the [Enterprise WDK](https://msdn.microsoft.com/en-us/windows/hardware/mt612818.aspx).
 2.  Expand the .zip file into an appropriately named directory, such as d:\ewdk.
-3.  From an Administrator command prompt, navigate to the expanded folder in the previous step, and then run **LaunchBuildEnvcmd** to create the build environment. For example:
-  **D:\EWDK\LaunchBuildEnv**
+3.  From an Administrator command prompt, navigate to the expanded folder in the previous step, and then run **LaunchBuildEnvcmd** to create the build environment. For example: **D:\EWDK\LaunchBuildEnv**
 
 After you create the build environment, you can use it to work on the files or build Visual Studio projects. For example.  
 *   Cd *directory_containing_project_files*
@@ -38,8 +37,7 @@ Where drive\dir is the location that the files were extracted to, for example, d
 %comspec% /k pushd "d:\ewdk" && LaunchBuildEnv.cmd
 
 
-#See Also
-<a href="https://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx"> MSBuild Reference</a>
+#See Also <a href="https://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx"> MSBuild Reference</a>
 
 
 
@@ -47,6 +45,6 @@ Where drive\dir is the location that the files were extracted to, for example, d
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

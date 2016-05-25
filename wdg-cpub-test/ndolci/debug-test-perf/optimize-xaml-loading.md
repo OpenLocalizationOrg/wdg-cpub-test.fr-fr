@@ -279,6 +279,6 @@ XAML built-in controls and dictionaries that the framework provides are already 
 To check whether you have XBF2, open your app in a binary editor; the 12th and 13th bytes are 00 02 if you have XBF2.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

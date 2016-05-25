@@ -38,7 +38,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Music***</td>
                 <td>
-                    The **musicLibrary** capability provides programmatic access to the user's Music, allowing the app to enumerate and access all files in the library without user interaction. This capability is typically used in jukebox apps that make use of the entire Music library.
+The **musicLibrary** capability provides programmatic access to the user's Music, allowing the app to enumerate and access all files in the library without user interaction. This capability is typically used in jukebox apps that make use of the entire Music library.
 
                     The [**file picker**](https://msdn.microsoft.com/library/windows/apps/BR207847) provides a robust UI mechanism that lets users open files for use with an app. Declare the **musicLibrary** capability only when the scenarios for your app require programmatic access and can't be realized by using the **file picker**.
 
@@ -90,7 +90,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Videos***</td>
                 <td>
-                    The **videosLibrary** capability provides programmatic access to the user's Videos, allowing the app to enumerate and access all files in the library without user interaction. This capability is typically used in movie-playback apps that make use of the entire Videos library.
+The **videosLibrary** capability provides programmatic access to the user's Videos, allowing the app to enumerate and access all files in the library without user interaction. This capability is typically used in movie-playback apps that make use of the entire Videos library.
 
                     The [**file picker**](https://msdn.microsoft.com/library/windows/apps/BR207847) provides a robust UI mechanism that lets users open files for use with an app. Declare the **videosLibrary** capability only when the scenarios for your app require programmatic access and can't be realized by using the **file picker**.
 
@@ -116,7 +116,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Removable Storage**</td>
                 <td>
-                    The **removableStorage** capability provides programmatic access to files on removable storage, like USB keys and external hard drives, filtered to the file-type associations declared in the package manifest. For example, if a document-reader app declares a .doc file-type association, it can open .doc files on the removable storage device, but not other types of files. Be careful when you declare this capability, because users may include a variety of info in their removable storage devices, and will expect your app to provide a valid justification for programmatic access to the removable storage for all files of the declared type.
+The **removableStorage** capability provides programmatic access to files on removable storage, like USB keys and external hard drives, filtered to the file-type associations declared in the package manifest. For example, if a document-reader app declares a .doc file-type association, it can open .doc files on the removable storage device, but not other types of files. Be careful when you declare this capability, because users may include a variety of info in their removable storage devices, and will expect your app to provide a valid justification for programmatic access to the removable storage for all files of the declared type.
 
                     Users will expect your app to handle any file associations that you declare. So don't declare file associations that your app cannot handle responsibly. The [**file picker**](https://msdn.microsoft.com/library/windows/apps/BR207847) provides a robust UI mechanism that lets users open files for use with an app.
 
@@ -144,7 +144,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Internet and public networks***</td>
                 <td>
-                    There are two capabilities that provide different levels of access to the Internet and public networks.
+There are two capabilities that provide different levels of access to the Internet and public networks.
 
                     The **internetClient** capability indicates that apps can receive incoming data from the Internet. Cannot act as a server. No local network access.
 
@@ -186,7 +186,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Contacts***</td>
                 <td>
-                    The **contacts** capability provides access to the aggregated view of the contacts from various contacts stores. This capability gives the app limited access (network permitting rules apply) to contacts that were synced from various networks and the local contact store.
+The **contacts** capability provides access to the aggregated view of the contacts from various contacts stores. This capability gives the app limited access (network permitting rules apply) to contacts that were synced from various networks and the local contact store.
 
                     The **contacts** capability must include the **uap** namespace when you declare it in your app's package manifest as shown below.
                     <table>
@@ -210,7 +210,7 @@ General-use capabilities apply to the most common app scenarios.
             <tr>
                 <td>**Code generation**</td>
                 <td>
-                    The **codeGeneration** capability allows apps to access the following functions which provide JIT capabilities to apps.
+The **codeGeneration** capability allows apps to access the following functions which provide JIT capabilities to apps.
 
                     - [**VirtualProtectFromApp**](https://msdn.microsoft.com/library/windows/desktop/Mt169846)
                     - [**CreateFileMappingFromApp**](https://msdn.microsoft.com/library/windows/desktop/Hh994453)
@@ -253,7 +253,7 @@ General-use capabilities apply to the most common app scenarios.
                             </tr>
                         </tbody>
                     </table>
-                    The **phoneCallHistoryPublic** capability allows apps to read cellular and some VOIP call history information on the device. This capability also allows the app to write VOIP call history entries. This capability is required to access all members of the [**PhoneCallHistoryStore**](https://msdn.microsoft.com/library/windows/apps/Dn705931) class.
+The **phoneCallHistoryPublic** capability allows apps to read cellular and some VOIP call history information on the device. This capability also allows the app to write VOIP call history entries. This capability is required to access all members of the [**PhoneCallHistoryStore**](https://msdn.microsoft.com/library/windows/apps/Dn705931) class.
                 </td>
             </tr>
             <tr>
@@ -845,6 +845,6 @@ This article is for Windows 10 developers writing UWP apps. If you’re developi
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -163,6 +163,6 @@ In the next tutorial, [Defining the game's UWP framework](tutorial--building-the
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

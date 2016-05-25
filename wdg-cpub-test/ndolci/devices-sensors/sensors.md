@@ -117,6 +117,6 @@ A reader app that changes its display based on the device being held parallel or
 For some samples that demonstrate using a couple of different sensors, see [Windows Sensor Samples](http://go.microsoft.com/fwlink/?LinkID=616041).
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

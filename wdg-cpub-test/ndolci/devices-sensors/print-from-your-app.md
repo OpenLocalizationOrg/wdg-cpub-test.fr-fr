@@ -371,6 +371,6 @@ When printing a subset of the pages, there are several ways to show the content 
 * [UWP print sample](http://go.microsoft.com/fwlink/p/?LinkId=619984)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

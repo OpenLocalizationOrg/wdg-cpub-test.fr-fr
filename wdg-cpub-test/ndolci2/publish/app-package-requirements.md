@@ -79,6 +79,6 @@ StoreManifest.xml is an optional configuration file that may be included in app 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -112,6 +112,6 @@ A related concept is the Calendar class, which influences how dates are interpre
 - [**TimePicker class**](https://msdn.microsoft.com/library/windows/apps/dn299280)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

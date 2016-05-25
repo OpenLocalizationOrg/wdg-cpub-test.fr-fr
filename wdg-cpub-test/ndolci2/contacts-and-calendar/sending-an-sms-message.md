@@ -56,6 +56,6 @@ This topic has shown you how to launch the compose SMS dialog. For information o
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

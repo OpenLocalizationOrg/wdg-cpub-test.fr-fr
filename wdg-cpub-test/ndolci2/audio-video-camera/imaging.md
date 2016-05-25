@@ -124,6 +124,6 @@ You can transcode an image file directly from a [**BitmapDecoder**](https://msdn
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -1,6 +1,5 @@
 ---
-ms.assetid: 88e16ec8-deff-4a60-bda6-97c5dabc30b8
-description: This topic presents a case study of porting a functioning peer-to-peer quiz game WinRT 8.1 sample app to a Windows 10&\#160;Universal Windows Platform (UWP) app.
+ms.assetid: 88e16ec8-deff-4a60-bda6-97c5dabc30b8 description: This topic presents a case study of porting a functioning peer-to-peer quiz game WinRT 8.1 sample app to a Windows 10&\#160;Universal Windows Platform (UWP) app.
 title: Windows Runtime 8.x to UWP case study: QuizGame peer-to-peer sample app
 ---
 
@@ -210,6 +209,6 @@ With that last tweak, the app will behave and look just the same as it did befor
 The app that we ported in this case study was a relatively complex one involving several projects, a class library, and quite a large amount of code and user interface. Even so, the port was straightforward. Some of the ease of porting is directly attributable to the similarity between the Windows 10 developer platform and the Windows 8.1 and Windows Phone 8.1 platforms. Some is due to the way the original app was designed to keep the models, the view models, and the views separate.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

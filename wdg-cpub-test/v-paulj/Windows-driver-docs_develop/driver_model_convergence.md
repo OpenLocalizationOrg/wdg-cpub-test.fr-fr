@@ -112,6 +112,6 @@ To make your device work on Windows and Windows Phone releases before Windows 10
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

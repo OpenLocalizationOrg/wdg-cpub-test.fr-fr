@@ -1,8 +1,6 @@
 ---
 description: This topic shows you how to launch the compose SMS dialog to allow the user to send an SMS message. You can pre-populate the fields of the SMS with data before showing the dialog. The message will not be sent until the user taps the send button.
-title: Send an SMS message
-ms.assetid: 4D7B509B-1CF0-4852-9691-E96D8352A4D6
-keywords: 'contacts, SMS, send
+title: Send an SMS message ms.assetid: 4D7B509B-1CF0-4852-9691-E96D8352A4D6 keywords: 'contacts, SMS, send
 ---
 
 # Send an SMS message
@@ -56,6 +54,6 @@ This topic has shown you how to launch the compose SMS dialog. For information o
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

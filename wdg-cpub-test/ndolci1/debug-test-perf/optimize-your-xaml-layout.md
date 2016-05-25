@@ -29,8 +29,7 @@ The largest performance gains come from reducing layout structure that's repeate
 
 Consider the following UI.
 
-![Form layout example](images/layout-perf-ex1.png)
-These examples shows 3 ways of implementing the same UI. Each implementation choice results in nearly identical pixels on the screen, but differs substantially in the implementation details.
+![Form layout example](images/layout-perf-ex1.png) These examples shows 3 ways of implementing the same UI. Each implementation choice results in nearly identical pixels on the screen, but differs substantially in the implementation details.
 
 Option1: Nested [**StackPanel**](https://msdn.microsoft.com/library/windows/apps/BR209635) elements
 
@@ -179,6 +178,6 @@ Every XAML panel is optimized for good performance, and all the panels provide s
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

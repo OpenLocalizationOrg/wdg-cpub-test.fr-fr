@@ -313,6 +313,6 @@ Methods that support [**IAsyncOperationWithProgress**](https://msdn.microsoft.co
 [useArbitrary]: <https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh750036.aspx> "UseArbitrary"
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

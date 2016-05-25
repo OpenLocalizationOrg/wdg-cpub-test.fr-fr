@@ -18,6 +18,6 @@ SQLite is included in the UWP SDK. Entity Framework 7 works with SQLite in UWP a
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

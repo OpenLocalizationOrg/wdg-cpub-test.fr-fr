@@ -83,6 +83,6 @@ To clean up the video stabilization effect, call [**ClearEffectsAsync**](https:/
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

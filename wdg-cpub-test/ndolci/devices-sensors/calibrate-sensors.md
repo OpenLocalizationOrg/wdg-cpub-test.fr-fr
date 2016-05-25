@@ -13,10 +13,7 @@ Sensors in a device based on the magnetometer – the compass, inclinometer and 
 
 The [**MagnetometerAccuracy**](https://msdn.microsoft.com/library/windows/apps/Dn297552) enumeration has four values that help you determine if the device your app is running on needs to be calibrated. If a device needs to be calibrated, you should let the user know that calibration is needed. However, you should not prompt the user to calibrate too frequently. We recommend no more than once every 10 minutes.
 
-| Value           | Description                                                                                                                                                      |-----------------|-------------------|                                                                                                                                              | **Unknown**     | The sensor driver could not report the current accuracy. This does not necessarily mean the device is out of calibration. It is up to your app to decide the best course of action if **Unknown** is returned. If your app is dependant on an accurate sensor reading, you may want to prompt the user to calibrate the device. |
-| **Unreliable**  | There is currently a high degree of inaccuracy in the magnetometer. Apps should always ask for a calibration from the user when this value is first returned. |
-| **Approximate** | The data is accurate enough for some applications. A virtual reality app, that only needs to know if the user has moved the device up/down or left/right, can continue without calibration. Apps that need an absolute heading, like a navigation app that needs to know what direction you are driving in order to give you directions, need to ask for calibration. |
-| **High**        | The data is precise. No calibration is needed, even for apps that need to know an absolute heading such as augmented reality or navigation apps. |
+| Value           | Description                                                                                                                                                      |-----------------|-------------------|                                                                                                                                              | **Unknown**     | The sensor driver could not report the current accuracy. This does not necessarily mean the device is out of calibration. It is up to your app to decide the best course of action if **Unknown** is returned. If your app is dependant on an accurate sensor reading, you may want to prompt the user to calibrate the device. | | **Unreliable**  | There is currently a high degree of inaccuracy in the magnetometer. Apps should always ask for a calibration from the user when this value is first returned. | | **Approximate** | The data is accurate enough for some applications. A virtual reality app, that only needs to know if the user has moved the device up/down or left/right, can continue without calibration. Apps that need an absolute heading, like a navigation app that needs to know what direction you are driving in order to give you directions, need to ask for calibration. | | **High**        | The data is precise. No calibration is needed, even for apps that need to know an absolute heading such as augmented reality or navigation apps. |
 
 ## How to calibrate the magnetometer
 
@@ -25,6 +22,6 @@ This short video gives an overview of how to calibrate the magnetometer.<iframe 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

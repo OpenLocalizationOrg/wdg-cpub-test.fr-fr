@@ -1,7 +1,5 @@
 ---
-ms.assetid: 903046E7-581F-4845-AB80-1A57C42B1B02
-description: Getting started: What next?
-title: Getting started: What next?
+ms.assetid: 903046E7-581F-4845-AB80-1A57C42B1B02 description: Getting started: What next? title: Getting started: What next?
 ---
 
 # Getting started: What next?
@@ -31,6 +29,6 @@ We think that Windows 10 will open up new app-building opportunities for you. We
 * [Windows cookbook for iOS devs](https://msdn.microsoft.com/library/windows/apps/dn263256)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

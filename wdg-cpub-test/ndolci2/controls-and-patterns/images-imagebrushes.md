@@ -150,6 +150,6 @@ If you define an Image or ImageBrush using code, use the default constructors, t
 **For developers (XAML)**
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -333,6 +333,6 @@ Finally, to run this basic battery app: on the **Debug** menu, click **Start Deb
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

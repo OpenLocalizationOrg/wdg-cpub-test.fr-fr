@@ -130,12 +130,11 @@ Once you have a list of items that you want to include in your app settings page
 * [Guidelines for progress controls](https://msdn.microsoft.com/library/windows/apps/hh465469)
 **For developers (XAML)**
 * [Store and retrieve app data](https://msdn.microsoft.com/library/windows/apps/mt299098)
-* [**EntranceThemeTransition**](https://msdn.microsoft.com/library/windows/apps/br210288)
-�
+* [**EntranceThemeTransition**](https://msdn.microsoft.com/library/windows/apps/br210288) �
 
 �
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

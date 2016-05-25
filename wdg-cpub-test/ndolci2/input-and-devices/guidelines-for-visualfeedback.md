@@ -108,32 +108,10 @@ Informational UI is particularly useful for overcoming fingertip occlusion (obst
 
 Press and hold is a timed interaction, which are typically discouraged in Windows 8. A timed interaction is acceptable in this case as it is used as a tool for learning and exploration. The recommended length of time depends on the type of informational UI. Here are the recommended time thresholds.
 
-Informational UI type
-Timing
-Activation
-Usage
-Occlusion tooltip (for scrubbing and small targets)
-0 ms
-Yes
-For rapid clarification of actions. Typically used for commands.
-Occlusion tooltip (for actions)
-200 ms
-Yes
-Rich tooltip
-~2000 ms
-No
-For slower, more deliberate exploration and learning. Typically used with collection items.
-Self-revealing interaction
-~2000 ms
-No
-Context menu
-~2000 ms
-No
-Exposes a limited set of commands related to the selected object.
-Flyouts
-~2000 ms
-No
-Exposes a limited set of commands related to the selected object.
+Informational UI type Timing Activation Usage Occlusion tooltip (for scrubbing and small targets) 0 ms Yes For rapid clarification of actions. Typically used for commands.
+Occlusion tooltip (for actions) 200 ms Yes Rich tooltip ~2000 ms No For slower, more deliberate exploration and learning. Typically used with collection items.
+Self-revealing interaction ~2000 ms No Context menu ~2000 ms No Exposes a limited set of commands related to the selected object.
+Flyouts ~2000 ms No Exposes a limited set of commands related to the selected object.
  
 
 For more info on providing informational UI, see [Laying out your UI](https://msdn.microsoft.com/library/windows/apps/hh465304) and [Displaying popups](https://msdn.microsoft.com/library/windows/apps/hh738362).
@@ -254,6 +232,6 @@ After a self-revealing interaction is displayed, the object is no longer activat
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

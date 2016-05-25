@@ -54,14 +54,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasterDetailsBinding
-{
-    public class Team
-    {
-        public string Name { get; set; }
-        public int Wins { get; set; }
-        public int Losses { get; set; }
-    }
+namespace MasterDetailsBinding { public class Team { public string Name { get; set; } public int Wins { get; set; } public int Losses { get; set; } }
 
     public class Division
     {
@@ -265,6 +258,6 @@ Note that by binding directly to the [**CollectionViewSource**](https://msdn.mic
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

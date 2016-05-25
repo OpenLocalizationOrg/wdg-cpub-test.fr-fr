@@ -23,9 +23,7 @@ Click on the pencil to edit the topic:
 
 ![Diagram 1](images/Browser_Edit_Button_Screen_Shot.png)
 
-You can make edits in the browser based editor. 
-For fancy formatting such as bullets, markdown is used. Here is one link that describes the available formatting:
-[https://guides.github.com/features/mastering-markdown/] (https://guides.github.com/features/mastering-markdown/)
+You can make edits in the browser based editor. For fancy formatting such as bullets, markdown is used. Here is one link that describes the available formatting: [https://guides.github.com/features/mastering-markdown/] (https://guides.github.com/features/mastering-markdown/)
 
 ### Committing the Changes
 When you are done, click on the commit changes button at the bottom of the page.
@@ -66,6 +64,6 @@ The docs team will be able to double check the changes that you make and push th
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

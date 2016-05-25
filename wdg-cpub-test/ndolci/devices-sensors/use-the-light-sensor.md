@@ -159,6 +159,6 @@ These new values are written to a TextBlock found in the project's XAML.
 * [LightSensor Sample](http://go.microsoft.com/fwlink/p/?linkid=241381)
  
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

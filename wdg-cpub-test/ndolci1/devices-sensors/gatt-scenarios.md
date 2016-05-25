@@ -1,7 +1,5 @@
 ---
-ms.assetid: 28B30708-FE08-4BE9-AE11-5429F963C330
-title: Bluetooth GATT
-description: This article provides an overview of Bluetooth Generic Attribute Profile (GATT) for Universal Windows Platform (UWP) apps, along with sample code for three common GATT scenarios: retrieving Bluetooth data, controlling a Bluetooth LE thermometer device, and controlling the presentation of Bluetooth LE device data.
+ms.assetid: 28B30708-FE08-4BE9-AE11-5429F963C330 title: Bluetooth GATT description: This article provides an overview of Bluetooth Generic Attribute Profile (GATT) for Universal Windows Platform (UWP) apps, along with sample code for three common GATT scenarios: retrieving Bluetooth data, controlling a Bluetooth LE thermometer device, and controlling the presentation of Bluetooth LE device data.
 ---
 # Bluetooth GATT
 
@@ -395,6 +393,6 @@ void MainPage::BatteryLevelChanged(
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

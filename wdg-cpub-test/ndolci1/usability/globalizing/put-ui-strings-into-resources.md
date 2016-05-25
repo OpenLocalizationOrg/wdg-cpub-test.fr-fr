@@ -42,9 +42,7 @@ This topic shows the steps to add several language string resources to your Univ
 
         **XAML:**
 
-        Strings/en-US/Resources.resw
-        ![add resource, english](images/addresource-en-us.png)
-        In this example, "Greeting.Text" and "Farewell" identify the strings that are to be displayed. "Greeting.Width" identifies the Width property of the "Greeting" string. The comments are a good place to provide any special instructions to translators who localize the strings to other languages.
+        Strings/en-US/Resources.resw ![add resource, english](images/addresource-en-us.png) In this example, "Greeting.Text" and "Farewell" identify the strings that are to be displayed. "Greeting.Width" identifies the Width property of the "Greeting" string. The comments are a good place to provide any special instructions to translators who localize the strings to other languages.
 
         **HTML:**
 
@@ -194,8 +192,7 @@ auto str = loader->GetString("Farewell");
 
     **XAML:**
 
-    strings/fr-FR/Resources.resw
-    ![add resource, french](images/addresource-fr-fr.png)
+    strings/fr-FR/Resources.resw ![add resource, french](images/addresource-fr-fr.png)
     **HTML:**
 
     strings/fr-FR/resources.resjson
@@ -242,6 +239,6 @@ Test the app for the other languages.
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

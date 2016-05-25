@@ -549,6 +549,6 @@ The markets that are included in "Rest of World" for Windows 8.x are the followi
 > **Note**  For a list of the countries and regions in which you can register for a developer account, see [Account types, locations, and fees](https://msdn.microsoft.com/library/windows/apps/jj863494).
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

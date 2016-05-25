@@ -14,11 +14,7 @@ The most common place you'll see XAML intrinsic data type usages is when resourc
 
 XAML for the Windows Runtime provides language-level support for these types.
 
-| XAML primitive | Description |
-| **x:Boolean**  | For CLR support, corresponds to [**Boolean**](https://msdn.microsoft.com/library/windows/apps/xaml/system.boolean.aspx). XAML parses values for **x:Boolean** as case insensitive. Note that "x:Bool" is not an accepted alternative. |
-| **x:String**   | For CLR support, corresponds to [**String**](https://msdn.microsoft.com/library/windows/apps/xaml/system.string.aspx). Encoding for the string defaults to the surrounding XML encoding. |
-| **x:Double**   | For CLR support, corresponds to [**Double**](https://msdn.microsoft.com/library/windows/apps/xaml/system.double.aspx). In addition to the numeric values, text syntax for **x:Double** permits the token "NaN", which is how "Auto" for layout behavior can be stored as a resource value. The tokens are treated as case sensitive. You can use scientific notation, for example "1+E06" for `1,000,000`. |
-| **x:Int32**    | For CLR support, corresponds to [**Int32**](https://msdn.microsoft.com/library/windows/apps/xaml/system.int32.aspx). **x:Int32** is treated as signed, and you can include the minus ("-") symbol for a negative integer. In XAML, the absence of a sign in text syntax implies a positive signed value. |
+| XAML primitive | Description | | **x:Boolean**  | For CLR support, corresponds to [**Boolean**](https://msdn.microsoft.com/library/windows/apps/xaml/system.boolean.aspx). XAML parses values for **x:Boolean** as case insensitive. Note that "x:Bool" is not an accepted alternative. | | **x:String**   | For CLR support, corresponds to [**String**](https://msdn.microsoft.com/library/windows/apps/xaml/system.string.aspx). Encoding for the string defaults to the surrounding XML encoding. | | **x:Double**   | For CLR support, corresponds to [**Double**](https://msdn.microsoft.com/library/windows/apps/xaml/system.double.aspx). In addition to the numeric values, text syntax for **x:Double** permits the token "NaN", which is how "Auto" for layout behavior can be stored as a resource value. The tokens are treated as case sensitive. You can use scientific notation, for example "1+E06" for `1,000,000`. | | **x:Int32**    | For CLR support, corresponds to [**Int32**](https://msdn.microsoft.com/library/windows/apps/xaml/system.int32.aspx). **x:Int32** is treated as signed, and you can include the minus ("-") symbol for a negative integer. In XAML, the absence of a sign in text syntax implies a positive signed value. |
 
 These XAML language primitives are generally the only cases in which you define an object element that uses the **x:** prefix in your XAML. All other XAML language features are typically used in attribute form, or as a markup extension.
 
@@ -39,6 +35,6 @@ The XAML 2009 specification notes other XAML language-level primitives such as *
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

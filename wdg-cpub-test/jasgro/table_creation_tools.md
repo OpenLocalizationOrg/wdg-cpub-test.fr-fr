@@ -12,6 +12,6 @@ Different markdown editors handle tables with different levels of sophistication
 * [Atom](http://atom.io) has an add-in package called **markdown-table-formatter** that lets you create a table via GUI.
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

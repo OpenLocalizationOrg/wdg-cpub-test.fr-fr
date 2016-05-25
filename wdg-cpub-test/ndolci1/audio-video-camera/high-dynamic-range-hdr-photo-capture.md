@@ -95,6 +95,6 @@ When your app is done capturing, before disposing of the **MediaCapture** object
 
 * [Capture photos and video with MediaCapture](capture-photos-and-video-with-mediacapture.md)
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

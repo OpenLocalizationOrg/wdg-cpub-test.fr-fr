@@ -318,6 +318,6 @@ Methods that support [**IAsyncOperationWithProgress**](https://msdn.microsoft.co
 [taskThen]: https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh750044.aspx
 [useArbitrary]: https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh750036.aspx
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

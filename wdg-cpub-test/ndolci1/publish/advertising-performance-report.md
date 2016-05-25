@@ -1,7 +1,5 @@
 ---
-Description: To view performance data for the ad units in your apps, you can use the following reports on the Windows Dev Center dashboard:
-title: Advertising performance report
-ms.assetid: 32E555C3-C34D-4503-82BB-4C3F5CAE4500
+Description: To view performance data for the ad units in your apps, you can use the following reports on the Windows Dev Center dashboard: title: Advertising performance report ms.assetid: 32E555C3-C34D-4503-82BB-4C3F5CAE4500
 ---
 
 # Advertising performance report
@@ -73,6 +71,6 @@ The **Advertising performance** section on your **Dashboard overview** page prov
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

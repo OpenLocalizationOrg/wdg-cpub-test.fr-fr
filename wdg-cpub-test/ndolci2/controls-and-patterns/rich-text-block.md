@@ -146,6 +146,6 @@ See Typography and Guidelines for fonts.
 - [String.Length property](https://msdn.microsoft.com/library/system.string.length(v=vs.110).aspx)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

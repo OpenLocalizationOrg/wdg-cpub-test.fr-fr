@@ -92,8 +92,7 @@ This example creates a linear gradient with four colors and uses it to paint a [
 
 The color of each point between gradient stops is linearly interpolated as a combination of the color specified by the two bounding gradient stops. The illustration highlights the gradient stops in the previous example. The circles mark the position of the gradient stops, and the dashed line shows the gradient axis.
 
-![Gradient stops](images/linear-gradients-stops.png)
-You can change the line at which the gradient stops are positioned by setting the [**StartPoint**](https://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.lineargradientbrush.startpoint.aspx) and [**EndPoint**](https://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.lineargradientbrush.endpoint.aspx) properties to be different values than the `(0,0)` and `(1,1)` starting defaults. By changing the **StartPoint** and **EndPoint** coordinate values, you can create horizontal or vertical gradients, reverse the gradient direction, or condense the gradient spread to apply to a smaller range than the full painted area. To condense the gradient, you set values of **StartPoint** and/or **EndPoint** to be something that is between the values 0 and 1. For example, if you want a horizontal gradient where the fade all happens on the left half of the brush and the right side is solid to your last [**GradientStop**](https://msdn.microsoft.com/library/windows/apps/BR210078) color, you specify a **StartPoint** of `(0,0)` and an **EndPoint** of `(0.5,0)`.
+![Gradient stops](images/linear-gradients-stops.png) You can change the line at which the gradient stops are positioned by setting the [**StartPoint**](https://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.lineargradientbrush.startpoint.aspx) and [**EndPoint**](https://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.media.lineargradientbrush.endpoint.aspx) properties to be different values than the `(0,0)` and `(1,1)` starting defaults. By changing the **StartPoint** and **EndPoint** coordinate values, you can create horizontal or vertical gradients, reverse the gradient direction, or condense the gradient spread to apply to a smaller range than the full painted area. To condense the gradient, you set values of **StartPoint** and/or **EndPoint** to be something that is between the values 0 and 1. For example, if you want a horizontal gradient where the fade all happens on the left half of the brush and the right side is solid to your last [**GradientStop**](https://msdn.microsoft.com/library/windows/apps/BR210078) color, you specify a **StartPoint** of `(0,0)` and an **EndPoint** of `(0.5,0)`.
 
 ### <span id="Use_tools_to_make_gradients"></span><span id="use_tools_to_make_gradients"></span><span id="USE_TOOLS_TO_MAKE_GRADIENTS"></span>Use tools to make gradients
 
@@ -174,6 +173,6 @@ For code examples, see reference pages for [**WebViewBrush**](https://msdn.micro
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

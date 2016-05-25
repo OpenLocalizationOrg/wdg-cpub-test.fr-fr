@@ -70,6 +70,6 @@ When you implement a control pattern, you should also consult the UI Automation 
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

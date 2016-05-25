@@ -1,7 +1,5 @@
 ---
-ms.assetid: E2B73380-D673-48C6-9026-96976D745017
-description: Getting started: Common Controls
-title: Getting started: Common Controls
+ms.assetid: E2B73380-D673-48C6-9026-96976D745017 description: Getting started: Common Controls title: Getting started: Common Controls
 ---
 
 # Getting started: Common Controls
@@ -57,6 +55,6 @@ For even more controls, see [Controls list](https://msdn.microsoft.com/library/w
 * [build 2014: Using Visual Studio to Build XAML Converged Apps](http://go.microsoft.com/fwlink/p/?LinkID=397876)
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

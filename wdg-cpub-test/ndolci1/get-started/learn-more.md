@@ -1,9 +1,6 @@
 ---
-ms.assetid: 4288E511-581C-49DC-A2F2-1CB832C4A676
-title: What's next?
-description: Now that you've created your first app, check out the rest of the Dev Center. Here's an introduction to the different sections it contains.'
-keywords: Dev Center, tour
-keywords: Dev Center, Getting started
+ms.assetid: 4288E511-581C-49DC-A2F2-1CB832C4A676 title: What's next? description: Now that you've created your first app, check out the rest of the Dev Center. Here's an introduction to the different sections it contains.'
+keywords: Dev Center, tour keywords: Dev Center, Getting started
 ---
 # What's next?
 
@@ -67,6 +64,6 @@ Go to [Develop IoT apps](http://go.microsoft.com/fwlink/p/?LinkId=534186).
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

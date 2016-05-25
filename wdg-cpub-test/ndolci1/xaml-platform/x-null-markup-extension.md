@@ -1,7 +1,6 @@
 ---
 description: In XAML markup, specifies a null value for a property.
-title: {x:Null} markup extension'
-ms.assetid: E6A4038E-4ADA-4E82-9824-582FC16AB037
+title: {x:Null} markup extension' ms.assetid: E6A4038E-4ADA-4E82-9824-582FC16AB037
 ---
 
 # {x:Null} markup extension
@@ -32,6 +31,6 @@ Some Windows Runtime types are nullable. In cases where a nullable type does not
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

@@ -68,9 +68,8 @@ You've now created a repo on github.com, and synced it with your local copy. It 
 Now you can start working on files. 
 
 Go to the **Solution Explorer** in VS2015. Here you'll see the files you have. Right-click to add a new file, choose a text document, and call it whatever you want. Make sure it has .md as the extension (this ensures it is a MarkDown document).
-You can now edit it in VS2015. 
-To push your changes, go to **Team Explorer**, then follow Steps 8 and 9 in Section 1.3 above.
+You can now edit it in VS2015. To push your changes, go to **Team Explorer**, then follow Steps 8 and 9 in Section 1.3 above.
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 

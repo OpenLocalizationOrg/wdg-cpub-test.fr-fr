@@ -129,6 +129,6 @@ The system doesn't notify an app when it's terminated, so your app must save its
 
 
 
-<!--HONumber=Mar16_HO2-->
+<!--HONumber=May16_HO4-->
 
 
