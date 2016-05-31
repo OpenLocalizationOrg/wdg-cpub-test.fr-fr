@@ -1946,11 +1946,11 @@
 * Handoff File: [044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
 ##### <a name='3dcb3c57b957dd388a5115f830f1c1cb2cf6936e13'></a> Source: [wdg-cpub-test\domars\images\Browser_Comparing_Changes_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7c03550449d620a869bcdebf63b4718ea895b392/wdg-cpub-test/domars/images/Browser_Comparing_Changes_Screen_Shot.png)
@@ -1959,11 +1959,11 @@
 * Handoff File: [3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
 ##### <a name='36f650b486398eec8dda23bcce6de967a49b842514'></a> Source: [wdg-cpub-test\domars\images\Browser_Edit_Button_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/be87cf23be6fb1bc8211e805a30e7967aa7106e2/wdg-cpub-test/domars/images/Browser_Edit_Button_Screen_Shot.png)
@@ -1972,11 +1972,11 @@
 * Handoff File: [36f650b486398eec8dda23bcce6de967a49b8425.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/36f650b486398eec8dda23bcce6de967a49b8425.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [36f650b486398eec8dda23bcce6de967a49b8425.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/36f650b486398eec8dda23bcce6de967a49b8425.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
 ##### <a name='f43cbe8759da606676de094fd0024cb7c86551ec15'></a> Source: [wdg-cpub-test\domars\images\Browser_New_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7c03550449d620a869bcdebf63b4718ea895b392/wdg-cpub-test/domars/images/Browser_New_Pull_Request_Screen_Shot.png)
@@ -1985,11 +1985,11 @@
 * Handoff File: [f43cbe8759da606676de094fd0024cb7c86551ec.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f43cbe8759da606676de094fd0024cb7c86551ec.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [f43cbe8759da606676de094fd0024cb7c86551ec.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f43cbe8759da606676de094fd0024cb7c86551ec.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
 ##### <a name='61d96a22a5f72b0e5f41de91f1ec3320f0f9888e16'></a> Source: [wdg-cpub-test\domars\images\Browser_Pull_Request_Screen_Shot.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7c03550449d620a869bcdebf63b4718ea895b392/wdg-cpub-test/domars/images/Browser_Pull_Request_Screen_Shot.png)
@@ -1998,11 +1998,11 @@
 * Handoff File: [61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
 ##### <a name='c9cf1a2f7f3dd61acbaaa2c579d30ef47523c03a17'></a> Source: [wdg-cpub-test\excluded\3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f6fa27d86656be70fc37a84493c8b01f0e9da757/wdg-cpub-test/excluded/3.md)
@@ -2071,11 +2071,11 @@
 * Handoff File: [90d7dca36f340986a0c7b98525226d3fd282aa6a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4a4a3bd20378722fee6538c5681b3964c51bb73e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90d7dca36f340986a0c7b98525226d3fd282aa6a.png)
 * Handoff Datetime: 2016-05-25 03:07:10
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\joshbax\HelloWorld5.md, wdg-cpub-test\joshbax\HelloWorld3.md, wdg-cpub-test\joshbax\HelloWorld2.md, wdg-cpub-test\joshbax\HelloWorld4.md, wdg-cpub-test\joshbax\HelloWorld.md, wdg-cpub-test\Welcome.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [90d7dca36f340986a0c7b98525226d3fd282aa6a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90d7dca36f340986a0c7b98525226d3fd282aa6a.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\joshbax\HelloWorld5.md, wdg-cpub-test\joshbax\HelloWorld3.md, wdg-cpub-test\joshbax\HelloWorld2.md, wdg-cpub-test\joshbax\HelloWorld4.md, wdg-cpub-test\joshbax\HelloWorld.md, wdg-cpub-test\Welcome.md
 * [Back to Top](#report-top)
 
 ##### <a name='51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e23'></a> Source: [wdg-cpub-test\images\jasgro\pigeon.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/2dd5b699571c539e0c982919a35bf7ca912b0658/wdg-cpub-test/images/jasgro/pigeon.png)
@@ -2084,11 +2084,11 @@
 * Handoff File: [51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\jasgro\test1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\jasgro\test1.md
 * [Back to Top](#report-top)
 
 ##### <a name='ced6981729e25a31e25e8bbac32f2a822851abb024'></a> Source: [wdg-cpub-test\images\markdown-logo.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f899a3c78a82730a40e39565d9be8e2d102a2322/wdg-cpub-test/images/markdown-logo.png)
@@ -2097,11 +2097,11 @@
 * Handoff File: [ced6981729e25a31e25e8bbac32f2a822851abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4a4a3bd20378722fee6538c5681b3964c51bb73e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ced6981729e25a31e25e8bbac32f2a822851abb0.png)
 * Handoff Datetime: 2016-05-25 03:07:10
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\joshbax\HelloWorld5.md, wdg-cpub-test\joshbax\HelloWorld3.md, wdg-cpub-test\joshbax\HelloWorld2.md, wdg-cpub-test\joshbax\HelloWorld4.md, wdg-cpub-test\joshbax\HelloWorld.md, wdg-cpub-test\Welcome.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ced6981729e25a31e25e8bbac32f2a822851abb0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ced6981729e25a31e25e8bbac32f2a822851abb0.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\joshbax\HelloWorld5.md, wdg-cpub-test\joshbax\HelloWorld3.md, wdg-cpub-test\joshbax\HelloWorld2.md, wdg-cpub-test\joshbax\HelloWorld4.md, wdg-cpub-test\joshbax\HelloWorld.md, wdg-cpub-test\Welcome.md
 * [Back to Top](#report-top)
 
 ##### <a name='7bae8076a5771865123be7112468b79e9d78a64025'></a> Source: [wdg-cpub-test\included\1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/285d215583ed33400c6fc26dbc1ed8c02c3ff9df/wdg-cpub-test/included/1.md)
@@ -2290,11 +2290,11 @@
 * Handoff File: [3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * [Back to Top](#report-top)
 
 ##### <a name='c4ad8cd0e62f8f177e1b945b19b0ae2667a08e5141'></a> Source: [wdg-cpub-test\lizross\images\Edge_EmIE_RegistrySiteList.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/eb4481925f94340be2b9de6815027848d6043e21/wdg-cpub-test/lizross/images/Edge_EmIE_RegistrySiteList.png)
@@ -2303,11 +2303,11 @@
 * Handoff File: [c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * [Back to Top](#report-top)
 
 ##### <a name='c60b61e09592ccc99e5af898dcef91d310e8d79442'></a> Source: [wdg-cpub-test\lizross\images\EmIEOpeninIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/eb4481925f94340be2b9de6815027848d6043e21/wdg-cpub-test/lizross/images/EmIEOpeninIE.png)
@@ -2316,11 +2316,11 @@
 * Handoff File: [c60b61e09592ccc99e5af898dcef91d310e8d794.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c60b61e09592ccc99e5af898dcef91d310e8d794.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c60b61e09592ccc99e5af898dcef91d310e8d794.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c60b61e09592ccc99e5af898dcef91d310e8d794.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * [Back to Top](#report-top)
 
 ##### <a name='13db3344d2ab0ff7d5350584470566ac2b128e1243'></a> Source: [wdg-cpub-test\lizross\images\SendintranettoIE.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/eb4481925f94340be2b9de6815027848d6043e21/wdg-cpub-test/lizross/images/SendintranettoIE.png)
@@ -2329,11 +2329,11 @@
 * Handoff File: [13db3344d2ab0ff7d5350584470566ac2b128e12.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/13db3344d2ab0ff7d5350584470566ac2b128e12.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [13db3344d2ab0ff7d5350584470566ac2b128e12.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/13db3344d2ab0ff7d5350584470566ac2b128e12.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\lizross\emie_to_improve_compatibility.md
 * [Back to Top](#report-top)
 
 ##### <a name='83798705e69956b02a318460bed8affa5c0e7c7944'></a> Source: [wdg-cpub-test\lizross\msedge_deployment_guide_for_it_pros.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/eb4481925f94340be2b9de6815027848d6043e21/wdg-cpub-test/lizross/msedge_deployment_guide_for_it_pros.md)
@@ -2414,11 +2414,11 @@
 * Handoff File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/de64362d21f090b76586193191ed6df624521fd0.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/de64362d21f090b76586193191ed6df624521fd0.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
 ##### <a name='be67298c637f11a63d6f7973c658b7d7258fbc9651'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png)
@@ -2427,11 +2427,11 @@
 * Handoff File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
 ##### <a name='3c13afd3c3794a7173390bb719c152d2be9ae62252'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png)
@@ -2440,11 +2440,11 @@
 * Handoff File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
 ##### <a name='b57f6bfba888a9cb57bfc2242b3c6d9b65867b5253'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png)
@@ -2453,11 +2453,11 @@
 * Handoff File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
 ##### <a name='3b5af7218d84235781ffc7e51764f154365f4ec754'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png)
@@ -2466,11 +2466,11 @@
 * Handoff File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='2ac42acfeb68e181714b37fd7d6675f8484fc29455'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png)
@@ -2479,11 +2479,11 @@
 * Handoff File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='49d5c6b9b25d3dee65e09aeb7726c3695132bc6056'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.PNG](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.PNG)
@@ -2492,11 +2492,11 @@
 * Handoff File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.PNG)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='ea673383ad3164af72a73e80425c7e4b0982aa4257'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png)
@@ -2505,11 +2505,11 @@
 * Handoff File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='8330a2966313c8c81bf3082cccf18cdfd97612c058'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png)
@@ -2518,11 +2518,11 @@
 * Handoff File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='ca8c6bd1bba1a76f7e2fcc4673b055f7768a963159'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png)
@@ -2531,11 +2531,11 @@
 * Handoff File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a360'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png)
@@ -2544,11 +2544,11 @@
 * Handoff File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='fbead21ab5fb26b1f04a0cdb0c39770106cbc2f061'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png)
@@ -2557,11 +2557,11 @@
 * Handoff File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='8f814bc4fa6eb794dc1d2d21fce479f2093ee76d62'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png)
@@ -2570,11 +2570,11 @@
 * Handoff File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='32a52771b9a99c2d29c8b77f37b880bbdbdf612d63'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png)
@@ -2583,11 +2583,11 @@
 * Handoff File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='45ff0e690ec5ac6c1e2db1c789cf558851cdd67264'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png)
@@ -2596,11 +2596,11 @@
 * Handoff File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='fe7567cf0d82bf502aeb102aac071fd560b0d47e65'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png)
@@ -2609,11 +2609,11 @@
 * Handoff File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='e273d46684a3fe6d157892b7db4999dce035401c66'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png)
@@ -2622,11 +2622,11 @@
 * Handoff File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
 ##### <a name='68f2e5c1d62a0d70574037395b80f1d0c70fb43a67'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png)
@@ -2635,11 +2635,11 @@
 * Handoff File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\windows-runtime-components-and-optimizing-interop.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\windows-runtime-components-and-optimizing-interop.md
 * [Back to Top](#report-top)
 
 ##### <a name='7a21e1ce72a44d286995acbb76a4813054f8753368'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png)
@@ -2648,11 +2648,11 @@
 * Handoff File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
 ##### <a name='055fc04e0997c7ab9ee8da2762587fd01d8b949f69'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png)
@@ -2661,11 +2661,11 @@
 * Handoff File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
 ##### <a name='70174df9d165e4b9845ed2300000bf0dd571890570'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png)
@@ -2674,11 +2674,11 @@
 * Handoff File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
 ##### <a name='f1edb548dee0c9f192acedc13d7ba31c1bb4728e71'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png)
@@ -2687,11 +2687,11 @@
 * Handoff File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md
 * [Back to Top](#report-top)
 
 ##### <a name='b8cb5db84b4f8675c88c6f2a68299770f9f2895b72'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png)
@@ -2700,11 +2700,11 @@
 * Handoff File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * [Back to Top](#report-top)
 
 ##### <a name='294384ee98e324679fafb2b71b289a893394c8b973'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png)
@@ -2713,11 +2713,11 @@
 * Handoff File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * [Back to Top](#report-top)
 
 ##### <a name='6d1a9a148c0284c7eb58787e97562dad238d89e874'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png)
@@ -2726,11 +2726,11 @@
 * Handoff File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md
 * [Back to Top](#report-top)
 
 ##### <a name='37eeaaeaec2acf7ee51ab3cfa7b145faae08388f75'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png)
@@ -2739,11 +2739,11 @@
 * Handoff File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md
 * [Back to Top](#report-top)
 
 ##### <a name='048a75c84f26aa5538b036d1f5a8649f92aed5cb76'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/improve-garbage-collection-performance.md)
@@ -3124,11 +3124,11 @@
 * Handoff File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/34ce1ba42c93457b28691e358831a508597b298f.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/34ce1ba42c93457b28691e358831a508597b298f.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='ad405137416569d6e655743fbf94c8c80f93755c119'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png)
@@ -3137,11 +3137,11 @@
 * Handoff File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='db61344d5f58e7e9974e86abc07dd44c3429167a113'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png)
@@ -3150,11 +3150,11 @@
 * Handoff File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='dc7225c2a9f6ad98c98e4e02eeecc555288b4157109'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png)
@@ -3163,11 +3163,11 @@
 * Handoff File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='280322bf9a41f156f092e9b52d1c6536c386e27b108'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png)
@@ -3176,11 +3176,11 @@
 * Handoff File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8107'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png)
@@ -3189,11 +3189,11 @@
 * Handoff File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='0d10b05a511c945d903d6bd82be796202912d483110'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png)
@@ -3202,11 +3202,11 @@
 * Handoff File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/0d10b05a511c945d903d6bd82be796202912d483.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/0d10b05a511c945d903d6bd82be796202912d483.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='c43ef20d6b9d6422c0306d81e891e519666e3310111'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png)
@@ -3215,11 +3215,11 @@
 * Handoff File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='d1dfac2bf4fd565909a296de37cdcc7d88b2f66c112'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png)
@@ -3228,11 +3228,11 @@
 * Handoff File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='002511e038f43b765ad0e70703796fa3f6f1f54a117'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png)
@@ -3241,11 +3241,11 @@
 * Handoff File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd114'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png)
@@ -3254,11 +3254,11 @@
 * Handoff File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='c19c414d13095c61971d3d0fe7ef2820bfb0d6cc115'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png)
@@ -3267,11 +3267,11 @@
 * Handoff File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='85ca5217a6a62cad158009e9c26a5a9e4607b82a116'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png)
@@ -3280,11 +3280,11 @@
 * Handoff File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='1e45b813bb59c1c92dc98602387180ae11d43249120'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png)
@@ -3293,11 +3293,11 @@
 * Handoff File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md
 * [Back to Top](#report-top)
 
 ##### <a name='5f0f8f74ecf3a67cf978683559ec0994695068fe121'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png)
@@ -3306,11 +3306,11 @@
 * Handoff File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='6e4afeadfe36ce4b91f6c9617ee00814924f2770122'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/compass.png)
@@ -3319,11 +3319,11 @@
 * Handoff File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad123'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png)
@@ -3332,11 +3332,11 @@
 * Handoff File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='6084dfebd13ad8f42139027580920b2c316db9a0124'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png)
@@ -3345,11 +3345,11 @@
 * Handoff File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='edd67b20e8ca923aedcc76f7ee4726c2d302c972125'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png)
@@ -3358,11 +3358,11 @@
 * Handoff File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='58236135d6c51eeca583aa62721d60d2244a3f69126'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png)
@@ -3371,11 +3371,11 @@
 * Handoff File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * [Back to Top](#report-top)
 
 ##### <a name='d0ca1c2b792d95199b7c692d4be7852a6413440d127'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png)
@@ -3384,11 +3384,11 @@
 * Handoff File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * [Back to Top](#report-top)
 
 ##### <a name='7245ab445177e9240f9294539c5fa108ccf52add128'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png)
@@ -3397,11 +3397,11 @@
 * Handoff File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
 ##### <a name='7551619cd5856be67a81dd891dd7b75cafa45877129'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png)
@@ -3410,11 +3410,11 @@
 * Handoff File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
 ##### <a name='ed2e8f2a6446157d8b9e8203187c2511de67c2b0130'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/index.md)
@@ -3627,11 +3627,11 @@
 * Handoff File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * [Back to Top](#report-top)
 
 ##### <a name='9a5d025932240178a724c75df457cf6e2e3dead6148'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/images/phone-media-locations.png)
@@ -3640,11 +3640,11 @@
 * Handoff File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * [Back to Top](#report-top)
 
 ##### <a name='c380c2394ff9d39c56af5f382a131a8460a4a136149'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/images/phone-media-queries.png)
@@ -3653,11 +3653,11 @@
 * Handoff File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * [Back to Top](#report-top)
 
 ##### <a name='6d4b6e3ac9146763af8ef8e02271aafa2047e50c150'></a> Source: [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png)
@@ -3666,11 +3666,11 @@
 * Handoff File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * [Back to Top](#report-top)
 
 ##### <a name='393b2ce0f3858fed078d593d0a6c1862c4c90548151'></a> Source: [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/index.md)
@@ -8146,11 +8146,11 @@
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci1\graphics\animations-overview.md, wdg-cpub-test\ndolci2\graphics\animations-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci1\graphics\animations-overview.md, wdg-cpub-test\ndolci2\graphics\animations-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='612821e7db46ce0c7c851e32f984408125150829524'></a> Source: [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/283f3e5bb612dfa08de58e1a9a3ca293a038044f/wdg-cpub-test/ndolci1/graphics/index.md)
@@ -17702,11 +17702,11 @@
 * Handoff File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\ndolci1\graphics\animations-overview.md, wdg-cpub-test\ndolci2\graphics\animations-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141.gif)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\ndolci1\graphics\animations-overview.md, wdg-cpub-test\ndolci2\graphics\animations-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='2502569d101bbe4d1456915ea04fdd994d6fb1031320'></a> Source: [wdg-cpub-test\ndolci2\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/graphics/index.md)
@@ -22504,11 +22504,11 @@
 * Handoff File: [e0f09dec7a25d3016140c132c7e6f0411589b8f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e0f09dec7a25d3016140c132c7e6f0411589b8f3.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [e0f09dec7a25d3016140c132c7e6f0411589b8f3.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e0f09dec7a25d3016140c132c7e6f0411589b8f3.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md
 * [Back to Top](#report-top)
 
 ##### <a name='21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1720'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png)
@@ -22517,11 +22517,11 @@
 * Handoff File: [21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md
 * [Back to Top](#report-top)
 
 ##### <a name='df36e47e5bdc8ec928da08d1e7e8f66d7f4218371721'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png)
@@ -22530,11 +22530,11 @@
 * Handoff File: [df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md
 * [Back to Top](#report-top)
 
 ##### <a name='b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd1722'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png)
@@ -22543,11 +22543,11 @@
 * Handoff File: [b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * [Back to Top](#report-top)
 
 ##### <a name='95f73079b57688206bf3238e1a509f0b81ba8da21723'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png)
@@ -22556,11 +22556,11 @@
 * Handoff File: [95f73079b57688206bf3238e1a509f0b81ba8da2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/95f73079b57688206bf3238e1a509f0b81ba8da2.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [95f73079b57688206bf3238e1a509f0b81ba8da2.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/95f73079b57688206bf3238e1a509f0b81ba8da2.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md
 * [Back to Top](#report-top)
 
 ##### <a name='3ce2fdf00618bcc50d2d3b9454a1c522096e90531724'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png)
@@ -22569,11 +22569,11 @@
 * Handoff File: [3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md
 * [Back to Top](#report-top)
 
 ##### <a name='65302587cbc9b4aa1c3633df61751962844f9e2c1725'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png)
@@ -22582,11 +22582,11 @@
 * Handoff File: [65302587cbc9b4aa1c3633df61751962844f9e2c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/65302587cbc9b4aa1c3633df61751962844f9e2c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [65302587cbc9b4aa1c3633df61751962844f9e2c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/65302587cbc9b4aa1c3633df61751962844f9e2c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * [Back to Top](#report-top)
 
 ##### <a name='bd0c6c5437446ea0c01d45fd1049fff8f8b3790c1726'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png)
@@ -22595,11 +22595,11 @@
 * Handoff File: [bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7daa2cf1d0ec5f816da062d3c4ef8dac33030ce5/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png)
 * Handoff Datetime: 2016-05-23 03:05:41
 * Handoff Reason: IsDependency
+* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png)
 * Handback Datetime: 2016-05-25 01:42:01
-* Dependency From: wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md
 * [Back to Top](#report-top)
 
 ##### <a name='7b4309bbd7b1ed204d4d13bd147501ee21b805181727'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md)
