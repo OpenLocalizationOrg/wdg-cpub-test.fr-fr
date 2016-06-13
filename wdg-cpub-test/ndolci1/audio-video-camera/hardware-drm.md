@@ -1,0 +1,94 @@
+---
+ms.assetid: A7E0DA1E-535A-459E-9A35-68A4150EE9F5
+description: This topic provides an overview of how to add PlayReady hardware-based digital rights management (DRM) to your Universal Windows Platform (UWP) app.
+title: Hardware DRM
+---
+
+# Hardware DRM
+
+\[ Updated for UWP apps on Windows 10. For Windows 8.x articles, see the [archive](http://go.microsoft.com/fwlink/p/?linkid=619132) \]
+
+
+This topic provides an overview of how to add PlayReady hardware-based digital rights management (DRM) to your Universal Windows Platform (UWP) app.
+
+**Note**  Hardware-based DRM is only supported on certain hardware with a Windows 10 version of that hardware's firmware. Refer to the [PlayReady Compliance and Robustness Rules](http://www.microsoft.com/playready/licensing/compliance/) for more information on the guarantees provided.
+
+Increasingly, content providers are moving towards hardware-based protections for granting permission to play back full high value content in apps. Robust support for a hardware implementation of the cryptographic core has been added to PlayReady to meet this need. This support enables secure playback of high definition (1080p) and ultra-high definition (UHD) content on multiple device platforms. Key material (including private keys, content keys, and any other key material used to derive or unlock said keys), and decrypted compressed and uncompressed video samples are protected by leveraging hardware security.
+
+## Windows TEE Implementation
+
+This topic provides a brief overview of how Windows 10 implements the trusted execution environment.
+
+The details of the Windows TEE implementation is out of scope for this document. However, a brief discussion of the difference between the standard porting kit TEE port and the Windows port will be beneficial. Windows implements the OEM proxy layer and transfers the serialized PRITEE functions calls to a user mode driver in the Windows Media Foundation subsystem. This will eventually get routed to either the Windows TrEE (Trusted Execution Environment) driver or the OEM’s graphics driver. The details of either of these approaches is out of scope for this document. The following diagram shows the general component interaction for the Windows port. If you want to develop a Windows PlayReady TEE implementation, you can contact <WMLA@Microsoft.com>.
+
+![windows tee component diagram](images/windowsteecomponentdiagram720.jpg)
+
+## Considerations for Using Hardware DRM
+
+This topic provides a brief list of things that should be considered when developing apps designed to use hardware DRM.
+
+-   Protected Media Process (PMP) is not supported.
+-   Output protection level (OPL) 270 support (no down resolution). Microsoft recommends that high definition content for hardware DRM have an OPL greater than 270 (although it is not required). An OPL of greater than 270 means HDCP is required. Additionally, Microsoft recommends you set HDCP type 1 (version 2.2 or later).
+-   Unlike software DRM, output protections are enforced on all monitors based on the least capable monitor. For example, if the user has two monitors connected where one of the monitors supports HDCP and the other does not, playback will fail if the license requires HDCP even if the content is only being rendered on the monitor that supports HDCP. In software DRM, content would play back as long as it is only being rendered on the monitor that supports HDCP.
+-   Hardware DRM is not guaranteed to be used by the client and secure unless the following conditions are met by the content keys and licenses:
+    -   Audio must be in the clear or be encrypted to a different content key than video. Microsoft recommends that the audio be in the clear to improve playback performance.
+    -   The license used for the video content key must have a security level of 3000.
+-   Multiple graphics processing units (GPUs) are not supported for persistent licenses.
+
+To handle persistent licenses on machines with multiple GPUs, consider the following scenario:
+
+1.  A customer buys a new machine with an integrated graphics card.
+2.  The customer uses an app that acquires persistent licenses while using hardware DRM.
+3.  The persistent license is now bound to that graphics card’s hardware keys.
+4.  The customer then installs a new graphics card.
+5.  All licenses in the hashed data store (HDS) are bound to the integrated video card, but the customer now wants to play back protected content using the newly-installed graphics card.
+
+In order to prevent playback from failing because the licenses can’t be decrypted by the hardware, PlayReady uses a separate hashed data store (HDS) for each graphics card that it encounters. This will cause PlayReady to attempt license acquisition for a piece of content where PlayReady would normally already have a license (that is, in the software DRM case or any case without a hardware change, PlayReady wouldn’t need to reacquire a license). Therefore, if the app acquires a persistent license while using hardware DRM, your app needs to be able to handle the case where that license is effectively “lost” if the end user installs (or uninstalls) a graphics card. Because this is not a common scenario, you may decide to handle the support calls when the content no longer plays after a hardware change rather than figure out how to deal with a hardware change in the client/server code.
+
+## Override Hardware DRM
+
+This section describes how to override hardware DRM if the content to be played back does not support hardware DRM.
+
+By default, hardware DRM is used if the system supports it. However, some content is not supported in hardware DRM. One example of this is Cocktail content. Another example is any content that uses a video codec other than H.264 and HEVC. Another example is HEVC content, as some hardware DRM will support HEVC and some will not. Therefore, if you want to play a piece of content and hardware DRM doesn’t support it on the system in question, you may want to opt out of hardware DRM.
+
+The following example shows how to opt-out of hardware DRM. You only need to do this before you switch. Also, make sure you don’t have any PlayReady object in memory, otherwise behavior is undefined.
+
+``` syntax
+var applicationData = Windows.Storage.ApplicationData.current;
+var localSettings = applicationData.localSettings.createContainer(“PlayReady”, Windows.Storage.ApplicationDataCreateDisposition.always);
+localSettings.values[“SoftwareOverride”] = 1;
+```
+
+To switch back to hardware DRM, set the **SoftwareOverride** value to **0**.
+
+For every media playback, you need to set **MediaProtectionManager** to:
+
+``` syntax
+mediaProtectionManager.properties[“Windows.Media.Protection.UseSoftwareProtectionLayer”] = true;
+```
+
+The best way to tell if you are in hardware DRM or software DRM is look at C:\\Users\\&lt;username&gt;\\AppData\\Local\\Packages\\&lt;application name&gt;\\LocalState\\PlayReady\\\*
+
+-   If there is an mspr.hds file, then you are in software DRM.
+-   If you have another \*.hds file, then you are in hardware DRM.
+-   You can delete the entire PlayReady folder and retry your test as well.
+
+## Detect the Type of Hardware DRM
+
+This section describes how to detect what type of hardware DRM is supported on the system.
+
+You can use the [**PlayReadyStatics.CheckSupportedHardware**](https://msdn.microsoft.com/library/windows/apps/dn986441) method to determine whether the system supports a specific hardware digital rights management (DRM) feature. For example:
+
+``` syntax
+boolean PlayReadyStatics->CheckSupportedHardware(PlayReadyHardwareDRMFeatures enum);
+```
+
+The [**PlayReadyHardwareDRMFeatures**](https://msdn.microsoft.com/library/windows/apps/dn986265) enumeration contains the valid list of hardware DRM feature values that can be queried. To determine if hardware DRM is supported, use the **HardwareDRM** member in the query. To determine if the hardware supports the High Efficiency Video Coding (HEVC)/H.265 codec, use the **HEVC** member in the query.
+
+You can also use the [**PlayReadyStatics.PlayReadyCertificateSecurityLevel**](https://msdn.microsoft.com/library/windows/apps/windows.media.protection.playready.playreadystatics.playreadycertificatesecuritylevel.aspx) property to get the security level of the client certificate to determine if hardware DRM is supported. Unless the returned certificate security level is greater than or equal to 3000, either the client is not individualized or provisioned (in which case this property returns 0) or hardware DRM is not in use (in which case this property returns a value that is less than 3000).
+
+
+
+<!--HONumber=Jun16_HO1-->
+
+
