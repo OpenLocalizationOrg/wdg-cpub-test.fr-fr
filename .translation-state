@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859",
-  "LastTranslatedCommit": "0fce38f31ac00bedab8d7c738d4a54fae175a4ae",
+  "LastTranslatedCommit": "66a4926fd811e69516ed899eecc019414a3c1895",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -19511,17 +19511,17 @@
       "TargetFilePath": "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-testing.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf",
       "HandbackFileCommit": "13a8a1fa2d8932c5deab61ad0ec37fc032196623",
-      "HandbackDateTime": "2016-06-25T15:49:20.7389041Z",
+      "HandbackDateTime": "2016-06-25T16:00:42.4047812Z",
       "HandbackException": {
-        "internal_error_code": "handback_transform_failed",
-        "internal_error_message": "Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\f84257\\ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf failed.",
+        "internal_error_code": "handback_transformer_version_mismatch_with_handoff_transformer_version",
+        "internal_error_message": "Can’t handback because handoff is based on outdated transformer with tool-version 1.0-1b2f027, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.",
         "internal_error_retriable": false,
-        "exception_message": "Fail to transform from xliff to markdown with invalid metadata: Invalid yaml header when parsing:\nDescription: A bad yaml header: should not be handback\ntitle: Accessibility testing\nms.assetid: 272D9C9E-B179-4F5A-8493-926D007A0225\nlabel: Testing\ntemplate: detail.hbs\nError message: (Line: 1, Col: 31, Idx: 30) - (Line: 1, Col: 31, Idx: 30): Mapping values are not allowed in this context.",
-        "exception_type": "System.IO.InvalidDataException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Transformer.TransformerClient.XliffToMarkdown(Stream xliffStream, Stream skeletonStream, Stream targetStream) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 119\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 92\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 413",
+        "exception_message": "Can’t handback because handoff is based on outdated transformer with tool-version 1.0-1b2f027, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 2,
+      "HandbackFailureTimes": 3,
       "UpdatedDateTime": "2016-05-25T01:42:01.8499277Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
