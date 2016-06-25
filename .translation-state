@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859",
-  "LastTranslatedCommit": "66a4926fd811e69516ed899eecc019414a3c1895",
+  "LastTranslatedCommit": "dfb51afcfb60a9f9fdcd3edf15170a6ecffa83a4",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -19511,7 +19511,7 @@
       "TargetFilePath": "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-testing.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf",
       "HandbackFileCommit": "13a8a1fa2d8932c5deab61ad0ec37fc032196623",
-      "HandbackDateTime": "2016-06-25T16:00:42.4047812Z",
+      "HandbackDateTime": "2016-06-25T16:05:01.7918189Z",
       "HandbackException": {
         "internal_error_code": "handback_transformer_version_mismatch_with_handoff_transformer_version",
         "internal_error_message": "Can’t handback because handoff is based on outdated transformer with tool-version 1.0-1b2f027, a newer handoff is generated based on updated transformer with tool-version 1.0-48076a9.",
@@ -19521,7 +19521,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 3,
+      "HandbackFailureTimes": 4,
       "UpdatedDateTime": "2016-05-25T01:42:01.8499277Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
