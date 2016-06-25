@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "8540d97d1924c528c1532b1e4db6df58d5bbf6a5",
-  "LastTranslatedCommit": "0d3654b7cc6bafbdf3d4f505d349cb359bd8180f",
+  "LastTranslatedCommit": "0fce38f31ac00bedab8d7c738d4a54fae175a4ae",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -19511,7 +19511,7 @@
       "TargetFilePath": "wdg-cpub-test\\ndolci2\\accessibility\\accessibility-testing.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf",
       "HandbackFileCommit": "13a8a1fa2d8932c5deab61ad0ec37fc032196623",
-      "HandbackDateTime": "2016-06-25T15:48:37.2614861Z",
+      "HandbackDateTime": "2016-06-25T15:49:20.7389041Z",
       "HandbackException": {
         "internal_error_code": "handback_transform_failed",
         "internal_error_message": "Handback file: C:\\gittest\\master\\OpenLocalizationService\\olhandback\\f84257\\ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf failed.",
@@ -19521,7 +19521,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Transformer.TransformerClient.XliffToMarkdown(Stream xliffStream, Stream skeletonStream, Stream targetStream) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 119\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.XliffToMarkdown(String skeletonFile, String xliffFile, String mdfile, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 92\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 413",
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-05-25T01:42:01.8499277Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,

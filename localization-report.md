@@ -12029,7 +12029,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf)
-* Handback Datetime: 2016-06-25 15:48:37
+* Handback Datetime: 2016-06-25 15:49:20
 * Handback Error: [handback_transform_failed](#4f439d95b79f18d8b2ee3a6e0133171b3000224f750handback_transform_failed)
 * Bilingual File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
