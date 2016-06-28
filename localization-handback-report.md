@@ -238,7 +238,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#be88c0d132c573bfc8958ccbc8fc9b95718b032146handback_validate_file_name_invalide)
 * Bilingual File: [best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-your-app-s-startup-performance.04f0cc628384b05099fa9f74b97f079c9bd2f9f7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -254,7 +254,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#737b2a64d7a96bc90c19a10d4e754e2c2f075b9847handback_validate_file_name_invalide)
 * Bilingual File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -270,7 +270,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3e0f69dac4bda8a9f481d74dda8740da2d6fc26848handback_validate_file_name_invalide)
 * Bilingual File: [debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging-and-testing-apps-portal.8b577d832ef1bb1ed54c0c42a719af1d6296b1b6.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -286,7 +286,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#cfedddf73b38bcbd5099260d271accfeefcbfcb749handback_validate_file_name_invalide)
 * Bilingual File: [deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying-and-debugging-uwp-apps.0bd4b1a79e86b75f0d29169b3f3ca46d8bbdb903.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -302,7 +302,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#048a75c84f26aa5538b036d1f5a8649f92aed5cb76handback_validate_file_name_invalide)
 * Bilingual File: [improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/improve-garbage-collection-performance.9e3a2508f0d5e3c8782bdc227fdd4488cda03ead.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -317,7 +317,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#61034c9ad90b04e14b6af0cb82151b3dbd833f9c77handback_validate_file_name_invalide)
 * Bilingual File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -333,7 +333,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#397e9052630e502710429e61453740ab7828f1cf78handback_validate_file_name_invalide)
 * Bilingual File: [keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/keep-the-ui-thread-responsive.598b4043f7a432de1902034180f56ed570a96486.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -348,7 +348,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6d661cd0e37976c81cddea56d307ab47e322ef9d79handback_validate_file_name_invalide)
 * Bilingual File: [listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/listview-and-gridview-data-optimization.8cdd3eee6e7811d3222512ed7a952e280cf1e12c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -364,7 +364,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d7ec7fb242eaddc508823a67716860807c7a2ec380handback_validate_file_name_invalide)
 * Bilingual File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -379,7 +379,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d490d2a7fb51e7008748809bc4822871e4193cca81handback_validate_file_name_invalide)
 * Bilingual File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -394,7 +394,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7a6f02b929b55b11323fa326ee56b46379ea9b6c82handback_validate_file_name_invalide)
 * Bilingual File: [optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-file-access.05f1dce16cf19e1f809bac768f1ea2a61a897b8c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -410,7 +410,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#768b7a3560e479b40655006b006142cd81a6fcab83handback_validate_file_name_invalide)
 * Bilingual File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -425,7 +425,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e4782444dda3df8c9940f2f2ae6d897b9047473884handback_validate_file_name_invalide)
 * Bilingual File: [optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-suspend-resume.6ab823d05bc14825ef88be1e6b3446b9b63f7126.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -440,7 +440,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#8af4044cd67c6200c1095ac0ef5b0d96cc8dfc0885handback_validate_file_name_invalide)
 * Bilingual File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -456,7 +456,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5aed046a3158e54e637895797b325dde6aec44e886handback_validate_file_name_invalide)
 * Bilingual File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -472,7 +472,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#214e972e0239ce7feb783fb3447b22e94361cfef87handback_validate_file_name_invalide)
 * Bilingual File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -488,7 +488,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3d982bde6c957170d32e27786632ae0c4c23979488handback_validate_file_name_invalide)
 * Bilingual File: [planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/planning-and-measuring-performance.c3990da27f48a681f56ee1eacd82eaaaa50ebd0d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -504,7 +504,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ad044a75e03fe997f96397348c0c5021d197999989handback_validate_file_name_invalide)
 * Bilingual File: [test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-with-the-emulator.d7e00009bdd774b2904c5e47cde2b00b40ebf12c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -520,7 +520,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#8f40f64f2e00f88fba1ec94593d27a1b67c781d990handback_validate_file_name_invalide)
 * Bilingual File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -535,7 +535,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b3aa1ffc57a489f3a54b8c2d0d629889ec67038d92handback_validate_file_name_invalide)
 * Bilingual File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -550,7 +550,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a187a45bfeb3b92d77bf5bab0fccd99e8249cf7d91handback_validate_file_name_invalide)
 * Bilingual File: [windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-app-certification-kit-tests.0428aa2e01fe39818f6e2bf56dee51b18cb712ae.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -566,7 +566,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#57cb81d8450d3d71b421ae77536872d244b3e50993handback_validate_file_name_invalide)
 * Bilingual File: [windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows-runtime-components-and-optimizing-interop.5e6bf38830c852f7f8250cb3a23412e379d661eb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -582,7 +582,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c103e66504ab4b9a3756fac36a8f9d98ca9c9cde94handback_validate_file_name_invalide)
 * Bilingual File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -598,7 +598,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0b09a8c2db2f5b95c859ebc9fca183664849531795handback_validate_file_name_invalide)
 * Bilingual File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -614,7 +614,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c89f6ce329999b80f1db978fcbecaf26ac6581ac96handback_validate_file_name_invalide)
 * Bilingual File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -629,7 +629,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc97handback_validate_file_name_invalide)
 * Bilingual File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -645,7 +645,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0d54435494e25794492314ea2b6b195d57bfba9e98handback_validate_file_name_invalide)
 * Bilingual File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -660,7 +660,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3472c03607d175eb035af43b5031a58cb710b3ec99handback_validate_file_name_invalide)
 * Bilingual File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -675,7 +675,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e2ec538c17a3387dfca692ada49aeea5342fbd9a100handback_validate_file_name_invalide)
 * Bilingual File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -691,7 +691,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#600056e9d2eaf3f410428f12e7f21e3d00911b57102handback_validate_file_name_invalide)
 * Bilingual File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -706,7 +706,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a71c22649f233483aa63e2e2a60277e64c2d007d101handback_validate_file_name_invalide)
 * Bilingual File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -721,7 +721,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c126bac0f54e4623a2c4cad92232fecd526d491e103handback_validate_file_name_invalide)
 * Bilingual File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -737,7 +737,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6be3595796d13730b7bc1345d85828314d5925a7104handback_validate_file_name_invalide)
 * Bilingual File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -753,7 +753,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a598d060504de24ed866dba1ce053866d53d495e105handback_validate_file_name_invalide)
 * Bilingual File: [get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-battery-info.e77dc140d559efaef4af8061f78c62ca2c76c799.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -768,7 +768,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2d1fa53aea846db7bcba6caa86dc661a2453d1d1106handback_validate_file_name_invalide)
 * Bilingual File: [host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/host-card-emulation.31f059139660c32f47c999f09bfe253700baf78f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -783,7 +783,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ed2e8f2a6446157d8b9e8203187c2511de67c2b0130handback_validate_file_name_invalide)
 * Bilingual File: [index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.d8f5d38c5cf676f2b6eb983430cac93d5df9baeb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -799,7 +799,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b699966ff42592315712b31af9cb988f1bf491c4131handback_validate_file_name_invalide)
 * Bilingual File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -814,7 +814,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1c87aafa49fcda98adb14d3c24547f5f99f2c686132handback_validate_file_name_invalide)
 * Bilingual File: [print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/print-from-your-app.58ab5ca6d57a48fcf04c797ad5f2a977104667e7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -830,7 +830,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ae20f9950305c6993d40fcb1056b5ba2a6bbb777133handback_validate_file_name_invalide)
 * Bilingual File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -845,7 +845,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4c3e627e012ab8de22ced3409fbfe90e6874a4c6134handback_validate_file_name_invalide)
 * Bilingual File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -861,7 +861,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c0dca85e790f9ee5a341df0a26425eef4f8c2af4135handback_validate_file_name_invalide)
 * Bilingual File: [send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/send-or-receive-files-with-rfcomm.c11e709a26b55c3917fe66b4d5d7eb3743ea8b58.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -877,7 +877,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#82667297691be83e91bde76fd47c8521e9c572d5136handback_validate_file_name_invalide)
 * Bilingual File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -892,7 +892,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#fd4c27b6fbef674c5c4f63b01083db888cdd1fe6137handback_validate_file_name_invalide)
 * Bilingual File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -907,7 +907,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ff7cf9d6a8f71496688b8f1daabf928c6265ed30138handback_validate_file_name_invalide)
 * Bilingual File: [use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-accelerometer.accab948d3a5c4fa9702a2d74448f54acbc09dff.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -922,7 +922,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c6694ef614387b3e68e0f2d1101043520e5ebc72139handback_validate_file_name_invalide)
 * Bilingual File: [use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-compass.328e498f03a41c4c83f80efebe143c0cef524556.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -938,7 +938,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#847b9bafac7af83c5840194c2965418d42fdac42140handback_validate_file_name_invalide)
 * Bilingual File: [use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-gyrometer.d00d71c33d3bbe1731b94026b3d5c13743395cb9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -954,7 +954,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a4e8cf19a03fcaf68b7ddbd99657e8b5e1aa810a141handback_validate_file_name_invalide)
 * Bilingual File: [use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-inclinometer.7753e131358e9fd48f30cbfc5e7d7526f7053943.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -970,7 +970,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#23ef6e2231e0cd55f1d342ec7c24c14016f3a61c142handback_validate_file_name_invalide)
 * Bilingual File: [use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-light-sensor.f0de4fbc65b3d3940b6bdd517ff3514ab0336f6b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -985,7 +985,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2a517942d67a59f7b9ce4449d24a9a4d9ff3471d143handback_validate_file_name_invalide)
 * Bilingual File: [use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-the-orientation-sensor.e842467fa4867df8300415ddf6c23e4068b390a4.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1001,7 +1001,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#254fb7dabe51081c017a674e64e78d9b7401e2a1144handback_validate_file_name_invalide)
 * Bilingual File: [access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/access-the-sd-card.1e3e7291e00d44d2af390382a7ff474aea50633a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1017,7 +1017,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2b16e149a84dc1273676164a9e353cb68d99ff56145handback_validate_file_name_invalide)
 * Bilingual File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1033,7 +1033,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#cf55c6bafedfced3fe74ddb819446de8f0b3a1ba146handback_validate_file_name_invalide)
 * Bilingual File: [how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how-to-track-recently-used-files-and-folders.b9ac60fec225e009f39d8b00c3d1335998bcee35.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1049,7 +1049,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#393b2ce0f3858fed078d593d0a6c1862c4c90548151handback_validate_file_name_invalide)
 * Bilingual File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1064,7 +1064,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#66f54e44cf1292ef6551415dccfec16fe103a799152handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-accessing-homegroup-content.48cdd458e952b7462dd7ed50490b941b86d5ab3e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1080,7 +1080,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c9e0d72ff7446a92325989688ac5f2f66c4e0e4d153handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-determining-availability-of-microsoft-onedrive-files.5a2eebcb3409c4cfe44bd91865a838a30679e362.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1096,7 +1096,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ee7cedb1acd4cc270cfd01f6fde2e87c39dc4e91154handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-getting-file-properties.5baf8faefb0ad7b6974d51c623198e4497d59e26.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1112,7 +1112,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0198b7b94a6e25e85535d90b8086931ad47658dc155handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-listing-files-and-folders.c1ff66b949dd1c5c9de12e249c3c6880b6b65815.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1128,7 +1128,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#11243e70d4592565b217b82c049164ce36e515de156handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.c416e527086416cc65ea34afac96bc7968cd2062.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1143,7 +1143,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3d2e88a25dd1464063059ec2c07a9e34bf8cce45157handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-reading-and-writing-files.d462dc969721d7923ae8beda35525c960d382c37.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1159,7 +1159,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b16e1f4e40fd5089e180168ac61109833fa60f4f158handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-save-a-file-with-a-picker.8edc62fececd3db78a2c33a5651a63de095f44da.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1175,7 +1175,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#33e9bd3116c540fb452378bfd3f8a8056863c188159handback_validate_file_name_invalide)
 * Bilingual File: [quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/quickstart-using-file-and-folder-pickers.c5350ea2e3b0f7d473c98047869cd93a190d43f6.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1190,7 +1190,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e198handback_validate_file_name_invalide)
 * Bilingual File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1205,7 +1205,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0ec2875d4a647b4e1ab96105f0542f67d8d32174200handback_validate_file_name_invalide)
 * Bilingual File: [receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/receive-data.80097f8ba93490c22aea08f63a14a21715043641.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1221,7 +1221,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b34d0b68388aa72abab4f30bf7e41d6707195b19201handback_validate_file_name_invalide)
 * Bilingual File: [share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/share-data.e9f7059f5445d872140823cac9009f93e18f74e8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1237,7 +1237,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458426handback_validate_file_name_invalide)
 * Bilingual File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1253,7 +1253,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#007e676257bcd6b11332baf98582703d23f3abd3428handback_validate_file_name_invalide)
 * Bilingual File: [selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/selecting-contacts.43c0a022573465b4add838efaf43e34d43343408.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1269,7 +1269,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#88704dcaec3f258a8d0eb43b33721d4f31cc0a75429handback_validate_file_name_invalide)
 * Bilingual File: [sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-an-sms-message.e2928a35578b1bcd8e3d859139ebcc56bd3ceafb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1285,7 +1285,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#aace8855fa91c6375887e9837f67f911502e6748430handback_validate_file_name_invalide)
 * Bilingual File: [sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sending-email.943040f1b1a387da631ab3231167741ff6022e2f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1300,7 +1300,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#76404ac78178634ceb026fe5baace6b730c0dbcb432handback_validate_file_name_invalide)
 * Bilingual File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1315,7 +1315,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f9a087407671e3d81447777a52531e0663e01d4d436handback_validate_file_name_invalide)
 * Bilingual File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1331,7 +1331,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35438handback_validate_file_name_invalide)
 * Bilingual File: [index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.c0ab8a12ea06eb5b7787617d40a85c2c2ca0d046.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1347,7 +1347,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d0712383af8e62261a0adf84be3a2af8e5941e64502handback_validate_file_name_invalide)
 * Bilingual File: [account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/account-types-locations-and-fees.52e52704753403f64bda470c9808229f2f42f46e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1362,7 +1362,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ee2bde728bf1df26366c8e59e3c787effa97c0d5506handback_validate_file_name_invalide)
 * Bilingual File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1378,7 +1378,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5a92b2591e7157c09dc3c54b1eb271e28f7d60b4507handback_validate_file_name_invalide)
 * Bilingual File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1394,7 +1394,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#743e8333cf77ef7e2ea8d21a82c53009d750cd85509handback_validate_file_name_invalide)
 * Bilingual File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1410,7 +1410,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5412c65acbca0604ade4e0a60871e14d0bab775c510handback_validate_file_name_invalide)
 * Bilingual File: [managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/managing-your-profile.c3fcd011c459adaed5362b43dce4a5abb14f815c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1426,7 +1426,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e1247f7cc6f8c3744d50810c03d8652e8a24a372511handback_validate_file_name_invalide)
 * Bilingual File: [opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/opening-a-developer-account.6dd56fda6fda0fca00cca1a65a24e353a292d6c9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1441,7 +1441,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b251660b79f7076f636a9c8c55a60363e07530da512handback_validate_file_name_invalide)
 * Bilingual File: [sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/sign-up.c4480a7c991dfa348f29a56fccddbdac6af58203.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1457,7 +1457,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ab7be29098105236c45e8990dd0cd36e9b0ba30c515handback_validate_file_name_invalide)
 * Bilingual File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1473,7 +1473,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2fa0ffa67d6c2903b99534c4726dfde5073a6c1c516handback_validate_file_name_invalide)
 * Bilingual File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1489,7 +1489,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#35dcae7a582f7ff74bce0ed8e9525aea0adc993a518handback_validate_file_name_invalide)
 * Bilingual File: [composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-brushes.10345c9ff0c30c6eed1b3cb69339d362da4b069a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1505,7 +1505,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#aa06fa4d0dda5524ace7a2278cd49729c7a14c2e520handback_validate_file_name_invalide)
 * Bilingual File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1521,7 +1521,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0f49dc9a32861d10afe76ff6612d37720725eeee521handback_validate_file_name_invalide)
 * Bilingual File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1536,7 +1536,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925522handback_validate_file_name_invalide)
 * Bilingual File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1552,7 +1552,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#612821e7db46ce0c7c851e32f984408125150829524handback_validate_file_name_invalide)
 * Bilingual File: [index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.a1175b28cfe476167942c3c7862feacf2cc13ba4.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1568,7 +1568,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f525handback_validate_file_name_invalide)
 * Bilingual File: [key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/key-frame-and-easing-function-animations.de84d775b836ab0641d65387ad6833034a598980.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1584,7 +1584,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#bd147a56fcb996b5f11ae813c073f70a9c350afd527handback_validate_file_name_invalide)
 * Bilingual File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1600,7 +1600,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#01bedffa0a8a7b39869ac46bd788c487bba43903528handback_validate_file_name_invalide)
 * Bilingual File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1615,7 +1615,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a9c0e6deaa76b995a98cbfb4c373065f8c635e4c556handback_validate_file_name_invalide)
 * Bilingual File: [index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.3ddd1ae5ea902d8e1be5b5b110eb476883589d2d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1630,7 +1630,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c2cb4cffdd8252207df28eab2484bc40c430efc9558handback_validate_file_name_invalide)
 * Bilingual File: [networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/networking-basics.add32d38d1e2ac691218d396483f0e39be7d3a01.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1646,7 +1646,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#afdeb64341edcb977dadab00a0dc705e79c60809561handback_validate_file_name_invalide)
 * Bilingual File: [websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/websockets.332bea1369c9632a7de854b6c9beea35ca5597e7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1662,7 +1662,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#00de660fa7d41a6b9b0698d0857864d25036ace3562handback_validate_file_name_invalide)
 * Bilingual File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1678,7 +1678,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6b7e829169a788ec298a8537f4364dc1c20ad5b1564handback_validate_file_name_invalide)
 * Bilingual File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1694,7 +1694,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#896c64a0ad4fc2506a5b2c84bb3d34fc624fb153565handback_validate_file_name_invalide)
 * Bilingual File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1710,7 +1710,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f25e6aa8324bc8d80d6741fde3d3b6b24611a78e567handback_validate_file_name_invalide)
 * Bilingual File: [getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-animation.0c3c47de4f92f54b5323f188d4e92ab0145c7b2e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1726,7 +1726,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#53aa1138567bbb0d9d241783157c919df37402ac571handback_validate_file_name_invalide)
 * Bilingual File: [getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting-started-getting-around-in-visual-studio.889152041043d277c180e84d2fe4f6b5d831790e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1742,7 +1742,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ed8a73be55682e0e0711672d5be289abce7a2a5b578handback_validate_file_name_invalide)
 * Bilingual File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1758,7 +1758,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d445a197c7b6eb20441b93a5d875d71fb3185f3d579handback_validate_file_name_invalide)
 * Bilingual File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1774,7 +1774,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#987e44b081f1d50dac2252a0a72f0ab7c1433b59583handback_validate_file_name_invalide)
 * Bilingual File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1789,7 +1789,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#8958b5d1320d93bb3a4eb45902a845b0132f2c1b585handback_validate_file_name_invalide)
 * Bilingual File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1805,7 +1805,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e591handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1820,7 +1820,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#643aa46fd5d69ea9d88ac8ee67428337fa4c0164592handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1836,7 +1836,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7edc8de3b71803be304e8fc376c24dd00bddc9ce593handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1852,7 +1852,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4a9e71a4ec58278205bb325fd875959ff9948fb5595handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1868,7 +1868,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e597handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1883,7 +1883,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#93c48f2e8199e10237b148f6a3ea3a08a6703dac688handback_validate_file_name_invalide)
 * Bilingual File: [best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/best-practices-for-using-the-thread-pool.a1a479dcdee0ccec5a943429bcde20e78e7d411e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1899,7 +1899,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ecf1ccbba7b55bf5715f78bb72822b83e25272df690handback_validate_file_name_invalide)
 * Bilingual File: [create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create-a-periodic-work-item.62855054fcf3214483879fbba407653efdd2edc5.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1915,7 +1915,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b34d9448dbe2707cb715e47eac11dfe64f74b5dc691handback_validate_file_name_invalide)
 * Bilingual File: [index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.1eed2a44c5d12cccf393c5107f24d92c95215e52.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1931,7 +1931,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2d6bc6d750027e26359e24d4d95ad4c52d9c86e9692handback_validate_file_name_invalide)
 * Bilingual File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1947,7 +1947,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf693handback_validate_file_name_invalide)
 * Bilingual File: [use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/use-a-timer-to-submit-a-work-item.694d8f5d3e0302d83f9295425169dbbb03fdd470.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1962,7 +1962,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#08c085ae4e52a249bcaafe839f8baff8ca74c8d9717handback_validate_file_name_invalide)
 * Bilingual File: [binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/binding-markup-extension.204a528ca5e89f67ea69308094464d89bf615854.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -1977,7 +1977,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939720handback_validate_file_name_invalide)
 * Bilingual File: [customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/customresource-markup-extension.31bd1e33c68c543602e7160aaa0468122cba1b3b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -1993,7 +1993,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f971a8891a41542db8e6fb9b943db052849e8913724handback_validate_file_name_invalide)
 * Bilingual File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2009,7 +2009,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ae1fb98bf424be747ca3b04696198940836415fa725handback_validate_file_name_invalide)
 * Bilingual File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2024,7 +2024,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#afccd56780f303dd8daf72267928a047385673df726handback_validate_file_name_invalide)
 * Bilingual File: [relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/relativesource-markup-extension.a59259aa458a12329e412ba5307168dd72cb3f17.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2040,7 +2040,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3fdf144163d14ae3b0c6b5555ccb69b8c76872ef727handback_validate_file_name_invalide)
 * Bilingual File: [staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/staticresource-markup-extension.5618c1b2032ea390550ba198b6fa2281ea138955.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2056,7 +2056,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e6969bf7938c29b34f28c02e0f5c565be2ca2417729handback_validate_file_name_invalide)
 * Bilingual File: [templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/templatebinding-markup-extension.124e4ef2e94fe86d99702058e77a0e6239161ba2.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2072,7 +2072,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#321ba601c83b996d5e9a4edef60a52c3934216e7728handback_validate_file_name_invalide)
 * Bilingual File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2088,7 +2088,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d872648c0412de391a43d88c1425a9ddea44e6ed730handback_validate_file_name_invalide)
 * Bilingual File: [themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/themeresource-markup-extension.4dbf66285f24078f2825ca3b39cdf5d2902aa7ba.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2103,7 +2103,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#01112910296923a767e3968f35d286e661cf29e5740handback_validate_file_name_invalide)
 * Bilingual File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2118,7 +2118,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2c36a6c3b75da75567b5bcd368812c98927b4a85741handback_validate_file_name_invalide)
 * Bilingual File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2133,7 +2133,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#67beb04cc87765a4c2edb249a61ba300cd9a7544742handback_validate_file_name_invalide)
 * Bilingual File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2149,7 +2149,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#daca0d528ae54849d010e3799fa6ee299fe7d3f2732handback_validate_file_name_invalide)
 * Bilingual File: [x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-class-attribute.c592bdd1e61624be9845b352c1d68a5b9b576ca3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2164,7 +2164,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4733handback_validate_file_name_invalide)
 * Bilingual File: [x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-deferloadstrategy-attribute.ce144460c083683c420a47e33a41ff56000d24f1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2180,7 +2180,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5d743d4e47a37b574ce51487cba1481fd322c86a735handback_validate_file_name_invalide)
 * Bilingual File: [x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-key-attribute.123b24c416b3ef7e0bb9edff806371bf5724b10e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2196,7 +2196,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#167ae7ee519736967c5163e2c37e3ca1fd507a7d736handback_validate_file_name_invalide)
 * Bilingual File: [x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-name-attribute.5177320edc9591784f5059408cf4bc75786ec6ae.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2212,7 +2212,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#8903c832f313ca522e07331a028d370aee039f58738handback_validate_file_name_invalide)
 * Bilingual File: [x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-phase-attribute.c38dcaf402a1e7dd00c3c949fe1b01f3f6270afe.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2228,7 +2228,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5880add499ff902e320c9d594279444f28668da0739handback_validate_file_name_invalide)
 * Bilingual File: [x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/x-uid-directive.5729cd15cd242b341b52ea6cffa8e61e2b2b5537.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2244,7 +2244,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_transformer_version_mismatch_with_handoff_transformer_version](#4f439d95b79f18d8b2ee3a6e0133171b3000224f750handback_transformer_version_mismatch_with_handoff_transformer_version)
 * Bilingual File: [accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/accessibility-testing.cda58c0da3fdc9616274328a2b51521617fd499c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2260,7 +2260,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e803handback_validate_file_name_invalide)
 * Bilingual File: [drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drag-and-drop.c95532f436d95a6d1f93dd4eb3e10606a8ba5f24.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2275,7 +2275,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e4581031handback_validate_file_name_invalide)
 * Bilingual File: [index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f11a6244947f266c706f656e6ef5b6d66a0a0cfc.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2291,7 +2291,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#76404ac78178634ceb026fe5baace6b730c0dbcb1123handback_validate_file_name_invalide)
 * Bilingual File: [index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.8708ca78a50a7446b72aa9ec3247d88a80fceb0c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2306,7 +2306,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f9a087407671e3d81447777a52531e0663e01d4d1127handback_validate_file_name_invalide)
 * Bilingual File: [displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/displaying-data-in-the-designer.3afa7dee8686cb59b7fb626047382c6b548e4704.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2322,7 +2322,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ee2bde728bf1df26366c8e59e3c787effa97c0d51294handback_validate_file_name_invalide)
 * Bilingual File: [enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/enable-your-device-for-development.33eafb3b7d062997799f72d699a35c22dd4de8de.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2338,7 +2338,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5a92b2591e7157c09dc3c54b1eb271e28f7d60b41295handback_validate_file_name_invalide)
 * Bilingual File: [get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/get-set-up.155e493f23a86db2d181ac72f015a387ba8387ce.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2354,7 +2354,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#743e8333cf77ef7e2ea8d21a82c53009d750cd851297handback_validate_file_name_invalide)
 * Bilingual File: [learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/learn-more.bf7926f086400a7fe167f1dc5baa9bdc8a75f45c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2370,7 +2370,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ab7be29098105236c45e8990dd0cd36e9b0ba30c1311handback_validate_file_name_invalide)
 * Bilingual File: [3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3-d-perspective-effects.6d34006f43a5b6ac4548ca4b38894cf986bbc6af.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2386,7 +2386,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2fa0ffa67d6c2903b99534c4726dfde5073a6c1c1312handback_validate_file_name_invalide)
 * Bilingual File: [animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/animations-overview.06e6af4e60834c44e8d2e2c6f9c70f04722878df.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2402,7 +2402,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#aa06fa4d0dda5524ace7a2278cd49729c7a14c2e1316handback_validate_file_name_invalide)
 * Bilingual File: [composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-native-interop.f67e1eda4d61ecac845c2f75c25f8223796a5a44.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2418,7 +2418,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0f49dc9a32861d10afe76ff6612d37720725eeee1317handback_validate_file_name_invalide)
 * Bilingual File: [composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/composition-visual-tree.bf1237f5418821ae9ac8b31891f4d52b410c6ad0.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2433,7 +2433,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f71dd2fb2f144c3bc1b1a680837f6dfd8c84f9251318handback_validate_file_name_invalide)
 * Bilingual File: [drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/drawing-shapes.22d0dec46e5303ff48547df5ba2906b0a2f1468b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2449,7 +2449,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#bd147a56fcb996b5f11ae813c073f70a9c350afd1323handback_validate_file_name_invalide)
 * Bilingual File: [transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/transforms-overview.97ffdbc6cc409d1eee11bd0a9a1e4445feebf064.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2465,7 +2465,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#01bedffa0a8a7b39869ac46bd788c487bba439031324handback_validate_file_name_invalide)
 * Bilingual File: [using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using-brushes.29c5580e75ff4cf77a88a9741290313b880e3e8e.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2480,7 +2480,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#00de660fa7d41a6b9b0698d0857864d25036ace31477handback_validate_file_name_invalide)
 * Bilingual File: [which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/which-networking-technology.2ad0c8f8099eb922850259ffcaad8b9b27e5c437.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2496,7 +2496,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6b7e829169a788ec298a8537f4364dc1c20ad5b11479handback_validate_file_name_invalide)
 * Bilingual File: [index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/index.f868972ee124fa51b08eb00a937ed11589125eb9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2512,7 +2512,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#896c64a0ad4fc2506a5b2c84bb3d34fc624fb1531480handback_validate_file_name_invalide)
 * Bilingual File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.921fa50a81057ac57ebeac4758b7bada421e6f39.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2528,7 +2528,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ed8a73be55682e0e0711672d5be289abce7a2a5b1494handback_validate_file_name_invalide)
 * Bilingual File: [setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/setting-up-your-mac-with-windows-10.b7d8ab4c5747fb76ad43befb88260b3246cdbc3f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2544,7 +2544,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d445a197c7b6eb20441b93a5d875d71fb3185f3d1495handback_validate_file_name_invalide)
 * Bilingual File: [update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/update-your-visual-studio-2015-rc-project-to-rtm.0ec209344851dd3482c946360c0cf32f5bc1bb0c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2560,7 +2560,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#987e44b081f1d50dac2252a0a72f0ab7c1433b591499handback_validate_file_name_invalide)
 * Bilingual File: [w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-input-and-sensors.a737c8bd842a5e509de7d99d86d68ab9206f500b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2575,7 +2575,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#8958b5d1320d93bb3a4eb45902a845b0132f2c1b1501handback_validate_file_name_invalide)
 * Bilingual File: [w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/w8x-to-uwp-porting-xaml-and-ui.4233606a97893971ff870f08f6cd8d5542d6046d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2591,7 +2591,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e1507handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-form-factors-and-ux.2982dfcd114ede84c469640518b3ba108f0b5a28.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2606,7 +2606,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#643aa46fd5d69ea9d88ac8ee67428337fa4c01641508handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-input-and-sensors.90f3b2665cdbf0d42f949d3ddb865d38c5cd959b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2622,7 +2622,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7edc8de3b71803be304e8fc376c24dd00bddc9ce1509handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-namespace-and-class-mappings.33e7d94bee725d6c47de4511e491188742d7431d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2638,7 +2638,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4a9e71a4ec58278205bb325fd875959ff9948fb51511handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-porting-xaml-and-ui.393cf6918819f12cc26fa6b15ae5c294315c8b3a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2654,7 +2654,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e1513handback_validate_file_name_invalide)
 * Bilingual File: [wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wpsl-to-uwp-troubleshooting.5b286c171c95aa020f0acc3dbc10e23f57e45abe.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2669,7 +2669,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2d6bc6d750027e26359e24d4d95ad4c52d9c86e91636handback_validate_file_name_invalide)
 * Bilingual File: [submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/submit-a-work-item-to-the-thread-pool.af524974f8dfbfe08549b17a62146715b9708f7a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2685,7 +2685,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f971a8891a41542db8e6fb9b943db052849e89131658handback_validate_file_name_invalide)
 * Bilingual File: [move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/move-draw-commands-syntax.2f762c3edff6b2da4837622aab585618312e27b0.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2701,7 +2701,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#ae1fb98bf424be747ca3b04696198940836415fa1659handback_validate_file_name_invalide)
 * Bilingual File: [property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/property-path-syntax.1def0437e008e2524bacf22ab1cbd37adf5f66d1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2716,7 +2716,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#321ba601c83b996d5e9a4edef60a52c3934216e71662handback_validate_file_name_invalide)
 * Bilingual File: [template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/template-settings-classes.b31e88cb6923fb71f9727d857e59d48de60d4c71.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2732,7 +2732,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#01112910296923a767e3968f35d286e661cf29e51674handback_validate_file_name_invalide)
 * Bilingual File: [xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-and-whitespace.f15f3ee7341faefedcf8dcc2beee90b67688f3f8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2747,7 +2747,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2c36a6c3b75da75567b5bcd368812c98927b4a851675handback_validate_file_name_invalide)
 * Bilingual File: [xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-intrinsic-data-types.df3aca56c1bdd4e6295fd0c8860b607328bdda37.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2762,7 +2762,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#67beb04cc87765a4c2edb249a61ba300cd9a75441676handback_validate_file_name_invalide)
 * Bilingual File: [xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2778,7 +2778,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688handback_validate_file_name_invalide)
 * Bilingual File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2794,7 +2794,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#bc1bd22aaf8c51a4835b167542d48012081149091689handback_validate_file_name_invalide)
 * Bilingual File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2810,7 +2810,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690handback_validate_file_name_invalide)
 * Bilingual File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2826,7 +2826,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7c0a254e07bedb26fab52d53262487cece4d237a1691handback_validate_file_name_invalide)
 * Bilingual File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2842,7 +2842,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692handback_validate_file_name_invalide)
 * Bilingual File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2858,7 +2858,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a1f089b324da35f3367411713ba47b97bc378aea1694handback_validate_file_name_invalide)
 * Bilingual File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2873,7 +2873,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695handback_validate_file_name_invalide)
 * Bilingual File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2888,7 +2888,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1696handback_validate_file_name_invalide)
 * Bilingual File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2904,7 +2904,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721697handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2920,7 +2920,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#5343ab2c23eba904df16b371331932e6c68e77e11698handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2935,7 +2935,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1bba3a5611ed7cf5552868f12949dfcc91b018031699handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -2951,7 +2951,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b7d297ad5e963244bcb2656e6eec5d65e61616931700handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2966,7 +2966,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f3117b3cdb002de76694289880b091ba18c8be281701handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2981,7 +2981,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#edae1ec6d3f626044ac86796d3dc8db87266d7451702handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -2996,7 +2996,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1703handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3011,7 +3011,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3026,7 +3026,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3042,7 +3042,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#76fa9c94a7046c03368837e626ad9bf790e8fb881706handback_validate_file_name_invalide)
 * Bilingual File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3058,7 +3058,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707handback_validate_file_name_invalide)
 * Bilingual File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3073,7 +3073,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#3297a5352e1c2eb36ebf22719c59327ed41cf1501708handback_validate_file_name_invalide)
 * Bilingual File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3089,7 +3089,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c9bd51c0edbff713f41e18a4320a9258f41790f41709handback_validate_file_name_invalide)
 * Bilingual File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3104,7 +3104,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711handback_validate_file_name_invalide)
 * Bilingual File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3120,7 +3120,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991712handback_validate_file_name_invalide)
 * Bilingual File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3136,7 +3136,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1713handback_validate_file_name_invalide)
 * Bilingual File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3152,7 +3152,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#910f50e73a8efdea0431ea565dfdc7374a019a681714handback_validate_file_name_invalide)
 * Bilingual File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3167,7 +3167,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715handback_validate_file_name_invalide)
 * Bilingual File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3183,7 +3183,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716handback_validate_file_name_invalide)
 * Bilingual File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3199,7 +3199,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f7c60f736b125c8a6268e121c760935f75ec01b81717handback_validate_file_name_invalide)
 * Bilingual File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3215,7 +3215,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#df87a7f5e0f9d173de97215cbcf226f5018883e11718handback_validate_file_name_invalide)
 * Bilingual File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3230,7 +3230,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#7b4309bbd7b1ed204d4d13bd147501ee21b805181727handback_validate_file_name_invalide)
 * Bilingual File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3246,7 +3246,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#33944380a77ab473af686145779f4bd31b02403b1728handback_validate_file_name_invalide)
 * Bilingual File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3262,7 +3262,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#430268ba843e894f0d159b37797f3c19617139df1729handback_validate_file_name_invalide)
 * Bilingual File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3277,7 +3277,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271730handback_validate_file_name_invalide)
 * Bilingual File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3292,7 +3292,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731handback_validate_file_name_invalide)
 * Bilingual File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3308,7 +3308,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1732handback_validate_file_name_invalide)
 * Bilingual File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3324,7 +3324,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733handback_validate_file_name_invalide)
 * Bilingual File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3339,7 +3339,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#72642cee1d11a58aa21cf7230ae37f3e891206291734handback_validate_file_name_invalide)
 * Bilingual File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3354,7 +3354,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#016372eb9bea6d8f16bae5473856354e041c57811735handback_validate_file_name_invalide)
 * Bilingual File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3370,7 +3370,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#706fb0cec4a283cebe4e5551de6f59252a0159351736handback_validate_file_name_invalide)
 * Bilingual File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3385,7 +3385,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#23c305d9bace8d02454eb415a1a1e7d183c431751737handback_validate_file_name_invalide)
 * Bilingual File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3400,7 +3400,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3416,7 +3416,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3431,7 +3431,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#9b013e5154608d58c84085247b3e9c6fcc42e4781740handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3447,7 +3447,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741handback_validate_file_name_invalide)
 * Bilingual File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3462,7 +3462,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742handback_validate_file_name_invalide)
 * Bilingual File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3478,7 +3478,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#0940c46a0b1b6360639f55de72286b433059a3821743handback_validate_file_name_invalide)
 * Bilingual File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3493,7 +3493,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744handback_validate_file_name_invalide)
 * Bilingual File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3509,7 +3509,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#bffcc9c5d253e19122bdbef216af77669a3653011745handback_validate_file_name_invalide)
 * Bilingual File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3525,7 +3525,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961746handback_validate_file_name_invalide)
 * Bilingual File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3541,7 +3541,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747handback_validate_file_name_invalide)
 * Bilingual File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3556,7 +3556,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151748handback_validate_file_name_invalide)
 * Bilingual File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3572,7 +3572,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151749handback_validate_file_name_invalide)
 * Bilingual File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3588,7 +3588,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1750handback_validate_file_name_invalide)
 * Bilingual File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3603,7 +3603,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#b0477a3ded515799ddbf6dc256d7a1f8376228c61751handback_validate_file_name_invalide)
 * Bilingual File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3619,7 +3619,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752handback_validate_file_name_invalide)
 * Bilingual File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3635,7 +3635,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#746ac811fff544d1647f55827dc700e460e5f88e1753handback_validate_file_name_invalide)
 * Bilingual File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
@@ -3651,7 +3651,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754handback_validate_file_name_invalide)
 * Bilingual File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3666,7 +3666,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#d310c4b3d444ed7b5dc551ca034106fc466179871755handback_validate_file_name_invalide)
 * Bilingual File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
@@ -3681,7 +3681,7 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
-* Handback Datetime: 2016-06-28 05:44:52
+* Handback Datetime: 2016-06-28 11:46:36
 * Handback Error: [handback_validate_file_name_invalide](#79a3dd217ffa3beb73851aac9bb6609218e946991756handback_validate_file_name_invalide)
 * Bilingual File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
