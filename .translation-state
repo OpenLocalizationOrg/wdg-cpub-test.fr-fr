@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859",
-  "LastTranslatedCommit": "560325b07f86f280c660c31b62cbef8dab1f1934",
+  "LastTranslatedCommit": "447d2653c5e567a7c5d97a9ea8bf51ff1d492b87",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -42011,7 +42011,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
