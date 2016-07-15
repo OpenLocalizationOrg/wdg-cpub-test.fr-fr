@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859",
+  "LastProcessedCommit": "cd4f80eb578209205252c58d6aed739ddffa0574",
   "LastTranslatedCommit": "447d2653c5e567a7c5d97a9ea8bf51ff1d492b87",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -42661,9 +42661,9 @@
       ],
       "HasMetadata": false,
       "TranslationType": 1,
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.fr-fr.xlf",
-      "HandoffFileCommit": "73bccd60debd8833cf909eab331260d6568ddf0f",
-      "HandoffDateTime": "2016-06-25T15:59:05.3569235Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.fr-fr\\master\\wdg-cpub-test\\Welcome.xlf",
+      "HandoffFileCommit": "b0394c2fc4490d9813c457c56b54166b2b299073",
+      "HandoffDateTime": "2016-07-15T01:28:27.5294188Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
