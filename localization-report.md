@@ -3,7 +3,7 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 1758
+ Total Files | 1776
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 1
 [ Archive Failed Files ](#archive-failed-list)| 0
@@ -11,7 +11,7 @@
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 969
 [ In Sync Handback Files ](#insync-handback-success-list)| 222
-[ Ignored Files ](#ignored-list)| 566
+[ Ignored Files ](#ignored-list)| 584
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -981,23 +981,23 @@
  [wdg-cpub-test\ndolci2\xaml-platform\x-null-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/xaml-platform/x-null-markup-extension.md) | OutofSyncHandedBackSuccess | [Details](#6dde74daf8818eca5d86e91e6ac03aa08d3fa5b01671)
  [wdg-cpub-test\ndolci2\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/xaml-platform/x-phase-attribute.md) | OutofSyncHandedBackSuccess | [Details](#fc3d01f664f5d39f4737dca073f846b6a19f16b81672)
  [wdg-cpub-test\ndolci2\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/5907beedcb3d2b1c6838847f2bba92e8c12a1675/wdg-cpub-test/ndolci2/xaml-platform/x-uid-directive.md) | OutofSyncHandedBackSuccess | [Details](#4895924423faa94a910a1308d2a3d8e8f419f2de1673)
- [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc/wdg-cpub-test/new_extension.md) | OutofSyncHandedBackSuccess | [Details](#b7e8d8638d928212045c967a4455299abc12643d1680)
- [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c5cba0ae77c9d90fd0b6096f5d59dee4b1b2f76e/wdg-cpub-test/tedhudek/markdown-tips.md) | OutofSyncHandedBackSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d81681)
- [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/29ae347b2fa06fb639d78e6824f86f06c8df5b81/wdg-cpub-test/tedhudek/tedhudek-home.md) | OutofSyncHandedBackSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c9821682)
- [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/dd49f8a83d549ae8256b7d20ec0b7b3d2bbcf044/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | OutofSyncHandedBackSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc86561683)
- [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/832cb2ffdbafae295ea6d90823c648b00038b4cc/wdg-cpub-test/tedhudek/workflow.md) | OutofSyncHandedBackSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b11684)
- [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | OutofSyncHandedBackSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41686)
- [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | OutofSyncHandedBackSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1685)
- [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/099022da3b1370b74fd863fbd2705de72c83f65c/wdg-cpub-test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b49701687)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png) | OutofSyncHandedBackSuccess | [Details](#e0f09dec7a25d3016140c132c7e6f0411589b8f31719)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png) | OutofSyncHandedBackSuccess | [Details](#21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1720)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png) | OutofSyncHandedBackSuccess | [Details](#df36e47e5bdc8ec928da08d1e7e8f66d7f4218371721)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png) | OutofSyncHandedBackSuccess | [Details](#b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd1722)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png) | OutofSyncHandedBackSuccess | [Details](#95f73079b57688206bf3238e1a509f0b81ba8da21723)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png) | OutofSyncHandedBackSuccess | [Details](#3ce2fdf00618bcc50d2d3b9454a1c522096e90531724)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png) | OutofSyncHandedBackSuccess | [Details](#65302587cbc9b4aa1c3633df61751962844f9e2c1725)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png) | OutofSyncHandedBackSuccess | [Details](#bd0c6c5437446ea0c01d45fd1049fff8f8b3790c1726)
- [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859/wdg-cpub-test/Welcome.md) | OutofSyncHandedBackSuccess | [Details](#006820bcd3f953dafa4de4cc7989a7155fb66e271757)
+ [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc/wdg-cpub-test/new_extension.md) | OutofSyncHandedBackSuccess | [Details](#b7e8d8638d928212045c967a4455299abc12643d1698)
+ [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c5cba0ae77c9d90fd0b6096f5d59dee4b1b2f76e/wdg-cpub-test/tedhudek/markdown-tips.md) | OutofSyncHandedBackSuccess | [Details](#c24bc1363e530c71c8a263f6e9c8743a949642d81699)
+ [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/29ae347b2fa06fb639d78e6824f86f06c8df5b81/wdg-cpub-test/tedhudek/tedhudek-home.md) | OutofSyncHandedBackSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c9821700)
+ [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/dd49f8a83d549ae8256b7d20ec0b7b3d2bbcf044/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | OutofSyncHandedBackSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc86561701)
+ [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/832cb2ffdbafae295ea6d90823c648b00038b4cc/wdg-cpub-test/tedhudek/workflow.md) | OutofSyncHandedBackSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b11702)
+ [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md) | OutofSyncHandedBackSuccess | [Details](#007206c8ebe98d26c62e908fea231470cccbd2b41704)
+ [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md) | OutofSyncHandedBackSuccess | [Details](#5810d7bc839c7c1efa60f960dd71475c986eae7d1703)
+ [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/099022da3b1370b74fd863fbd2705de72c83f65c/wdg-cpub-test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b49701705)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png) | OutofSyncHandedBackSuccess | [Details](#e0f09dec7a25d3016140c132c7e6f0411589b8f31737)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png) | OutofSyncHandedBackSuccess | [Details](#21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1738)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png) | OutofSyncHandedBackSuccess | [Details](#df36e47e5bdc8ec928da08d1e7e8f66d7f4218371739)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png) | OutofSyncHandedBackSuccess | [Details](#b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd1740)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png) | OutofSyncHandedBackSuccess | [Details](#95f73079b57688206bf3238e1a509f0b81ba8da21741)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png) | OutofSyncHandedBackSuccess | [Details](#3ce2fdf00618bcc50d2d3b9454a1c522096e90531742)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png) | OutofSyncHandedBackSuccess | [Details](#65302587cbc9b4aa1c3633df61751962844f9e2c1743)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png) | OutofSyncHandedBackSuccess | [Details](#bd0c6c5437446ea0c01d45fd1049fff8f8b3790c1744)
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859/wdg-cpub-test/Welcome.md) | OutofSyncHandedBackSuccess | [Details](#006820bcd3f953dafa4de4cc7989a7155fb66e271775)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
@@ -1165,65 +1165,65 @@
  [wdg-cpub-test\ndolci2\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/xaml-platform/xaml-and-whitespace.md) | InSyncHandedBackSuccess | [Details](#01112910296923a767e3968f35d286e661cf29e51674)
  [wdg-cpub-test\ndolci2\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/xaml-platform/xaml-intrinsic-data-types.md) | InSyncHandedBackSuccess | [Details](#2c36a6c3b75da75567b5bcd368812c98927b4a851675)
  [wdg-cpub-test\ndolci2\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/xaml-platform/xaml-namescopes.md) | InSyncHandedBackSuccess | [Details](#67beb04cc87765a4c2edb249a61ba300cd9a75441676)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md) | InSyncHandedBackSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md) | InSyncHandedBackSuccess | [Details](#bc1bd22aaf8c51a4835b167542d48012081149091689)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md) | InSyncHandedBackSuccess | [Details](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md) | InSyncHandedBackSuccess | [Details](#7c0a254e07bedb26fab52d53262487cece4d237a1691)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md) | InSyncHandedBackSuccess | [Details](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md) | InSyncHandedBackSuccess | [Details](#a1f089b324da35f3367411713ba47b97bc378aea1694)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md) | InSyncHandedBackSuccess | [Details](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1696)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md) | InSyncHandedBackSuccess | [Details](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721697)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md) | InSyncHandedBackSuccess | [Details](#5343ab2c23eba904df16b371331932e6c68e77e11698)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md) | InSyncHandedBackSuccess | [Details](#1bba3a5611ed7cf5552868f12949dfcc91b018031699)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md) | InSyncHandedBackSuccess | [Details](#b7d297ad5e963244bcb2656e6eec5d65e61616931700)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md) | InSyncHandedBackSuccess | [Details](#f3117b3cdb002de76694289880b091ba18c8be281701)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md) | InSyncHandedBackSuccess | [Details](#edae1ec6d3f626044ac86796d3dc8db87266d7451702)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md) | InSyncHandedBackSuccess | [Details](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1703)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md) | InSyncHandedBackSuccess | [Details](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md) | InSyncHandedBackSuccess | [Details](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md) | InSyncHandedBackSuccess | [Details](#76fa9c94a7046c03368837e626ad9bf790e8fb881706)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md) | InSyncHandedBackSuccess | [Details](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#3297a5352e1c2eb36ebf22719c59327ed41cf1501708)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md) | InSyncHandedBackSuccess | [Details](#c9bd51c0edbff713f41e18a4320a9258f41790f41709)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md) | InSyncHandedBackSuccess | [Details](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991712)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md) | InSyncHandedBackSuccess | [Details](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1713)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md) | InSyncHandedBackSuccess | [Details](#910f50e73a8efdea0431ea565dfdc7374a019a681714)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md) | InSyncHandedBackSuccess | [Details](#f7c60f736b125c8a6268e121c760935f75ec01b81717)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md) | InSyncHandedBackSuccess | [Details](#df87a7f5e0f9d173de97215cbcf226f5018883e11718)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#7b4309bbd7b1ed204d4d13bd147501ee21b805181727)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md) | InSyncHandedBackSuccess | [Details](#33944380a77ab473af686145779f4bd31b02403b1728)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md) | InSyncHandedBackSuccess | [Details](#430268ba843e894f0d159b37797f3c19617139df1729)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md) | InSyncHandedBackSuccess | [Details](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271730)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1732)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md) | InSyncHandedBackSuccess | [Details](#72642cee1d11a58aa21cf7230ae37f3e891206291734)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md) | InSyncHandedBackSuccess | [Details](#016372eb9bea6d8f16bae5473856354e041c57811735)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md) | InSyncHandedBackSuccess | [Details](#706fb0cec4a283cebe4e5551de6f59252a0159351736)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md) | InSyncHandedBackSuccess | [Details](#23c305d9bace8d02454eb415a1a1e7d183c431751737)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md) | InSyncHandedBackSuccess | [Details](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md) | InSyncHandedBackSuccess | [Details](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md) | InSyncHandedBackSuccess | [Details](#9b013e5154608d58c84085247b3e9c6fcc42e4781740)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md) | InSyncHandedBackSuccess | [Details](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md) | InSyncHandedBackSuccess | [Details](#0940c46a0b1b6360639f55de72286b433059a3821743)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md) | InSyncHandedBackSuccess | [Details](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md) | InSyncHandedBackSuccess | [Details](#bffcc9c5d253e19122bdbef216af77669a3653011745)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md) | InSyncHandedBackSuccess | [Details](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961746)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md) | InSyncHandedBackSuccess | [Details](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce151748)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce151749)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1750)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md) | InSyncHandedBackSuccess | [Details](#b0477a3ded515799ddbf6dc256d7a1f8376228c61751)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md) | InSyncHandedBackSuccess | [Details](#746ac811fff544d1647f55827dc700e460e5f88e1753)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md) | InSyncHandedBackSuccess | [Details](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md) | InSyncHandedBackSuccess | [Details](#d310c4b3d444ed7b5dc551ca034106fc466179871755)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#79a3dd217ffa3beb73851aac9bb6609218e946991756)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md) | InSyncHandedBackSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md) | InSyncHandedBackSuccess | [Details](#bc1bd22aaf8c51a4835b167542d48012081149091707)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md) | InSyncHandedBackSuccess | [Details](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md) | InSyncHandedBackSuccess | [Details](#7c0a254e07bedb26fab52d53262487cece4d237a1709)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md) | InSyncHandedBackSuccess | [Details](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md) | InSyncHandedBackSuccess | [Details](#a1f089b324da35f3367411713ba47b97bc378aea1712)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821713)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md) | InSyncHandedBackSuccess | [Details](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1714)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md) | InSyncHandedBackSuccess | [Details](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721715)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md) | InSyncHandedBackSuccess | [Details](#5343ab2c23eba904df16b371331932e6c68e77e11716)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md) | InSyncHandedBackSuccess | [Details](#1bba3a5611ed7cf5552868f12949dfcc91b018031717)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md) | InSyncHandedBackSuccess | [Details](#b7d297ad5e963244bcb2656e6eec5d65e61616931718)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md) | InSyncHandedBackSuccess | [Details](#f3117b3cdb002de76694289880b091ba18c8be281719)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md) | InSyncHandedBackSuccess | [Details](#edae1ec6d3f626044ac86796d3dc8db87266d7451720)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md) | InSyncHandedBackSuccess | [Details](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1721)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md) | InSyncHandedBackSuccess | [Details](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1722)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md) | InSyncHandedBackSuccess | [Details](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md) | InSyncHandedBackSuccess | [Details](#76fa9c94a7046c03368837e626ad9bf790e8fb881724)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md) | InSyncHandedBackSuccess | [Details](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201725)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#3297a5352e1c2eb36ebf22719c59327ed41cf1501726)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md) | InSyncHandedBackSuccess | [Details](#c9bd51c0edbff713f41e18a4320a9258f41790f41727)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md) | InSyncHandedBackSuccess | [Details](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991730)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md) | InSyncHandedBackSuccess | [Details](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1731)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md) | InSyncHandedBackSuccess | [Details](#910f50e73a8efdea0431ea565dfdc7374a019a681732)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md) | InSyncHandedBackSuccess | [Details](#f7c60f736b125c8a6268e121c760935f75ec01b81735)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md) | InSyncHandedBackSuccess | [Details](#df87a7f5e0f9d173de97215cbcf226f5018883e11736)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#7b4309bbd7b1ed204d4d13bd147501ee21b805181745)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md) | InSyncHandedBackSuccess | [Details](#33944380a77ab473af686145779f4bd31b02403b1746)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md) | InSyncHandedBackSuccess | [Details](#430268ba843e894f0d159b37797f3c19617139df1747)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md) | InSyncHandedBackSuccess | [Details](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271748)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1750)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61751)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md) | InSyncHandedBackSuccess | [Details](#72642cee1d11a58aa21cf7230ae37f3e891206291752)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md) | InSyncHandedBackSuccess | [Details](#016372eb9bea6d8f16bae5473856354e041c57811753)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md) | InSyncHandedBackSuccess | [Details](#706fb0cec4a283cebe4e5551de6f59252a0159351754)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md) | InSyncHandedBackSuccess | [Details](#23c305d9bace8d02454eb415a1a1e7d183c431751755)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md) | InSyncHandedBackSuccess | [Details](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md) | InSyncHandedBackSuccess | [Details](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1757)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md) | InSyncHandedBackSuccess | [Details](#9b013e5154608d58c84085247b3e9c6fcc42e4781758)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md) | InSyncHandedBackSuccess | [Details](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1759)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md) | InSyncHandedBackSuccess | [Details](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md) | InSyncHandedBackSuccess | [Details](#0940c46a0b1b6360639f55de72286b433059a3821761)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md) | InSyncHandedBackSuccess | [Details](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md) | InSyncHandedBackSuccess | [Details](#bffcc9c5d253e19122bdbef216af77669a3653011763)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md) | InSyncHandedBackSuccess | [Details](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961764)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md) | InSyncHandedBackSuccess | [Details](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1765)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce151766)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce151767)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1768)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md) | InSyncHandedBackSuccess | [Details](#b0477a3ded515799ddbf6dc256d7a1f8376228c61769)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md) | InSyncHandedBackSuccess | [Details](#746ac811fff544d1647f55827dc700e460e5f88e1771)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md) | InSyncHandedBackSuccess | [Details](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1772)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md) | InSyncHandedBackSuccess | [Details](#d310c4b3d444ed7b5dc551ca034106fc466179871773)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#79a3dd217ffa3beb73851aac9bb6609218e946991774)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -1792,8 +1792,26 @@
  [wdg-cpub-test\ndolci2\threading-async\AsyncSnippets\vbnet\My Project\AssemblyInfo.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/threading-async/AsyncSnippets/vbnet/My%20Project/AssemblyInfo.vb) | Ignored | [Details](#9330ad5b077989dcfe92b1055480db8ed7212ee71629)
  [wdg-cpub-test\ndolci2\threading-async\AsyncSnippets\vbnet\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/threading-async/AsyncSnippets/vbnet/Package.appxmanifest) | Ignored | [Details](#86de7932acf1ad56d65ff8b0c68c4e4a4da2e53a1630)
  [wdg-cpub-test\ndolci2\threading-async\AsyncSnippets\vbnet\VBAsync.vbproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolci2/threading-async/AsyncSnippets/vbnet/VBAsync.vbproj) | Ignored | [Details](#1e9df380bcf03b42e8b6618be85b7686ef61fe7a1631)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd1693)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e161710)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility.md) | Ignored | [Details](#3bbd7ff5fac634a2d5b0f0cb2cf2db7b4315d3b31684)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-checklist.md) | Ignored | [Details](#9580ccc0716b7e9f4ee32ce241b0ac3ee9bf319d1680)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-in-the-store.md) | Ignored | [Details](#46dfe4fba383861c704b2ba9070bdd8102b105621681)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-overview.md) | Ignored | [Details](#430484a9243abc644de75d35c03bb11cf47960c01682)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-testing.md) | Ignored | [Details](#5ca4df0608adcba8824e2196c3f82cc025f5e70a1683)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessible-text-requirements.md) | Ignored | [Details](#b8316a5f1e869ea19f9f228f3b41b4abf46b4edd1685)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/basic-accessibility-information.md) | Ignored | [Details](#5bf13f4efc571dd449e7557e7b347f909e1cffa41686)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/control-patterns-and-interfaces.md) | Ignored | [Details](#71071c989ca4aaa727d18d3ec25d8642517c4b261687)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\custom-automation-peers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/custom-automation-peers.md) | Ignored | [Details](#893e17205783bfb787ae5597a48abcb09fb6631f1688)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\designing-inclusive-software.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/designing-inclusive-software.md) | Ignored | [Details](#6f1c0663034f81bb0ddfe42c04fbe60562b45c1c1689)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\developing-inclusive-windows-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/developing-inclusive-windows-apps.md) | Ignored | [Details](#77c401fd9686cb260e7b2d9e4bdf47a91d76802e1690)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\high-contrast-themes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/high-contrast-themes.md) | Ignored | [Details](#44562de02c52e4d44cc5559d8d74425a620477be1691)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-actions-content.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-actions-content.png) | Ignored | [Details](#fadcf03d057b6df66013a9c682ab6e765093ba111692)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-resources.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-resources.png) | Ignored | [Details](#6b7b3e65b7373ec44f50af0e955eddfc45c1141b1693)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-settings.png) | Ignored | [Details](#918fc9f6acb579d368f8ca273f58d25482b49e341694)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\images\inspect.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/inspect.png) | Ignored | [Details](#8f3ec44999f8dcc62af1bd7ee0b058db077f24ac1695)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\keyboard-accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/keyboard-accessibility.md) | Ignored | [Details](#433f1fb4ccb92f262b33ecea97f1bf8fe335cb481696)
+ [wdg-cpub-test\ndolciTestTDReach\accessibility\practices-to-avoid.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/practices-to-avoid.md) | Ignored | [Details](#b5f5f220d5ff70d70dd797c0bf26a355bd4475631697)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd1711)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e161728)
 
 ## Item Details
 ##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/.gitignore)
@@ -25010,7 +25028,223 @@
 * Bilingual Error:[bilingual_uploading_failed](#4895924423faa94a910a1308d2a3d8e8f419f2de1673bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='b7e8d8638d928212045c967a4455299abc12643d1680'></a> Source: [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc/wdg-cpub-test/new_extension.md)
+##### <a name='3bbd7ff5fac634a2d5b0f0cb2cf2db7b4315d3b31684'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='9580ccc0716b7e9f4ee32ce241b0ac3ee9bf319d1680'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-checklist.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='46dfe4fba383861c704b2ba9070bdd8102b105621681'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-in-the-store.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-in-the-store.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='430484a9243abc644de75d35c03bb11cf47960c01682'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-overview.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='5ca4df0608adcba8824e2196c3f82cc025f5e70a1683'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessibility-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessibility-testing.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='b8316a5f1e869ea19f9f228f3b41b4abf46b4edd1685'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\accessible-text-requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/accessible-text-requirements.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='5bf13f4efc571dd449e7557e7b347f909e1cffa41686'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\basic-accessibility-information.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/basic-accessibility-information.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='71071c989ca4aaa727d18d3ec25d8642517c4b261687'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\control-patterns-and-interfaces.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/control-patterns-and-interfaces.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='893e17205783bfb787ae5597a48abcb09fb6631f1688'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\custom-automation-peers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/custom-automation-peers.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='6f1c0663034f81bb0ddfe42c04fbe60562b45c1c1689'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\designing-inclusive-software.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/designing-inclusive-software.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='77c401fd9686cb260e7b2d9e4bdf47a91d76802e1690'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\developing-inclusive-windows-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/developing-inclusive-windows-apps.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='44562de02c52e4d44cc5559d8d74425a620477be1691'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\high-contrast-themes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/high-contrast-themes.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='fadcf03d057b6df66013a9c682ab6e765093ba111692'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-actions-content.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-actions-content.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='6b7b3e65b7373ec44f50af0e955eddfc45c1141b1693'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-resources.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-resources.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='918fc9f6acb579d368f8ca273f58d25482b49e341694'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\images\high-contrast-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/high-contrast-settings.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='8f3ec44999f8dcc62af1bd7ee0b058db077f24ac1695'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\images\inspect.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/images/inspect.png)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='433f1fb4ccb92f262b33ecea97f1bf8fe335cb481696'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\keyboard-accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/keyboard-accessibility.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='b5f5f220d5ff70d70dd797c0bf26a355bd4475631697'></a> Source: [wdg-cpub-test\ndolciTestTDReach\accessibility\practices-to-avoid.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/ndolciTestTDReach/accessibility/practices-to-avoid.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='b7e8d8638d928212045c967a4455299abc12643d1698'></a> Source: [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/04c9c004728d8e4dc0cd570bf4e1b4a6ac327dfc/wdg-cpub-test/new_extension.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\new_extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/new_extension.md)
 * Handoff File: [new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/new_extension.f88bd3f6fa14afe4748498423af87153bb741983.fr-fr.xlf)
@@ -25024,7 +25258,7 @@
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='c24bc1363e530c71c8a263f6e9c8743a949642d81681'></a> Source: [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c5cba0ae77c9d90fd0b6096f5d59dee4b1b2f76e/wdg-cpub-test/tedhudek/markdown-tips.md)
+##### <a name='c24bc1363e530c71c8a263f6e9c8743a949642d81699'></a> Source: [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/c5cba0ae77c9d90fd0b6096f5d59dee4b1b2f76e/wdg-cpub-test/tedhudek/markdown-tips.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\markdown-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/tedhudek/markdown-tips.md)
 * Handoff File: [markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf)
@@ -25036,10 +25270,10 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * Bilingual File: [markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#c24bc1363e530c71c8a263f6e9c8743a949642d81681bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#c24bc1363e530c71c8a263f6e9c8743a949642d81699bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='347bd1181dc590d634f5032591cc574f3786c9821682'></a> Source: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/29ae347b2fa06fb639d78e6824f86f06c8df5b81/wdg-cpub-test/tedhudek/tedhudek-home.md)
+##### <a name='347bd1181dc590d634f5032591cc574f3786c9821700'></a> Source: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/29ae347b2fa06fb639d78e6824f86f06c8df5b81/wdg-cpub-test/tedhudek/tedhudek-home.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/tedhudek/tedhudek-home.md)
 * Handoff File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf)
@@ -25051,10 +25285,10 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * Bilingual File: [tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#347bd1181dc590d634f5032591cc574f3786c9821682bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#347bd1181dc590d634f5032591cc574f3786c9821700bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='65a5708190ddfe0bc61006985f5c3f17eafc86561683'></a> Source: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/dd49f8a83d549ae8256b7d20ec0b7b3d2bbcf044/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
+##### <a name='65a5708190ddfe0bc61006985f5c3f17eafc86561701'></a> Source: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/dd49f8a83d549ae8256b7d20ec0b7b3d2bbcf044/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md)
 * Handoff File: [wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.fr-fr.xlf)
@@ -25068,7 +25302,7 @@
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='6a21b92dfe46a00d5243914c41459fe2cf4569b11684'></a> Source: [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/832cb2ffdbafae295ea6d90823c648b00038b4cc/wdg-cpub-test/tedhudek/workflow.md)
+##### <a name='6a21b92dfe46a00d5243914c41459fe2cf4569b11702'></a> Source: [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/832cb2ffdbafae295ea6d90823c648b00038b4cc/wdg-cpub-test/tedhudek/workflow.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/tedhudek/workflow.md)
 * Handoff File: [workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf)
@@ -25080,10 +25314,10 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * Bilingual File: [workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#6a21b92dfe46a00d5243914c41459fe2cf4569b11684bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#6a21b92dfe46a00d5243914c41459fe2cf4569b11702bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='007206c8ebe98d26c62e908fea231470cccbd2b41686'></a> Source: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md)
+##### <a name='007206c8ebe98d26c62e908fea231470cccbd2b41704'></a> Source: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/730e19953dcd6d4a0396c71a57192536084d0ac2/wdg-cpub-test/testhtml.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/testhtml.md)
 * Handoff File: [testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testhtml.a5059cd2abaa4519b328ce39518d5ebfcd6b4fc0.fr-fr.xlf)
@@ -25097,7 +25331,7 @@
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d1685'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
+##### <a name='5810d7bc839c7c1efa60f960dd71475c986eae7d1703'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/174bb04cd8a312735024d4ae92a2bfd3cc8c2f9e/wdg-cpub-test/test-xliff-2.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/test-xliff-2.md)
 * Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
@@ -25109,10 +25343,10 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * Bilingual File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#5810d7bc839c7c1efa60f960dd71475c986eae7d1685bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#5810d7bc839c7c1efa60f960dd71475c986eae7d1703bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='1a4983ce48e441c39272f65d1655d8c7ca2b49701687'></a> Source: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/099022da3b1370b74fd863fbd2705de72c83f65c/wdg-cpub-test/TOC.md)
+##### <a name='1a4983ce48e441c39272f65d1655d8c7ca2b49701705'></a> Source: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/099022da3b1370b74fd863fbd2705de72c83f65c/wdg-cpub-test/TOC.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/TOC.md)
 * Handoff File: [TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.fr-fr.xlf)
@@ -25126,7 +25360,7 @@
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md)
 * Handoff File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
@@ -25136,13 +25370,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706handback_validate_file_name_invalide)
 * Bilingual File: [analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='bc1bd22aaf8c51a4835b167542d48012081149091689'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
+##### <a name='bc1bd22aaf8c51a4835b167542d48012081149091707'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
 * Handoff File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
@@ -25152,13 +25386,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#bc1bd22aaf8c51a4835b167542d48012081149091689handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#bc1bd22aaf8c51a4835b167542d48012081149091707handback_validate_file_name_invalide)
 * Bilingual File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#bc1bd22aaf8c51a4835b167542d48012081149091689bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#bc1bd22aaf8c51a4835b167542d48012081149091707bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md)
+##### <a name='16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/avoiding_floating_point_errors_in_custom_build_environments.md)
 * Handoff File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
@@ -25168,13 +25402,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708handback_validate_file_name_invalide)
 * Bilingual File: [avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='7c0a254e07bedb26fab52d53262487cece4d237a1691'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md)
+##### <a name='7c0a254e07bedb26fab52d53262487cece4d237a1709'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_a_driver.md)
 * Handoff File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
@@ -25184,13 +25418,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#7c0a254e07bedb26fab52d53262487cece4d237a1691handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#7c0a254e07bedb26fab52d53262487cece4d237a1709handback_validate_file_name_invalide)
 * Bilingual File: [building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#7c0a254e07bedb26fab52d53262487cece4d237a1691bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#7c0a254e07bedb26fab52d53262487cece4d237a1709bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md)
+##### <a name='3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/building_drivers_for_different_versions_of_windows.md)
 * Handoff File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
@@ -25200,13 +25434,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710handback_validate_file_name_invalide)
 * Bilingual File: [building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd1693'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
+##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd1711'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -25218,7 +25452,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a1f089b324da35f3367411713ba47b97bc378aea1694'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md)
+##### <a name='a1f089b324da35f3367411713ba47b97bc378aea1712'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/converting_wdk_8_1_projects_to_wdk_10.md)
 * Handoff File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
@@ -25228,12 +25462,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#a1f089b324da35f3367411713ba47b97bc378aea1694handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#a1f089b324da35f3367411713ba47b97bc378aea1712handback_validate_file_name_invalide)
 * Bilingual File: [converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md)
+##### <a name='d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821713'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/counters_manifest_preprocessor_properties_for_driver_projects.md)
 * Handoff File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
@@ -25243,12 +25477,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821713handback_validate_file_name_invalide)
 * Bilingual File: [counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='f2b1b34b29fd719fe86032d51233ed09dd667d8c1696'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md)
+##### <a name='f2b1b34b29fd719fe86032d51233ed09dd667d8c1714'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/create_a_custom_driver_installation_script.md)
 * Handoff File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
@@ -25258,13 +25492,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1696handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1714handback_validate_file_name_invalide)
 * Bilingual File: [create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1696bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1714bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='263bc47cd7c17e6691a81dc4dc6b6c2484381e721697'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md)
+##### <a name='263bc47cd7c17e6691a81dc4dc6b6c2484381e721715'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_device_metadata_package.md)
 * Handoff File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
@@ -25274,13 +25508,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721697handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721715handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721697bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721715bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='5343ab2c23eba904df16b371331932e6c68e77e11698'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md)
+##### <a name='5343ab2c23eba904df16b371331932e6c68e77e11716'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_from_existing_source_files.md)
 * Handoff File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
@@ -25290,12 +25524,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#5343ab2c23eba904df16b371331932e6c68e77e11698handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#5343ab2c23eba904df16b371331932e6c68e77e11716handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='1bba3a5611ed7cf5552868f12949dfcc91b018031699'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md)
+##### <a name='1bba3a5611ed7cf5552868f12949dfcc91b018031717'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_package.md)
 * Handoff File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
@@ -25305,13 +25539,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#1bba3a5611ed7cf5552868f12949dfcc91b018031699handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#1bba3a5611ed7cf5552868f12949dfcc91b018031717handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#1bba3a5611ed7cf5552868f12949dfcc91b018031699bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#1bba3a5611ed7cf5552868f12949dfcc91b018031717bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='b7d297ad5e963244bcb2656e6eec5d65e61616931700'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md)
+##### <a name='b7d297ad5e963244bcb2656e6eec5d65e61616931718'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_driver_verification_log.md)
 * Handoff File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
@@ -25321,12 +25555,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#b7d297ad5e963244bcb2656e6eec5d65e61616931700handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#b7d297ad5e963244bcb2656e6eec5d65e61616931718handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='f3117b3cdb002de76694289880b091ba18c8be281701'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md)
+##### <a name='f3117b3cdb002de76694289880b091ba18c8be281719'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_static_driver_verifier.md)
 * Handoff File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
@@ -25336,12 +25570,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#f3117b3cdb002de76694289880b091ba18c8be281701handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#f3117b3cdb002de76694289880b091ba18c8be281719handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='edae1ec6d3f626044ac86796d3dc8db87266d7451702'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md)
+##### <a name='edae1ec6d3f626044ac86796d3dc8db87266d7451720'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_log_file_for_the_code_analysis_tool.md)
 * Handoff File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
@@ -25351,12 +25585,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#edae1ec6d3f626044ac86796d3dc8db87266d7451702handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#edae1ec6d3f626044ac86796d3dc8db87266d7451720handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='4eb4c2166e3dccf170e59fb0558839a8eced80eb1703'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md)
+##### <a name='4eb4c2166e3dccf170e59fb0558839a8eced80eb1721'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_driver.md)
 * Handoff File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
@@ -25366,12 +25600,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1703handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1721handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md)
+##### <a name='fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1722'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_filter_driver.md)
 * Handoff File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
@@ -25381,12 +25615,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1722handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md)
+##### <a name='14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/creating_a_new_software_driver.md)
 * Handoff File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
@@ -25396,13 +25630,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723handback_validate_file_name_invalide)
 * Bilingual File: [creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='76fa9c94a7046c03368837e626ad9bf790e8fb881706'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md)
+##### <a name='76fa9c94a7046c03368837e626ad9bf790e8fb881724'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/debugging_a_driver.md)
 * Handoff File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
@@ -25412,13 +25646,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#76fa9c94a7046c03368837e626ad9bf790e8fb881706handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#76fa9c94a7046c03368837e626ad9bf790e8fb881724handback_validate_file_name_invalide)
 * Bilingual File: [debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#76fa9c94a7046c03368837e626ad9bf790e8fb881706bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#76fa9c94a7046c03368837e626ad9bf790e8fb881724bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md)
+##### <a name='17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201725'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deploying_a_driver_to_a_test_computer.md)
 * Handoff File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
@@ -25428,12 +25662,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201725handback_validate_file_name_invalide)
 * Bilingual File: [deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='3297a5352e1c2eb36ebf22719c59327ed41cf1501708'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md)
+##### <a name='3297a5352e1c2eb36ebf22719c59327ed41cf1501726'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/deployment_properties_for_driver_projects.md)
 * Handoff File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
@@ -25443,13 +25677,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#3297a5352e1c2eb36ebf22719c59327ed41cf1501708handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#3297a5352e1c2eb36ebf22719c59327ed41cf1501726handback_validate_file_name_invalide)
 * Bilingual File: [deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#3297a5352e1c2eb36ebf22719c59327ed41cf1501708bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#3297a5352e1c2eb36ebf22719c59327ed41cf1501726bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='c9bd51c0edbff713f41e18a4320a9258f41790f41709'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md)
+##### <a name='c9bd51c0edbff713f41e18a4320a9258f41790f41727'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/distributing_a_driver_package_win8.md)
 * Handoff File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
@@ -25459,12 +25693,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#c9bd51c0edbff713f41e18a4320a9258f41790f41709handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#c9bd51c0edbff713f41e18a4320a9258f41790f41727handback_validate_file_name_invalide)
 * Bilingual File: [distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e161710'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
+##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e161728'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -25476,7 +25710,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md)
+##### <a name='518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_convergence.md)
 * Handoff File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
@@ -25486,13 +25720,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729handback_validate_file_name_invalide)
 * Bilingual File: [driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='6d1fa3f612f227f54d01ffbf3a526d8eb04568991712'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md)
+##### <a name='6d1fa3f612f227f54d01ffbf3a526d8eb04568991730'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_model_settings_properties_for_driver_projects.md)
 * Handoff File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
@@ -25502,13 +25736,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991712handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991730handback_validate_file_name_invalide)
 * Bilingual File: [driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991712bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991730bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='1b86766fe1136ea1d7d8deaee6d457487289cc1b1713'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md)
+##### <a name='1b86766fe1136ea1d7d8deaee6d457487289cc1b1731'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_signing_properties.md)
 * Handoff File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
@@ -25518,13 +25752,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1713handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1731handback_validate_file_name_invalide)
 * Bilingual File: [driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1713bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1731bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='910f50e73a8efdea0431ea565dfdc7374a019a681714'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md)
+##### <a name='910f50e73a8efdea0431ea565dfdc7374a019a681732'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/driver_verifier_properties_for__driver_projects.md)
 * Handoff File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
@@ -25534,12 +25768,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#910f50e73a8efdea0431ea565dfdc7374a019a681714handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#910f50e73a8efdea0431ea565dfdc7374a019a681732handback_validate_file_name_invalide)
 * Bilingual File: [driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md)
+##### <a name='6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/getting_started_with_universal_drivers.md)
 * Handoff File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
@@ -25549,13 +25783,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733handback_validate_file_name_invalide)
 * Bilingual File: [getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md)
+##### <a name='fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_select_and_configure_the_device_fundamental_tests.md)
 * Handoff File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
@@ -25565,13 +25799,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734handback_validate_file_name_invalide)
 * Bilingual File: [how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='f7c60f736b125c8a6268e121c760935f75ec01b81717'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md)
+##### <a name='f7c60f736b125c8a6268e121c760935f75ec01b81735'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_test_a_driver_at_runtime_from_a_command_prompt.md)
 * Handoff File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
@@ -25581,13 +25815,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#f7c60f736b125c8a6268e121c760935f75ec01b81717handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#f7c60f736b125c8a6268e121c760935f75ec01b81735handback_validate_file_name_invalide)
 * Bilingual File: [how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#f7c60f736b125c8a6268e121c760935f75ec01b81717bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#f7c60f736b125c8a6268e121c760935f75ec01b81735bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='df87a7f5e0f9d173de97215cbcf226f5018883e11718'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md)
+##### <a name='df87a7f5e0f9d173de97215cbcf226f5018883e11736'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/how_to_write_a_driver_test_.md)
 * Handoff File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
@@ -25597,12 +25831,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#df87a7f5e0f9d173de97215cbcf226f5018883e11718handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#df87a7f5e0f9d173de97215cbcf226f5018883e11736handback_validate_file_name_invalide)
 * Bilingual File: [how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='e0f09dec7a25d3016140c132c7e6f0411589b8f31719'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png)
+##### <a name='e0f09dec7a25d3016140c132c7e6f0411589b8f31737'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\attestation_driver_signing_submission_dashboard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/attestation_driver_signing_submission_dashboard.png)
 * Handoff File: [e0f09dec7a25d3016140c132c7e6f0411589b8f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/e0f09dec7a25d3016140c132c7e6f0411589b8f3.png)
@@ -25615,7 +25849,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1720'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png)
+##### <a name='21987b89a2bd6120f2fbb8084c822d6cf0f5b73e1738'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\b_wes_driversigning_v2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/b_wes_driversigning_v2.png)
 * Handoff File: [21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png)
@@ -25628,7 +25862,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='df36e47e5bdc8ec928da08d1e7e8f66d7f4218371721'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png)
+##### <a name='df36e47e5bdc8ec928da08d1e7e8f66d7f4218371739'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\ert_test_results.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/ert_test_results.png)
 * Handoff File: [df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png)
@@ -25641,7 +25875,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd1722'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png)
+##### <a name='b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd1740'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\MultipleDriversSingleSolution.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/MultipleDriversSingleSolution.png)
 * Handoff File: [b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png)
@@ -25654,7 +25888,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='95f73079b57688206bf3238e1a509f0b81ba8da21723'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png)
+##### <a name='95f73079b57688206bf3238e1a509f0b81ba8da21741'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\SigningADriver01.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/SigningADriver01.png)
 * Handoff File: [95f73079b57688206bf3238e1a509f0b81ba8da2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/95f73079b57688206bf3238e1a509f0b81ba8da2.png)
@@ -25667,7 +25901,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='3ce2fdf00618bcc50d2d3b9454a1c522096e90531724'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png)
+##### <a name='3ce2fdf00618bcc50d2d3b9454a1c522096e90531742'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\TargetPlatform.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/TargetPlatform.png)
 * Handoff File: [3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png)
@@ -25680,7 +25914,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='65302587cbc9b4aa1c3633df61751962844f9e2c1725'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png)
+##### <a name='65302587cbc9b4aa1c3633df61751962844f9e2c1743'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsDrvrPkgProps.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsDrvrPkgProps.png)
 * Handoff File: [65302587cbc9b4aa1c3633df61751962844f9e2c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/65302587cbc9b4aa1c3633df61751962844f9e2c.png)
@@ -25693,7 +25927,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='bd0c6c5437446ea0c01d45fd1049fff8f8b3790c1726'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png)
+##### <a name='bd0c6c5437446ea0c01d45fd1049fff8f8b3790c1744'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png)
 * Status: OutofSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\images\VsSlnExplorer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/images/VsSlnExplorer.png)
 * Handoff File: [bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png)
@@ -25706,7 +25940,7 @@
 * Handback Datetime: 2016-05-25 01:42:01
 * [Back to Top](#report-top)
 
-##### <a name='7b4309bbd7b1ed204d4d13bd147501ee21b805181727'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md)
+##### <a name='7b4309bbd7b1ed204d4d13bd147501ee21b805181745'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/inf2cat_properties_for_driver_package_projects.md)
 * Handoff File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
@@ -25716,13 +25950,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#7b4309bbd7b1ed204d4d13bd147501ee21b805181727handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#7b4309bbd7b1ed204d4d13bd147501ee21b805181745handback_validate_file_name_invalide)
 * Bilingual File: [inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#7b4309bbd7b1ed204d4d13bd147501ee21b805181727bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#7b4309bbd7b1ed204d4d13bd147501ee21b805181745bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='33944380a77ab473af686145779f4bd31b02403b1728'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md)
+##### <a name='33944380a77ab473af686145779f4bd31b02403b1746'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_a_universal_driver.md)
 * Handoff File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
@@ -25732,13 +25966,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#33944380a77ab473af686145779f4bd31b02403b1728handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#33944380a77ab473af686145779f4bd31b02403b1746handback_validate_file_name_invalide)
 * Bilingual File: [installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#33944380a77ab473af686145779f4bd31b02403b1728bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#33944380a77ab473af686145779f4bd31b02403b1746bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='430268ba843e894f0d159b37797f3c19617139df1729'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md)
+##### <a name='430268ba843e894f0d159b37797f3c19617139df1747'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/Installing_the_Enterprise_WDK.md)
 * Handoff File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
@@ -25748,12 +25982,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#430268ba843e894f0d159b37797f3c19617139df1729handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#430268ba843e894f0d159b37797f3c19617139df1747handback_validate_file_name_invalide)
 * Bilingual File: [Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='e7d9924085fd0a96a082ec31929c6cf8b6a23e271730'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md)
+##### <a name='e7d9924085fd0a96a082ec31929c6cf8b6a23e271748'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/installing_the_wdk_build_environment_in_a_lab.md)
 * Handoff File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
@@ -25763,12 +25997,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271730handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271748handback_validate_file_name_invalide)
 * Bilingual File: [installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md)
+##### <a name='e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/kmdf_verifier_properties_for_driver_package_projects.md)
 * Handoff File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
@@ -25778,13 +26012,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749handback_validate_file_name_invalide)
 * Bilingual File: [kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='c90ab2e265a02e42262c86460aa75b087c2f1cfe1732'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md)
+##### <a name='c90ab2e265a02e42262c86460aa75b087c2f1cfe1750'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/message_compiler_properties_for_driver_projects.md)
 * Handoff File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
@@ -25794,13 +26028,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1732handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1750handback_validate_file_name_invalide)
 * Bilingual File: [message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1732bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1750bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md)
+##### <a name='1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61751'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/mof_compiler_properties_for_driver_projects.md)
 * Handoff File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
@@ -25810,12 +26044,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61751handback_validate_file_name_invalide)
 * Bilingual File: [mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='72642cee1d11a58aa21cf7230ae37f3e891206291734'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md)
+##### <a name='72642cee1d11a58aa21cf7230ae37f3e891206291752'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/preparing_a_computer_for_manual_driver_deployment.md)
 * Handoff File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
@@ -25825,12 +26059,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#72642cee1d11a58aa21cf7230ae37f3e891206291734handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#72642cee1d11a58aa21cf7230ae37f3e891206291752handback_validate_file_name_invalide)
 * Bilingual File: [preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='016372eb9bea6d8f16bae5473856354e041c57811735'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md)
+##### <a name='016372eb9bea6d8f16bae5473856354e041c57811753'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/read_the_driver_test_results_log.md)
 * Handoff File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
@@ -25840,13 +26074,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#016372eb9bea6d8f16bae5473856354e041c57811735handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#016372eb9bea6d8f16bae5473856354e041c57811753handback_validate_file_name_invalide)
 * Bilingual File: [read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#016372eb9bea6d8f16bae5473856354e041c57811735bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#016372eb9bea6d8f16bae5473856354e041c57811753bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='706fb0cec4a283cebe4e5551de6f59252a0159351736'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md)
+##### <a name='706fb0cec4a283cebe4e5551de6f59252a0159351754'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/README.md)
 * Handoff File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
@@ -25856,12 +26090,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#706fb0cec4a283cebe4e5551de6f59252a0159351736handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#706fb0cec4a283cebe4e5551de6f59252a0159351754handback_validate_file_name_invalide)
 * Bilingual File: [README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='23c305d9bace8d02454eb415a1a1e7d183c431751737'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md)
+##### <a name='23c305d9bace8d02454eb415a1a1e7d183c431751755'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/run_the_hck_test_suites_in_the_wdk.md)
 * Handoff File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
@@ -25871,12 +26105,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#23c305d9bace8d02454eb415a1a1e7d183c431751737handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#23c305d9bace8d02454eb415a1a1e7d183c431751755handback_validate_file_name_invalide)
 * Bilingual File: [run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md)
+##### <a name='4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver.md)
 * Handoff File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
@@ -25886,13 +26120,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md)
+##### <a name='64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1757'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_during_development_and_testing.md)
 * Handoff File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
@@ -25902,12 +26136,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1757handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='9b013e5154608d58c84085247b3e9c6fcc42e4781740'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md)
+##### <a name='9b013e5154608d58c84085247b3e9c6fcc42e4781758'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/signing_a_driver_for_public_release.md)
 * Handoff File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
@@ -25917,13 +26151,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#9b013e5154608d58c84085247b3e9c6fcc42e4781740handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#9b013e5154608d58c84085247b3e9c6fcc42e4781758handback_validate_file_name_invalide)
 * Bilingual File: [signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#9b013e5154608d58c84085247b3e9c6fcc42e4781740bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#9b013e5154608d58c84085247b3e9c6fcc42e4781758bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md)
+##### <a name='f9e69213011495c37910e7c7e9b6ac86bf26fa8c1759'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/stampinf_properties_for_driver_projects.md)
 * Handoff File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
@@ -25933,12 +26167,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1759handback_validate_file_name_invalide)
 * Bilingual File: [stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md)
+##### <a name='b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/strategies_for_testing_drivers_during_development.md)
 * Handoff File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
@@ -25948,13 +26182,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760handback_validate_file_name_invalide)
 * Bilingual File: [strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='0940c46a0b1b6360639f55de72286b433059a3821743'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md)
+##### <a name='0940c46a0b1b6360639f55de72286b433059a3821761'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/test_a_driver_package.md)
 * Handoff File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
@@ -25964,12 +26198,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#0940c46a0b1b6360639f55de72286b433059a3821743handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#0940c46a0b1b6360639f55de72286b433059a3821761handback_validate_file_name_invalide)
 * Bilingual File: [test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md)
+##### <a name='1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver.md)
 * Handoff File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
@@ -25979,13 +26213,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762handback_validate_file_name_invalide)
 * Bilingual File: [testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='bffcc9c5d253e19122bdbef216af77669a3653011745'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md)
+##### <a name='bffcc9c5d253e19122bdbef216af77669a3653011763'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/testing_a_driver_at_runtime.md)
 * Handoff File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
@@ -25995,13 +26229,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#bffcc9c5d253e19122bdbef216af77669a3653011745handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#bffcc9c5d253e19122bdbef216af77669a3653011763handback_validate_file_name_invalide)
 * Bilingual File: [testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#bffcc9c5d253e19122bdbef216af77669a3653011745bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#bffcc9c5d253e19122bdbef216af77669a3653011763bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='944b2b71b2f22ccef1f8601686134d7ce6f5ef961746'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md)
+##### <a name='944b2b71b2f22ccef1f8601686134d7ce6f5ef961764'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md)
 * Handoff File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
@@ -26011,13 +26245,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961746handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961764handback_validate_file_name_invalide)
 * Bilingual File: [to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961746bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961764bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md)
+##### <a name='4f5bfb807ecf4cc2e5715fbbf544d2491340714c1765'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md)
 * Handoff File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
@@ -26027,12 +26261,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1765handback_validate_file_name_invalide)
 * Bilingual File: [TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151748'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151766'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
@@ -26042,13 +26276,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151748handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151766handback_validate_file_name_invalide)
 * Bilingual File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#2434c94f583589d368ce55e6c5d26150cec8ce151748bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#2434c94f583589d368ce55e6c5d26150cec8ce151766bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151749'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151767'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/cd4f80eb578209205252c58d6aed739ddffa0574/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
@@ -26058,13 +26292,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151749handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#2434c94f583589d368ce55e6c5d26150cec8ce151767handback_validate_file_name_invalide)
 * Bilingual File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#2434c94f583589d368ce55e6c5d26150cec8ce151749bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#2434c94f583589d368ce55e6c5d26150cec8ce151767bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='a9b1e0eb7445100c3cd81ce979e54703c87254ad1750'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md)
+##### <a name='a9b1e0eb7445100c3cd81ce979e54703c87254ad1768'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md)
 * Handoff File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
@@ -26074,12 +26308,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1750handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1768handback_validate_file_name_invalide)
 * Bilingual File: [umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='b0477a3ded515799ddbf6dc256d7a1f8376228c61751'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md)
+##### <a name='b0477a3ded515799ddbf6dc256d7a1f8376228c61769'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md)
 * Handoff File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
@@ -26089,13 +26323,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#b0477a3ded515799ddbf6dc256d7a1f8376228c61751handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#b0477a3ded515799ddbf6dc256d7a1f8376228c61769handback_validate_file_name_invalide)
 * Bilingual File: [using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#b0477a3ded515799ddbf6dc256d7a1f8376228c61751bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#b0477a3ded515799ddbf6dc256d7a1f8376228c61769bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md)
+##### <a name='798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md)
 * Handoff File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
@@ -26105,13 +26339,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770handback_validate_file_name_invalide)
 * Bilingual File: [validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='746ac811fff544d1647f55827dc700e460e5f88e1753'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md)
+##### <a name='746ac811fff544d1647f55827dc700e460e5f88e1771'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/visual_studio_driver_development_environment.md)
 * Handoff File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
@@ -26121,13 +26355,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#746ac811fff544d1647f55827dc700e460e5f88e1753handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#746ac811fff544d1647f55827dc700e460e5f88e1771handback_validate_file_name_invalide)
 * Bilingual File: [visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#746ac811fff544d1647f55827dc700e460e5f88e1753bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#746ac811fff544d1647f55827dc700e460e5f88e1771bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md)
+##### <a name='cdbd2c7425bbf263c6af57d28cfd8473d02551ec1772'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_0_.md)
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
@@ -26137,12 +26371,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1772handback_validate_file_name_invalide)
 * Bilingual File: [what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='d310c4b3d444ed7b5dc551ca034106fc466179871755'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md)
+##### <a name='d310c4b3d444ed7b5dc551ca034106fc466179871773'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/what_happens_when_you_provision_a_computer__wdk_8_1_.md)
 * Handoff File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
@@ -26152,12 +26386,12 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#d310c4b3d444ed7b5dc551ca034106fc466179871755handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#d310c4b3d444ed7b5dc551ca034106fc466179871773handback_validate_file_name_invalide)
 * Bilingual File: [what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 12:27:06
 * [Back to Top](#report-top)
 
-##### <a name='79a3dd217ffa3beb73851aac9bb6609218e946991756'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md)
+##### <a name='79a3dd217ffa3beb73851aac9bb6609218e946991774'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.fr-fr/blob/92a874f05990b6046dc5f366449ab9ba8976542b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/windows_10_editions_for_universal_drivers.md)
 * Handoff File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/73bccd60debd8833cf909eab331260d6568ddf0f/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
@@ -26167,13 +26401,13 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
 * Handback Datetime: 2016-06-28 11:50:03
-* Handback Error: [handback_validate_file_name_invalide](#79a3dd217ffa3beb73851aac9bb6609218e946991756handback_validate_file_name_invalide)
+* Handback Error: [handback_validate_file_name_invalide](#79a3dd217ffa3beb73851aac9bb6609218e946991774handback_validate_file_name_invalide)
 * Bilingual File: [windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/13a8a1fa2d8932c5deab61ad0ec37fc032196623/ol-handback/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.xlf)
 * Bilingual Datetime: 2016-06-06 06:25:12
-* Bilingual Error:[bilingual_uploading_failed](#79a3dd217ffa3beb73851aac9bb6609218e946991756bilingual_uploading_failed)
+* Bilingual Error:[bilingual_uploading_failed](#79a3dd217ffa3beb73851aac9bb6609218e946991774bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
-##### <a name='006820bcd3f953dafa4de4cc7989a7155fb66e271757'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859/wdg-cpub-test/Welcome.md)
+##### <a name='006820bcd3f953dafa4de4cc7989a7155fb66e271775'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/798e88c4c86abb909d6c72bcd5a1bf1f4c2f2859/wdg-cpub-test/Welcome.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
 * Handoff File: [Welcome.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b0394c2fc4490d9813c457c56b54166b2b299073/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.fr-fr/master/wdg-cpub-test/Welcome.xlf)
@@ -27170,355 +27404,355 @@
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: xaml-namescopes.5e9dcd37bad291f4d3e9cd9271e646c28e701006.de-de is different with handoff file name: xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: xaml-namescopes.5e9dcd37bad291f4d3e9cd9271e646c28e701006.de-de is different with handoff file name: xaml-namescopes.3c77a3c0e6720bbb9b53148e93b53a5a268008de.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391688)
+##### <a name='0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc391706)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.de-de is different with handoff file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.de-de is different with handoff file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.de-de is different with handoff file name: analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='bc1bd22aaf8c51a4835b167542d48012081149091689handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](#bc1bd22aaf8c51a4835b167542d48012081149091689)
+##### <a name='bc1bd22aaf8c51a4835b167542d48012081149091707handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](#bc1bd22aaf8c51a4835b167542d48012081149091707)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.de-de is different with handoff file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.de-de is different with handoff file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.de-de is different with handoff file name: attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81690)
+##### <a name='16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\avoiding_floating_point_errors_in_custom_build_environments.md](#16ae34742832f17eebb3d8dfbaa08ab57ce9bfb81708)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.de-de is different with handoff file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.de-de is different with handoff file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.de-de is different with handoff file name: avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='7c0a254e07bedb26fab52d53262487cece4d237a1691handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](#7c0a254e07bedb26fab52d53262487cece4d237a1691)
+##### <a name='7c0a254e07bedb26fab52d53262487cece4d237a1709handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_a_driver.md](#7c0a254e07bedb26fab52d53262487cece4d237a1709)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.de-de is different with handoff file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.de-de is different with handoff file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.de-de is different with handoff file name: building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61692)
+##### <a name='3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\building_drivers_for_different_versions_of_windows.md](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee61710)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.de-de is different with handoff file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.de-de is different with handoff file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.de-de is different with handoff file name: building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='a1f089b324da35f3367411713ba47b97bc378aea1694handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](#a1f089b324da35f3367411713ba47b97bc378aea1694)
+##### <a name='a1f089b324da35f3367411713ba47b97bc378aea1712handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\converting_wdk_8_1_projects_to_wdk_10.md](#a1f089b324da35f3367411713ba47b97bc378aea1712)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.de-de is different with handoff file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.de-de is different with handoff file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.de-de is different with handoff file name: converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821695)
+##### <a name='d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821713handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\counters_manifest_preprocessor_properties_for_driver_projects.md](#d4be8ac40be5f55be89cbbaf3e16db38fd1fd5821713)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.de-de is different with handoff file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.de-de is different with handoff file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.de-de is different with handoff file name: counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='f2b1b34b29fd719fe86032d51233ed09dd667d8c1696handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1696)
+##### <a name='f2b1b34b29fd719fe86032d51233ed09dd667d8c1714handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\create_a_custom_driver_installation_script.md](#f2b1b34b29fd719fe86032d51233ed09dd667d8c1714)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.de-de is different with handoff file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.de-de is different with handoff file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.de-de is different with handoff file name: create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='263bc47cd7c17e6691a81dc4dc6b6c2484381e721697handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721697)
+##### <a name='263bc47cd7c17e6691a81dc4dc6b6c2484381e721715handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_device_metadata_package.md](#263bc47cd7c17e6691a81dc4dc6b6c2484381e721715)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.de-de is different with handoff file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.de-de is different with handoff file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.de-de is different with handoff file name: creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='5343ab2c23eba904df16b371331932e6c68e77e11698handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](#5343ab2c23eba904df16b371331932e6c68e77e11698)
+##### <a name='5343ab2c23eba904df16b371331932e6c68e77e11716handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_from_existing_source_files.md](#5343ab2c23eba904df16b371331932e6c68e77e11716)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.de-de is different with handoff file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.de-de is different with handoff file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.de-de is different with handoff file name: creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='1bba3a5611ed7cf5552868f12949dfcc91b018031699handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](#1bba3a5611ed7cf5552868f12949dfcc91b018031699)
+##### <a name='1bba3a5611ed7cf5552868f12949dfcc91b018031717handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_package.md](#1bba3a5611ed7cf5552868f12949dfcc91b018031717)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.de-de is different with handoff file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.de-de is different with handoff file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.de-de is different with handoff file name: creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='b7d297ad5e963244bcb2656e6eec5d65e61616931700handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](#b7d297ad5e963244bcb2656e6eec5d65e61616931700)
+##### <a name='b7d297ad5e963244bcb2656e6eec5d65e61616931718handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_driver_verification_log.md](#b7d297ad5e963244bcb2656e6eec5d65e61616931718)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.de-de is different with handoff file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.de-de is different with handoff file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.de-de is different with handoff file name: creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='f3117b3cdb002de76694289880b091ba18c8be281701handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](#f3117b3cdb002de76694289880b091ba18c8be281701)
+##### <a name='f3117b3cdb002de76694289880b091ba18c8be281719handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_static_driver_verifier.md](#f3117b3cdb002de76694289880b091ba18c8be281719)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.de-de is different with handoff file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.de-de is different with handoff file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.de-de is different with handoff file name: creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='edae1ec6d3f626044ac86796d3dc8db87266d7451702handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](#edae1ec6d3f626044ac86796d3dc8db87266d7451702)
+##### <a name='edae1ec6d3f626044ac86796d3dc8db87266d7451720handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_log_file_for_the_code_analysis_tool.md](#edae1ec6d3f626044ac86796d3dc8db87266d7451720)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.de-de is different with handoff file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.de-de is different with handoff file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.de-de is different with handoff file name: creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='4eb4c2166e3dccf170e59fb0558839a8eced80eb1703handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1703)
+##### <a name='4eb4c2166e3dccf170e59fb0558839a8eced80eb1721handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_driver.md](#4eb4c2166e3dccf170e59fb0558839a8eced80eb1721)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.de-de is different with handoff file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.de-de is different with handoff file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.de-de is different with handoff file name: creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1704)
+##### <a name='fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1722handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_filter_driver.md](#fd29b255b3e993eb9a4c6b2dda487ff53d123f7f1722)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.de-de is different with handoff file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.de-de is different with handoff file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.de-de is different with handoff file name: creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1705)
+##### <a name='14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\creating_a_new_software_driver.md](#14642b4f4bc9b64bc19f85eb3094d6f6bfdb9a7d1723)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.de-de is different with handoff file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.de-de is different with handoff file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.de-de is different with handoff file name: creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='76fa9c94a7046c03368837e626ad9bf790e8fb881706handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](#76fa9c94a7046c03368837e626ad9bf790e8fb881706)
+##### <a name='76fa9c94a7046c03368837e626ad9bf790e8fb881724handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\debugging_a_driver.md](#76fa9c94a7046c03368837e626ad9bf790e8fb881724)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.de-de is different with handoff file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.de-de is different with handoff file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.de-de is different with handoff file name: debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201707)
+##### <a name='17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201725handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deploying_a_driver_to_a_test_computer.md](#17cc962c0987a8e3ac0e0a0ab5a14e7d53b685201725)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.de-de is different with handoff file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.de-de is different with handoff file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.de-de is different with handoff file name: deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='3297a5352e1c2eb36ebf22719c59327ed41cf1501708handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](#3297a5352e1c2eb36ebf22719c59327ed41cf1501708)
+##### <a name='3297a5352e1c2eb36ebf22719c59327ed41cf1501726handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\deployment_properties_for_driver_projects.md](#3297a5352e1c2eb36ebf22719c59327ed41cf1501726)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.de-de is different with handoff file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.de-de is different with handoff file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.de-de is different with handoff file name: deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='c9bd51c0edbff713f41e18a4320a9258f41790f41709handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](#c9bd51c0edbff713f41e18a4320a9258f41790f41709)
+##### <a name='c9bd51c0edbff713f41e18a4320a9258f41790f41727handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\distributing_a_driver_package_win8.md](#c9bd51c0edbff713f41e18a4320a9258f41790f41727)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.de-de is different with handoff file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.de-de is different with handoff file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.de-de is different with handoff file name: distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81711)
+##### <a name='518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_convergence.md](#518e66c2c3cff1aa0d0e782b4d0b10938b3b61c81729)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.de-de is different with handoff file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.de-de is different with handoff file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.de-de is different with handoff file name: driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='6d1fa3f612f227f54d01ffbf3a526d8eb04568991712handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991712)
+##### <a name='6d1fa3f612f227f54d01ffbf3a526d8eb04568991730handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_model_settings_properties_for_driver_projects.md](#6d1fa3f612f227f54d01ffbf3a526d8eb04568991730)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.de-de is different with handoff file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.de-de is different with handoff file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.de-de is different with handoff file name: driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='1b86766fe1136ea1d7d8deaee6d457487289cc1b1713handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1713)
+##### <a name='1b86766fe1136ea1d7d8deaee6d457487289cc1b1731handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_signing_properties.md](#1b86766fe1136ea1d7d8deaee6d457487289cc1b1731)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.de-de is different with handoff file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.de-de is different with handoff file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.de-de is different with handoff file name: driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='910f50e73a8efdea0431ea565dfdc7374a019a681714handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](#910f50e73a8efdea0431ea565dfdc7374a019a681714)
+##### <a name='910f50e73a8efdea0431ea565dfdc7374a019a681732handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\driver_verifier_properties_for__driver_projects.md](#910f50e73a8efdea0431ea565dfdc7374a019a681732)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.de-de is different with handoff file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.de-de is different with handoff file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.de-de is different with handoff file name: driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1715)
+##### <a name='6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\getting_started_with_universal_drivers.md](#6ab8441bafe88951d9dc8f6b99a4a509f9c362fa1733)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.de-de is different with handoff file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.de-de is different with handoff file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.de-de is different with handoff file name: getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91716)
+##### <a name='fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_select_and_configure_the_device_fundamental_tests.md](#fd7ce9942bd6c0dbc82412f87c67b2fa0eeba0d91734)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.de-de is different with handoff file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.de-de is different with handoff file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.de-de is different with handoff file name: how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='f7c60f736b125c8a6268e121c760935f75ec01b81717handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](#f7c60f736b125c8a6268e121c760935f75ec01b81717)
+##### <a name='f7c60f736b125c8a6268e121c760935f75ec01b81735handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_test_a_driver_at_runtime_from_a_command_prompt.md](#f7c60f736b125c8a6268e121c760935f75ec01b81735)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.de-de is different with handoff file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.de-de is different with handoff file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.de-de is different with handoff file name: how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='df87a7f5e0f9d173de97215cbcf226f5018883e11718handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](#df87a7f5e0f9d173de97215cbcf226f5018883e11718)
+##### <a name='df87a7f5e0f9d173de97215cbcf226f5018883e11736handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\how_to_write_a_driver_test_.md](#df87a7f5e0f9d173de97215cbcf226f5018883e11736)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.de-de is different with handoff file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.de-de is different with handoff file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.de-de is different with handoff file name: how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='7b4309bbd7b1ed204d4d13bd147501ee21b805181727handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](#7b4309bbd7b1ed204d4d13bd147501ee21b805181727)
+##### <a name='7b4309bbd7b1ed204d4d13bd147501ee21b805181745handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\inf2cat_properties_for_driver_package_projects.md](#7b4309bbd7b1ed204d4d13bd147501ee21b805181745)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.de-de is different with handoff file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.de-de is different with handoff file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.de-de is different with handoff file name: inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='33944380a77ab473af686145779f4bd31b02403b1728handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](#33944380a77ab473af686145779f4bd31b02403b1728)
+##### <a name='33944380a77ab473af686145779f4bd31b02403b1746handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_a_universal_driver.md](#33944380a77ab473af686145779f4bd31b02403b1746)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.de-de is different with handoff file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.de-de is different with handoff file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.de-de is different with handoff file name: installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='430268ba843e894f0d159b37797f3c19617139df1729handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](#430268ba843e894f0d159b37797f3c19617139df1729)
+##### <a name='430268ba843e894f0d159b37797f3c19617139df1747handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\Installing_the_Enterprise_WDK.md](#430268ba843e894f0d159b37797f3c19617139df1747)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.de-de is different with handoff file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.de-de is different with handoff file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.de-de is different with handoff file name: Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='e7d9924085fd0a96a082ec31929c6cf8b6a23e271730handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271730)
+##### <a name='e7d9924085fd0a96a082ec31929c6cf8b6a23e271748handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\installing_the_wdk_build_environment_in_a_lab.md](#e7d9924085fd0a96a082ec31929c6cf8b6a23e271748)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.de-de is different with handoff file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.de-de is different with handoff file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.de-de is different with handoff file name: installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1731)
+##### <a name='e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\kmdf_verifier_properties_for_driver_package_projects.md](#e0bfd69a30b06e7f02519cea359d2a0d8d70c47b1749)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.de-de is different with handoff file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.de-de is different with handoff file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.de-de is different with handoff file name: kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='c90ab2e265a02e42262c86460aa75b087c2f1cfe1732handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1732)
+##### <a name='c90ab2e265a02e42262c86460aa75b087c2f1cfe1750handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\message_compiler_properties_for_driver_projects.md](#c90ab2e265a02e42262c86460aa75b087c2f1cfe1750)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.de-de is different with handoff file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.de-de is different with handoff file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.de-de is different with handoff file name: message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61733)
+##### <a name='1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61751handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\mof_compiler_properties_for_driver_projects.md](#1f06e8c2b30fd29ccd2c9600e9a7d7f4e6e24eb61751)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.de-de is different with handoff file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.de-de is different with handoff file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.de-de is different with handoff file name: mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='72642cee1d11a58aa21cf7230ae37f3e891206291734handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](#72642cee1d11a58aa21cf7230ae37f3e891206291734)
+##### <a name='72642cee1d11a58aa21cf7230ae37f3e891206291752handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\preparing_a_computer_for_manual_driver_deployment.md](#72642cee1d11a58aa21cf7230ae37f3e891206291752)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.de-de is different with handoff file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.de-de is different with handoff file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.de-de is different with handoff file name: preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='016372eb9bea6d8f16bae5473856354e041c57811735handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](#016372eb9bea6d8f16bae5473856354e041c57811735)
+##### <a name='016372eb9bea6d8f16bae5473856354e041c57811753handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\read_the_driver_test_results_log.md](#016372eb9bea6d8f16bae5473856354e041c57811753)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.de-de is different with handoff file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.de-de is different with handoff file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.de-de is different with handoff file name: read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='706fb0cec4a283cebe4e5551de6f59252a0159351736handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](#706fb0cec4a283cebe4e5551de6f59252a0159351736)
+##### <a name='706fb0cec4a283cebe4e5551de6f59252a0159351754handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\README.md](#706fb0cec4a283cebe4e5551de6f59252a0159351754)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.de-de is different with handoff file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.de-de is different with handoff file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.de-de is different with handoff file name: README.61953ed54565669063acc19192c50e7fa0b2d6c5.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='23c305d9bace8d02454eb415a1a1e7d183c431751737handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](#23c305d9bace8d02454eb415a1a1e7d183c431751737)
+##### <a name='23c305d9bace8d02454eb415a1a1e7d183c431751755handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\run_the_hck_test_suites_in_the_wdk.md](#23c305d9bace8d02454eb415a1a1e7d183c431751755)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.de-de is different with handoff file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.de-de is different with handoff file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.de-de is different with handoff file name: run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71738)
+##### <a name='4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver.md](#4fddebbffb7ed66b5d33b71a2cd2098607c3baf71756)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.de-de is different with handoff file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.de-de is different with handoff file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.de-de is different with handoff file name: signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1739)
+##### <a name='64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1757handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_during_development_and_testing.md](#64a1cc3b2c3aeda0ece74d651d7c34369a8c387b1757)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.de-de is different with handoff file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.de-de is different with handoff file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.de-de is different with handoff file name: signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='9b013e5154608d58c84085247b3e9c6fcc42e4781740handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](#9b013e5154608d58c84085247b3e9c6fcc42e4781740)
+##### <a name='9b013e5154608d58c84085247b3e9c6fcc42e4781758handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\signing_a_driver_for_public_release.md](#9b013e5154608d58c84085247b3e9c6fcc42e4781758)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.de-de is different with handoff file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.de-de is different with handoff file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.de-de is different with handoff file name: signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1741)
+##### <a name='f9e69213011495c37910e7c7e9b6ac86bf26fa8c1759handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\stampinf_properties_for_driver_projects.md](#f9e69213011495c37910e7c7e9b6ac86bf26fa8c1759)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.de-de is different with handoff file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.de-de is different with handoff file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.de-de is different with handoff file name: stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41742)
+##### <a name='b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\strategies_for_testing_drivers_during_development.md](#b22e5c7f3b3b8e9eb45ab44e9643d4cf6d5144f41760)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.de-de is different with handoff file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.de-de is different with handoff file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.de-de is different with handoff file name: strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='0940c46a0b1b6360639f55de72286b433059a3821743handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](#0940c46a0b1b6360639f55de72286b433059a3821743)
+##### <a name='0940c46a0b1b6360639f55de72286b433059a3821761handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\test_a_driver_package.md](#0940c46a0b1b6360639f55de72286b433059a3821761)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.de-de is different with handoff file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.de-de is different with handoff file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.de-de is different with handoff file name: test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1744)
+##### <a name='1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver.md](#1d4db1fdb90c910117ae12a408a6c7c1f2282ecb1762)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.de-de is different with handoff file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.de-de is different with handoff file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.de-de is different with handoff file name: testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='bffcc9c5d253e19122bdbef216af77669a3653011745handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](#bffcc9c5d253e19122bdbef216af77669a3653011745)
+##### <a name='bffcc9c5d253e19122bdbef216af77669a3653011763handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\testing_a_driver_at_runtime.md](#bffcc9c5d253e19122bdbef216af77669a3653011763)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.de-de is different with handoff file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.de-de is different with handoff file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.de-de is different with handoff file name: testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='944b2b71b2f22ccef1f8601686134d7ce6f5ef961746handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961746)
+##### <a name='944b2b71b2f22ccef1f8601686134d7ce6f5ef961764handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](#944b2b71b2f22ccef1f8601686134d7ce6f5ef961764)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.de-de is different with handoff file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.de-de is different with handoff file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.de-de is different with handoff file name: to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1747)
+##### <a name='4f5bfb807ecf4cc2e5715fbbf544d2491340714c1765handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c1765)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.de-de is different with handoff file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.de-de is different with handoff file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.de-de is different with handoff file name: TOC.18945f002d8614ade84dd70a7a3a886036563906.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151748handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](#2434c94f583589d368ce55e6c5d26150cec8ce151748)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151766handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](#2434c94f583589d368ce55e6c5d26150cec8ce151766)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151749handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](#2434c94f583589d368ce55e6c5d26150cec8ce151749)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce151767handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](#2434c94f583589d368ce55e6c5d26150cec8ce151767)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.de-de is different with handoff file name: troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='a9b1e0eb7445100c3cd81ce979e54703c87254ad1750handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1750)
+##### <a name='a9b1e0eb7445100c3cd81ce979e54703c87254ad1768handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](#a9b1e0eb7445100c3cd81ce979e54703c87254ad1768)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.de-de is different with handoff file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.de-de is different with handoff file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.de-de is different with handoff file name: umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='b0477a3ded515799ddbf6dc256d7a1f8376228c61751handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](#b0477a3ded515799ddbf6dc256d7a1f8376228c61751)
+##### <a name='b0477a3ded515799ddbf6dc256d7a1f8376228c61769handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](#b0477a3ded515799ddbf6dc256d7a1f8376228c61769)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.de-de is different with handoff file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.de-de is different with handoff file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.de-de is different with handoff file name: using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1752)
+##### <a name='798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf1770)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.de-de is different with handoff file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.de-de is different with handoff file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.de-de is different with handoff file name: validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='746ac811fff544d1647f55827dc700e460e5f88e1753handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](#746ac811fff544d1647f55827dc700e460e5f88e1753)
+##### <a name='746ac811fff544d1647f55827dc700e460e5f88e1771handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\visual_studio_driver_development_environment.md](#746ac811fff544d1647f55827dc700e460e5f88e1771)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.de-de is different with handoff file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.de-de is different with handoff file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.de-de is different with handoff file name: visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1754)
+##### <a name='cdbd2c7425bbf263c6af57d28cfd8473d02551ec1772handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_0_.md](#cdbd2c7425bbf263c6af57d28cfd8473d02551ec1772)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='d310c4b3d444ed7b5dc551ca034106fc466179871755handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](#d310c4b3d444ed7b5dc551ca034106fc466179871755)
+##### <a name='d310c4b3d444ed7b5dc551ca034106fc466179871773handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\what_happens_when_you_provision_a_computer__wdk_8_1_.md](#d310c4b3d444ed7b5dc551ca034106fc466179871773)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.","internal_error_retriable":false,"exception_message":"Handback file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.de-de is different with handoff file name: what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.fr-fr.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
 
-##### <a name='79a3dd217ffa3beb73851aac9bb6609218e946991756handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](#79a3dd217ffa3beb73851aac9bb6609218e946991756)
+##### <a name='79a3dd217ffa3beb73851aac9bb6609218e946991774handback_validate_file_name_invalide'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\windows_10_editions_for_universal_drivers.md](#79a3dd217ffa3beb73851aac9bb6609218e946991774)
 * Error Code: handback_validate_file_name_invalide
 * Error Message: Handback file name: windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.de-de is different with handoff file name: windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.fr-fr.
 * Retriable: False
