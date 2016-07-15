@@ -3210,5 +3210,59 @@
   ],
   "b80abfe77bd3b598ff714a01d33ffd1fe9013876": [
     "wdg-cpub-test\\included\\2.md"
+  ],
+  "3bbd7ff5fac634a2d5b0f0cb2cf2db7b4315d3b3": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessibility.md"
+  ],
+  "9580ccc0716b7e9f4ee32ce241b0ac3ee9bf319d": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessibility-checklist.md"
+  ],
+  "46dfe4fba383861c704b2ba9070bdd8102b10562": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessibility-in-the-store.md"
+  ],
+  "430484a9243abc644de75d35c03bb11cf47960c0": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessibility-overview.md"
+  ],
+  "5ca4df0608adcba8824e2196c3f82cc025f5e70a": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessibility-testing.md"
+  ],
+  "b8316a5f1e869ea19f9f228f3b41b4abf46b4edd": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\accessible-text-requirements.md"
+  ],
+  "5bf13f4efc571dd449e7557e7b347f909e1cffa4": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\basic-accessibility-information.md"
+  ],
+  "71071c989ca4aaa727d18d3ec25d8642517c4b26": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\control-patterns-and-interfaces.md"
+  ],
+  "893e17205783bfb787ae5597a48abcb09fb6631f": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\custom-automation-peers.md"
+  ],
+  "6f1c0663034f81bb0ddfe42c04fbe60562b45c1c": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\designing-inclusive-software.md"
+  ],
+  "77c401fd9686cb260e7b2d9e4bdf47a91d76802e": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\developing-inclusive-windows-apps.md"
+  ],
+  "44562de02c52e4d44cc5559d8d74425a620477be": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\high-contrast-themes.md"
+  ],
+  "fadcf03d057b6df66013a9c682ab6e765093ba11": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\images\\high-contrast-actions-content.png"
+  ],
+  "6b7b3e65b7373ec44f50af0e955eddfc45c1141b": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\images\\high-contrast-resources.png"
+  ],
+  "918fc9f6acb579d368f8ca273f58d25482b49e34": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\images\\high-contrast-settings.png"
+  ],
+  "8f3ec44999f8dcc62af1bd7ee0b058db077f24ac": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\images\\inspect.png"
+  ],
+  "433f1fb4ccb92f262b33ecea97f1bf8fe335cb48": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\keyboard-accessibility.md"
+  ],
+  "b5f5f220d5ff70d70dd797c0bf26a355bd447563": [
+    "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\practices-to-avoid.md"
   ]
 }
