@@ -3264,5 +3264,119 @@
   ],
   "b5f5f220d5ff70d70dd797c0bf26a355bd447563": [
     "wdg-cpub-test\\ndolciTestTDReach\\accessibility\\practices-to-avoid.md"
+  ],
+  "8ebf90b02fcfbb4349ba2b303d9c91727b731ad7": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\adaptive-streaming.md"
+  ],
+  "d76f50e97f16699f34f138fcd25af8a90696085a": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\adaptive-streaming-with-playready.md"
+  ],
+  "b1bcb5b005e82303884c2e096356d5a0f542b1e1": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\audio-device-information-properties.md"
+  ],
+  "7e8df66a1fc4c95cb8b0b4be9eded8ef58b6803a": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\audio-graphs.md"
+  ],
+  "9275a194017f08692adee6de1c4d1f6deb680613": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\background-audio.md"
+  ],
+  "510cb363b258d20688ea212856af4b7ac0311e61": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\bitmapencoder-options-reference.md"
+  ],
+  "022ca2848c575f545402b13e19c0854a9e3ec74a": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\camera-independent-flashlight.md"
+  ],
+  "755b2747b2250c4ad19970095aed220551389471": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\camera-profiles.md"
+  ],
+  "c70f3e54ae5c83ccc28c47cb1e0ec236f75c3775": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
+  ],
+  "65883f1be1a014b6c7e211e2e060ae97fbd9eb0d": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\capture-device-controls-for-video-capture.md"
+  ],
+  "a98edd0b4c52271fad4255af5ab0a005b0c66d68": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\capture-photos-and-video-with-cameracaptureui.md"
+  ],
+  "c20c735d38e6baabe2f8bc0c7c682706d3946ed9": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\capture-photos-and-video-with-mediacapture.md"
+  ],
+  "d6ad5b2488f79787c07b4057b34fcbfd3a4df3c3": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\custom-video-effects.md"
+  ],
+  "66730fcbaad2e3e059f2972475625d278d235002": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\detect-and-track-faces-in-an-image.md"
+  ],
+  "3af5ed7146f2420c2a6d3035c26290cbeaff8375": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\effects-for-video-capture.md"
+  ],
+  "c512ec92272ab03cfd8e91602018f09ef8225652": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\get-a-preview-frame.md"
+  ],
+  "b7867317c37edf44d9edfaaf28d97a3f23b22814": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\hardware-drm.md"
+  ],
+  "3015aa4338ddb0c0a006eb631026261a4453f376": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\high-dynamic-range-hdr-photo-capture.md"
+  ],
+  "571d71d52931392a36c3c11030749f6ecb3cc961": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\image-metadata.md"
+  ],
+  "472a53e7432686fd2d1afa6cd0cad6de2ea7d81c": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\images\\backround-audio-architecture-win10.png"
+  ],
+  "d4995c7c3aea5045bb9da1870774fe80bb64cf96": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\images\\media-element-casting-button.png"
+  ],
+  "0464adcc52453321ca70c2b962c42a432ae7f5b2": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\images\\windowsteecomponentdiagram720.jpg"
+  ],
+  "e54e5b165d344d117b736d8e6ab9c5e964427604": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\imaging.md"
+  ],
+  "8480eb181b6af26eae5950a1f1bf040d0cb5db99": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\index.md"
+  ],
+  "9c8d549c9b770af351894f2a19dd035a43d70264": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\media-casting.md"
+  ],
+  "226ee9212f6688c48c4d4d7b3195ec5c27a3afdd": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\media-compositions-and-editing.md"
+  ],
+  "d64f4484566d80eaf2a353b1aba954c15079343c": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\media-playback-with-mediasource.md"
+  ],
+  "a67b859cc2bd42abc13bcba0d405783b99a0ca5c": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\midi.md"
+  ],
+  "eef128afc0da6f55a76b8c664f9049dc1ec48da1": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\playready-client-sdk.md"
+  ],
+  "c575125f1d35f44b873fd3db46d62f89bb726b0b": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\playready-encrypted-media-extension.md"
+  ],
+  "dcf655ff80c4463a567ade0b6d1cc784b60c18be": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\process-media-files-in-the-background.md"
+  ],
+  "891c0d274c2d3fb82f855011158ecd3ccdcd87b3": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\scene-analysis-for-media-capture.md"
+  ],
+  "d7b44ce9db2e3d540036525c4b43e155a9500010": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\set-media-encoding-properties.md"
+  ],
+  "05e752925c07b0e3720fbdd42d785381aa08b99c": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\simple-camera-preview-access.md"
+  ],
+  "00fbbdde8d805ce7ae07df1d52dd8171de7d58ab": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\supported-codecs.md"
+  ],
+  "5a94ce4112f7662d3fe9bf3c8a7d3f60b1569931": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\system-media-transport-controls.md"
+  ],
+  "06c452291f10acd35dde9659c08a386ea38fa90a": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\transcode-media-files.md"
+  ],
+  "c6be6c0ea255c38bba65550ae44c7f88c140ca0f": [
+    "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\variable-photo-sequence.md"
   ]
 }
