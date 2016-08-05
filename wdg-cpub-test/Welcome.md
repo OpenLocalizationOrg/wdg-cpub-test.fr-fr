@@ -1,6 +1,8 @@
 # Welcome to the WDG CPub Open Publishing Playground
 We are happy to announce the official grand opening of the WDG CPub Open Publishing Playground (or WDGCPOPP, pronounced "wedge-kuh-pop").
 
+hi \(you\) dude
+
 ![Git logo](images/github-logo.png) **+**&nbsp;&nbsp;![Markdown logo](images/markdown-logo.png)
 
 Here you can experiment with markdown and GitHub to your heart's content and then see how your markdown renders in MSDN's Open Publishing environment.
@@ -64,10 +66,9 @@ WDG CPub doesn't provide specific tools recommendations. What follows are some o
 ## Tips and Tricks
 * Brand new to Git? Command-line phobic? Check out [Recommended tools for beginners](jasgro/tools-for-beginners.md) for recommendations on how to get started.
 * Instructions for [editing content through the GitHub UI](domars/Directions_To_Update_Existing_Topic_Using_Browser.md), a way to make updates without a local clone.
-* Tables have you down? Check out some [markdown table creation tips](jasgro/table_creation_tools.md).
-* This is only for TEST1111111
+* Tables have you down? Check out some [markdown table creation tips](jasgro/table_creation_tools.md)
 
 
-<!--HONumber=May16_HO4-->
+<!--HONumber=Aug16_HO1-->
 
 
