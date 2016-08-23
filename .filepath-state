@@ -475,6 +475,9 @@
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md",
     "wdg-cpub-test\\ndolci2\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
   ],
+  "0dfa9162cedfe53dca0e3e1410c7ea9c12bd6f9b": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-video-capture.md"
+  ],
   "e4b7e1cbf07ffa6c5a6b12dd836c264d355081c9": [
     "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-video-capture.md"
   ],
@@ -582,11 +585,20 @@
     "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\managing-appointments.md",
     "wdg-cpub-test\\ndolci2\\contacts-and-calendar\\managing-appointments.md"
   ],
+  "44f76328f19ca70d22f7c8ad31f2651567a16dcb": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\selecting-contacts.md"
+  ],
   "007e676257bcd6b11332baf98582703d23f3abd3": [
     "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\selecting-contacts.md"
   ],
+  "6dd354612912f07a63381fede1ba7e678efd42c2": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-an-sms-message.md"
+  ],
   "88704dcaec3f258a8d0eb43b33721d4f31cc0a75": [
     "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-an-sms-message.md"
+  ],
+  "8c37f874e98e07a7c89c4d980aedc601d1b35c8b": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-email.md"
   ],
   "aace8855fa91c6375887e9837f67f911502e6748": [
     "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-email.md"
@@ -735,6 +747,9 @@
     "wdg-cpub-test\\ndolci1\\devices-sensors\\epson-esc-pos-with-formatting.md",
     "wdg-cpub-test\\ndolci2\\devices-sensors\\epson-esc-pos-with-formatting.md"
   ],
+  "61f3499955996bbbc392bf643e3c8fcecce190bb": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\gatt-scenarios.md"
+  ],
   "731f10276c48850bda9636fc3f11aa6609cef53b": [
     "wdg-cpub-test\\ndolci1\\devices-sensors\\gatt-scenarios.md"
   ],
@@ -849,6 +864,9 @@
     "wdg-cpub-test\\ndolci1\\files\\quickstart-using-file-and-folder-pickers.md",
     "wdg-cpub-test\\ndolci2\\files\\quickstart-using-file-and-folder-pickers.md"
   ],
+  "142c0d1bac651bc165dfeeff6aa551b812ef65f3": [
+    "wdg-cpub-test\\ndolci1\\get-started\\account-types-locations-and-fees.md"
+  ],
   "d0712383af8e62261a0adf84be3a2af8e5941e64": [
     "wdg-cpub-test\\ndolci1\\get-started\\account-types-locations-and-fees.md"
   ],
@@ -924,10 +942,13 @@
     "wdg-cpub-test\\ndolci2\\graphics\\drawing-shapes.md"
   ],
   "2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141": [
-    "wdg-cpub-test\\ndolci2\\graphics\\images\\animation-child-rectangles.gif"
+    "wdg-cpub-test\\ndolci1\\graphics\\images\\animation-child-rectangles.gif"
   ],
   "612821e7db46ce0c7c851e32f984408125150829": [
     "wdg-cpub-test\\ndolci1\\graphics\\index.md"
+  ],
+  "32f73f477e4a86b8e862fe547ee755aa29bf2201": [
+    "wdg-cpub-test\\ndolci1\\graphics\\key-frame-and-easing-function-animations.md"
   ],
   "7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f": [
     "wdg-cpub-test\\ndolci1\\graphics\\key-frame-and-easing-function-animations.md"
@@ -1033,6 +1054,9 @@
   "a9c0e6deaa76b995a98cbfb4c373065f8c635e4c": [
     "wdg-cpub-test\\ndolci1\\networking\\index.md"
   ],
+  "ddb79f0d938d500e571bf0d829db226acf912a24": [
+    "wdg-cpub-test\\ndolci1\\networking\\network-communications-in-the-background.md"
+  ],
   "98bba1eee21627ee185d0446aeeeba77a7f0bc20": [
     "wdg-cpub-test\\ndolci1\\networking\\network-communications-in-the-background.md"
   ],
@@ -1070,23 +1094,44 @@
     "wdg-cpub-test\\ndolci1\\packaging\\packaging-uwp-apps.md",
     "wdg-cpub-test\\ndolci2\\packaging\\packaging-uwp-apps.md"
   ],
+  "18c0a565e2b0e00702317365a613b904b3c6bd9d": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-animation.md"
+  ],
   "f25e6aa8324bc8d80d6741fde3d3b6b24611a78e": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-animation.md"
+  ],
+  "53ac314ca35bbb754e64bdda3ba3a9cf60840967": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-choosing-a-programming-language.md"
   ],
   "8a72c918c2d1e69225e03fd37e3244fd272e39d8": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-choosing-a-programming-language.md"
   ],
+  "d48dad252d137869d0ad6ac6ceeb3b56800633c2": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-common-controls.md"
+  ],
   "79f3f234966f76e0a7addbeef4e4f7abb530d160": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-common-controls.md"
+  ],
+  "c7340cc19469fc5ae8c839d7ab857e4bbf9b8cba": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-creating-a-project.md"
   ],
   "b7a4815162519cce1741ca5807431f28f8e4e99e": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-creating-a-project.md"
   ],
+  "205bbb8429a3c7eb48d533896244a560c1e743b6": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-getting-around-in-visual-studio.md"
+  ],
   "53aa1138567bbb0d9d241783157c919df37402ac": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-getting-around-in-visual-studio.md"
   ],
+  "7a74240d63fbab318012f01b72495422a1e7aca0": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-navigation.md"
+  ],
   "b29b3a2822da6791ac3de48ff4d3ca714c58366f": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-navigation.md"
+  ],
+  "f8bb9e48cc40c67cc16d07f672f95b8673efa5ac": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-what-next.md"
   ],
   "6bcf2971c169b66561d7199e621fbf751d8cb9fd": [
     "wdg-cpub-test\\ndolci1\\porting\\getting-started-what-next.md"
@@ -1114,11 +1159,20 @@
     "wdg-cpub-test\\ndolci1\\porting\\update-your-visual-studio-2015-rc-project-to-rtm.md",
     "wdg-cpub-test\\ndolci2\\porting\\update-your-visual-studio-2015-rc-project-to-rtm.md"
   ],
+  "df7bb4bc488e25b6c5f1bc6595d13788b283ca6b": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore1.md"
+  ],
   "42a467217a899c25bab315314763b2ba6d7ac77a": [
     "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore1.md"
   ],
+  "7b5f758ab4270c9d5c13376133fac89c3d4faff1": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore2.md"
+  ],
   "339649bed07b3dee79a9c67ff920d832389c5c60": [
     "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore2.md"
+  ],
+  "cedec5c7e0d406750260463ae25179821ced95a5": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-quizgame.md"
   ],
   "4084dab88acb9b3522856321a2571ab5abd12dc6": [
     "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-quizgame.md"
@@ -1147,8 +1201,14 @@
     "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-business-and-data.md",
     "wdg-cpub-test\\ndolci2\\porting\\wpsl-to-uwp-business-and-data.md"
   ],
+  "e3fdba68a49a24162a7d3485b6c6fd77c5f72983": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore1.md"
+  ],
   "ceece7f2442bfdb00b1a34c90d5947fffbdacb36": [
     "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore1.md"
+  ],
+  "eecc51526190c2e2e4e2bbbf170d33f02b065980": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore2.md"
   ],
   "be53e89322c9bba9adca321d161b3e46618c7dd6": [
     "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore2.md"
@@ -1190,6 +1250,9 @@
   "011fa6fb219acefd41dfc58381d58991c0ac61e0": [
     "wdg-cpub-test\\ndolci1\\publish\\ad-mediation-report.md",
     "wdg-cpub-test\\ndolci2\\publish\\ad-mediation-report.md"
+  ],
+  "2fb14523fed6d4a429d2dda5ae09dce8e9d37b90": [
+    "wdg-cpub-test\\ndolci1\\publish\\advertising-performance-report.md"
   ],
   "6867b6a4d8a92ae39a43c67b772608e09d3f2be5": [
     "wdg-cpub-test\\ndolci1\\publish\\advertising-performance-report.md"
@@ -1507,6 +1570,9 @@
     "wdg-cpub-test\\ndolci1\\xaml-platform\\attached-properties-overview.md",
     "wdg-cpub-test\\ndolci2\\xaml-platform\\attached-properties-overview.md"
   ],
+  "37083964ab166b67e2cbaf79cd21a61ade21445b": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\binding-markup-extension.md"
+  ],
   "08c085ae4e52a249bcaafe839f8baff8ca74c8d9": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\binding-markup-extension.md"
   ],
@@ -1517,6 +1583,9 @@
   "f9be158bcfd777c2285ff8865063220fc13ae42c": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\custom-dependency-properties.md",
     "wdg-cpub-test\\ndolci2\\xaml-platform\\custom-dependency-properties.md"
+  ],
+  "4910ded0d51a75886712cb224a1d08ad15e5550d": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\customresource-markup-extension.md"
   ],
   "fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\customresource-markup-extension.md"
@@ -1541,11 +1610,20 @@
     "wdg-cpub-test\\ndolci1\\xaml-platform\\property-path-syntax.md",
     "wdg-cpub-test\\ndolci2\\xaml-platform\\property-path-syntax.md"
   ],
+  "82438ddf4c104faeb729dcf1b07eb3ba1ede92f6": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\relativesource-markup-extension.md"
+  ],
   "afccd56780f303dd8daf72267928a047385673df": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\relativesource-markup-extension.md"
   ],
+  "9f3527c21f4a2f4453ffc92a19d0b477dc8914d0": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\staticresource-markup-extension.md"
+  ],
   "3fdf144163d14ae3b0c6b5555ccb69b8c76872ef": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\staticresource-markup-extension.md"
+  ],
+  "ddbbf41bae46b9e2179e084e04b153423bafd5a1": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\templatebinding-markup-extension.md"
   ],
   "e6969bf7938c29b34f28c02e0f5c565be2ca2417": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\templatebinding-markup-extension.md"
@@ -1553,6 +1631,9 @@
   "321ba601c83b996d5e9a4edef60a52c3934216e7": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\template-settings-classes.md",
     "wdg-cpub-test\\ndolci2\\xaml-platform\\template-settings-classes.md"
+  ],
+  "4ef01a822f3105709d78e7d2d3a4207edbe29bff": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\themeresource-markup-extension.md"
   ],
   "d872648c0412de391a43d88c1425a9ddea44e6ed": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\themeresource-markup-extension.md"
@@ -1580,6 +1661,9 @@
     "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-syntax-guide.md",
     "wdg-cpub-test\\ndolci2\\xaml-platform\\xaml-syntax-guide.md"
   ],
+  "5cdfe5f47be6e00e3ea57a75d2a8745f186b2dd5": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-bind-markup-extension.md"
+  ],
   "21a0bb43b644f2edf56d7e7bb8031c5966750121": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\x-bind-markup-extension.md"
   ],
@@ -1597,6 +1681,9 @@
   ],
   "167ae7ee519736967c5163e2c37e3ca1fd507a7d": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\x-name-attribute.md"
+  ],
+  "d2982604ee196e192f24878333ba30956de73f9c": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-null-markup-extension.md"
   ],
   "2fa688bcecf98e6ed42858d7523fddb53fbf7ba7": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\x-null-markup-extension.md"
@@ -2496,6 +2583,9 @@
   ],
   "4fcb9dcf1d1b3a84032d82c70a8f7aed836d775d": [
     "wdg-cpub-test\\ndolci2\\maps-and-location\\geocoding.md"
+  ],
+  "5a201c2d93e08a87d825bf4462ba1d51e12dd658": [
+    "wdg-cpub-test\\ndolci2\\maps-and-location\\get-location.md"
   ],
   "b03b91a9f36196f6af2cf59f8dc8e1fa4d7585be": [
     "wdg-cpub-test\\ndolci2\\maps-and-location\\get-location.md"
