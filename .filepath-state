@@ -3465,5 +3465,398 @@
   ],
   "c6be6c0ea255c38bba65550ae44c7f88c140ca0f": [
     "wdg-cpub-test\\ndolciTestTDReach\\audio-video-camera\\variable-photo-sequence.md"
+  ],
+  "0cacd487abfa29a980ead7c296f0e83a61cf803e": [
+    "wdg-cpub-test\\yokita\\surface\\advanced-uefi-security-features-for-surface-pro-3.md"
+  ],
+  "30642ba0b1d148a1cdff750b311f5fde3553afa5": [
+    "wdg-cpub-test\\yokita\\surface\\customize-the-oobe-for-surface-deployments.md"
+  ],
+  "b643fc3505047a1a882b7f26e6e6b3e5f1a3ba1c": [
+    "wdg-cpub-test\\yokita\\surface\\deploy-surface-app-with-windows-store-for-business.md"
+  ],
+  "57848ed029a2bfddd0d4dbcd9d19a9185c1eb73f": [
+    "wdg-cpub-test\\yokita\\surface\\deploy-the-latest-firmware-and-drivers-for-surface-devices.md"
+  ],
+  "927f81426aa60a58463c22ecce6c0c87e59bcd2f": [
+    "wdg-cpub-test\\yokita\\surface\\deploy-windows-10-to-surface-devices-with-mdt.md"
+  ],
+  "55d86673b2c1975d260106df02a58edad49e5e84": [
+    "wdg-cpub-test\\yokita\\surface\\enable-peap-eap-fast-and-cisco-leap-on-surface-devices.md"
+  ],
+  "76f5af3393fed2e3b89222f685a79c718704e593": [
+    "wdg-cpub-test\\yokita\\surface\\enroll-and-configure-surface-devices-with-semm.md"
+  ],
+  "7a3de482914a6b565ad42760955dc32de4b0e622": [
+    "wdg-cpub-test\\yokita\\surface\\ethernet-adapters-and-surface-device-deployment.md"
+  ],
+  "0c6319292bae46e5c64b07171c39c634e2c56090": [
+    "wdg-cpub-test\\yokita\\surface\\images\\data-eraser-3.png"
+  ],
+  "5c5fa736eee8e1730ba27e0b90b2644c5b1e20cf": [
+    "wdg-cpub-test\\yokita\\surface\\images\\dataeraser-complete-process.png"
+  ],
+  "9174783325bc2fe19afc3e3b19938dbd5725263d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\dataeraser-start-tool.png"
+  ],
+  "541b3067cd990ab8ac7ec2914867f2372456986e": [
+    "wdg-cpub-test\\yokita\\surface\\images\\dataeraser-usb-selection.png"
+  ],
+  "753fc3a996d239b8ef373ff9a3a9ef4e648c0422": [
+    "wdg-cpub-test\\yokita\\surface\\images\\deploysurfapp-fig2-selectingofflinelicense.png"
+  ],
+  "eecff04e973f521e578ca0b5e2cef4eeaaccffd5": [
+    "wdg-cpub-test\\yokita\\surface\\images\\deploysurfapp-fig3-acknowledge.png"
+  ],
+  "50ca32f574a226b7586795d80aa6af8c7c2f666c": [
+    "wdg-cpub-test\\yokita\\surface\\images\\deploysurfapp-fig4-downloadappxbundle.png"
+  ],
+  "21518151c90ab49000dfdeb993c9e109c8f0b5af": [
+    "wdg-cpub-test\\yokita\\surface\\images\\deploysurfapp-fig5-requiredframework.png"
+  ],
+  "420cc5c7851d8127e6878ac97a4b423ffc87756b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\deploysurfapp-figure1-enablingapps.png"
+  ],
+  "2fc52d5c13a54c67dc0b996b7f6441635fde0bc7": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-dock-fig1-updateprocess.png"
+  ],
+  "9dd52504dfd83dd5643d0d13f42a01f3535993f1": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig2.png"
+  ],
+  "4b22c53b4f75db9eb9d810d9b8870ecacd985aea": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig3.png"
+  ],
+  "b0f815d80521e30caba2650c4243be9530f4ef90": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig4.png"
+  ],
+  "78e5061666f5816a385afefb963ae433bc52d4f8": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig5.png"
+  ],
+  "f52c7161e0460af64ec40578c4af626237dc35f1": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig6.png"
+  ],
+  "1e5bdd6d4188132beb1f881d500db73c3590ea98": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig7.png"
+  ],
+  "6560da1ad7a130578dfa40b163f97fd05d2d0603": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-fig8.png"
+  ],
+  "06820681ef85d7803182d2f7bd8f4f64e13b81d5": [
+    "wdg-cpub-test\\yokita\\surface\\images\\manage-surface-uefi-figure-1.png"
+  ],
+  "e7a5b703e18fa2d33edc49f98567d60e0117783f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sda-fig1-select-steps.png"
+  ],
+  "2ae6c1f81b3378c781e039b031511b13e58f7317": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sda-fig2-specify-local.png"
+  ],
+  "34ecf68e743c3e20548a5e7cb6b74becf557d4eb": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sda-fig5-erase.png"
+  ],
+  "048a9a02521f151be1dcd8a76cedd9d09aa6e594": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig1.png"
+  ],
+  "05fea5842efede537790540ae7a3d1e7fb40fac0": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig10-rules.png"
+  ],
+  "abb6f5806970a4b4428e23992b95e38fb2273c81": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig11-bootstrap.ini.png"
+  ],
+  "0c97b2e414e1c020710e23579aad551cdf502175": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig12-updatemedia.png"
+  ],
+  "cc359d8222e4796411f6a6aa2432ed708315e988": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig13-taskseq.png"
+  ],
+  "4bd26293e4f4a3f4602f31c14aac59f7390006d1": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig14-credentials.png"
+  ],
+  "dd9e717264d3835f3eb80a3a0cf94ecbaa632ace": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig15-deploy.png"
+  ],
+  "138cbd3d6a5172f1deccebb42a05c25e343bafab": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig16-computername.png"
+  ],
+  "f634bede0dd719b07014579065843e2fe214394f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig17-installprogresswindow.png"
+  ],
+  "ccd74437331971385cb1f0a556a29bfdce49f3d7": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig2.png"
+  ],
+  "26ab759f1b40e68260073395e8ee6ebea0bf6d87": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig3.png"
+  ],
+  "5422e4735229428c056c2e9c416e85b9e3841c75": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig4-select.png"
+  ],
+  "49bd86fb1369e5b7abc9545744e0409705f527e0": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig5-installwindow.png"
+  ],
+  "34e3dd6f2365e7f6204dde7f95640c15738627ee": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig6-specify-driver-app-files.png"
+  ],
+  "864a4d67bca7b86240cf696137e08d6069ec460c": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig7-diskpart.png"
+  ],
+  "875acb09db1b616d3b6bcad69bb311f333735609": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig8-mediafolder.png"
+  ],
+  "3e9c5a145bea6e05db6ea35b1c142e88e9e2766f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\sdasteps-fig9-location.png"
+  ],
+  "d391b9f888c0089766a5c306ccf588eacc49cfb3": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig1.png"
+  ],
+  "b4b49e11af2c3f968043adecb7f32a9b36f54c38": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig10.png"
+  ],
+  "87ba170b704812479d43994c3f0e5f69cf2f962a": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig11.png"
+  ],
+  "1afe8375343f2abde184a1e559195dc21ed0af08": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig12.png"
+  ],
+  "e2a88834b5b70ca599585bd3d15c4de5dea453ef": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig13.png"
+  ],
+  "32359cbec75bcc57ac9fe0203dc75936bdd4228b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig14.png"
+  ],
+  "1f144d1acc198ae9935ca0c395f3b5411a9c395d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig15.png"
+  ],
+  "15103114eabba39082df0a646875d944a0f4684f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig16.png"
+  ],
+  "6702ab181e17f234cf4d128672034bc1d9cacd55": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig17.png"
+  ],
+  "ddaba39bd89ffd98f9e58dfe0560518c2f1b92c0": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig18.png"
+  ],
+  "760064aaad7ceb2497082d4caa7b966b9b9706a3": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig19.png"
+  ],
+  "d58f9ce114266dabe6b8908cce674cd20ab7bdf4": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig2.png"
+  ],
+  "6d77f8fb5b2e2ac5c4d1f8e05eb36339895deb61": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig20.png"
+  ],
+  "77d3d94e21ddff2a2495e9c3230eab862545be0d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig21.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-upgrademdt-fig3.png"
+  ],
+  "337acd65df23c58cdda56be724063d3ffba3bacc": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig22.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-upgrademdt-fig4.png"
+  ],
+  "c52cc502af7dbbcced4162a39ccb961648b2e46c": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig23.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-upgrademdt-fig5.png"
+  ],
+  "3d9daeae6a14f48fa1201ad8e11396c89ab53d1f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig24.png"
+  ],
+  "6098b223916916d9fad7505c10b19349350c8a35": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig25.png"
+  ],
+  "4ab3b3f350103308098e5515b2504e890632b93a": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig3.png"
+  ],
+  "c4b1e6b39ebee5956253bb7185c3549b16eca2d4": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig4.png"
+  ],
+  "ea40cc12913b2ba0bc35395ed84b472ee4eb5607": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig5.png"
+  ],
+  "43a5ef3ead4665e362d337133c6eec2f98dabf42": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig6.png"
+  ],
+  "66dcadf466622776bc87f2f82bc971d1c9927153": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig7.png"
+  ],
+  "7f5c77963fea91cc720b0be48377b43146e1b272": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig8.png"
+  ],
+  "fabe496d054e3b30c8d6bdbd0ca5a41979d6b3ad": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-deploymdt-fig9.png"
+  ],
+  "57351738d675f68eabff8eaba4de275e7e1b9412": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-diagnostic-kit-fig1-options.png"
+  ],
+  "66721d4eb29bad7f5e69a7fb524b6f6463dbd9ea": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-diagnostic-kit-fig2-testdepth.png"
+  ],
+  "fe85da03b81802727646988c8489dcb04de19617": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-diagnostic-kit-fig3-results.png"
+  ],
+  "22d16170417476c0ff430e2e0b60136bc1754627": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-diagnostic-kit-fig4-notes.png"
+  ],
+  "6e68b52100f6844d8099e78e76d927d0dffbb771": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-diagnostic-kit-gear-icon.png"
+  ],
+  "da929d7750b09c6e718a074331824eb0bb388d95": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig1-uptodate-568pix.png"
+  ],
+  "98b8deaa637da647b798444e0567636f8ed37b0d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig2a-needsupdating.png"
+  ],
+  "104f18cb171bc35ac4be6e63b58823b926c50517": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig3-progress.png"
+  ],
+  "2700802cd9730f446ed291750703713f6165842c": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig4-disconnect.png"
+  ],
+  "61062b61a9d0261f49cffccca5e89f5c6cdbeca6": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig5-success.png"
+  ],
+  "ba580cc20ac166b9427141714b08a0aae4a827ea": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig6-countdown.png"
+  ],
+  "fea459847e709659c8c86647aa1273bfc904a3da": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig7-error.png"
+  ],
+  "5154fede96d8fb1b14a97ac184ccc11d67d5e879": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surfacedockupdater-fig8-737test.png"
+  ],
+  "565e031acab099c2b577eb88b255d1d6e0d1ff6a": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig1-uefi-configurator.png"
+  ],
+  "bb0fe3a7e02b657ed370d60c22a58b6e83c1948c": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig2-securepackage.png"
+  ],
+  "87160b66c241123b3c95b87e8ef7e9c2d55bb137": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig3-enabledisable.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig4.png"
+  ],
+  "3f443c8dd5acfc05ff55c10fc9babd00e269e5fc": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig4-advancedsettings.png"
+  ],
+  "e55b8f3728ea5e0ef2d73725ebe2a9264d1ec012": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig5-success.png"
+  ],
+  "eccd65f50c578057658924d21601ba70106ed95d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig6-enrollconfirm.png"
+  ],
+  "c4a7b44c40ff9fc35acc3b5a08b9fb691461e047": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-ent-mgmt-fig7-semmrecovery.png"
+  ],
+  "c4e7ec1cd26b76e469f22eeb970b91fd58e756ae": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig1.png"
+  ],
+  "d75bf056fb0024fb516e4f1230942ef59ba3a1dc": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig10.png"
+  ],
+  "35faebdf8df9dc743e9115b1794ab94c29c3ecc9": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig11.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig6.png"
+  ],
+  "2d016f052153f1d3845dce4233c9c4f2c7a801b7": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig12.png"
+  ],
+  "843a02980b6895f644a1a58643d7196e78a1544b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig3.png"
+  ],
+  "818342a2ecddd980c21b6a737bd7cd990cbec888": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig5.png"
+  ],
+  "492a56a3189117d4957efd449680b6700341593f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig6.png"
+  ],
+  "9c76262a12731d600c96ffe09698a729f0feff02": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig7.png"
+  ],
+  "fa201574b5e341f333e9fba9d79f382503e3645b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig8.png"
+  ],
+  "5f70754f9f34e37a328769dc475be42fe3740fef": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enroll-fig9.png",
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig5.png"
+  ],
+  "ff4406022105b07224bd011bb6d8c53e5c3d256b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-enrollment-fig2.png"
+  ],
+  "5b8bcab8b390d139af990a4417de53d5c2d73ddf": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig1.png"
+  ],
+  "e7340759179b64ee4f22ebdae38da3ad54372d44": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig10.png"
+  ],
+  "4201c85f3fbf33a9fb080ecb990c4a8c118a3ff1": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig11.png"
+  ],
+  "271adf4b0a3374bf1894b7338d449815645a446b": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig12.png"
+  ],
+  "ad5934f3f6cfbe11d1188d5a24b4bf410a354666": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig13.png"
+  ],
+  "df717644d2dd13e2d5389f69b401f841705bbda5": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig14.png"
+  ],
+  "36b306c30bfac7e0a6b37a2c7c4c30268862edfd": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig2.png"
+  ],
+  "1d122decbaa6297d0b6cab435c531c6d866e215d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig3.png"
+  ],
+  "fe555fb7017c97be648e2aecb5ca8f1abfe59b8f": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig4.png"
+  ],
+  "354f6cadaaad666473188004775aa7c97bd49843": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig7.png"
+  ],
+  "66dfb508bf220d484cd8a7ecb117c541961796e7": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig8.png"
+  ],
+  "a3e01d294c100d8991a212cea6557278c19521ef": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-semm-unenroll-fig9.png"
+  ],
+  "6e06d83f138c639f6936e25d6454309ab2d0814d": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-upgrademdt-fig1.png"
+  ],
+  "83dd1da49ff1465b25302407df7705fcb91cb38e": [
+    "wdg-cpub-test\\yokita\\surface\\images\\surface-upgrademdt-fig2.png"
+  ],
+  "ebf71af290abfafe51e655bcf7e2959b67854030": [
+    "wdg-cpub-test\\yokita\\surface\\index.md"
+  ],
+  "cd2c59b92c25f80c3b901cd36a638c0c7a4ebb84": [
+    "wdg-cpub-test\\yokita\\surface\\manage-surface-dock-firmware-updates.md"
+  ],
+  "24e0503bf0c79d1b444afd2a50a4f93e73abc606": [
+    "wdg-cpub-test\\yokita\\surface\\manage-surface-pro-3-firmware-updates.md"
+  ],
+  "06cb6caefac45c92e645b8f1029ccf30fd75124c": [
+    "wdg-cpub-test\\yokita\\surface\\manage-surface-uefi-settings.md"
+  ],
+  "af12dbdde11cfc22b25f8939d13ddb8b0405d746": [
+    "wdg-cpub-test\\yokita\\surface\\microsoft-surface-data-eraser.md"
+  ],
+  "c399b35b17b3fe7323676fda5d546b23a7bf370a": [
+    "wdg-cpub-test\\yokita\\surface\\microsoft-surface-deployment-accelerator.md"
+  ],
+  "6b728075b3009d9fbd34e0f48655f5a12c1a5b30": [
+    "wdg-cpub-test\\yokita\\surface\\step-by-step-surface-deployment-accelerator.md"
+  ],
+  "601cb81433468f90b88cb21b032e9ede0cce7dac": [
+    "wdg-cpub-test\\yokita\\surface\\surface-diagnostic-toolkit.md"
+  ],
+  "90915082b2875ec96d431551e71a60c33b064610": [
+    "wdg-cpub-test\\yokita\\surface\\surface-dock-updater.md"
+  ],
+  "427ff258437bad46c1ecf07dbf6a92d280b66c07": [
+    "wdg-cpub-test\\yokita\\surface\\surface-enterprise-management-mode.md"
+  ],
+  "4b01161fd0c96fd17bcec53df3042b8927cda5f2": [
+    "wdg-cpub-test\\yokita\\surface\\TOC.md"
+  ],
+  "24ee0b0788d8a0780761f2f9c0f20e29703ed869": [
+    "wdg-cpub-test\\yokita\\surface\\unenroll-surface-devices-from-semm.md"
+  ],
+  "d47972f19c0143e2f4c75bc07f50a97c4a54cd0d": [
+    "wdg-cpub-test\\yokita\\surface\\upgrade-surface-devices-to-windows-10-with-mdt.md"
   ]
 }
